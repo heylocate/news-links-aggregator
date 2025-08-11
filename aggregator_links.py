@@ -1,26 +1,34 @@
 import feedparser, time, re, pathlib, json
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 ROOT = pathlib.Path(__file__).parent
 SEEN_PATH = ROOT / "seen.json"
 LINKS_PATH = ROOT / "links.txt"
 ARCHIVE_PATH = ROOT / "archive_links.txt"
 
+# ---- Config ----
+REQUIRE_KEYWORDS = True  # если True и keywords.txt пуст -> ничего не берём
+LIMIT = 1000             # страховочный лимит за запуск
+
+# "Широкие" токены: разрешены только как контекст, сами по себе не должны матчить
+BROAD_TOKENS = {
+    "android","iphone","ios","ipados","watchos","wear os",
+    "5g","lte","volte","vowifi",
+    "samsung","galaxy","pixel","oneplus","xiaomi","oppo","vivo","nokia","motorola",
+    "phone","smartphone","mobile","cellular"
+}
+
 def read_lines(path: pathlib.Path):
     if not path.exists():
         return []
-    lines = []
-    for raw in path.read_text(encoding="utf-8").splitlines():
-        s = raw.strip()
-        if not s or s.startswith("#"):
-            continue
-        lines.append(s)
-    return lines
+    return [l.strip() for l in path.read_text(encoding="utf-8").splitlines()
+            if l.strip() and not l.strip().startswith("#")]
 
 SOURCES   = read_lines(ROOT / "sources.txt")
 KEYWORDS  = [s.lower() for s in read_lines(ROOT / "keywords.txt")]
 STOPWORDS = [s.lower() for s in read_lines(ROOT / "stopwords.txt")]
-LIMIT     = 1000  # safety cap per run
+BLOCKED_DOMAINS = {d.lower() for d in read_lines(ROOT / "blocked_domains.txt")}  # опциональный файл
 
 def norm(text: str) -> str:
     if not text:
@@ -28,7 +36,7 @@ def norm(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 def any_word(hay: str, words):
-    # stricter matching for single words; phrases with spaces are matched as substrings
+    """Фразы (с пробелами) ищем подстрокой; одиночные токены — по границам слова."""
     for w in words:
         if not w:
             continue
@@ -42,13 +50,24 @@ def any_word(hay: str, words):
 
 def match_topic(title: str, summary: str) -> bool:
     hay = f"{title.lower()} {summary.lower()}"
-    # stopwords win
+    # стоп-слова имеют приоритет
     if STOPWORDS and any_word(hay, STOPWORDS):
         return False
-    # keywords optional: if present, require at least one
-    if KEYWORDS:
-        return any_word(hay, KEYWORDS)
-    return True
+
+    # если ключевые слова обязательны и их нет — ничего не берём
+    if REQUIRE_KEYWORDS and not KEYWORDS:
+        return False
+
+    # делим ключи на "узкие" и "широкие"
+    narrow = [k for k in KEYWORDS if k not in BROAD_TOKENS]
+    if narrow and any_word(hay, narrow):
+        return True
+
+    # если narrow пуст (все ключи широкие), позволим матч по ним — но лучше добавить узкие
+    if not narrow and KEYWORDS and any_word(hay, KEYWORDS):
+        return True
+
+    return False
 
 def parse_feed(url: str):
     d = feedparser.parse(url)
@@ -70,13 +89,18 @@ def gather():
         except Exception as e:
             print("Feed error:", url, e)
     themed = [it for it in all_items if match_topic(it[2], it[3])]
-    # newest first
+    # свежие сверху
     themed.sort(key=lambda x: x[0], reverse=True)
-    # dedupe within run by URL
+    # дедуп в рамках запуска + фильтр доменов
     seen_run = set()
     unique = []
     for ts, link, title, summary in themed:
-        if link and link not in seen_run:
+        if not link:
+            continue
+        domain = urlparse(link).netloc.lower()
+        if domain in BLOCKED_DOMAINS:
+            continue
+        if link not in seen_run:
             seen_run.add(link)
             unique.append((ts, link))
         if len(unique) >= LIMIT:
@@ -88,9 +112,10 @@ def load_seen():
         return {}
     try:
         data = json.loads(SEEN_PATH.read_text(encoding="utf-8"))
-        # data format: {url: iso_ts}
-        if isinstance(data, list):  # legacy support
-            return {u: datetime.now(timezone.utc).isoformat() for u in data}
+        # ожидается {url: iso_ts}; поддержка старого формата: [url, ...]
+        if isinstance(data, list):
+            now = datetime.now(timezone.utc).isoformat()
+            return {u: now for u in data}
         return data if isinstance(data, dict) else {}
     except Exception:
         return {}
@@ -101,7 +126,6 @@ def save_seen(seen: dict):
 def prune_seen(seen: dict, keep=50000):
     if len(seen) <= keep:
         return seen
-    # keep newest by timestamp
     def ts_or_min(iso):
         try:
             return datetime.fromisoformat(iso.replace("Z",""))
@@ -111,7 +135,6 @@ def prune_seen(seen: dict, keep=50000):
     return dict(items)
 
 def write_links(urls):
-    # overwrite with only NEW links from this run
     with open(LINKS_PATH, "w", encoding="utf-8") as f:
         for link in urls:
             f.write(link + "\n")
@@ -128,13 +151,13 @@ if __name__ == "__main__":
     seen = load_seen()                             # {link: iso_ts}
     now_iso = datetime.now(timezone.utc).isoformat()
 
-    # Filter out links already collected in previous runs
+    # фильтруем ссылки, которые уже были ранее
     new_links = [link for _, link in collected if link not in seen]
 
-    # Output ONLY new links from the last 24h run
+    # за этот запуск выводим только новые
     write_links(new_links)
 
-    # Update seen + archive
+    # обновляем базу и архив
     for link in new_links:
         seen[link] = now_iso
     seen = prune_seen(seen, keep=50000)
