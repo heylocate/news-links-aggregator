@@ -13,11 +13,7 @@ spam calls
 robocalls
 call blocking
 cnam
-stir/shaken
 sim swap
-mobile number portability
-mnp
-hlr lookup
 carrier lookup
 true owner
 
