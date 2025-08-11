@@ -1,0 +1,31 @@
+name: Build links (daily, no-duplicates)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every 24h at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run aggregator (daily unique links)
+        run: python aggregator_links.py
+      - name: Commit artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add links.txt archive_links.txt seen.json || true
+          git commit -m "daily update (unique links) [skip ci]" || echo "nothing to commit"
+          git push
