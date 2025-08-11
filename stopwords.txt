@@ -79,34 +79,6 @@ office hours
 customer story
 testimonial
 
-# ===== SOFT: по ситуации (закомментируйте, если нужны) =====
-# rumor
-# leak
-# leaked
-# renders
-# benchmark
-# geekbench
-# hands-on
-# unboxing
-# review
-# how to
-# tutorial
-# guide
-# tips and tricks
-# explainer
-
-# earnings
-# quarterly results
-# q1 fy
-# shareholder
-# dividend
-# share repurchase
-# investor relations
-
-# privacy policy update
-# terms of service update
-# cookie policy
-
 # ===== Анти-«маркетинговая перелинковка» на блогах =====
 subscribe to our newsletter
 join our newsletter
