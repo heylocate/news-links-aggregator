@@ -1,3 +1,132 @@
-# Примеры стоп-слов
-hiring
-подкаст
+# ===== HARD: почти всегда шум, смело режем =====
+we are hiring
+we’re hiring
+job opening
+job openings
+jobs at
+careers
+vacancy
+internship
+apply now
+join our team
+recruiting
+recruiter
+
+sale
+discount
+deal
+promo code
+coupon
+voucher
+black friday
+cyber monday
+giveaway
+sweepstakes
+contest
+win prizes
+limited time offer
+price drop
+cashback
+sponsored
+advertorial
+partner content
+affiliate link
+
+newsletter
+weekly roundup
+monthly roundup
+digest
+roundup
+
+webinar
+workshop
+event registration
+register now
+tickets
+rsvp
+livestream
+live stream
+recording available
+watch the replay
+slides available
+keynote
+
+podcast
+episode
+listen now
+spotify
+apple podcasts
+youtube channel
+video only
+
+ebook
+whitepaper
+white paper
+case study
+download now
+template
+contact sales
+request a demo
+free trial
+pricing
+
+maintenance
+scheduled maintenance
+service update (non-incident)
+status page
+support hours
+office hours
+customer story
+testimonial
+
+# ===== SOFT: по ситуации (закомментируйте, если нужны) =====
+# rumor
+# leak
+# leaked
+# renders
+# benchmark
+# geekbench
+# hands-on
+# unboxing
+# review
+# how to
+# tutorial
+# guide
+# tips and tricks
+# explainer
+
+# earnings
+# quarterly results
+# q1 fy
+# shareholder
+# dividend
+# share repurchase
+# investor relations
+
+# privacy policy update
+# terms of service update
+# cookie policy
+
+# ===== Анти-«маркетинговая перелинковка» на блогах =====
+subscribe to our newsletter
+join our newsletter
+follow us on
+sign up for updates
+
+# ===== Для email/people search ниш: отсечь инструменты-«продажи» без новости =====
+lead generation
+leads
+prospecting
+outreach sequence
+enrichment playbook
+
+# ===== Для адресов/геокодирования: маркетинг вместо новостей =====
+address autocomplete
+bulk credits
+free credits
+pay as you go
+
+# ===== Для спам/робоколов: отсечь не-новостной контент =====
+block spam calls now
+download our app
+install our app
