@@ -1,0 +1,5 @@
+# Примеры (замените на свои)
+https://news.google.com/rss/search?q=fintech
+https://habr.com/ru/rss/all/all/?fl=ru
+https://hnrss.org/newest
+https://www.reddit.com/r/MachineLearning/.rss

@@ -1,0 +1,5 @@
+# Примеры ключевых слов
+fintech
+banking
+payments
+open banking
