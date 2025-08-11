@@ -4,14 +4,16 @@ from urllib.parse import urlparse
 
 ROOT = pathlib.Path(__file__).parent
 SEEN_PATH = ROOT / "seen.json"
-LINKS_PATH = ROOT / "links.txt"
+LINKS_TXT = ROOT / "links.txt"                    # now grouped by category
+LINKS_JSON = ROOT / "links_by_category.json"      # machine-friendly output
 ARCHIVE_PATH = ROOT / "archive_links.txt"
 
 # ---- Config ----
-REQUIRE_KEYWORDS = True  # если True и keywords.txt пуст -> ничего не берём
-LIMIT = 1000             # страховочный лимит за запуск
+REQUIRE_KEYWORDS = True  # if True and keywords list is empty -> skip everything
+LIMIT = 1000             # safety cap per run
+UNCAT = "Uncategorized"
 
-# "Широкие" токены: разрешены только как контекст, сами по себе не должны матчить
+# Broad tokens: allowed only as context; alone they should not match
 BROAD_TOKENS = {
     "android","iphone","ios","ipados","watchos","wear os",
     "5g","lte","volte","vowifi",
@@ -25,10 +27,19 @@ def read_lines(path: pathlib.Path):
     return [l.strip() for l in path.read_text(encoding="utf-8").splitlines()
             if l.strip() and not l.strip().startswith("#")]
 
+def load_json(path: pathlib.Path, fallback):
+    if not path.exists():
+        return fallback
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return fallback
+
 SOURCES   = read_lines(ROOT / "sources.txt")
 KEYWORDS  = [s.lower() for s in read_lines(ROOT / "keywords.txt")]
 STOPWORDS = [s.lower() for s in read_lines(ROOT / "stopwords.txt")]
-BLOCKED_DOMAINS = {d.lower() for d in read_lines(ROOT / "blocked_domains.txt")}  # опциональный файл
+BLOCKED_DOMAINS = {d.lower() for d in read_lines(ROOT / "blocked_domains.txt")}  # optional
+CATEGORIES = load_json(ROOT / "categories.json", [])  # list of {"name":..., "include_any":[...], "include_all":[...], "exclude_any":[...], "domains":[...]}
 
 def norm(text: str) -> str:
     if not text:
@@ -36,8 +47,8 @@ def norm(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 def any_word(hay: str, words):
-    """Фразы (с пробелами) ищем подстрокой; одиночные токены — по границам слова."""
-    for w in words:
+    """Phrases (with spaces) -> substring; single tokens -> word-boundary regex."""
+    for w in words or []:
         if not w:
             continue
         if " " in w:
@@ -50,23 +61,15 @@ def any_word(hay: str, words):
 
 def match_topic(title: str, summary: str) -> bool:
     hay = f"{title.lower()} {summary.lower()}"
-    # стоп-слова имеют приоритет
     if STOPWORDS and any_word(hay, STOPWORDS):
         return False
-
-    # если ключевые слова обязательны и их нет — ничего не берём
     if REQUIRE_KEYWORDS and not KEYWORDS:
         return False
-
-    # делим ключи на "узкие" и "широкие"
     narrow = [k for k in KEYWORDS if k not in BROAD_TOKENS]
     if narrow and any_word(hay, narrow):
         return True
-
-    # если narrow пуст (все ключи широкие), позволим матч по ним — но лучше добавить узкие
     if not narrow and KEYWORDS and any_word(hay, KEYWORDS):
         return True
-
     return False
 
 def parse_feed(url: str):
@@ -89,9 +92,7 @@ def gather():
         except Exception as e:
             print("Feed error:", url, e)
     themed = [it for it in all_items if match_topic(it[2], it[3])]
-    # свежие сверху
-    themed.sort(key=lambda x: x[0], reverse=True)
-    # дедуп в рамках запуска + фильтр доменов
+    themed.sort(key=lambda x: x[0], reverse=True)  # newest first
     seen_run = set()
     unique = []
     for ts, link, title, summary in themed:
@@ -102,7 +103,7 @@ def gather():
             continue
         if link not in seen_run:
             seen_run.add(link)
-            unique.append((ts, link))
+            unique.append((ts, link, title, summary, domain))
         if len(unique) >= LIMIT:
             break
     return unique
@@ -112,7 +113,6 @@ def load_seen():
         return {}
     try:
         data = json.loads(SEEN_PATH.read_text(encoding="utf-8"))
-        # ожидается {url: iso_ts}; поддержка старого формата: [url, ...]
         if isinstance(data, list):
             now = datetime.now(timezone.utc).isoformat()
             return {u: now for u in data}
@@ -134,10 +134,44 @@ def prune_seen(seen: dict, keep=50000):
     items = sorted(seen.items(), key=lambda kv: ts_or_min(kv[1]), reverse=True)[:keep]
     return dict(items)
 
-def write_links(urls):
-    with open(LINKS_PATH, "w", encoding="utf-8") as f:
-        for link in urls:
-            f.write(link + "\n")
+def categorize_item(link, title, summary, domain):
+    """Return first-matching category per the order in categories.json.
+       If none matches, return UNCAT."""
+    hay = f"{title.lower()} {summary.lower()}"
+    for cat in CATEGORIES:
+        name = cat.get("name") or UNCAT
+        inc_any = [s.lower() for s in (cat.get("include_any") or [])]
+        inc_all = [s.lower() for s in (cat.get("include_all") or [])]
+        exc_any = [s.lower() for s in (cat.get("exclude_any") or [])]
+        doms    = [s.lower() for s in (cat.get("domains") or [])]
+
+        if doms and domain in doms:
+            # domain match can still be vetoed by exclude
+            if exc_any and any_word(hay, exc_any):
+                continue
+            return name
+
+        if inc_any and not any_word(hay, inc_any):
+            continue
+        if inc_all and not all(any_word(hay, [w]) for w in inc_all):
+            continue
+        if exc_any and any_word(hay, exc_any):
+            continue
+        return name
+    return UNCAT
+
+def write_outputs(grouped):
+    # 1) links_by_category.json
+    LINKS_JSON.write_text(json.dumps(grouped, ensure_ascii=False, indent=2), encoding="utf-8")
+    # 2) links.txt (readable sections)
+    lines = []
+    for cat, urls in grouped.items():
+        if not urls:
+            continue
+        lines.append(f"## {cat}")
+        lines.extend(urls)
+        lines.append("")  # blank line between sections
+    LINKS_TXT.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
 
 def append_archive(urls):
     if not urls:
@@ -147,21 +181,31 @@ def append_archive(urls):
             f.write(link + "\n")
 
 if __name__ == "__main__":
-    collected = gather()                           # [(ts, link)]
-    seen = load_seen()                             # {link: iso_ts}
+    items = gather()  # [(ts, link, title, summary, domain)]
+    seen = load_seen()
     now_iso = datetime.now(timezone.utc).isoformat()
 
-    # фильтруем ссылки, которые уже были ранее
-    new_links = [link for _, link in collected if link not in seen]
+    # only new links vs. seen.json
+    new_items = [it for it in items if it[1] not in seen]
 
-    # за этот запуск выводим только новые
-    write_links(new_links)
+    # group by category (preserving order from categories.json)
+    cat_order = [c.get("name") for c in CATEGORIES] + [UNCAT]
+    grouped = {name: [] for name in cat_order}
+    for ts, link, title, summary, domain in new_items:
+        cat = categorize_item(link, title, summary, domain)
+        if cat not in grouped:
+            grouped[cat] = []
+        grouped[cat].append(link)
 
-    # обновляем базу и архив
-    for link in new_links:
+    # write outputs
+    write_outputs(grouped)
+
+    # update seen + archive
+    for _, link, *_ in new_items:
         seen[link] = now_iso
     seen = prune_seen(seen, keep=50000)
     save_seen(seen)
-    append_archive(new_links)
+    append_archive([link for _, link, *_ in new_items])
 
-    print(f"Found {len(collected)} candidates; new: {len(new_links)}; seen total: {len(seen)}")
+    total_new = sum(len(v) for v in grouped.values())
+    print(f"New categorized links: {total_new}; categories: {len([k for k,v in grouped.items() if v])}")
