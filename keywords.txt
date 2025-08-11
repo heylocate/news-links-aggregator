@@ -136,34 +136,9 @@ instant checkmate
 us search
 zabasearch
 pipl
-radaris
-peekyou
-nuwber
 fastpeoplesearch
 checkr
-goodhire
-sterling check
-hireright
 accurate background
-onfido
-veriff
-persona idv
-trulioo
-sumsub
-
-# === Address Validation / Geocoding products ===
-usps address validation
-smarty
-smartystreets
-melissa
-loqate
-google maps geocoding
-here geocoding
-tomtom geocoding
-opencage
-mapbox geocoding
-openstreetmap nominatim
-what3words
 
 # === Image Search / Face Search services ===
 tineye
@@ -174,6 +149,7 @@ pimeyes
 clarifai
 sighthound
 Lenso.ai
+lenso
 
 # === Email Lookup / Verification / Breach services ===
 have i been pwned
