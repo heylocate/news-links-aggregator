@@ -1,19 +1,19 @@
 # News Links Aggregator (Free, RSS-based)
 
-Собирает **только ссылки** на свежие тематические материалы из RSS-лент. Без платных API.
+Collects **links only** to fresh, topic-specific materials from RSS feeds. No paid APIs.
 
-## Как работает
-- Берёт список RSS из `sources.txt`.
-- Фильтрует по ключевым словам из `keywords.txt` (если файл пуст — берёт всё).
-- Исключает по `stopwords.txt` (опционально).
-- Сортирует по времени и сохраняет **чистый список ссылок** в `links.txt` (одна ссылка в строку, максимум 200).
+## How it works
+- Reads the RSS list from `sources.txt`.
+- Filters by keywords from `keywords.txt` (if the file is empty — it takes everything).
+- Excludes by `stopwords.txt` (optional).
+- Sorts by time and saves a **clean list of links** to `links.txt` (one URL per line, up to 200).
 
-## Быстрый старт (локально)
-1) Установите Python 3.10+.
+## Quick start (locally)
+1) Install Python 3.10+.
 2) `pip install -r requirements.txt`
-3) Отредактируйте `sources.txt` и (по желанию) `keywords.txt`.
-4) Запустите:  `python aggregator_links.py`
-5) Готово: смотрите `links.txt`.
+3) Edit `sources.txt` and (optionally) `keywords.txt`.
+4) Run: `python aggregator_links.py`
+5) Done: check `links.txt`.
 
-## GitHub Actions (автозапуск)
-Workflow в `.github/workflows/build.yml` обновляет `links.txt` каждые 30 минут.
+## GitHub Actions (auto-run)
+The workflow in `.github/workflows/build.yml` updates `links.txt` every 30 minutes.
