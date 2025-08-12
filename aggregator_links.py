@@ -1,3 +1,4 @@
+import os
 import feedparser, time, re, pathlib, json, hashlib, concurrent.futures
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode, urljoin, quote_plus
@@ -25,14 +26,15 @@ CAT_PATH    = ROOT / "categories.json"
 CACHE_DIR   = ROOT / "cache"
 REASONS_LOG = ROOT / "reasons.jsonl"
 
-SEMANTIC_RERANK = True  # set False to disable semantic step
+# можно включать/выключать семантику из workflow через HL_SEMANTIC_RERANK
+SEMANTIC_RERANK = os.getenv("HL_SEMANTIC_RERANK", "true").lower() in ("1","true","yes","y")
 
-# Defaults (can be overridden in muvera_config.json)
+# Defaults (overridable via muvera_config.json)
 CFG = {
     "REQUIRE_KEYWORDS": True,
     "LIMIT_PER_RUN": 800,
-    "MAX_FETCH": 60,
-    "MAX_TXT_LEN": 8000,
+    "MAX_FETCH": 30,
+    "MAX_TXT_LEN": 4000,
     "CHUNK_SIZE": 700,
     "TOPK_PER_CAT": 12,
     "MV_WEIGHTS": [0.2, 0.2, 0.6],
@@ -94,8 +96,8 @@ _TRACKING_PARAMS = {"utm_source","utm_medium","utm_campaign","utm_term","utm_con
                     "utm_name","utm_cid","utm_reader","gclid","fbclid","mc_cid","mc_eid","igshid"}
 
 def canonical_url(u: str) -> str:
+    """Drop tracking params, fragments, lowercase host, and try <link rel=canonical>."""
     try:
-        from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse, urljoin
         p = urlparse(u)
         q = [(k,v) for (k,v) in parse_qsl(p.query, keep_blank_values=True) if k.lower() not in _TRACKING_PARAMS]
         p2 = p._replace(query=urlencode(q, doseq=True), fragment="", netloc=p.netloc.lower())
@@ -114,24 +116,11 @@ def canonical_url(u: str) -> str:
         return u
 
 # ---------- Keyword/stopword matching ----------
-def any_word(hay: str, words):
-    for w in words or []:
-        w = w.strip()
-        if not w:
-            continue
-        if " " in w:
-            if w in hay:
-                return True
-        else:
-            if re.search(rf"\b{re.escape(w)}\b", hay):
-                return True
-    return False
-
 def find_matches(hay: str, words):
     hits = []
     for w in words or []:
-        w2 = w.strip()
-        if not w2: 
+        w2 = (w or "").strip()
+        if not w2:
             continue
         if (" " in w2 and w2 in hay) or (re.search(rf"\b{re.escape(w2)}\b", hay) if " " not in w2 else False):
             hits.append(w2)
@@ -147,15 +136,10 @@ def match_topic_with_reason(title: str, summary: str):
     narrow = [k for k in KEYWORDS if k not in BROAD_TOKENS]
     if narrow:
         hits = find_matches(hay, narrow)
-        if hits:
-            return True, {"keywords": hits, "narrow": True}
-        else:
-            return False, {"keywords": [], "narrow": True}
+        return (True, {"keywords": hits, "narrow": True}) if hits else (False, {"keywords": [], "narrow": True})
     else:
         hits = find_matches(hay, KEYWORDS)
-        if hits:
-            return True, {"keywords": hits, "narrow": False}
-        return False, {"keywords": []}
+        return (True, {"keywords": hits, "narrow": False}) if hits else (False, {"keywords": []})
 
 # ---------- Feed parse & gather ----------
 def parse_feed(url: str):
@@ -226,8 +210,39 @@ def prune_seen(seen: dict, keep=50000):
     items = sorted(seen.items(), key=lambda kv: ts_or_min(kv[1]), reverse=True)[:keep]
     return dict(items)
 
+# ---------- Categorization ----------
+def any_word_simple(hay: str, words):
+    for w in words or []:
+        if w and w in hay:
+            return True
+    return False
+
+def categorize_item(title, summary, domain):
+    hay = f"{title.lower()} {summary.lower()}"
+    for cat in CATEGORIES:
+        name = cat.get("name") or CFG["UNCATEGORIZED"]
+        inc_any = [s.lower() for s in (cat.get("include_any") or [])]
+        inc_all = [s.lower() for s in (cat.get("include_all") or [])]
+        exc_any = [s.lower() for s in (cat.get("exclude_any") or [])]
+        doms    = [s.lower() for s in (cat.get("domains") or [])]
+
+        if doms and domain in doms:
+            if exc_any and any_word_simple(hay, exc_any):
+                continue
+            return name
+
+        if inc_any and not any_word_simple(hay, inc_any):
+            continue
+        if inc_all and not all(any_word_simple(hay, [w]) for w in inc_all):
+            continue
+        if exc_any and any_word_simple(hay, exc_any):
+            continue
+        return name
+    return CFG["UNCATEGORIZED"]
+
 # ---------- Robust text fetch ----------
 def _fetch_text(url: str) -> str:
+    # Try trafilatura first
     if trafilatura is not None:
         try:
             html = trafilatura.fetch_url(url, timeout=12)
@@ -237,6 +252,7 @@ def _fetch_text(url: str) -> str:
                     return txt.strip()
         except Exception:
             pass
+    # Fallback: requests + trafilatura.extract
     if requests is not None:
         try:
             headers = {"User-Agent": "Mozilla/5.0 (HL-NewsBot)"}
@@ -265,7 +281,7 @@ def fetch_text_cached(url: str) -> str:
         pass
     return txt
 
-# ---------- Semantic scoring ----------
+# ---------- Semantic scoring (BGE-M3) ----------
 _MODEL = None
 def _get_model():
     global _MODEL
@@ -298,6 +314,7 @@ def mv_score(query: str, doc_text: str, mv_weights, max_txt, chunk_size) -> floa
             best = hybrid
     return best
 
+# ---------- Reasons logging ----------
 def log_reason(payload: dict):
     if not CFG.get("LOG_REASONS", True):
         return
@@ -336,9 +353,11 @@ def semantic_filter_and_rank(items):
     topk       = CFG["TOPK_PER_CAT"]
     max_workers= int(CFG.get("MAX_WORKERS", 8))
 
+    # Category queries
     cat_queries = [(c.get("name") or CFG["UNCATEGORIZED"], _build_query_for_category(c)) for c in CATEGORIES]
     cat_queries.append((CFG["UNCATEGORIZED"], "mobile security telecom lookup"))
 
+    # Fetch texts in parallel (cached)
     to_score = items[:max_fetch]
     urls = [link for _, link, *_ in to_score]
     texts = {}
@@ -388,7 +407,7 @@ def semantic_filter_and_rank(items):
 
     return grouped
 
-# ---------- Discovery (uses same fetch/cache) ----------
+# ---------- Discovery from outside sources ----------
 def _known_source_domains():
     dset = set()
     for s in SOURCES:
@@ -399,6 +418,7 @@ def _known_source_domains():
     return dset
 
 def _gnews_search_feed(query: str) -> str:
+    # Google News RSS search
     recency = CFG["DISCOVERY"].get("recency", "when:1d")
     hl = CFG["DISCOVERY"].get("hl", "en-US")
     gl = CFG["DISCOVERY"].get("gl", "US")
@@ -411,9 +431,7 @@ def discover_outside(grouped_existing, seen_dict, already_links):
         return []
 
     known = _known_source_domains()
-    cat_queries = [(_build_query_for_category(c)) for c in CATEGORIES]
-    if not cat_queries:
-        cat_queries = ["mobile security telecom lookup"]
+    cat_queries = [(_build_query_for_category(c)) for c in CATEGORIES] or ["mobile security telecom lookup"]
 
     per_query_limit = int(CFG["DISCOVERY"].get("per_query_limit", 30))
     candidates = []
@@ -439,11 +457,9 @@ def discover_outside(grouped_existing, seen_dict, already_links):
     if not candidates:
         return []
 
-    mv_weights = CFG["MV_WEIGHTS"]
-    threshold  = CFG["THRESHOLD"]
-    max_txt    = CFG["MAX_TXT_LEN"]
-    chunk_size = CFG["CHUNK_SIZE"]
-    max_workers= int(CFG.get("MAX_WORKERS", 8))
+    mv_weights = CFG["MV_WEIGHTS"]; threshold = CFG["THRESHOLD"]
+    max_txt = CFG["MAX_TXT_LEN"]; chunk_size = CFG["CHUNK_SIZE"]
+    max_workers = int(CFG.get("MAX_WORKERS", 8))
 
     urls = [link for _, link, *_ in candidates]
     texts = {}
@@ -456,16 +472,14 @@ def discover_outside(grouped_existing, seen_dict, already_links):
         text = texts.get(link) or ""
         if not text:
             continue
-        best = 0.0
-        best_q = None
+        best = 0.0; best_q = None
         for q in cat_queries:
             try:
                 s = mv_score(q, text, mv_weights, max_txt, chunk_size)
-            except Exception as e:
+            except Exception:
                 s = 0.0
             if s > best:
-                best = s
-                best_q = q
+                best = s; best_q = q
         if best >= threshold:
             scored.append((best, link, dom, best_q))
 
@@ -509,7 +523,7 @@ def append_archive(urls):
 # ---------- Main ----------
 if __name__ == "__main__":
     CACHE_DIR.mkdir(exist_ok=True)
-    items = gather()
+    items = gather()  # [(ts, link, title, summary, domain, why)]
     seen = load_seen()
     now_iso = datetime.now(timezone.utc).isoformat()
 
@@ -517,6 +531,7 @@ if __name__ == "__main__":
 
     grouped = semantic_filter_and_rank(new_items)
 
+    # discovery category
     try:
         already = set([u for urls in grouped.values() for u in urls])
         discovery_links = discover_outside(grouped, seen, already)
@@ -525,12 +540,15 @@ if __name__ == "__main__":
     except Exception as e:
         print("Discovery error:", e)
 
+    # outputs
     write_outputs(grouped)
 
+    # update seen + archive with **all** new links (including discovery)
     new_links = set([link for _, link, *_ in new_items])
     for urls in grouped.values():
         for link in urls:
             new_links.add(link)
+
     for link in new_links:
         seen[link] = now_iso
     seen = prune_seen(seen, keep=50000)
