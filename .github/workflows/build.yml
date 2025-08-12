@@ -1,8 +1,8 @@
-name: Build links (daily, no-duplicates)
+name: Build links (daily, MUVERA-like semantic rerank)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every 24h at 00:00 UTC
+    - cron: "0 3 * * *"   # 03:00 UTC ≈ 06:00 Europe/Kyiv (summer); adjust in winter if needed
   workflow_dispatch:
 
 permissions:
@@ -20,12 +20,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Run aggregator (daily unique links)
+      - name: Run aggregator (daily, categorized, semantic)
         run: python aggregator_links.py
       - name: Commit artifacts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add links.txt archive_links.txt seen.json || true
-          git commit -m "daily update (unique links) [skip ci]" || echo "nothing to commit"
+          git add links.txt links_by_category.json archive_links.txt seen.json || true
+          git commit -m "daily semantic categorized update [skip ci]" || echo "nothing to commit"
           git push
