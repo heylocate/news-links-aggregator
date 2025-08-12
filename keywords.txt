@@ -3,6 +3,7 @@ number tracking
 phone tracking
 phone locator
 device tracking
+geofencing
 lost phone
 anti-theft
 find my phone
