@@ -11,5 +11,18 @@
     0.6
   ],
   "THRESHOLD": 0.6,
-  "UNCATEGORIZED": "Uncategorized"
+  "UNCATEGORIZED": "Uncategorized",
+  "CANONICALIZE": true,
+  "LOG_REASONS": true,
+  "MAX_WORKERS": 8,
+  "DISCOVERY": {
+    "enabled": true,
+    "category_name": "Outside Sources (Top 10)",
+    "max_links": 10,
+    "per_query_limit": 30,
+    "recency": "when:1d",
+    "hl": "en-US",
+    "gl": "US",
+    "ceid": "US:en"
+  }
 }
