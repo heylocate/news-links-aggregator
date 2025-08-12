@@ -1,11 +1,17 @@
-import feedparser, time, re, pathlib, json, hashlib, concurrent.futures, urllib.parse
+import feedparser, time, re, pathlib, json, hashlib, concurrent.futures
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode, urljoin, quote_plus
 
+# Heavy deps
 try:
-    import trafilatura  # used only when semantic rerank is enabled
+    import trafilatura
 except Exception:
     trafilatura = None
+
+try:
+    import requests
+except Exception:
+    requests = None
 
 ROOT = pathlib.Path(__file__).parent
 
@@ -25,17 +31,19 @@ SEMANTIC_RERANK = True  # set False to disable semantic step
 CFG = {
     "REQUIRE_KEYWORDS": True,
     "LIMIT_PER_RUN": 800,
-    "MAX_FETCH": 40,         # text fetches per run (semantic step)
+    "MAX_FETCH": 60,
     "MAX_TXT_LEN": 8000,
     "CHUNK_SIZE": 700,
     "TOPK_PER_CAT": 12,
     "MV_WEIGHTS": [0.2, 0.2, 0.6],
-    "THRESHOLD": 0.60,
+    "THRESHOLD": 0.50,
     "UNCATEGORIZED": "Uncategorized",
-    "CANONICALIZE": True,    # canonical URL normalization
-    "LOG_REASONS": True,     # write reasons.jsonl
-    "MAX_WORKERS": 8,        # parallel fetch threads
-    "DISCOVERY": {           # Outside-sources discovery
+    "CANONICALIZE": True,
+    "LOG_REASONS": True,
+    "MAX_WORKERS": 8,
+    "FALLBACK_IF_EMPTY": True,
+    "DEBUG_STATS": True,
+    "DISCOVERY": {
         "enabled": True,
         "category_name": "Outside Sources (Top 10)",
         "max_links": 10,
@@ -86,8 +94,8 @@ _TRACKING_PARAMS = {"utm_source","utm_medium","utm_campaign","utm_term","utm_con
                     "utm_name","utm_cid","utm_reader","gclid","fbclid","mc_cid","mc_eid","igshid"}
 
 def canonical_url(u: str) -> str:
-    """Drop tracking params, fragments, lowercase host, and try <link rel=canonical>."""
     try:
+        from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse, urljoin
         p = urlparse(u)
         q = [(k,v) for (k,v) in parse_qsl(p.query, keep_blank_values=True) if k.lower() not in _TRACKING_PARAMS]
         p2 = p._replace(query=urlencode(q, doseq=True), fragment="", netloc=p.netloc.lower())
@@ -105,7 +113,7 @@ def canonical_url(u: str) -> str:
     except Exception:
         return u
 
-# ---------- Keyword/stopword matching with reasons ----------
+# ---------- Keyword/stopword matching ----------
 def any_word(hay: str, words):
     for w in words or []:
         w = w.strip()
@@ -134,10 +142,8 @@ def match_topic_with_reason(title: str, summary: str):
     stop_hits = find_matches(hay, STOPWORDS)
     if stop_hits:
         return False, {"stopwords": stop_hits}
-
     if CFG["REQUIRE_KEYWORDS"] and not KEYWORDS:
         return False, {"reason": "no_keywords"}
-
     narrow = [k for k in KEYWORDS if k not in BROAD_TOKENS]
     if narrow:
         hits = find_matches(hay, narrow)
@@ -176,9 +182,7 @@ def gather():
         ok, why = match_topic_with_reason(title, summary)
         if ok:
             themed.append((ts, link, title, summary, why))
-    # newest first
     themed.sort(key=lambda x: x[0], reverse=True)
-    # dedupe + domain block + canonicalize
     seen_run = set()
     unique = []
     for ts, link, title, summary, why in themed:
@@ -222,37 +226,46 @@ def prune_seen(seen: dict, keep=50000):
     items = sorted(seen.items(), key=lambda kv: ts_or_min(kv[1]), reverse=True)[:keep]
     return dict(items)
 
-# ---------- Categorization ----------
-def any_word_simple(hay: str, words):
-    for w in words or []:
-        if w and w in hay:
-            return True
-    return False
+# ---------- Robust text fetch ----------
+def _fetch_text(url: str) -> str:
+    if trafilatura is not None:
+        try:
+            html = trafilatura.fetch_url(url, timeout=12)
+            if html:
+                txt = trafilatura.extract(html, include_comments=False) or ""
+                if txt:
+                    return txt.strip()
+        except Exception:
+            pass
+    if requests is not None:
+        try:
+            headers = {"User-Agent": "Mozilla/5.0 (HL-NewsBot)"}
+            r = requests.get(url, timeout=12, headers=headers, allow_redirects=True)
+            if r.ok and r.text:
+                if trafilatura is not None:
+                    txt = trafilatura.extract(r.text, include_comments=False) or ""
+                    return (txt or "").strip()
+                return r.text[:5000]
+        except Exception:
+            pass
+    return ""
 
-def categorize_item(title, summary, domain):
-    hay = f"{title.lower()} {summary.lower()}"
-    for cat in CATEGORIES:
-        name = cat.get("name") or CFG["UNCATEGORIZED"]
-        inc_any = [s.lower() for s in (cat.get("include_any") or [])]
-        inc_all = [s.lower() for s in (cat.get("include_all") or [])]
-        exc_any = [s.lower() for s in (cat.get("exclude_any") or [])]
-        doms    = [s.lower() for s in (cat.get("domains") or [])]
+def fetch_text_cached(url: str) -> str:
+    CACHE_DIR.mkdir(exist_ok=True)
+    p = CACHE_DIR / (hashlib.sha1(url.encode('utf-8')).hexdigest() + ".txt")
+    if p.exists():
+        try:
+            return p.read_text(encoding="utf-8", errors="ignore")
+        except Exception:
+            pass
+    txt = _fetch_text(url)
+    try:
+        p.write_text(txt, encoding="utf-8")
+    except Exception:
+        pass
+    return txt
 
-        if doms and domain in doms:
-            if exc_any and any_word_simple(hay, exc_any):
-                continue
-            return name
-
-        if inc_any and not any_word_simple(hay, inc_any):
-            continue
-        if inc_all and not all(any_word_simple(hay, [w]) for w in inc_all):
-            continue
-        if exc_any and any_word_simple(hay, exc_any):
-            continue
-        return name
-    return CFG["UNCATEGORIZED"]
-
-# ---------- Semantic scoring (BGE-M3) ----------
+# ---------- Semantic scoring ----------
 _MODEL = None
 def _get_model():
     global _MODEL
@@ -260,31 +273,6 @@ def _get_model():
     if _MODEL is None:
         _MODEL = BGEM3FlagModel('BAAI/bge-m3', use_fp16=False)
     return _MODEL
-
-def _cache_key(url: str) -> pathlib.Path:
-    h = hashlib.sha1(url.encode('utf-8')).hexdigest() + ".txt"
-    return CACHE_DIR / h
-
-def fetch_text_cached(url: str) -> str:
-    p = _cache_key(url)
-    if p.exists():
-        try:
-            return p.read_text(encoding="utf-8", errors="ignore")
-        except Exception:
-            pass
-    if trafilatura is None:
-        return ""
-    try:
-        html = trafilatura.fetch_url(url, timeout=12)
-        txt = trafilatura.extract(html, include_comments=False) or ""
-        txt = (txt or "").strip()
-    except Exception:
-        txt = ""
-    try:
-        p.write_text(txt, encoding="utf-8")
-    except Exception:
-        pass
-    return txt
 
 def _chunks(s: str, n: int):
     for i in range(0, len(s), n):
@@ -310,7 +298,6 @@ def mv_score(query: str, doc_text: str, mv_weights, max_txt, chunk_size) -> floa
             best = hybrid
     return best
 
-# ---------- Reasons logging ----------
 def log_reason(payload: dict):
     if not CFG.get("LOG_REASONS", True):
         return
@@ -320,26 +307,26 @@ def log_reason(payload: dict):
     except Exception:
         pass
 
-# ---------- Main semantic grouping ----------
+def _rule_only_grouping(items):
+    grouped = {}
+    for cat in [c.get("name") for c in CATEGORIES] + [CFG["UNCATEGORIZED"]]:
+        grouped[cat] = []
+    for ts, link, title, summary, domain, why in items:
+        cat = categorize_item(title, summary, domain)
+        grouped.setdefault(cat, []).append(link)
+        log_reason({
+            "ts": datetime.now(timezone.utc).isoformat(),
+            "link": link,
+            "domain": domain,
+            "category": cat,
+            "semantic": False,
+            "keyword_hits": (why.get("keywords") if isinstance(why, dict) else None)
+        })
+    return grouped
+
 def semantic_filter_and_rank(items):
-    """Group by category with semantic scoring; fallback to rule-only grouping if disabled/missing deps."""
-    # Quick fallback
     if not SEMANTIC_RERANK or trafilatura is None:
-        grouped = {}
-        for cat in [c.get("name") for c in CATEGORIES] + [CFG["UNCATEGORIZED"]]:
-            grouped[cat] = []
-        for ts, link, title, summary, domain, why in items:
-            cat = categorize_item(title, summary, domain)
-            grouped.setdefault(cat, []).append(link)
-            log_reason({
-                "ts": datetime.now(timezone.utc).isoformat(),
-                "link": link,
-                "domain": domain,
-                "category": cat,
-                "semantic": False,
-                "keyword_hits": (why.get("keywords") if isinstance(why, dict) else None)
-            })
-        return grouped
+        return _rule_only_grouping(items)
 
     mv_weights = CFG["MV_WEIGHTS"]
     threshold  = CFG["THRESHOLD"]
@@ -349,17 +336,17 @@ def semantic_filter_and_rank(items):
     topk       = CFG["TOPK_PER_CAT"]
     max_workers= int(CFG.get("MAX_WORKERS", 8))
 
-    # Category queries
     cat_queries = [(c.get("name") or CFG["UNCATEGORIZED"], _build_query_for_category(c)) for c in CATEGORIES]
     cat_queries.append((CFG["UNCATEGORIZED"], "mobile security telecom lookup"))
 
-    # Fetch texts in parallel (cached)
-    CACHE_DIR.mkdir(exist_ok=True)
     to_score = items[:max_fetch]
     urls = [link for _, link, *_ in to_score]
     texts = {}
+    empty_texts = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as ex:
         for url, txt in zip(urls, ex.map(fetch_text_cached, urls)):
+            if not txt:
+                empty_texts += 1
             texts[url] = txt
 
     kept = {name: [] for name, _ in cat_queries}
@@ -372,18 +359,6 @@ def semantic_filter_and_rank(items):
                 score = mv_score(q, text, mv_weights, max_txt, chunk_size)
             except Exception as e:
                 print("Semantic scoring error:", e)
-                # fallback: just categorize by rules
-                cat = categorize_item(title, summary, domain)
-                kept.setdefault(cat, []).append((0.0, link))
-                log_reason({
-                    "ts": datetime.now(timezone.utc).isoformat(),
-                    "link": link,
-                    "domain": domain,
-                    "category": cat,
-                    "semantic": False,
-                    "keyword_hits": (why.get("keywords") if isinstance(why, dict) else None),
-                    "error": "mv_score_failed"
-                })
                 break
             if score >= threshold:
                 kept[name].append((score, link))
@@ -402,9 +377,18 @@ def semantic_filter_and_rank(items):
 
     grouped = {name: [u for s, u in sorted(vals, key=lambda x: x[0], reverse=True)[:topk]]
                for name, vals in kept.items()}
+
+    total = sum(len(v) for v in grouped.values())
+    if CFG.get("DEBUG_STATS", True):
+        print(f"[debug] items={len(items)}, to_score={len(to_score)}, empty_texts={empty_texts}, kept_total={total}")
+
+    if total == 0 and CFG.get("FALLBACK_IF_EMPTY", True):
+        print("[warn] semantic produced 0 links; falling back to rule-only grouping")
+        return _rule_only_grouping(items)
+
     return grouped
 
-# ---------- Discovery from outside sources ----------
+# ---------- Discovery (uses same fetch/cache) ----------
 def _known_source_domains():
     dset = set()
     for s in SOURCES:
@@ -525,7 +509,7 @@ def append_archive(urls):
 # ---------- Main ----------
 if __name__ == "__main__":
     CACHE_DIR.mkdir(exist_ok=True)
-    items = gather()  # [(ts, link, title, summary, domain, why)]
+    items = gather()
     seen = load_seen()
     now_iso = datetime.now(timezone.utc).isoformat()
 
@@ -533,7 +517,6 @@ if __name__ == "__main__":
 
     grouped = semantic_filter_and_rank(new_items)
 
-    # discovery category
     try:
         already = set([u for urls in grouped.values() for u in urls])
         discovery_links = discover_outside(grouped, seen, already)
@@ -542,15 +525,12 @@ if __name__ == "__main__":
     except Exception as e:
         print("Discovery error:", e)
 
-    # outputs
     write_outputs(grouped)
 
-    # update seen + archive with **all** new links (including discovery)
     new_links = set([link for _, link, *_ in new_items])
     for urls in grouped.values():
         for link in urls:
             new_links.add(link)
-
     for link in new_links:
         seen[link] = now_iso
     seen = prune_seen(seen, keep=50000)

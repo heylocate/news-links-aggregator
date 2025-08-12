@@ -3,3 +3,4 @@ trafilatura==1.*
 FlagEmbedding==1.*
 torch>=2.1
 numpy>=1.26
+requests>=2.31
