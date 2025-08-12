@@ -8,20 +8,57 @@ on:
 permissions:
   contents: write
 
+env:
+  PIP_DISABLE_PIP_VERSION_CHECK: "1"
+  HF_HOME: ~/.cache/huggingface
+  HUGGINGFACE_HUB_CACHE: ~/.cache/huggingface
+  TRANSFORMERS_CACHE: ~/.cache/huggingface
+  HL_SEMANTIC_RERANK: "true"   # на тест можно поставить "false"
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
+
     steps:
       - uses: actions/checkout@v4
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Cache HuggingFace (models)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: ${{ runner.os }}-hf-bgem3
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install deps
+
+      - name: Install deps (CPU wheels)
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      - name: Run aggregator (daily, categorized, semantic + discovery)
+          pip install --progress-bar off -r requirements.txt
+          # гарантированно ставим CPU-сборки torch
+          pip uninstall -y torch torchvision torchaudio || true
+          pip install --progress-bar off --index-url https://download.pytorch.org/whl/cpu torch==2.3.* torchvision==0.18.* --no-cache-dir
+
+      - name: Sanity: free space / RAM
+        run: |
+          df -h
+          free -h || true
+
+      - name: Run aggregator (categorized, semantic + discovery)
+        env:
+          HL_SEMANTIC_RERANK: ${{ env.HL_SEMANTIC_RERANK }}
         run: python aggregator_links.py
+
       - name: Commit artifacts
         run: |
           git config user.name "github-actions[bot]"
