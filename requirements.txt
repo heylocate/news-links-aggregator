@@ -1,1 +1,5 @@
-feedparser
+feedparser==6.*
+trafilatura==1.*
+FlagEmbedding==1.*
+torch>=2.1
+numpy>=1.26
