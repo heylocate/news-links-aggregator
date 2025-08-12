@@ -14,7 +14,6 @@ https://about.usps.com/news/latestnews.rss
 https://business-resources.truecaller.com/blog-feed.xml
 https://developer.hiya.com/changelog/rss.xml
 https://blog.tineye.com/feed/
-https://www.hunter.io/blog/rss/
 https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches
 https://www.life360.com/blog/feed/
 https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/rss/
@@ -23,9 +22,7 @@ https://www.twilio.com/blog/rss.xml
 https://nakedsecurity.sophos.com/feed/
 https://www.bleepingcomputer.com/feed/
 https://blog.cloudflare.com/rss/
-https://blog.google/rss/
 https://android-developers.googleblog.com/feeds/posts/default?alt=rss
-https://www.apple.com/newsroom/rss-feed.rss
 https://developer.apple.com/news/releases/rss/releases.rss
 https://news.samsung.com/global/feed
 https://www.t-mobile.com/news/_admin/feed/
