@@ -48,6 +48,12 @@ def norm(text: str) -> str:
         return ""
     return re.sub(r"\s+", " ", text).strip()
 
+def normalize_domain(d: str) -> str:
+    d = (d or "").strip().lower()
+    if d.startswith("www."):
+        d = d[4:]
+    return d
+
 # ---------- defaults (can be overridden by muvera_config.json) ----------
 CFG = {
     "REQUIRE_KEYWORDS": True,
@@ -74,7 +80,10 @@ CFG = {
         "recency": "when:1d",
         "hl": "en-US",
         "gl": "US",
-        "ceid": "US:en"
+        "ceid": "US:en",
+        # Новые настройки доменов:
+        "save_domains": True,
+        "save_domains_file": "discovered_sources.txt"
     }
 }
 CFG.update(load_json(CFG_PATH, {}))
@@ -83,8 +92,10 @@ AGE_LIMIT_SEC = int(CFG.get("MAX_AGE_DAYS", 1)) * 86400
 SOURCES   = read_lines(ROOT / "sources.txt")
 KEYWORDS  = [s.lower() for s in read_lines(ROOT / "keywords.txt")]
 STOPWORDS = [s.lower() for s in read_lines(ROOT / "stopwords.txt")]
-BLOCKED_DOMAINS = {d.lower() for d in read_lines(ROOT / "blocked_domains.txt")}
+BLOCKED_DOMAINS = {normalize_domain(d) for d in read_lines(ROOT / "blocked_domains.txt")}
 CATEGORIES = load_json(CAT_PATH, [])
+
+DISCOVERED_SOURCES_TXT = ROOT / (CFG.get("DISCOVERY", {}).get("save_domains_file", "discovered_sources.txt"))
 
 BROAD_TOKENS = {
     "android","iphone","ios","ipados","watchos","wear os",
@@ -196,7 +207,7 @@ def gather():
         if not link:
             continue
         link_c = canonical_url(link) if CFG.get("CANONICALIZE", True) else link
-        domain = urlparse(link_c).netloc.lower()
+        domain = normalize_domain(urlparse(link_c).netloc)
         if domain in BLOCKED_DOMAINS:
             continue
         if link_c not in seen_run:
@@ -253,7 +264,7 @@ def categorize_item(title, summary, domain):
         inc_any = [s.lower() for s in (cat.get("include_any") or [])]
         inc_all = [s.lower() for s in (cat.get("include_all") or [])]
         exc_any = [s.lower() for s in (cat.get("exclude_any") or [])]
-        doms    = [s.lower() for s in (cat.get("domains") or [])]
+        doms    = [normalize_domain(s) for s in (cat.get("domains") or [])]
 
         if doms and domain in doms:
             if exc_any and any_word_simple(hay, exc_any):
@@ -402,6 +413,7 @@ def semantic_filter_and_rank(items):
             except Exception as e:
                 print("Semantic scoring error:", e)
                 break
+        # apply threshold
             if score >= threshold:
                 kept[name].append((score, link))
                 log_reason({
@@ -435,7 +447,7 @@ def _known_source_domains():
     dset = set()
     for s in SOURCES:
         try:
-            dset.add(urlparse(s).netloc.lower())
+            dset.add(normalize_domain(urlparse(s).netloc))
         except Exception:
             pass
     return dset
@@ -447,6 +459,24 @@ def _gnews_search_feed(query: str) -> str:
     ceid = CFG["DISCOVERY"].get("ceid", "US:en")
     q = quote_plus(f"{query} {recency}")
     return f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
+
+def _read_discovered_domains(path: pathlib.Path) -> set:
+    if not path.exists():
+        return set()
+    try:
+        return {normalize_domain(x) for x in read_lines(path)}
+    except Exception:
+        return set()
+
+def _write_discovered_domains(path: pathlib.Path, domains: set):
+    if not domains:
+        return
+    existing = _read_discovered_domains(path)
+    merged = sorted({*existing, *{normalize_domain(d) for d in domains}} - {""})
+    try:
+        path.write_text("\n".join(merged) + ("\n" if merged else ""), encoding="utf-8")
+    except Exception as e:
+        print("Discovered domains write error:", e)
 
 def discover_outside(grouped_existing, seen_dict, already_links):
     if not CFG.get("DISCOVERY", {}).get("enabled", False):
@@ -468,7 +498,7 @@ def discover_outside(grouped_existing, seen_dict, already_links):
                 if has_pub and ts < age_floor:
                     continue
                 link_c = canonical_url(link)
-                dom = urlparse(link_c).netloc.lower()
+                dom = normalize_domain(urlparse(link_c).netloc)
                 if dom in known or dom in BLOCKED_DOMAINS:
                     continue
                 if (link_c in already_links) or (link_c in seen_dict):
@@ -513,9 +543,11 @@ def discover_outside(grouped_existing, seen_dict, already_links):
 
     scored.sort(key=lambda x: x[0], reverse=True)
     lim = int(CFG["DISCOVERY"].get("max_links", 10))
-    out = []
+    out_links = []
+    out_domains = set()
     for s, link, dom, best_q in scored[:lim]:
-        out.append(link)
+        out_links.append(link)
+        out_domains.add(dom)
         log_reason({
             "ts": datetime.now(timezone.utc).isoformat(),
             "link": link,
@@ -527,7 +559,12 @@ def discover_outside(grouped_existing, seen_dict, already_links):
             "query": best_q,
             "outside": True
         })
-    return out
+
+    # save discovered domains if enabled
+    if CFG.get("DISCOVERY", {}).get("save_domains", True):
+        _write_discovered_domains(DISCOVERED_SOURCES_TXT, out_domains)
+
+    return out_links
 
 # ---------- outputs ----------
 def write_outputs(grouped):
@@ -559,7 +596,7 @@ if __name__ == "__main__":
 
     grouped = semantic_filter_and_rank(new_items)
 
-    # discovery category
+    # discovery category (+ auto-save discovered domains)
     try:
         already = set([u for urls in grouped.values() for u in urls])
         discovery_links = discover_outside(grouped, seen, already)
