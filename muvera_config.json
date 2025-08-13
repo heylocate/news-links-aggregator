@@ -21,8 +21,25 @@
     "max_links": 10,
     "per_query_limit": 30,
     "recency": "when:1d",
-    "hl": "en-US",
-    "gl": "US",
-    "ceid": "US:en"
+
+    "language_only": true,
+    "lang": "en",
+
+    "save_domains": true,
+    "save_domains_file": "discovered_sources.txt",
+
+    "fallback_ceid_if_empty": true,
+    "compat_ceids": [
+      "US:en","GB:en","AU:en","CA:en","IN:en","IE:en","NZ:en","SG:en","ZA:en","PH:en","MY:en",
+      "NG:en","KE:en","GH:en","UG:en","TZ:en","RW:en","ZM:en","ZW:en","BW:en","NA:en","MW:en","LS:en","SZ:en",
+      "CM:en","GM:en","SL:en","LR:en","SD:en","SS:en","ET:en","ER:en","MU:en","SC:en","MZ:en",
+      "JM:en","TT:en","BB:en","BS:en","AG:en","LC:en","VC:en","GD:en","KN:en","BZ:en","GY:en","DM:en","BM:en",
+      "KY:en","VG:en","AI:en","MS:en","TC:en","GI:en","IM:en","GG:en","JE:en","MT:en","CY:en",
+      "HK:en","TW:en","JP:en","KR:en","VN:en","TH:en","ID:en","MM:en","KH:en","LA:en","BN:en","PK:en","LK:en","BD:en","NP:en","BT:en",
+      "AE:en","BH:en","KW:en","QA:en","OM:en","SA:en","IL:en","JO:en","LB:en","EG:en","MA:en","TN:en","DZ:en","TR:en",
+      "DE:en","FR:en","ES:en","IT:en","PT:en","NL:en","BE:en","LU:en","DK:en","SE:en","NO:en","FI:en","IS:en","CH:en","AT:en",
+      "PL:en","CZ:en","SK:en","HU:en","RO:en","BG:en","GR:en","SI:en","HR:en","RS:en","BA:en","ME:en","MK:en","AL:en",
+      "UA:en","MD:en","BY:en","RU:en","EE:en","LV:en","LT:en","GE:en","AM:en","AZ:en"
+    ]
   }
 }
