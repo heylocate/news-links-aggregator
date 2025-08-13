@@ -42,11 +42,10 @@ https://www.engadget.com/rss.xml
 https://www.techradar.com/rss
 https://www.tomsguide.com/feeds/all
 https://www.cnet.com/rss/all/
-https://www.theverge.com/rss/index.xml
 https://www.androidheadlines.com/feed
 https://about.fb.com/news/feed/
 https://discord.com/blog/rss.xml
-https://www.blog.youtube/rss/
+https://blog.youtube/news-and-events/rss/
 https://www.reddit.com/r/blog/.rss
 https://blog.chromium.org/feeds/posts/default
 https://chromereleases.googleblog.com/atom.xml
