@@ -2,7 +2,7 @@ name: Build links (daily, MUVERA-like semantic rerank + discovery)
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # 03:00 UTC ≈ 06:00 Europe/Kyiv (summer)
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:
