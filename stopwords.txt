@@ -1,5 +1,6 @@
-# ===== HARD: почти всегда шум, смело режем =====
+# === Hiring / Recruiting ===
 we are hiring
+we're hiring
 we’re hiring
 job opening
 job openings
@@ -11,66 +12,17 @@ apply now
 join our team
 recruiting
 recruiter
-workout
-fitness
-personal trainer
-bodyweight
-review
-hands-on
-i've tested
-best bluetooth speakers
-bluetooth speakers
-speaker review
-emulator
-xbox
-playstation
-game review
-half-life
-politics
-election
-trump
 
-sale
-discount
-deal
-promo code
-coupon
-voucher
-black friday
-cyber monday
-giveaway
-sweepstakes
-contest
-win prizes
-limited time offer
-price drop
-cashback
-sponsored
-advertorial
-partner content
-affiliate link
-Rideshare
-Charging
-Fashion
-Gpu
-Cybertruck
-Translation
-Carplay
-Apple tv
-Liquid glass
-Buy
-Floppy disk
-Chargers cables
-Charger cable
-Realtek
-Tvos
-
+# === Newsletters / Roundups ===
 newsletter
 weekly roundup
+daily roundup
 monthly roundup
 digest
 roundup
+round-up
 
+# === Events / Webinars / Recordings ===
 webinar
 workshop
 event registration
@@ -84,6 +36,42 @@ watch the replay
 slides available
 keynote
 
+# === Marketing / Sponsored / Lead-gen ===
+sponsored
+advertorial
+partner content
+affiliate link
+customer story
+testimonial
+whitepaper
+white paper
+ebook
+case study
+template
+contact sales
+request a demo
+free trial
+status page
+maintenance
+scheduled maintenance
+service update (non-incident)
+support hours
+office hours
+
+# === Lead-gen for email/people-search (не новости) ===
+lead generation
+leads
+prospecting
+outreach sequence
+enrichment playbook
+
+# === Blog CTAs / Перелинковка ===
+subscribe to our newsletter
+join our newsletter
+follow us on
+sign up for updates
+
+# === Media-only formats ===
 podcast
 episode
 listen now
@@ -92,46 +80,38 @@ apple podcasts
 youtube channel
 video only
 
-ebook
-whitepaper
-white paper
-case study
-download now
-template
-contact sales
-request a demo
-free trial
-pricing
-
-maintenance
-scheduled maintenance
-service update (non-incident)
-status page
-support hours
-office hours
-customer story
-testimonial
-
-# ===== Анти-«маркетинговая перелинковка» на блогах =====
-subscribe to our newsletter
-join our newsletter
-follow us on
-sign up for updates
-
-# ===== Для email/people search ниш: отсечь инструменты-«продажи» без новости =====
-lead generation
-leads
-prospecting
-outreach sequence
-enrichment playbook
-
-# ===== Для адресов/геокодирования: маркетинг вместо новостей =====
-address autocomplete
-bulk credits
-free credits
-pay as you go
-
-# ===== Для спам/робоколов: отсечь не-новостной контент =====
-block spam calls now
+# === App install CTAs ===
 download our app
 install our app
+block spam calls now
+
+# === Gaming noise ===
+xbox
+playstation
+nintendo
+emulator
+game review
+gaming
+half-life
+
+# === Audio gadget noise ===
+bluetooth speaker
+bluetooth speakers
+speaker review
+soundbar
+headphones
+headphones review
+earbuds
+
+# === Fitness noise ===
+workout
+fitness
+personal trainer
+bodyweight
+
+# === Promo noise (без "sale/discount/coupon" — их лучше фильтровать по URL-пути) ===
+giveaway
+sweepstakes
+contest
+win prizes
+limited time offer
