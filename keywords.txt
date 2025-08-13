@@ -1,117 +1,17 @@
-# === Core Topics (keep broad; filter by brands below) ===
-number tracking
-phone tracking
-phone locator
-device tracking
-geofencing
-lost phone
-anti-theft
-find my phone
-find my device
-reverse phone lookup
-caller id
-spam calls
-robocalls
-call blocking
-cnam
-sim swap
-carrier lookup
-true owner
-
-parental control
-screen time
-app blocking
-content filtering
-web filtering
-family safety
-kid safety
-child safety
-monitoring app
-
-background check
-criminal records
-public records
-identity verification
-id verification
-tenant screening
-
-people search
-people finder
-data broker
-data brokers
-osint
-open source intelligence
-
-address lookup
-address validation
-address verification
-address cleansing
-geocoding
-reverse geocoding
-
-image search
-reverse image search
-face search
-visual search
-
-email lookup
-email finder
-email verification
-email enrichment
-breach data
-data breach
-
-mobile carrier
-mobile operator
-sim card
-android
-iphone
-ios
-ipados
-wear os
-watchos
-google play protect
-safety check
-app tracking transparency
-att
-
-# === Phone Lookup / Caller ID / Spam-blocking brands & services ===
+heylocate
 truecaller
 hiya
 nomorobo
 robokiller
-youmail
 callapp
 mr number
 whoscall
 whitepages
 whitepages premium
 numlookup
-cnam api
-telo
-twilio lookup
-vonage number insight
-nexmo number insight
-telnyx number lookup
 plivo lookup
 numverify
 veriphone
-abstractapi phone validation
-
-# === Number intelligence / telecom APIs (general) ===
-twilio
-vonage
-nexmo
-telnyx
-plivo
-bandwidth api
-sinch
-infobip
-messagebird
-route mobile
-kaleyra
-
-# === Parental Control brands ===
 qustodio
 net nanny
 kaspersky safe kids
@@ -125,8 +25,6 @@ life360
 google family link
 apple screen time
 circle parental controls
-
-# === Background Check / People Search brands ===
 beenverified
 truthfinder
 intelius
@@ -140,8 +38,6 @@ pipl
 fastpeoplesearch
 checkr
 accurate background
-
-# === Image Search / Face Search services ===
 tineye
 google images
 bing visual search
@@ -149,130 +45,93 @@ yandex images
 pimeyes
 clarifai
 sighthound
-Lenso.ai
-lenso
+lenso.ai
+apple find my
+google find my device
+smartthings find
+huawei find device
+xiaomi find device
+family sharing
+google maps
+mspy
+eyezy
+umobix
+spyx
+msafely
+xnspy
+overwatch
+xmobi
+glassagram
+peekviewer
+findsio
+scannero
+detectico
+geofinder
+localize
+locationtracker
+searqle
+social catfish
+picuki
+fbhacker
+glympse
+goguardian
 
-# === Email Lookup / Verification / Breach services ===
-have i been pwned
-hibp
-
-# === Major mobile carriers & MVNOs (global sample) ===
-verizon
-at&t
-att
-t-mobile
-us cellular
-visible
-cricket wireless
-metro by t-mobile
-boost mobile
-google fi
-mint mobile
-straight talk
-tracfone
-consumer cellular
-ting mobile
-us mobile
-h2o wireless
-
-vodafone
-o2
-ee
-three
-bt mobile
-virgin media o2
-giffgaff
-tesco mobile
-sky mobile
-talkmobile
-lycamobile
-lebara
-
-orange
-sfr
-bouygues telecom
-deutsche telekom
-telekom
-telefonica
-movistar
-o2 germany
-tim
-windtre
-iliad
-fastweb mobile
-vodafone italy
-
-swisscom
-salt mobile
-sunrise
-proximus
-base
-kpn
-telenor
-telia
-elisa
-dna
-
-rogers
-bell
-telus
-fido
-koodo
-public mobile
-freedom mobile
-
-jio
-airtel
-vi
-vodafone idea
-bsnl
-
-ntt docomo
-kddi au
-softbank
-
-china mobile
-china unicom
-china telecom
-
-sk telecom
-kt
-lg uplus
-
-claro
-vivo
-oi
-entel
-tigo
-movistar latin america
-
-mtc
-mtn
-safaricom
-etisalat
-stc
-
-# === Mobile hardware & OEMs (broad; helps news coverage) ===
-samsung galaxy
-google pixel
-oneplus
-xiaomi
-redmi
-poco
-oppo
-realme
-vivo
-honor
-huawei
-motorola
-nokia
-nothing phone
-asus rog phone
-sony xperia
-fairphone
-
-# === Security, privacy & robocall policy topics (helpful context) ===
-robocall
+#General
+number tracking
+phone tracking
+phone locator
+device tracking
+geofencing
+lost phone
+anti-theft
+find my phone
+find my device
+reverse phone lookup
+phone lookup
+caller id
+spam calls
+robocalls
+call blocking
+cnam
+sim swap
+parental control
+screen time
+app blocking
+content filtering
+web filtering
+family safety
+kid safety
+child safety
+monitoring app
+background check
+criminal records
+public records
+identity verification
+id verification
+tenant screening
+people search
+people finder
+data brokers
+osint
+open source intelligence
+address lookup
+address validation
+address verification
+address cleansing
+geocoding
+reverse geocoding
+image search
+reverse image search
+face search
+visual search
+email lookup
+email finder
+email verification
+email enrichment
+breach data
+data breach
+safety check
+app tracking transparency
 robotext
 sms phishing
 smishing
@@ -282,129 +141,10 @@ caller id spoofing
 simjacker
 carrier scandal
 carrier breach
-
-Facebook
-Messenger
-WhatsApp
-Threads
-Instagram
-Snapchat
-Discord
-Telegram
-Tiktok
-X/Twitter
-Twitter
-X
-X (formerly Twitter)
-YouTube
-Reddit
-Skype
-Chrome
-Opera
-Safari
-Edge
-Firefox
-Windows
-iPhone/Apple
-iPhone
-Apple
-Android
-Samsung
-Xiaomi
-OPPO
-Infinix
-Tecno
-Itel
-Vivo
-Honor
-Lenovo
-Huawei
-Realme
-Google Pixel
-Nokia
-Motorola
-OnePlus
-LG
-Alcatel
-Sony
-Asus
-ZTE
-AT&T
-T-Mobile
-Verizon
-Vodafone
-Airtel
-O2
-Rogers
-Virgin MEdia
-EE
-Jio
-Bell
-BT
-Sky
-Orange
-Cricket
-Boost Mobile
-Telstra
-Metro
-Metro by T-Mobile
-Optus
-Three UK
-Spark
-HeyLocate
-Find My Device
-Find My
-Find My iPhone
-Find My (Apple)
-Apple Family Sharing
-SmarthingsFind
-SmartThings Find
-Find My Huawei
-Mi Find my device
-Family Link
-Google Maps
-mSpy
-Eyezy
-uMobix
-Spyx
-mSafely
-XNSPY
-Overwatch
-xMobi
-Glassagrm
-Peekviewer
-Findsio
-Scannero
-Detectico
-Geofinder
-Localize
-Locationtracker
-Intelius
-Truthfinder
-Searqle
-Whitepages
-Beenverified
-Social Catfish
-Picuki
-FBHacker
-Life360
-Truecaller
-Glympse
-Bark
-GoGuardian
-Phone Number Tracker
-Phone Tracker
-Private Instagram Viewer
-People Search
-Background check
-Phone Lookup
-Username lookup
-Address lookup
-Email lookup
-Country code lookup
-Carrier Lookup
-Number Checker
-Number Formatter
-Number Generator
-How to call international
-Image search
+username lookup
+country code lookup
+carrier lookup
+number checker
+number formatter
+number generator
+how to call international
