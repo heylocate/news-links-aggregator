@@ -49,7 +49,7 @@ jobs:
           pip uninstall -y torch torchvision torchaudio || true
           pip install --progress-bar off --index-url https://download.pytorch.org/whl/cpu torch==2.3.* torchvision==0.18.* --no-cache-dir
 
-      - name: Sanity: free space / RAM
+      - name: "Sanity: free space / RAM"
         run: |
           df -h
           free -h || true
