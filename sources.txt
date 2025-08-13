@@ -72,3 +72,15 @@ https://blog.mozilla.org/security/feed/
 https://www.cisa.gov/news.xml
 https://www.gsma.com/newsroom/feed/
 https://www.troyhunt.com/rss/
+https://blog.hiya.com/rss.xml
+https://blog.youmail.com/feed/
+https://telnyx.com/rss.xml
+https://developer.vonage.com/rss.xml
+https://iapp.org/rss/daily-dashboard/
+https://edpb.europa.eu/rss_en
+https://www.cnil.fr/fr/rss.xml
+https://linc.cnil.fr/rss.xml
+https://www.bellingcat.com/feed/
+https://isc.sans.edu/rssfeed.xml
+https://blog.openstreetmap.org/feed/
+https://techxplore.com/rss-feed/breaking/telecom-news/
