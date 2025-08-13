@@ -1,7 +1,7 @@
 {
   "REQUIRE_KEYWORDS": true,
   "LIMIT_PER_RUN": 1500,
-  "MAX_FETCH": 50,
+  "MAX_FETCH": 80,
   "MAX_TXT_LEN": 8000,
   "CHUNK_SIZE": 1000,
   "TOPK_PER_CAT": 12,
