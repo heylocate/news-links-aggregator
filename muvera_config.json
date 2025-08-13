@@ -1,7 +1,7 @@
 {
   "REQUIRE_KEYWORDS": true,
   "LIMIT_PER_RUN": 800,
-  "MAX_FETCH": 40,
+  "MAX_FETCH": 50,
   "MAX_TXT_LEN": 4000,
   "CHUNK_SIZE": 700,
   "TOPK_PER_CAT": 12,
@@ -13,6 +13,8 @@
   "MAX_WORKERS": 8,
   "FALLBACK_IF_EMPTY": true,
   "DEBUG_STATS": true,
+  "MAX_AGE_DAYS": 1,
+  "REQUIRE_PUBDATE": true,
   "DISCOVERY": {
     "enabled": true,
     "category_name": "Outside Sources (Top 10)",
