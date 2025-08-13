@@ -28,7 +28,6 @@ REASONS_LOG = ROOT / "reasons.jsonl"
 # allow toggle from workflow via env
 SEMANTIC_RERANK = os.getenv("HL_SEMANTIC_RERANK", "true").lower() in ("1","true","yes","y")
 
-# ---------- helpers ----------
 def read_lines(path: pathlib.Path):
     if not path.exists():
         return []
@@ -54,7 +53,7 @@ def normalize_domain(d: str) -> str:
         d = d[4:]
     return d
 
-# ---------- defaults (can be overridden by muvera_config.json) ----------
+# ---------- defaults (overridable by muvera_config.json) ----------
 CFG = {
     "REQUIRE_KEYWORDS": True,
     "LIMIT_PER_RUN": 800,
@@ -70,20 +69,37 @@ CFG = {
     "MAX_WORKERS": 8,
     "FALLBACK_IF_EMPTY": True,
     "DEBUG_STATS": True,
-    "MAX_AGE_DAYS": 1,        # ⟵ только свежие новости (≤ 1 день)
-    "REQUIRE_PUBDATE": True,  # ⟵ записи без даты отбрасывать
+    "MAX_AGE_DAYS": 1,        # only fresh items (≤ 1 day)
+    "REQUIRE_PUBDATE": True,  # drop entries without pubdate
     "DISCOVERY": {
         "enabled": True,
         "category_name": "Outside Sources (Top 10)",
         "max_links": 10,
         "per_query_limit": 30,
         "recency": "when:1d",
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-        # Новые настройки доменов:
+
+        # language-only mode (no geo binding)
+        "language_only": True,
+        "lang": "en",
+
+        # domain harvesting
         "save_domains": True,
-        "save_domains_file": "discovered_sources.txt"
+        "save_domains_file": "discovered_sources.txt",
+
+        # fallback: try ceid country-bound EN editions only if language-only returned zero
+        "fallback_ceid_if_empty": True,
+        "compat_ceids": [
+            "US:en","GB:en","AU:en","CA:en","IN:en","IE:en","NZ:en","SG:en","ZA:en","PH:en","MY:en",
+            "NG:en","KE:en","GH:en","UG:en","TZ:en","RW:en","ZM:en","ZW:en","BW:en","NA:en","MW:en","LS:en","SZ:en",
+            "CM:en","GM:en","SL:en","LR:en","SD:en","SS:en","ET:en","ER:en","MU:en","SC:en","MZ:en",
+            "JM:en","TT:en","BB:en","BS:en","AG:en","LC:en","VC:en","GD:en","KN:en","BZ:en","GY:en","DM:en","BM:en",
+            "KY:en","VG:en","AI:en","MS:en","TC:en","GI:en","IM:en","GG:en","JE:en","MT:en","CY:en",
+            "HK:en","TW:en","JP:en","KR:en","VN:en","TH:en","ID:en","MM:en","KH:en","LA:en","BN:en","PK:en","LK:en","BD:en","NP:en","BT:en",
+            "AE:en","BH:en","KW:en","QA:en","OM:en","SA:en","IL:en","JO:en","LB:en","EG:en","MA:en","TN:en","DZ:en","TR:en",
+            "DE:en","FR:en","ES:en","IT:en","PT:en","NL:en","BE:en","LU:en","DK:en","SE:en","NO:en","FI:en","IS:en","CH:en","AT:en",
+            "PL:en","CZ:en","SK:en","HU:en","RO:en","BG:en","GR:en","SI:en","HR:en","RS:en","BA:en","ME:en","MK:en","AL:en",
+            "UA:en","MD:en","BY:en","RU:en","EE:en","LV:en","LT:en","GE:en","AM:en","AZ:en"
+        ]
     }
 }
 CFG.update(load_json(CFG_PATH, {}))
@@ -94,8 +110,6 @@ KEYWORDS  = [s.lower() for s in read_lines(ROOT / "keywords.txt")]
 STOPWORDS = [s.lower() for s in read_lines(ROOT / "stopwords.txt")]
 BLOCKED_DOMAINS = {normalize_domain(d) for d in read_lines(ROOT / "blocked_domains.txt")}
 CATEGORIES = load_json(CAT_PATH, [])
-
-DISCOVERED_SOURCES_TXT = ROOT / (CFG.get("DISCOVERY", {}).get("save_domains_file", "discovered_sources.txt"))
 
 BROAD_TOKENS = {
     "android","iphone","ios","ipados","watchos","wear os",
@@ -109,7 +123,6 @@ _TRACKING_PARAMS = {"utm_source","utm_medium","utm_campaign","utm_term","utm_con
                     "utm_name","utm_cid","utm_reader","gclid","fbclid","mc_cid","mc_eid","igshid"}
 
 def canonical_url(u: str) -> str:
-    """Drop tracking params, fragments, lowercase host, and try <link rel=canonical>."""
     try:
         p = urlparse(u)
         q = [(k,v) for (k,v) in parse_qsl(p.query, keep_blank_values=True) if k.lower() not in _TRACKING_PARAMS]
@@ -154,7 +167,7 @@ def match_topic_with_reason(title: str, summary: str):
         hits = find_matches(hay, KEYWORDS)
         return (True, {"keywords": hits, "narrow": False}) if hits else (False, {"keywords": []})
 
-# ---------- feed parsing (returns ts & has_pub) ----------
+# ---------- feed parsing ----------
 def parse_feed(url: str):
     d = feedparser.parse(url)
     items = []
@@ -197,10 +210,8 @@ def gather():
             ts_eff = ts if ts is not None else now
             themed.append((ts_eff, link, title, summary, why))
 
-    # newest first
     themed.sort(key=lambda x: x[0], reverse=True)
 
-    # dedupe + domain block + canonicalize
     seen_run = set()
     unique = []
     for ts, link, title, summary, why in themed:
@@ -218,8 +229,8 @@ def gather():
 
     if CFG.get("DEBUG_STATS", True):
         from datetime import datetime as dt
-        print(f"[debug] age_floor={dt.fromtimestamp(age_floor, tz=timezone.utc).isoformat()}, "
-              f"dropped_age={dropped_age}, dropped_no_pub={dropped_no_pub}, kept={len(unique)}")
+        print(f"[debug] kept={len(unique)} (dropped_age={dropped_age}, dropped_no_pub={dropped_no_pub}) "
+              f"age_floor={dt.fromtimestamp(age_floor, tz=timezone.utc).isoformat()}")
 
     return unique
 
@@ -352,7 +363,6 @@ def mv_score(query: str, doc_text: str, mv_weights, max_txt, chunk_size) -> floa
             best = hybrid
     return best
 
-# ---------- reasons logging ----------
 def log_reason(payload: dict):
     if not CFG.get("LOG_REASONS", True):
         return
@@ -362,7 +372,6 @@ def log_reason(payload: dict):
     except Exception:
         pass
 
-# ---------- groupers ----------
 def _rule_only_grouping(items):
     grouped = {}
     for cat in [c.get("name") for c in CATEGORIES] + [CFG["UNCATEGORIZED"]]:
@@ -413,7 +422,6 @@ def semantic_filter_and_rank(items):
             except Exception as e:
                 print("Semantic scoring error:", e)
                 break
-        # apply threshold
             if score >= threshold:
                 kept[name].append((score, link))
                 log_reason({
@@ -442,7 +450,7 @@ def semantic_filter_and_rank(items):
 
     return grouped
 
-# ---------- discovery: outside sources with same 1-day filter ----------
+# ---------- discovery helpers ----------
 def _known_source_domains():
     dset = set()
     for s in SOURCES:
@@ -452,13 +460,27 @@ def _known_source_domains():
             pass
     return dset
 
-def _gnews_search_feed(query: str) -> str:
-    recency = CFG["DISCOVERY"].get("recency", "when:1d")
-    hl = CFG["DISCOVERY"].get("hl", "en-US")
-    gl = CFG["DISCOVERY"].get("gl", "US")
-    ceid = CFG["DISCOVERY"].get("ceid", "US:en")
+def _gnews_search_feeds(query: str) -> list[str]:
+    """Build Google News RSS search feeds with language-only mode (no geo)."""
+    cfg = CFG.get("DISCOVERY", {})
+    recency = cfg.get("recency", "when:1d")
     q = quote_plus(f"{query} {recency}")
-    return f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
+
+    feeds = []
+    if cfg.get("language_only", False):
+        lang = cfg.get("lang", "en")
+        feeds.append(f"https://news.google.com/rss/search?q={q}&hl={lang}")
+    else:
+        # legacy single-locale / locales
+        locales = cfg.get("locales")
+        if isinstance(locales, list) and locales:
+            for loc in locales:
+                hl = loc.get("hl", "en-US"); gl = loc.get("gl", "US"); ceid = loc.get("ceid", "US:en")
+                feeds.append(f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}")
+        else:
+            hl = cfg.get("hl", "en-US"); gl = cfg.get("gl", "US"); ceid = cfg.get("ceid", "US:en")
+            feeds.append(f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}")
+    return feeds
 
 def _read_discovered_domains(path: pathlib.Path) -> set:
     if not path.exists():
@@ -478,6 +500,7 @@ def _write_discovered_domains(path: pathlib.Path, domains: set):
     except Exception as e:
         print("Discovered domains write error:", e)
 
+# ---------- discovery main ----------
 def discover_outside(grouped_existing, seen_dict, already_links):
     if not CFG.get("DISCOVERY", {}).get("enabled", False):
         return []
@@ -489,28 +512,61 @@ def discover_outside(grouped_existing, seen_dict, already_links):
 
     per_query_limit = int(CFG["DISCOVERY"].get("per_query_limit", 30))
     candidates = []
+    # language-only feeds first
     for q in cat_queries:
-        feed_url = _gnews_search_feed(q)
-        try:
-            for ts, has_pub, link, title, summary in parse_feed(feed_url):
-                if CFG.get("REQUIRE_PUBDATE", True) and not has_pub:
-                    continue
-                if has_pub and ts < age_floor:
-                    continue
-                link_c = canonical_url(link)
-                dom = normalize_domain(urlparse(link_c).netloc)
-                if dom in known or dom in BLOCKED_DOMAINS:
-                    continue
-                if (link_c in already_links) or (link_c in seen_dict):
-                    continue
-                ok, _ = match_topic_with_reason(title, summary)
-                if not ok:
-                    continue
-                candidates.append((ts or now, link_c, title, summary, dom))
-                if len(candidates) >= per_query_limit * len(cat_queries):
-                    break
-        except Exception as e:
-            print("Discovery feed error:", feed_url, e)
+        feed_urls = _gnews_search_feeds(q)
+        local_candidates_count = 0
+        for feed_url in feed_urls:
+            try:
+                for ts, has_pub, link, title, summary in parse_feed(feed_url):
+                    if CFG.get("REQUIRE_PUBDATE", True) and not has_pub:
+                        continue
+                    if has_pub and ts < age_floor:
+                        continue
+                    link_c = canonical_url(link)
+                    dom = normalize_domain(urlparse(link_c).netloc)
+                    if dom in known or dom in BLOCKED_DOMAINS:
+                        continue
+                    if (link_c in already_links) or (link_c in seen_dict):
+                        continue
+                    ok, _ = match_topic_with_reason(title, summary)
+                    if not ok:
+                        continue
+                    candidates.append((ts or now, link_c, title, summary, dom))
+                    local_candidates_count += 1
+                    if len(candidates) >= per_query_limit * len(cat_queries):
+                        break
+            except Exception as e:
+                print("Discovery feed error:", feed_url, e)
+
+        # optional fallback to ceid editions (EN) if language-only yielded zero for this query
+        if local_candidates_count == 0 and CFG["DISCOVERY"].get("language_only", False) and CFG["DISCOVERY"].get("fallback_ceid_if_empty", False):
+            recency = CFG["DISCOVERY"].get("recency", "when:1d")
+            q_enc = quote_plus(f"{q} {recency}")
+            for ceid in CFG["DISCOVERY"].get("compat_ceids", ["US:en","GB:en"]):
+                try:
+                    country = ceid.split(":")[0]
+                    hl = f"en-{country}"
+                    feed_url = f"https://news.google.com/rss/search?q={q_enc}&hl={hl}&gl={country}&ceid={ceid}"
+                    for ts, has_pub, link, title, summary in parse_feed(feed_url):
+                        if CFG.get("REQUIRE_PUBDATE", True) and not has_pub:
+                            continue
+                        if has_pub and ts < age_floor:
+                            continue
+                        link_c = canonical_url(link)
+                        dom = normalize_domain(urlparse(link_c).netloc)
+                        if dom in known or dom in BLOCKED_DOMAINS:
+                            continue
+                        if (link_c in already_links) or (link_c in seen_dict):
+                            continue
+                        ok, _ = match_topic_with_reason(title, summary)
+                        if not ok:
+                            continue
+                        candidates.append((ts or now, link_c, title, summary, dom))
+                        if len(candidates) >= per_query_limit * len(cat_queries):
+                            break
+                except Exception as e:
+                    print("Discovery fallback feed error:", e)
 
     if not candidates:
         return []
@@ -560,9 +616,8 @@ def discover_outside(grouped_existing, seen_dict, already_links):
             "outside": True
         })
 
-    # save discovered domains if enabled
     if CFG.get("DISCOVERY", {}).get("save_domains", True):
-        _write_discovered_domains(DISCOVERED_SOURCES_TXT, out_domains)
+        _write_discovered_domains(ROOT / (CFG["DISCOVERY"].get("save_domains_file", "discovered_sources.txt")), out_domains)
 
     return out_links
 
