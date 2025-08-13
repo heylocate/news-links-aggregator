@@ -10,7 +10,6 @@ https://krebsonsecurity.com/feed/
 https://www.eff.org/rss/updates.xml
 https://www.ftc.gov/news-events/news/press-releases/rss
 https://www.fcc.gov/news-events/headlines.rss
-https://about.usps.com/news/latestnews.rss
 https://business-resources.truecaller.com/blog-feed.xml
 https://developer.hiya.com/changelog/rss.xml
 https://blog.tineye.com/feed/
