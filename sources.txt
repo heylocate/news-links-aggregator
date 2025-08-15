@@ -90,3 +90,4 @@ https://discord.com/blog/rss.xml
 https://www.blog.youtube/rss/
 https://gs.statcounter.com/feed
 https://newsroom.orange.com/feed/
+https://www.zdnet.com/news/rss.xml
