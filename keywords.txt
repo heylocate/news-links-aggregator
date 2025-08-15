@@ -78,9 +78,13 @@ goguardian
 
 #General
 number tracking
+number tracker
 phone tracking
+phone tracker
 phone locator
+phone location
 device tracking
+device tracker
 geofencing
 lost phone
 anti-theft
@@ -103,6 +107,7 @@ family safety
 kid safety
 child safety
 monitoring app
+phone monitoring
 background check
 criminal records
 public records
@@ -121,6 +126,7 @@ address cleansing
 geocoding
 reverse geocoding
 image search
+image lookup
 reverse image search
 face search
 visual search
