@@ -83,3 +83,10 @@ https://www.bellingcat.com/feed/
 https://isc.sans.edu/rssfeed.xml
 https://blog.openstreetmap.org/feed/
 https://techxplore.com/rss-feed/breaking/telecom-news/
+https://www.socialmediatoday.com/feeds/news/
+https://www.pewresearch.org/feed/
+https://techreport.com/feed/
+https://discord.com/blog/rss.xml
+https://www.blog.youtube/rss/
+https://gs.statcounter.com/feed
+https://newsroom.orange.com/feed/
