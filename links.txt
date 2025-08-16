@@ -1,13 +1,8 @@
-## People Search
-https://9to5mac.com/2025/08/14/data-brokers-just-gave-us-another-reason-to-hate-them/
+## Parental Control
+https://www.techradar.com/ai-platforms-assistants/metas-ai-chatbot-guidelines-leak-raises-questions-about-child-safety
 
 ## Address Lookup
-https://blog.google/products/maps/bensonboone-american-heart-tour/
-
-## Image Search
-https://www.androidpolice.com/google-reverse-image-search-explainer/
+https://www.androidauthority.com/find-hub-location-shortcut-3587670/
 
 ## Email Lookup
-https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/
-https://iapp.org/news/a/italian-hotels-hit-in-data-theft-scheme-dpa-says
-https://iapp.org/news/a/irish-dpc-opens-inquiry-into-childrens-health-system-data-issues
+https://www.tomsguide.com/computing/online-security/over-190-million-hit-in-unitedhealth-data-breach-confirmed-largest-in-history

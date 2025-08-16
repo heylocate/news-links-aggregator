@@ -1296,3 +1296,6 @@ https://iapp.org/news/a/irish-dpc-opens-inquiry-into-childrens-health-system-dat
 https://iapp.org/news/a/italian-hotels-hit-in-data-theft-scheme-dpa-says
 https://www.androidpolice.com/google-reverse-image-search-explainer/
 https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/
+https://www.androidauthority.com/find-hub-location-shortcut-3587670/
+https://www.techradar.com/ai-platforms-assistants/metas-ai-chatbot-guidelines-leak-raises-questions-about-child-safety
+https://www.tomsguide.com/computing/online-security/over-190-million-hit-in-unitedhealth-data-breach-confirmed-largest-in-history
