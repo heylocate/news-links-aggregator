@@ -1,19 +1,15 @@
-## Phone Lookup
-https://blog.youmail.com/2025/08/caller-id-spoofing-is-back-and-smarter-than-ever/
-
 ## Parental Control
-https://techcrunch.com/2025/08/18/texas-attorney-general-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/
+https://www.techradar.com/phones/ios/4-surprising-ways-you-can-gain-control-of-your-kids-screen-time-on-the-iphone-and-ipad
+https://www.macrumors.com/2025/08/19/iphone-drivers-license-montana/
 
-## People Search
-https://iapp.org/news/a/senator-calls-for-data-brokers-to-disclose-opt-out-notice-practices
+## Background Check
+https://www.eff.org/deeplinks/2025/08/victory-pen-links-police-tools-are-not-secret
 
 ## Address Lookup
-https://www.androidcentral.com/apps-software/google-maps-tap-and-hold-to-react
-https://www.tomsguide.com/computing/mobile-apps/i-use-google-maps-every-day-heres-11-underrated-features-you-should-try-now
+https://www.tomsguide.com/phones/we-asked-you-answered-who-wins-waze-or-google-maps
 
 ## Email Lookup
-https://techcrunch.com/2025/08/18/allianz-life-data-breach-affects-1-1-million-customers/
-https://www.engadget.com/cybersecurity/workday-says-hackers-used-social-engineering-to-access-personal-data-during-a-breach-183451732.html?src=rss
-https://iapp.org/news/a/ny-reaches-settlement-over-health-company-data-breach-incident
-https://iapp.org/news/a/federal-court-upholds-fccs-ability-to-impose-data-breach-rules
-https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/
+https://www.androidheadlines.com/2025/08/att-subscribers-may-be-entitled-to-5000-payout-over-data-breach.html
+https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/
+https://iapp.org/news/a/venezuela-data-breach-highlights-scattered-privacy-regulation
+https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/
