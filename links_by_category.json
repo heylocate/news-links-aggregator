@@ -1,25 +1,23 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://www.androidauthority.com/identity-check-expanded-app-support-3589693/"
+  ],
   "Parental Control": [
-    "https://www.techradar.com/phones/ios/4-surprising-ways-you-can-gain-control-of-your-kids-screen-time-on-the-iphone-and-ipad",
-    "https://www.macrumors.com/2025/08/19/iphone-drivers-license-montana/"
+    "https://blog.google/feed/2025-new-parental-controls-android/"
   ],
   "Background Check": [
-    "https://www.eff.org/deeplinks/2025/08/victory-pen-links-police-tools-are-not-secret"
+    "https://www.macrumors.com/2025/08/20/iphone-drivers-licenses-10-states/"
   ],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.tomsguide.com/phones/we-asked-you-answered-who-wins-waze-or-google-maps"
+  "Address Lookup": [],
+  "Image Search": [
+    "https://www.engadget.com/ai/google-pixel-10-phones-will-narc-on-ai-edited-images-161757203.html?src=rss"
   ],
-  "Image Search": [],
-  "Email Lookup": [
-    "https://www.androidheadlines.com/2025/08/att-subscribers-may-be-entitled-to-5000-payout-over-data-breach.html",
-    "https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/",
-    "https://iapp.org/news/a/venezuela-data-breach-highlights-scattered-privacy-regulation",
-    "https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/"
+  "Email Lookup": [],
+  "Security & Anti-Abuse": [
+    "https://iapp.org/news/a/hr-provider-reports-personal-data-breach"
   ],
-  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
