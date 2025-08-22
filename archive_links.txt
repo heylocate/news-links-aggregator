@@ -1327,3 +1327,17 @@ https://iapp.org/news/a/hr-provider-reports-personal-data-breach
 https://www.androidauthority.com/identity-check-expanded-app-support-3589693/
 https://www.engadget.com/ai/google-pixel-10-phones-will-narc-on-ai-edited-images-161757203.html?src=rss
 https://www.macrumors.com/2025/08/20/iphone-drivers-licenses-10-states/
+https://iapp.org/news/a/telecom-operator-breach-impacts-850k-belgian-customers
+https://www.androidauthority.com/android-built-in-parental-controls-3590162/
+https://www.androidauthority.com/google-maps-share-list-search-results-apk-teardown-3589963/
+https://www.androidauthority.com/google-maps-your-recent-places-3589969/
+https://www.androidauthority.com/pixel-10-find-hub-google-maps-satellite-live-location-sharing-3589866/
+https://www.androidheadlines.com/2025/08/android-16-qpr2-identity-check-anti-theft-pin.html
+https://www.androidheadlines.com/2025/08/fda-approves-signos-first-glucose-monitoring-app-for-weight-loss.html
+https://www.androidpolice.com/google-maps-now-displays-the-places-youve-visited-front-and-center/
+https://www.bleepingcomputer.com/news/security/orange-belgium-discloses-data-breach-impacting-850-000-customers/
+https://www.engadget.com/ai/google-ai-mode-is-expanding-to-180-countries-and-adding-an-agentic-restaurant-finder-154833417.html?src=rss
+https://www.techradar.com/pro/security/a-limited-data-breach-at-aussie-telco-giant-turned-out-to-have-leaked-280-000-customer-details
+https://www.tomsguide.com/phones/google-pixel-phones/the-google-pixel-10-will-let-you-share-your-location-through-satellite-heres-what-we-know
+https://www.verizon.com/about/news/what-parents-need-know-about-verizon-family-plus
+https://www.verizon.com/about/parenting/what-parents-need-to-know-about-verizon-family-plus
