@@ -2,20 +2,22 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://techreport.com/news/child-safety-vs-privacy-online-age-verification-dilemma/"
+    "https://www.engadget.com/ai/us-attorneys-general-tell-ai-companies-they-will-be-held-accountable-for-child-safety-failures-035213253.html?src=rss",
+    "https://iapp.org/news/a/public-knowledge-offers-child-safety-focused-digital-policy-framework"
   ],
-  "Background Check": [
-    "https://www.phonearena.com/news/new-pixel-feature-in-android-16-qpr2-beta-1-makes-your-phone-more-secure_id173503"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.cnet.com/personal-finance/a-massive-at-t-settlement-could-put-up-to-7500-in-your-pocket/#ftag=CADf328eec"
+    "https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/",
+    "https://www.bleepingcomputer.com/news/security/auchan-retailer-data-breach-impacts-hundreds-of-thousands-of-customers/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.engadget.com/mobile/smartphones/a-four-pack-of-apple-airtags-drops-to-70-for-labor-day-130740384.html?src=rss"
+  ]
 }
