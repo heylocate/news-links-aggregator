@@ -1,9 +1,11 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://www.androidpolice.com/chipolo-loop-card-android-apple-launch/",
+    "https://www.engadget.com/home/smart-home/chipolo-launches-new-loop-and-card-bluetooth-trackers-130009817.html?src=rss"
+  ],
   "Parental Control": [
-    "https://www.verizon.com/about/parenting/parental-controls-one-device-at-a-time",
-    "https://www.verizon.com/about/news/how-get-comfortable-parental-controls-one-device-time"
+    "https://www.cnet.com/tech/services-and-software/openai-plans-to-add-parental-controls-to-chatgpt-after-lawsuit-over-teens-death/#ftag=CADf328eec"
   ],
   "Background Check": [],
   "People Search": [],
@@ -11,13 +13,14 @@
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.zdnet.com/article/1-1m-insurance-customers-were-exposed-in-a-data-breach-heres-what-to-know/",
-    "https://www.tomsguide.com/computing/online-security/over-1-million-hit-in-farmers-insurance-data-breach-names-addresses-partial-ssns-and-more-exposed",
-    "https://www.bleepingcomputer.com/news/security/nissan-confirms-design-studio-data-breach-claimed-by-qilin-ransomware/",
-    "https://go.theregister.com/feed/www.theregister.com/2025/08/26/farmers_insurance_breach/"
+    "https://www.tomsguide.com/computing/online-security/over-half-a-million-hit-in-major-healthcare-data-breach-with-ssns-financial-info-and-more-exposed-what-to-do-now",
+    "https://www.bleepingcomputer.com/news/security/healthcare-services-group-data-breach-impacts-624-000-people/",
+    "https://iapp.org/news/a/uk-court-reverses-decision-potentially-limiting-data-breach-claims"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.engadget.com/mobile/smartphones/labor-day-sales-include-a-four-pack-of-apple-airtags-for-70-130740229.html?src=rss"
+  ]
 }
