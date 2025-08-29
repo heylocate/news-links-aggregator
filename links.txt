@@ -1,14 +1,15 @@
-## Number / Device Tracking
-https://www.androidpolice.com/chipolo-loop-card-android-apple-launch/
-https://www.engadget.com/home/smart-home/chipolo-launches-new-loop-and-card-bluetooth-trackers-130009817.html?src=rss
-
 ## Parental Control
-https://www.cnet.com/tech/services-and-software/openai-plans-to-add-parental-controls-to-chatgpt-after-lawsuit-over-teens-death/#ftag=CADf328eec
+https://www.tomsguide.com/ai/chatgpt/openai-adds-new-chatgpt-safety-tools-after-teen-took-his-own-life-what-it-means-for-ais-future
+
+## People Search
+https://9to5mac.com/2025/08/28/incogni-deletes-your-familys-private-info-from-the-internet-heres-why-that-matters/
+
+## Address Lookup
+https://www.androidpolice.com/google-maps-motion-photo-support/
+https://www.androidauthority.com/google-maps-motion-photos-3592423/
 
 ## Security & Anti-Abuse
-https://www.tomsguide.com/computing/online-security/over-half-a-million-hit-in-major-healthcare-data-breach-with-ssns-financial-info-and-more-exposed-what-to-do-now
-https://www.bleepingcomputer.com/news/security/healthcare-services-group-data-breach-impacts-624-000-people/
-https://iapp.org/news/a/uk-court-reverses-decision-potentially-limiting-data-breach-claims
-
-## Uncategorized
-https://www.engadget.com/mobile/smartphones/labor-day-sales-include-a-four-pack-of-apple-airtags-for-70-130740229.html?src=rss
+https://www.cnet.com/tech/services-and-software/credit-bureau-transunion-hit-with-data-breach-affecting-4-4-million-people/#ftag=CADf328eec
+https://www.tomsguide.com/computing/online-security/more-than-4-million-people-exposed-in-transunion-data-breach-what-you-need-to-know
+https://www.bleepingcomputer.com/news/security/transunion-suffers-data-breach-impacting-over-44-million-people/
+https://iapp.org/news/a/south-koreas-pipc-issues-krw134b-to-telecommunications-company-for-data-breach
