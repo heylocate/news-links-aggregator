@@ -135,3 +135,11 @@ https://rss.packetstormsecurity.com/files/       # новые файлы/экс�
 https://rss.zerodayinitiative.com/               # ZDI advisories/пресс-хиты
 https://securityboulevard.com/feed/
 https://www.csoonline.com/index.rss
+https://saferinternet.org.uk/feed
+https://www.childnet.com/blog/feed/
+https://protectyoungeyes.com/feed/
+https://www.netfamilynews.org/feed
+https://connectsafely.org/feed/
+https://www.mmguardian.com/blog/feed/
+https://www.ourpact.com/articles/feed/
+https://kidslox.com/blog/feed/
