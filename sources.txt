@@ -111,3 +111,27 @@ https://readwrite.com/feed/
 https://www.trustedreviews.com/feed
 https://bgr.com/feed/
 https://www.technewsworld.com/rss-feed
+https://feeds.feedburner.com/TheHackersNews
+https://www.securityweek.com/feed/
+https://www.darkreading.com/rss.xml
+https://databreaches.net/feed/
+https://www.exploit-db.com/rss.xml
+https://seclists.org/rss/fulldisclosure.rss
+https://www.recordedfuture.com/feed
+https://therecord.media/feed
+https://www.schneier.com/feed/
+https://isc.sans.edu/rssfeed.xml
+https://portswigger.net/daily-swig/rss
+https://blog.talosintelligence.com/rss/
+https://www.microsoft.com/en-us/security/blog/feed/
+https://msrc.microsoft.com/blog/rss/
+https://unit42.paloaltonetworks.com/feed/
+https://research.checkpoint.com/feed/
+https://www.welivesecurity.com/en/rss/feed/
+https://securelist.com/feed/
+https://blog.malwarebytes.com/feed/
+https://rss.packetstormsecurity.com/news/        # новостная лента Packet Storm
+https://rss.packetstormsecurity.com/files/       # новые файлы/эксплойты Packet Storm
+https://rss.zerodayinitiative.com/               # ZDI advisories/пресс-хиты
+https://securityboulevard.com/feed/
+https://www.csoonline.com/index.rss
