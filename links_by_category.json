@@ -1,18 +1,35 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [
-    "https://www.engadget.com/mobile/how-to-perform-a-reverse-phone-number-lookup-130004364.html?src=rss"
+  "Parental Control": [
+    "https://www.techradar.com/ai-platforms-assistants/chatgpt/heres-how-chatgpt-parental-controls-will-work-and-it-might-just-be-the-ai-implementation-parents-have-been-waiting-for",
+    "https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/",
+    "https://arstechnica.com/ai/2025/09/openai-announces-parental-controls-for-chatgpt-after-teen-suicide-lawsuit/",
+    "https://www.engadget.com/ai/openai-is-adding-parental-controls-to-chatgpt-144128085.html?src=rss",
+    "https://www.qustodio.com/en/blog/introducing-always-allowed/",
+    "https://www.qustodio.com/en/blog/introducing-snapchat-tiktok-x-social-alerts/"
   ],
-  "People Search": [],
+  "Background Check": [],
+  "People Search": [
+    "https://iapp.org/news/a/oregonians-worried-about-data-brokers-new-report-says"
+  ],
   "Address Lookup": [
-    "https://www.androidauthority.com/google-maps-testing-live-updates-3593335/"
+    "https://www.androidheadlines.com/2025/09/google-maps-live-updates-coming.html"
   ],
-  "Image Search": [],
+  "Image Search": [
+    "https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/"
+  ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/zscaler-data-breach-exposes-customer-info-after-salesloft-drift-compromise/"
+    "https://www.tomsguide.com/computing/online-security/major-us-delivery-company-hit-in-data-breach-with-full-names-ssns-and-medical-info-of-thousands-exposed-online",
+    "https://www.bleepingcomputer.com/news/security/cloudflare-hit-by-data-breach-in-salesloft-drift-supply-chain-attack/",
+    "https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/",
+    "https://9to5google.com/2025/09/02/google-says-gmail-security-is-strong-and-effective-following-mass-data-breach-rumors/",
+    "https://www.techradar.com/pro/security/zscaler-says-it-suffered-data-breach-following-salesloft-drift-compromise",
+    "https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-cases/",
+    "https://9to5mac.com/2025/09/02/transunion-data-breach-hits-millions-but-gmail-security-reports-are-false/",
+    "https://iapp.org/news/a/denmarks-dpa-gives-finer-detail-in-data-breach-report",
+    "https://iapp.org/news/a/uk-government-questioned-over-security-review-that-found-privacy-safeguards-were-not-implemented"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
