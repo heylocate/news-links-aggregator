@@ -2,24 +2,17 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.computerworld.com/article/4050700/ai-chatbots-are-not-your-friends.html",
-    "https://www.qustodio.com/en/blog/dumb-phones-for-kids/"
+    "https://techreport.com/news/eu-chat-control-legislation-safety-vs-surveillance/"
   ],
-  "Background Check": [
-    "https://www.geekwire.com/2025/id-verification-startup-vouched-raises-17m-as-it-builds-ai-tools-for-new-future-of-identity/"
-  ],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://arstechnica.com/gadgets/2025/09/covid-vaccine-locations-vanish-from-google-maps-due-to-alleged-technical-issue/",
-    "https://9to5google.com/2025/09/04/google-maps-wear-os-auto-launch-video/"
+  "Address Lookup": [],
+  "Image Search": [
+    "https://www.engadget.com/mobile/apples-ios-26-release-date-is-coming-up-check-to-see-if-your-iphone-is-compatible-for-the-update-191854907.html?src=rss"
   ],
-  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/texas-sues-powerschool-after-massive-data-breach-hit-62-million-students/",
-    "https://www.bleepingcomputer.com/news/security/chesscom-discloses-recent-data-breach-via-file-transfer-app/",
-    "https://www.darkreading.com/cyberattacks-data-breaches/salesloft-drift-attacks-blast-radius-uncertain",
-    "https://iapp.org/news/a/us-federal-courts-navigate-alleged-data-security-incidents"
+    "https://www.bleepingcomputer.com/news/security/financial-services-firm-wealthsimple-discloses-data-breach/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
