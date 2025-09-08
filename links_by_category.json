@@ -1,18 +1,20 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://hackernoon.com/you-can-use-screen-time-to-protect-your-iphone-from-thieves-heres-how?source=rss",
-    "https://www.macworld.com/article/2897756/the-app-thats-turning-childhood-screen-time-into-learning-time-just-went-on-sale.html"
-  ],
+  "Parental Control": [],
   "Background Check": [
-    "https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/"
+    "https://hackernoon.com/what-its-like-to-run-a-public-records-audit-with-a-team-of-students?source=rss"
   ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.phonearena.com/news/users-biggest-issue-with-google-maps_id173832",
+    "https://9to5google.com/2025/09/07/google-maps-maimed-timelines-worse-than-abandonment/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://securityboulevard.com/2025/09/proactively-manage-nhis-to-avoid-data-breaches/?utm_source=rss&utm_medium=rss&utm_campaign=proactively-manage-nhis-to-avoid-data-breaches"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
