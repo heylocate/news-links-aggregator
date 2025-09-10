@@ -1,33 +1,39 @@
 {
   "Phone Lookup": [
-    "https://www.slashgear.com/1960219/can-you-call-back-a-no-caller-id-number/",
-    "https://blog.hiya.com/what-you-need-to-know-about-apples-ios-26-call-screening"
+    "https://therecord.media/us-seeks-5-million-bitcoin-taken-in-sim-swaps",
+    "https://blog.hiya.com/hiya-expands-self-service-pricing-for-branded-call"
   ],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://www.macworld.com/article/2900725/you-no-longer-have-to-worry-about-losing-your-wallet.html"
+  ],
   "Parental Control": [
-    "https://gizmodo.com/meta-whistleblowers-allege-company-buried-info-on-child-safety-2000655446"
+    "https://iapp.org/news/a/whistleblowers-claim-meta-disregarded-child-safety-research-for-vr-products",
+    "https://iapp.org/news/a/slovenia-dpa-urges-child-safety-mechanisms-that-dont-breach-users-privacy"
   ],
   "Background Check": [
-    "https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html"
+    "https://databreaches.net/2025/09/09/mo-city-of-st-joseph-hit-by-cyberattack-data-potentially-acquired-in-breach/?pk_campaign=feed&pk_kwd=mo-city-of-st-joseph-hit-by-cyberattack-data-potentially-acquired-in-breach"
   ],
-  "People Search": [],
+  "People Search": [
+    "https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/"
+  ],
   "Address Lookup": [],
   "Image Search": [
-    "https://www.engadget.com/mobile/ios-26-release-date-expected-at-tuesdays-apple-event-check-to-see-if-your-iphone-is-compatible-for-the-update-191854812.html?src=rss"
+    "https://www.engadget.com/mobile/ios-26-will-be-available-next-week-find-out-if-your-iphone-is-compatible-with-the-free-update-191854176.html?src=rss",
+    "https://techcrunch.com/2025/09/09/apples-new-iphone-17-devices-dont-have-an-ai-powered-siri-yet-it-doesnt-matter/"
   ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.androidauthority.com/plex-data-breach-3595999/",
-    "https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/",
-    "https://techcrunch.com/2025/09/08/vc-giant-insight-partners-notifies-staff-and-limited-partners-after-data-breach/",
-    "https://databreaches.net/2025/09/08/vietnams-national-credit-registration-and-reporting-agency-hacked-most-of-the-population-affected/?pk_campaign=feed&pk_kwd=vietnams-national-credit-registration-and-reporting-agency-hacked-most-of-the-population-affected",
-    "https://www.bleepingcomputer.com/news/security/lovesac-confirms-data-breach-after-ransomware-attack-claims/",
-    "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
-    "https://www.techradar.com/pro/security/wealthsimple-reveals-data-breach-users-of-financial-firm-warned-to-be-on-alert",
-    "https://www.pcworld.com/article/2896139/paypal-account-hacked-what-you-can-do.html",
-    "https://iapp.org/news/a/uks-mod-allegedly-limited-icos-investigation-into-its-data-breach",
-    "https://iapp.org/news/a/estonias-dpa-issues-3m-euro-fine-to-marketing-company-after-data-breach",
-    "https://www.securityweek.com/fintech-firm-wealthsimple-says-supply-chain-attack-resulted-in-data-breach/"
+    "https://www.androidheadlines.com/2025/09/new-plex-data-breach-its-time-to-change-your-password.html",
+    "https://www.cnet.com/personal-finance/at-ts-177-million-payout-how-to-claim-your-share-of-the-settlement/#ftag=CADf328eec",
+    "https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack",
+    "https://www.techspot.com/news/109389-plex-suffers-major-data-breach-urges-users-reset.html",
+    "https://www.tomsguide.com/computing/online-security/plex-users-need-to-change-their-passwords-theres-been-another-breach",
+    "https://www.engadget.com/big-tech/plex-tells-users-to-change-their-passwords-after-data-breach-152635869.html?src=rss",
+    "https://www.techradar.com/pro/security/all-plex-users-should-reset-passwords-in-wake-of-data-breach",
+    "https://databreaches.net/2025/09/09/english-court-of-appeal-rules-on-compensation-for-data-breaches/?pk_campaign=feed&pk_kwd=english-court-of-appeal-rules-on-compensation-for-data-breaches",
+    "https://9to5mac.com/2025/09/09/another-plex-data-breach-sees-company-urge-users-to-change-their-password/",
+    "https://www.securityweek.com/160000-impacted-by-wayne-memorial-hospital-data-breach/",
+    "https://www.securityweek.com/plex-urges-password-resets-following-data-breach/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
