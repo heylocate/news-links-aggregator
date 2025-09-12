@@ -130,9 +130,9 @@ https://research.checkpoint.com/feed/
 https://www.welivesecurity.com/en/rss/feed/
 https://securelist.com/feed/
 https://blog.malwarebytes.com/feed/
-https://rss.packetstormsecurity.com/news/        # новостная лента Packet Storm
-https://rss.packetstormsecurity.com/files/       # новые файлы/эксплойты Packet Storm
-https://rss.zerodayinitiative.com/               # ZDI advisories/пресс-хиты
+https://rss.packetstormsecurity.com/news/        
+https://rss.packetstormsecurity.com/files/       
+https://rss.zerodayinitiative.com/              
 https://securityboulevard.com/feed/
 https://www.csoonline.com/index.rss
 https://saferinternet.org.uk/feed
