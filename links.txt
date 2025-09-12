@@ -1,25 +1,14 @@
-## Number / Device Tracking
-https://www.techradar.com/pro/this-portable-ssd-has-a-unique-anti-theft-feature-and-you-can-even-track-it-via-apples-find-my-app-should-it-be-lost-or-stolen
-https://www.androidauthority.com/identity-check-smartwatch-android-16-qpr2-3596334/
-
 ## Parental Control
-https://www.techradar.com/pro/phone-communications/this-security-app-deliberately-slows-down-internet-speeds-to-encourage-your-kids-to-log-off-their-snapchat-accounts
-https://iapp.org/news/a/employees-accuse-meta-of-failing-to-protect-user-safety-on-products
-https://www.qustodio.com/en/blog/ai-companions-and-your-child/
+https://www.techspot.com/news/109419-whistleblowers-tell-us-senate-meta-ignored-child-safety.html
+https://therecord.media/ftc-opens-inquiry-ai-chatbots-kids
 
-## Background Check
-https://www.eff.org/deeplinks/2025/09/san-francisco-gets-invasive-billionaire-bought-surveillance-hq
-
-## People Search
-https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far
-https://android-developers.googleblog.com/2025/09/weareplay-meet-people-using-google-ai.html
+## Address Lookup
+https://9to5google.com/2025/09/11/google-maps-down-outage/
+https://www.androidauthority.com/gemini-live-camera-sharing-google-maps-info-cards-apk-teardown-3596946/
 
 ## Security & Anti-Abuse
-https://www.pcworld.com/article/394076/best-free-password-managers.html
-https://securityboulevard.com/2025/09/unc6395-hackers-accessed-systems-via-a-github-account-salesloft-says/?utm_source=rss&utm_medium=rss&utm_campaign=unc6395-hackers-accessed-systems-via-a-github-account-salesloft-says
-https://www.securityweek.com/jaguar-land-rover-admits-data-breach-caused-by-recent-cyberattack/
-https://www.pcworld.com/article/2905151/plex-says-change-your-password-after-security-breach.html
-https://www.malwarebytes.com/blog/news/2025/09/ransomware-attack-at-blood-center-org-tells-users-their-datas-been-stolen
-https://go.theregister.com/feed/www.theregister.com/2025/09/10/birmingham_school_data_blunder/
-https://www.malwarebytes.com/blog/news/2025/09/plex-users-reset-your-password
-https://iapp.org/news/a/finlands-dpa-fines-bank-1-8m-euros-for-alleged-security-vulnerabilities
+https://databreaches.net/2025/09/11/kivimaki-walks-free-during-appeal-over-vastaamo-data-breach/?pk_campaign=feed&pk_kwd=kivimaki-walks-free-during-appeal-over-vastaamo-data-breach
+https://www.securityweek.com/uk-train-operator-lner-warns-customers-of-data-breach/
+https://www.securityweek.com/100000-impacted-by-cornwell-quality-tools-data-breach/
+https://go.theregister.com/feed/www.theregister.com/2025/09/11/lner_says_customer_data_stolen/
+https://iapp.org/news/a/ico-issues-guidance-for-preventing-student-insider-cyberattacks-against-schools
