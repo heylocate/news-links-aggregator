@@ -1,24 +1,25 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.youmail.com/2025/09/august-2025-robocall-breakdown-the-top-5-hardest%e2%80%91hit-cities-and-the-biggest-risers/"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.techspot.com/news/109419-whistleblowers-tell-us-senate-meta-ignored-child-safety.html",
-    "https://therecord.media/ftc-opens-inquiry-ai-chatbots-kids"
+    "https://www.macworld.com/article/2889649/apple-intelligence-guide-features-siri-chatgpt-iphone.html"
   ],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://iapp.org/news/a/georgetown-law-debuts-data-broker-toolkit"
+  ],
   "Address Lookup": [
-    "https://9to5google.com/2025/09/11/google-maps-down-outage/",
-    "https://www.androidauthority.com/gemini-live-camera-sharing-google-maps-info-cards-apk-teardown-3596946/"
+    "https://www.bgr.com/1966118/gemini-live-more-google-maps-integration-future/",
+    "https://www.phonearena.com/news/is-google-maps-down-why-you-may-be-having-trouble-getting-navigation-help_id173992"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2025/09/11/kivimaki-walks-free-during-appeal-over-vastaamo-data-breach/?pk_campaign=feed&pk_kwd=kivimaki-walks-free-during-appeal-over-vastaamo-data-breach",
-    "https://www.securityweek.com/uk-train-operator-lner-warns-customers-of-data-breach/",
-    "https://www.securityweek.com/100000-impacted-by-cornwell-quality-tools-data-breach/",
-    "https://go.theregister.com/feed/www.theregister.com/2025/09/11/lner_says_customer_data_stolen/",
-    "https://iapp.org/news/a/ico-issues-guidance-for-preventing-student-insider-cyberattacks-against-schools"
+    "https://therecord.media/vietnam-cic-panama-finance-ministry-cyberattacks",
+    "https://therecord.media/finland-vastaamo-hacker-free-during-appeal-conviction",
+    "https://iapp.org/news/a/ninth-circuit-takes-cautious-approach-to-privacy-and-data-security-standing"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
