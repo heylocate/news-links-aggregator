@@ -1,19 +1,32 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [
-    "https://www.tomsguide.com/computing/mobile-apps/google-maps-has-secret-easter-eggs-hiding-in-plain-sight-heres-how-to-unlock-them"
+  "Phone Lookup": [
+    "https://blog.hiya.com/scam-of-the-month-cable-tv-and-subscription-tv-scams"
   ],
+  "Number / Device Tracking": [],
+  "Parental Control": [
+    "https://www.howtogeek.com/hobbies-perfect-for-cutting-your-screen-time/"
+  ],
+  "Background Check": [
+    "https://www.globenewswire.com/news-release/2025/09/16/3150486/0/en/Annature-Powers-ID-Verification-and-eSigning-for-OnboardMe.html"
+  ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [
-    "https://www.engadget.com/mobile/ios-26-arrives-on-monday-find-out-if-your-iphone-is-eligible-for-the-free-update-191854034.html?src=rss"
+    "https://www.engadget.com/mobile/ios-26-is-here-find-out-if-your-iphone-is-eligible-for-the-free-update-191854386.html?src=rss",
+    "https://www.macworld.com/article/2908671/these-are-the-top-7-features-to-try-when-ios-26-arrives-today.html"
   ],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.tomsguide.com/computing/online-security/skincare-giant-clarins-allegedly-hit-in-data-breach-with-600-000-customers-exposed-what-you-need-to-know",
+    "https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/",
+    "https://www.securityweek.com/west-virginia-credit-union-notifying-187000-people-impacted-by-2023-data-breach/",
+    "https://iapp.org/news/a/lithuania-revises-guidnace-on-what-counts-as-a-personal-data-breach"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.prnewswire.com/news-releases/infinix-q2-shipments-and-market-share-soar-fastest-growth-in-southeast-asia-302557010.html",
+    "https://www.prnewswire.com/news-releases/infinix-q2-shipments-and-market-share-soar-fastest-growth-in-southeast-asia-302556992.html"
+  ]
 }
