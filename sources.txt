@@ -159,3 +159,4 @@ https://rssfeeds.webwire.com/WebWire-News-Consumer-Electronics
 https://rssfeeds.webwire.com/WebWire-News-Mobile-Communications
 https://rssfeeds.webwire.com/WebWire-News-Business-Announcements
 https://www.pr.com/rss/press-releases.xml
+https://openai.com/news/
