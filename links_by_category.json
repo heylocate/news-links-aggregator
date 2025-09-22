@@ -1,17 +1,17 @@
 {
   "Phone Lookup": [
-    "https://www.bgr.com/1973157/court-documents-t-mobile-sim-swap-threat/"
+    "https://www.phonearena.com/news/att-t-mobile-sim-swap-noah-urban_id174232"
   ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidauthority.com/google-maps-my-maps-ideas-3598518/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://haveibeenpwned.com/Breach/Animeify"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
