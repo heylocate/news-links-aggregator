@@ -1,16 +1,20 @@
 {
-  "Phone Lookup": [
-    "https://www.phonearena.com/news/att-t-mobile-sim-swap-noah-urban_id174232"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.techradar.com/pro/security/hackers-can-now-inject-ai-deepfakes-directly-into-ios-video-calls-using-this-tool-heres-how-to-stay-safe",
+    "https://www.eff.org/deeplinks/2025/09/drone-sky-could-be-tracking-your-car"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/Animeify"
+    "https://www.engadget.com/big-tech/stellantis-confirms-data-breach-involving-customers-contact-information-194136744.html?src=rss",
+    "https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/",
+    "https://www.cnet.com/personal-finance/at-ts-177-million-payout-heres-how-it-works-and-how-to-claim-your-share/#ftag=CADf328eec",
+    "https://therecord.media/stellantis-investigates-cyber-incident"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
