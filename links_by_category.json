@@ -1,20 +1,26 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.youmail.com/2025/09/how-to-check-if-a-phone-number-is-spam-in-2025/",
+    "https://developer.vonage.com/en/blog/prevent-sim-swap-fraud-in-python-with-the-identity-insights-api"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.macworld.com/article/668092/norton-360-review.html"
+  ],
   "Background Check": [
-    "https://www.techradar.com/pro/security/hackers-can-now-inject-ai-deepfakes-directly-into-ios-video-calls-using-this-tool-heres-how-to-stay-safe",
-    "https://www.eff.org/deeplinks/2025/09/drone-sky-could-be-tracking-your-car"
+    "https://www.gsma.com/newsroom/press-release/uk-mobile-operators-launch-age-verification-and-anti-fraud-apis-through-gsma-open-gateway-initiative/"
   ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.engadget.com/big-tech/stellantis-confirms-data-breach-involving-customers-contact-information-194136744.html?src=rss",
-    "https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/",
-    "https://www.cnet.com/personal-finance/at-ts-177-million-payout-heres-how-it-works-and-how-to-claim-your-share/#ftag=CADf328eec",
-    "https://therecord.media/stellantis-investigates-cyber-incident"
+    "https://therecord.media/south-korea-probes-credit-card-data-breach",
+    "https://www.microsoft.com/en-us/security/blog/2025/09/23/microsoft-purview-delivered-30-reduction-in-data-breach-likelihood/",
+    "https://www.techradar.com/pro/security/car-giant-stellantis-confirms-data-breach-after-third-party-hit-by-cyberattack",
+    "https://www.techradar.com/pro/security/top-electric-car-charger-firm-confirms-data-breach-tells-users-to-be-on-their-guard",
+    "https://iapp.org/news/a/south-koreas-pipc-launches-investigation-into-a-series-of-ransomware-attacks",
+    "https://www.securityweek.com/automotive-titan-stellantis-discloses-data-breach/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
