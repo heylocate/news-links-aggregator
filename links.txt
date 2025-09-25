@@ -1,17 +1,16 @@
-## Phone Lookup
-https://blog.youmail.com/2025/09/how-to-check-if-a-phone-number-is-spam-in-2025/
-https://developer.vonage.com/en/blog/prevent-sim-swap-fraud-in-python-with-the-identity-insights-api
-
 ## Parental Control
-https://www.macworld.com/article/668092/norton-360-review.html
+https://blog.cloudflare.com/a-simpler-path-to-a-safer-internet-an-update-to-our-csam-scanning-tool/
+https://www.computerworld.com/article/4062301/meta-launches-bipartisan-super-pac-to-influence-state-ai-laws-amid-rising-regulatory-pressure.html
 
 ## Background Check
-https://www.gsma.com/newsroom/press-release/uk-mobile-operators-launch-age-verification-and-anti-fraud-apis-through-gsma-open-gateway-initiative/
+https://iapp.org/news/a/swedens-imy-director-to-develop-regulatory-guidelines-for-background-checks
+
+## Image Search
+https://www.engadget.com/mobile/ready-to-download-ios-26-make-sure-your-iphone-is-eligible-for-the-free-update-first-191854536.html?src=rss
 
 ## Security & Anti-Abuse
-https://therecord.media/south-korea-probes-credit-card-data-breach
-https://www.microsoft.com/en-us/security/blog/2025/09/23/microsoft-purview-delivered-30-reduction-in-data-breach-likelihood/
-https://www.techradar.com/pro/security/car-giant-stellantis-confirms-data-breach-after-third-party-hit-by-cyberattack
-https://www.techradar.com/pro/security/top-electric-car-charger-firm-confirms-data-breach-tells-users-to-be-on-their-guard
-https://iapp.org/news/a/south-koreas-pipc-launches-investigation-into-a-series-of-ransomware-attacks
-https://www.securityweek.com/automotive-titan-stellantis-discloses-data-breach/
+https://haveibeenpwned.com/Breach/Cultura
+https://databreaches.net/2025/09/24/volvo-group-data-breach-affects-workforce-pii/?pk_campaign=feed&pk_kwd=volvo-group-data-breach-affects-workforce-pii
+https://databreaches.net/2025/09/24/motility-data-breach-exposes-social-security-numbers-affects-760000-consumers/?pk_campaign=feed&pk_kwd=motility-data-breach-exposes-social-security-numbers-affects-760000-consumers
+https://readwrite.com/brightstar-lottery-warns-over-500-connecticut-residents-could-be-affected-by-data-breach/
+https://haveibeenpwned.com/Breach/BouyguesTelecom
