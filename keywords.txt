@@ -100,6 +100,7 @@ cnam
 sim swap
 parental control
 screen time
+teen account
 app blocking
 content filtering
 web filtering
