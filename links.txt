@@ -1,14 +1,5 @@
-## Number / Device Tracking
-https://www.techradar.com/pro/this-1tb-external-ssd-has-a-1-8-inch-color-touchscreen-encryption-supports-apple-find-my-tracking-and-two-fidgets
-
-## Address Lookup
-https://www.techradar.com/phones/iphone/apple-maps-on-ios-26-could-finally-turn-my-head-away-from-google-maps
-https://www.bgr.com/1979713/google-maps-update-public-transportation-walking-navigation-map-access/
-https://www.androidauthority.com/google-maps-public-transport-navigation-overhaul-3601498/
-
 ## Security & Anti-Abuse
-https://www.zdnet.com/article/you-can-claim-up-to-7500-from-at-ts-177m-data-breach-payouts-how-to-qualify/
-https://databreaches.net/2025/09/26/columbia-university-irving-medical-center-pays-600k-in-data-breach-lawsuit-settlement/?pk_campaign=feed&pk_kwd=columbia-university-irving-medical-center-pays-600k-in-data-breach-lawsuit-settlement
-https://securityboulevard.com/2025/09/securing-the-journey-cybersecurity-challenges-in-the-tourism-industry/
-https://www.techradar.com/pro/security/nearly-150-000-patient-records-exposed-in-major-healthcare-data-breach-heres-what-we-know
-https://www.techradar.com/computing/websites-apps/this-viral-app-paid-users-to-sell-their-private-phone-calls-to-ai-firms-now-its-offline-after-a-shocking-data-breach
+https://www.phonearena.com/news/file-claim-if-your-personal-data-was-exposed-by-at-t-data-breaches_id174426
+
+## Uncategorized
+https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco
