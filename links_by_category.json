@@ -1,36 +1,40 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.hiya.com/from-black-box-to-clarity-a-carrier-led-standard-for-spam-label-transparency",
+    "https://blog.hiya.com/flagged-as-spam-here-is-what-to-do-next",
+    "https://blog.hiya.com/caller-reputation-the-industrys-first-transparent-view-into-spam-labeling",
+    "http://www.businesswire.com/news/home/20250930624483/en/Hiya-Launches-Caller-Reputation-the-First-%E2%80%98Credit-Score%E2%80%99-for-Business-Calls/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q==",
+    "https://blog.youmail.com/2025/09/scam-call-of-the-week-business-listing-impersonation/"
+  ],
   "Number / Device Tracking": [
-    "https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted",
-    "https://www.engadget.com/big-tech/tile-trackers-reportedly-have-a-security-flaw-that-can-let-stalkers-track-your-location-183949165.html?src=rss",
-    "https://www.pcworld.com/article/2918634/how-3d-printers-are-transforming-everything-from-homes-to-jaw-surgery.html"
+    "https://go.theregister.com/feed/www.theregister.com/2025/09/30/tile_trackers_unencrypted_info/",
+    "https://www.malwarebytes.com/blog/news/2025/09/tile-trackers-plagued-by-weak-security-researchers-warn"
   ],
   "Parental Control": [
-    "https://www.macrumors.com/2025/09/29/chatgpt-instant-checkout/",
-    "https://go.theregister.com/feed/www.theregister.com/2025/09/29/chatgpt_parental_controls/",
-    "https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/",
-    "https://www.phonearena.com/news/openai-just-added-something-to-chatgpt-thats-been-missing-since-day-one_id174484",
-    "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-is-getting-parental-controls-starting-today-heres-what-they-do-and-how-to-set-them-up",
-    "https://www.tomsguide.com/ai/chatgpt/chatgpt-just-launched-parental-controls-heres-my-advice-to-parents"
+    "https://arstechnica.com/tech-policy/2025/09/critics-slam-openais-parental-controls-while-users-rage-treat-us-like-adults/",
+    "https://www.pcworld.com/article/2925322/chatgpt-starts-rolling-out-parental-controls-to-protect-teenage-users.html",
+    "https://www.technewsworld.com/story/openai-adds-parental-oversight-tools-for-teens-using-chatgpt-179942.html?rss=1"
   ],
-  "Background Check": [
-    "https://www.engadget.com/ai/openai-will-reportedly-release-a-tiktok-like-social-app-alongside-sora-2-205842527.html?src=rss"
-  ],
+  "Background Check": [],
   "People Search": [
-    "https://www.eff.org/deeplinks/2025/09/eff-urges-virgina-court-appeals-require-search-warrants-access-alpr-databases"
+    "https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/"
   ],
   "Address Lookup": [],
-  "Image Search": [],
+  "Image Search": [
+    "https://www.engadget.com/ai/googles-ai-mode-gets-better-at-understanding-visual-prompts-130001201.html?src=rss",
+    "https://www.computerworld.com/article/4065060/does-google-want-to-kill-the-web.html"
+  ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/harrods-suffers-new-data-breach-exposing-430-000-customer-records/",
-    "https://securityboulevard.com/2025/09/african-authorities-arrest-260-suspects-in-romance-sextortion-scams/",
-    "https://research.checkpoint.com/2025/29th-september-threat-intelligence-report/"
+    "https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+    "https://www.darkreading.com/cyberattacks-data-breaches/ai-voice-cloning-vishing-risks"
   ],
   "OSINT & Open Source Intelligence": [],
-  "Number Utilities & International": [],
+  "Number Utilities & International": [
+    "https://hackernoon.com/quantum-photons-deliver-the-ultimate-random-number-generator?source=rss"
+  ],
   "Monitoring / Spy Apps": [],
   "Uncategorized": [
-    "https://about.fb.com/news/2025/09/indonesian-parents-support-dedicated-teen-social-media-accounts/"
+    "https://iapp.org/news/a/massachusetts-passing-bill-prohibiting-selling-celluar-location-data"
   ]
 }
