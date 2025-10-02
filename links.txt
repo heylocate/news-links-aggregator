@@ -1,32 +1,30 @@
-## Phone Lookup
-https://blog.hiya.com/from-black-box-to-clarity-a-carrier-led-standard-for-spam-label-transparency
-https://blog.hiya.com/flagged-as-spam-here-is-what-to-do-next
-https://blog.hiya.com/caller-reputation-the-industrys-first-transparent-view-into-spam-labeling
-http://www.businesswire.com/news/home/20250930624483/en/Hiya-Launches-Caller-Reputation-the-First-%E2%80%98Credit-Score%E2%80%99-for-Business-Calls/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q==
-https://blog.youmail.com/2025/09/scam-call-of-the-week-business-listing-impersonation/
-
-## Number / Device Tracking
-https://go.theregister.com/feed/www.theregister.com/2025/09/30/tile_trackers_unencrypted_info/
-https://www.malwarebytes.com/blog/news/2025/09/tile-trackers-plagued-by-weak-security-researchers-warn
-
 ## Parental Control
-https://arstechnica.com/tech-policy/2025/09/critics-slam-openais-parental-controls-while-users-rage-treat-us-like-adults/
-https://www.pcworld.com/article/2925322/chatgpt-starts-rolling-out-parental-controls-to-protect-teenage-users.html
-https://www.technewsworld.com/story/openai-adds-parental-oversight-tools-for-teens-using-chatgpt-179942.html?rss=1
+https://www.pcworld.com/article/2925730/tactacam-defend-360-review.html
+https://www.pcworld.com/article/2926379/amazons-7-inch-tablet-for-kids-is-a-stunning-50-percent-off-today.html
+https://iapp.org/news/a/how-chatgpts-new-parental-control-features-work
+
+## Background Check
+https://www.engadget.com/transportation/uber-found-not-guilty-in-first-of-many-sexual-assault-lawsuits-133046712.html?src=rss
 
 ## People Search
-https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/
+https://iapp.org/news/a/proposed-us-law-to-prevent-data-broker-sales-blocked
 
-## Image Search
-https://www.engadget.com/ai/googles-ai-mode-gets-better-at-understanding-visual-prompts-130001201.html?src=rss
-https://www.computerworld.com/article/4065060/does-google-want-to-kill-the-web.html
+## Address Lookup
+https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/ive-been-using-google-maps-with-apple-carplay-for-years-and-i-didnt-know-this-handy-feature-existed
+https://www.bgr.com/1984320/google-maps-aerial-view-button-leaked-feature/
+https://9to5google.com/2025/10/01/t-mobiles-satellite-internet-powers-google-maps-more/
+https://9to5google.com/2025/10/01/google-maps-location-button/
+https://www.androidauthority.com/google-maps-street-view-aerial-button-apk-teardown-3602942/
 
 ## Security & Anti-Abuse
-https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/
-https://www.darkreading.com/cyberattacks-data-breaches/ai-voice-cloning-vishing-risks
-
-## Number Utilities & International
-https://hackernoon.com/quantum-photons-deliver-the-ultimate-random-number-generator?source=rss
-
-## Uncategorized
-https://iapp.org/news/a/massachusetts-passing-bill-prohibiting-selling-celluar-location-data
+https://therecord.media/millions-impacted-by-data-breaches-insurance-car-dealership-software
+https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/
+https://therecord.media/westjet-data-breach-disclosures
+https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/
+https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security
+https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/
+https://go.theregister.com/feed/www.theregister.com/2025/10/01/north_american_data_breaches/
+https://www.technewsworld.com/story/researchers-mount-vishing-attacks-with-real-time-voice-cloning-179945.html?rss=1
+https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html
+https://databreaches.net/2025/10/01/ai-driven-medical-benefits-servicer-hit-with-data-breach/?pk_campaign=feed&pk_kwd=ai-driven-medical-benefits-servicer-hit-with-data-breach
+https://iapp.org/news/a/uk-increases-efforts-to-obtain-apple-users-cloud-data
