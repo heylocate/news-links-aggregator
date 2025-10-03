@@ -1,30 +1,18 @@
-## Parental Control
-https://www.pcworld.com/article/2925730/tactacam-defend-360-review.html
-https://www.pcworld.com/article/2926379/amazons-7-inch-tablet-for-kids-is-a-stunning-50-percent-off-today.html
-https://iapp.org/news/a/how-chatgpts-new-parental-control-features-work
-
-## Background Check
-https://www.engadget.com/transportation/uber-found-not-guilty-in-first-of-many-sexual-assault-lawsuits-133046712.html?src=rss
-
-## People Search
-https://iapp.org/news/a/proposed-us-law-to-prevent-data-broker-sales-blocked
-
 ## Address Lookup
-https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/ive-been-using-google-maps-with-apple-carplay-for-years-and-i-didnt-know-this-handy-feature-existed
-https://www.bgr.com/1984320/google-maps-aerial-view-button-leaked-feature/
-https://9to5google.com/2025/10/01/t-mobiles-satellite-internet-powers-google-maps-more/
-https://9to5google.com/2025/10/01/google-maps-location-button/
-https://www.androidauthority.com/google-maps-street-view-aerial-button-apk-teardown-3602942/
+https://www.phonearena.com/news/google-maps-for-android-ui-changes_id174600
+https://www.tomsguide.com/vehicle-tech/this-hidden-google-maps-carplay-feature-will-save-you-time-and-i-cant-believe-i-missed-it
 
 ## Security & Anti-Abuse
-https://therecord.media/millions-impacted-by-data-breaches-insurance-car-dealership-software
-https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/
-https://therecord.media/westjet-data-breach-disclosures
-https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/
-https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security
-https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/
-https://go.theregister.com/feed/www.theregister.com/2025/10/01/north_american_data_breaches/
-https://www.technewsworld.com/story/researchers-mount-vishing-attacks-with-real-time-voice-cloning-179945.html?rss=1
-https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html
-https://databreaches.net/2025/10/01/ai-driven-medical-benefits-servicer-hit-with-data-breach/?pk_campaign=feed&pk_kwd=ai-driven-medical-benefits-servicer-hit-with-data-breach
-https://iapp.org/news/a/uk-increases-efforts-to-obtain-apple-users-cloud-data
+https://haveibeenpwned.com/Breach/LatestPilotJobs
+https://databreaches.net/2025/10/02/flagstar-agrees-to-31-5-million-deal-in-accellion-breach-suit/?pk_campaign=feed&pk_kwd=flagstar-agrees-to-31-5-million-deal-in-accellion-breach-suit
+https://databreaches.net/2025/10/02/legal-practice-board-of-western-australia-begins-notifying-data-breach-victims/?pk_campaign=feed&pk_kwd=legal-practice-board-of-western-australia-begins-notifying-data-breach-victims
+https://databreaches.net/2025/10/02/judge-throws-out-lawsuit-against-columbus-over-data-breach/?pk_campaign=feed&pk_kwd=judge-throws-out-lawsuit-against-columbus-over-data-breach
+https://securityboulevard.com/2025/10/hacker-stole-sensitive-data-from-fema-border-patrol-reports/
+https://www.techradar.com/pro/security/major-data-breach-at-dealership-software-firm-exposes-766-000-clients-heres-what-we-know
+https://techcrunch.com/2025/10/02/hackers-are-sending-extortion-emails-to-executives-after-claiming-oracle-apps-data-breach/
+https://www.techradar.com/pro/security/us-air-force-investigating-data-breach-caused-by-microsoft-sharepoint-issue
+https://www.techradar.com/pro/security/red-hat-confirms-major-data-breach-after-hackers-claim-mega-haul
+https://www.securityweek.com/1-2-million-impacted-by-westjet-data-breach/
+https://www.computerworld.com/article/4067081/uk-government-still-wants-apple-to-break-data-encryption.html
+https://www.securityweek.com/766000-impacted-by-data-breach-at-dealership-software-provider-motility/
+https://www.securityweek.com/1-5-million-impacted-by-allianz-life-data-breach/
