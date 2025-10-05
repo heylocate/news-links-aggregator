@@ -1694,3 +1694,6 @@ https://www.eff.org/deeplinks/2025/10/tiles-lack-encryption-danger-users-everywh
 https://www.globenewswire.com/news-release/2025/10/03/3161240/0/en/Motility-Software-Solutions-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html
 https://www.securityweek.com/in-other-news-pqc-adoption-new-android-spyware-fema-data-breach/
 https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack
+https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/
+https://www.engadget.com/apps/discord-users-ids-and-data-compromised-in-customer-service-provider-hack-140053655.html?src=rss
+https://www.slashgear.com/1983315/how-accurate-is-google-maps-speedometer/

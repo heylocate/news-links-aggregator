@@ -1,30 +1,17 @@
 {
-  "Phone Lookup": [
-    "https://www.bgr.com/1982699/does-reporting-spam-cellphone-do-anything/",
-    "https://blog.youmail.com/2025/10/the-difference-between-spam-scam-and-robocalls-and-how-to-stop-them/",
-    "https://business-resources.truecaller.com/psts/how-rewardsco-overcame-their-communication-challenges-and-boosted-trust-with-truecaller-customer-exp"
-  ],
-  "Number / Device Tracking": [
-    "https://www.eff.org/deeplinks/2025/10/tiles-lack-encryption-danger-users-everywhere"
-  ],
-  "Parental Control": [
-    "https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss"
-  ],
-  "Background Check": [
-    "https://webkit.org/blog/17431/online-identity-verification-with-the-digital-credentials-api/"
-  ],
+  "Phone Lookup": [],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.slashgear.com/1983315/how-accurate-is-google-maps-speedometer/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/ArtistsNClients",
-    "https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack",
-    "https://www.globenewswire.com/news-release/2025/10/03/3161240/0/en/Motility-Software-Solutions-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html",
-    "https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/",
-    "https://securityboulevard.com/2025/10/japan-asahi-beer-ransomware-richixbw/",
-    "https://www.securityweek.com/in-other-news-pqc-adoption-new-android-spyware-fema-data-breach/",
-    "https://haveibeenpwned.com/Breach/HomeRefill"
+    "https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+    "https://www.engadget.com/apps/discord-users-ids-and-data-compromised-in-customer-service-provider-hack-140053655.html?src=rss"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
