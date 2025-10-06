@@ -1697,3 +1697,5 @@ https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack
 https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/
 https://www.engadget.com/apps/discord-users-ids-and-data-compromised-in-customer-service-provider-hack-140053655.html?src=rss
 https://www.slashgear.com/1983315/how-accurate-is-google-maps-speedometer/
+https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/
+https://www.macworld.com/article/2922554/misplaced-your-wallet-again-this-20-airtag-alternative-has-your-back.html
