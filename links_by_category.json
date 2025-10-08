@@ -1,30 +1,38 @@
 {
   "Phone Lookup": [
-    "https://www.macrumors.com/how-to/iphone-ask-someone-calling-before-pick-up/"
+    "https://www.prnewswire.com/news-releases/camara-the-global-telco-api-alliance-issues-its-latest-meta-release-of-stable-network-apis-advancing-api-interoperability-302577205.html"
   ],
-  "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
+  "Number / Device Tracking": [
+    "https://www.androidauthority.com/ice-phone-tracking-3605014/"
+  ],
+  "Parental Control": [
+    "https://www.verizon.com/about/parenting/screen-time-limits-what-do-when-families-play-different-rules",
+    "https://www.verizon.com/about/news/screen-time-limits-what-do-when-families-play-different-rules",
+    "https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it",
+    "https://www.qustodio.com/en/blog/being-kind-online/"
+  ],
+  "Background Check": [
+    "https://venturebeat.com/ai/has-this-stealth-startup-finally-cracked-the-code-on-enterprise-ai-agent",
+    "https://www.engadget.com/ice-spent-825k-this-year-on-vehicles-with-imsi-catchers-182947167.html?src=rss"
+  ],
+  "People Search": [
+    "https://iapp.org/news/a/op-ed-eu-data-brokers-could-impact-us-national-security"
+  ],
   "Address Lookup": [
-    "https://www.androidauthority.com/google-maps-timeline-backup-error-3604303/",
-    "https://www.androidheadlines.com/2025/10/google-maps-timeline-error-leaves-users-locked-out-of-their-location-history.html"
+    "https://android-developers.googleblog.com/2025/10/weareplay-meet-founders-of-geocaching.html"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://securityboulevard.com/2025/10/cl0p-ransomware-group-exploited-in-a-zero-day-in-oracle-ebs-attacks/",
-    "https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/",
-    "https://www.androidheadlines.com/2025/10/discord-confirms-data-breach-vendor-hack-emails-ids-exposed.html",
-    "https://databreaches.net/2025/10/06/i-called-american-income-life-insurance-to-alert-them-to-a-data-breach-involving-150000-customers-heres-why-they-didnt-find-out/?pk_campaign=feed&pk_kwd=i-called-american-income-life-insurance-to-alert-them-to-a-data-breach-involving-150000-customers-heres-why-they-didnt-find-out",
-    "https://www.securityweek.com/discord-says-user-information-stolen-in-third-party-data-breach/",
-    "https://www.pcworld.com/article/2930990/warning-discord-suffers-data-breach-heres-whether-you-were-affected.html",
-    "https://www.securityweek.com/data-breach-at-doctors-imaging-group-impacts-171000-people/"
+    "https://www.globenewswire.com/news-release/2025/10/08/3163028/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-AppFolio-Inc-Customers-Whose-Data-May-Have-Been-Compromised.html",
+    "https://www.eff.org/deeplinks/2025/10/how-file-privacy-complaint-california",
+    "https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/",
+    "https://www.androidheadlines.com/2025/10/hacking-group-launches-salesforce-data-breach-site-to-extort-victims.html",
+    "https://www.malwarebytes.com/blog/news/2025/10/troops-and-veterans-personal-information-leaked-in-cpap-medical-data-breach",
+    "https://iapp.org/news/a/how-a-pension-info-case-could-change-u-k-data-protection-law"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.pcworld.com/article/2918431/lockin-veno-palm-vein-recognition-smart-lock-review.html"
-  ]
+  "Uncategorized": []
 }
