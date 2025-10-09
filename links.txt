@@ -1,29 +1,25 @@
 ## Phone Lookup
-https://www.prnewswire.com/news-releases/camara-the-global-telco-api-alliance-issues-its-latest-meta-release-of-stable-network-apis-advancing-api-interoperability-302577205.html
-
-## Number / Device Tracking
-https://www.androidauthority.com/ice-phone-tracking-3605014/
+https://www.phonearena.com/news/your-galaxy-phone-with-one-ui-8.5-could-save-you-from-ever-answering-spam-calls-again_id174737
+https://www.androidcentral.com/phones/samsung-galaxy/one-ui-8-5-automatic-call-screen-samsung-phones
 
 ## Parental Control
-https://www.verizon.com/about/parenting/screen-time-limits-what-do-when-families-play-different-rules
-https://www.verizon.com/about/news/screen-time-limits-what-do-when-families-play-different-rules
-https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it
-https://www.qustodio.com/en/blog/being-kind-online/
+https://www.engadget.com/big-tech/new-york-city-is-suing-meta-snap-tiktok-and-youtube-over-youth-mental-health-crisis-223916712.html?src=rss
+https://www.cnet.com/tech/services-and-software/young-kids-screen-time-now-includes-ai-chatbots-parents-say/#ftag=CADf328eec
+https://www.engadget.com/big-tech/apple-explains-how-it-will-comply-with-app-store-age-verification-requirements-in-texas-185934469.html?src=rss
+https://www.macrumors.com/2025/10/08/app-store-changes-texas-age-verification/
+https://www.pewresearch.org/internet/2025/10/08/how-parents-approach-their-kids-screen-time/
+https://www.pewresearch.org/internet/2025/10/08/how-parents-describe-their-kids-tech-use/
+https://www.pewresearch.org/internet/2025/10/08/how-parents-manage-screen-time-for-kids/
 
 ## Background Check
-https://venturebeat.com/ai/has-this-stealth-startup-finally-cracked-the-code-on-enterprise-ai-agent
-https://www.engadget.com/ice-spent-825k-this-year-on-vehicles-with-imsi-catchers-182947167.html?src=rss
+https://iapp.org/news/a/ip-obfuscation-popularity-undermines-privacy-compliance-strategies
 
 ## People Search
-https://iapp.org/news/a/op-ed-eu-data-brokers-could-impact-us-national-security
-
-## Address Lookup
-https://android-developers.googleblog.com/2025/10/weareplay-meet-founders-of-geocaching.html
+https://www.cnet.com/tech/services-and-software/data-brokers-how-your-personal-data-becomes-business/#ftag=CADf328eec
+https://iapp.org/news/a/irish-dpc-says-other-companies-in-data-broker-scheme-identified
 
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2025/10/08/3163028/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-AppFolio-Inc-Customers-Whose-Data-May-Have-Been-Compromised.html
-https://www.eff.org/deeplinks/2025/10/how-file-privacy-complaint-california
-https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/
-https://www.androidheadlines.com/2025/10/hacking-group-launches-salesforce-data-breach-site-to-extort-victims.html
-https://www.malwarebytes.com/blog/news/2025/10/troops-and-veterans-personal-information-leaked-in-cpap-medical-data-breach
-https://iapp.org/news/a/how-a-pension-info-case-could-change-u-k-data-protection-law
+https://www.troyhunt.com/court-injunctions-are-the-thoughts-and-prayers-of-data-breach-response/
+https://www.cnet.com/personal-finance/at-t-customers-can-claim-up-to-7500-for-data-breaches-but-you-need-to-file-soon/#ftag=CADf328eec
+https://www.tomsguide.com/computing/online-security/discord-customer-info-stolen-in-data-breach-how-to-stay-safe
+https://www.androidheadlines.com/2025/10/att-to-pay-millions-after-data-breaches-heres-how-to-claim-up-to-7500.html
