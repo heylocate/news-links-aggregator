@@ -1,9 +1,3 @@
-## Parental Control
-https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time
-
-## Address Lookup
-https://www.androidauthority.com/authority-insights-podcast-008-3606075/
-
 ## Security & Anti-Abuse
-https://databreaches.net/2025/10/11/they-were-victims-of-a-massive-data-breach-in-2009-interior-health-denied-it-for-a-decade/?pk_campaign=feed&pk_kwd=they-were-victims-of-a-massive-data-breach-in-2009-interior-health-denied-it-for-a-decade
-https://www.androidcentral.com/apps-software/chrome-for-android-preps-notification-silencer-for-sites-you-never-paid-attention-to
+https://www.cnet.com/personal-finance/at-t-is-paying-out-177-million-for-data-breaches-learn-whos-eligible-and-how-to-file-a-claim/#ftag=CADf328eec
+https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/
