@@ -1,15 +1,18 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://arstechnica.com/tech-policy/2025/10/to-shield-kids-california-hikes-fake-nude-fines-to-250k-max/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.cnet.com/personal-finance/at-t-is-paying-out-177-million-for-data-breaches-learn-whos-eligible-and-how-to-file-a-claim/#ftag=CADf328eec",
-    "https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/"
+    "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
+    "https://www.securityweek.com/simonmed-imaging-data-breach-impacts-1-2-million/",
+    "https://www.bleepingcomputer.com/news/security/harvard-investigating-breach-linked-to-oracle-zero-day-exploit/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
