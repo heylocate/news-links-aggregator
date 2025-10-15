@@ -1,7 +1,27 @@
 ## Parental Control
-https://arstechnica.com/tech-policy/2025/10/to-shield-kids-california-hikes-fake-nude-fines-to-250k-max/
+https://www.engadget.com/openai-forms-advisory-council-on-wellbeing-and-ai-183815365.html?src=rss
+https://www.engadget.com/social-media/instagram-makes-teen-accounts-more-restrictive-120000653.html?src=rss
+
+## Background Check
+https://www.eff.org/deeplinks/2025/10/victory-california-requires-transparency-ai-police-reports
+https://www.engadget.com/social-media/x-experiments-with-showing-more-information-about-profiles-to-fight-inauthentic-engagement-172500501.html?src=rss
+https://www.technewsworld.com/story/id-breaches-surge-help-desks-targeted-rsa-report-179961.html?rss=1
+
+## Address Lookup
+https://www.darkreading.com/vulnerabilities-threats/pixnapping-attack-attackers-2fa-android
+https://www.androidcentral.com/apps-software/google-maps/your-next-google-maps-navigation-could-be-planned-by-gemini
+https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html
 
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/
-https://www.securityweek.com/simonmed-imaging-data-breach-impacts-1-2-million/
-https://www.bleepingcomputer.com/news/security/harvard-investigating-breach-linked-to-oracle-zero-day-exploit/
+https://unit42.paloaltonetworks.com/anatomy-of-an-attack-blacksuit-ransomware-blitz/
+https://www.engadget.com/cybersecurity/the-company-discord-blamed-for-its-recent-breach-says-it-wasnt-hacked-175536278.html?src=rss
+https://www.computerworld.com/article/4072271/its-here-windows-10s-end-of-support-deadline-arrives.html
+https://databreaches.net/2025/10/14/discord-blamed-a-vendor-for-its-data-breach-now-the-vendor-says-it-was-not-hacked/?pk_campaign=feed&pk_kwd=discord-blamed-a-vendor-for-its-data-breach-now-the-vendor-says-it-was-not-hacked
+https://appleinsider.com/articles/25/10/14/discord-vendor-refuses-to-be-blamed-over-hack-and-data-theft?utm_source=rss
+https://databreaches.net/2025/10/14/attorney-general-james-secures-14-2-million-from-car-insurance-companies-over-data-breaches/?pk_campaign=feed&pk_kwd=attorney-general-james-secures-14-2-million-from-car-insurance-companies-over-data-breaches
+
+## Uncategorized
+https://www.androidheadlines.com/2025/10/instagram-further-restricts-teen-accounts-with-new-pg-13-changes.html
+https://www.socialmediatoday.com/news/instagram-implements-tougher-content-restrictions-teen-accounts/802761/
+https://www.cnet.com/news/social-media/instagram-introduces-new-pg-13-style-restrictions-for-teen-accounts/#ftag=CADf328eec
+https://about.fb.com/news/2025/10/instagram-teen-accounts-pg-13-ratings/
