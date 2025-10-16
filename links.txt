@@ -1,27 +1,23 @@
 ## Parental Control
-https://www.engadget.com/openai-forms-advisory-council-on-wellbeing-and-ai-183815365.html?src=rss
-https://www.engadget.com/social-media/instagram-makes-teen-accounts-more-restrictive-120000653.html?src=rss
+https://www.techradar.com/vpn/vpn-privacy-security/wisconsin-wants-to-force-all-adult-sites-to-block-vpns-with-a-new-age-verification-bill-heres-everything-we-know
 
 ## Background Check
-https://www.eff.org/deeplinks/2025/10/victory-california-requires-transparency-ai-police-reports
-https://www.engadget.com/social-media/x-experiments-with-showing-more-information-about-profiles-to-fight-inauthentic-engagement-172500501.html?src=rss
-https://www.technewsworld.com/story/id-breaches-surge-help-desks-targeted-rsa-report-179961.html?rss=1
+https://www.pcworld.com/article/2939708/the-dangers-of-having-your-private-information-online.html
+https://iapp.org/news/a/what-to-know-about-a-recent-german-background-check-gdpr-case-ruling
 
-## Address Lookup
-https://www.darkreading.com/vulnerabilities-threats/pixnapping-attack-attackers-2fa-android
-https://www.androidcentral.com/apps-software/google-maps/your-next-google-maps-navigation-could-be-planned-by-gemini
-https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html
+## People Search
+https://www.pcworld.com/article/2939703/data-brokers-want-your-information-dont-let-them-take-it.html
 
 ## Security & Anti-Abuse
-https://unit42.paloaltonetworks.com/anatomy-of-an-attack-blacksuit-ransomware-blitz/
-https://www.engadget.com/cybersecurity/the-company-discord-blamed-for-its-recent-breach-says-it-wasnt-hacked-175536278.html?src=rss
-https://www.computerworld.com/article/4072271/its-here-windows-10s-end-of-support-deadline-arrives.html
-https://databreaches.net/2025/10/14/discord-blamed-a-vendor-for-its-data-breach-now-the-vendor-says-it-was-not-hacked/?pk_campaign=feed&pk_kwd=discord-blamed-a-vendor-for-its-data-breach-now-the-vendor-says-it-was-not-hacked
-https://appleinsider.com/articles/25/10/14/discord-vendor-refuses-to-be-blamed-over-hack-and-data-theft?utm_source=rss
-https://databreaches.net/2025/10/14/attorney-general-james-secures-14-2-million-from-car-insurance-companies-over-data-breaches/?pk_campaign=feed&pk_kwd=attorney-general-james-secures-14-2-million-from-car-insurance-companies-over-data-breaches
-
-## Uncategorized
-https://www.androidheadlines.com/2025/10/instagram-further-restricts-teen-accounts-with-new-pg-13-changes.html
-https://www.socialmediatoday.com/news/instagram-implements-tougher-content-restrictions-teen-accounts/802761/
-https://www.cnet.com/news/social-media/instagram-introduces-new-pg-13-style-restrictions-for-teen-accounts/#ftag=CADf328eec
-https://about.fb.com/news/2025/10/instagram-teen-accounts-pg-13-ratings/
+https://haveibeenpwned.com/Breach/Prosper
+https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/
+https://www.techradar.com/phones/at-t/you-could-get-up-to-usd7-500-from-at-and-ts-usd177-million-data-breach-settlement-heres-how-to-claim-it
+https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/
+https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/
+https://therecord.media/mango-fashion-retaier-data-breach
+https://www.securityweek.com/customer-service-firm-5ca-denies-responsibility-for-discord-data-breach/
+https://databreaches.net/2025/10/15/capita-hit-with-14m-fine-for-personal-data-breach-in-2023-cyber-attack/?pk_campaign=feed&pk_kwd=capita-hit-with-14m-fine-for-personal-data-breach-in-2023-cyber-attack
+https://databreaches.net/2025/10/15/obsession-with-cyber-breach-notification-fuelling-costly-mistakes/?pk_campaign=feed&pk_kwd=obsession-with-cyber-breach-notification-fuelling-costly-mistakes
+https://therecord.media/auto-insurance-companies-fined-ny-state-pre-fill-data-breaches
+https://iapp.org/news/a/ico-fines-professional-services-com-gbp14m-following-2023-data-breach
+https://www.phonearena.com/news/discord-data-breach-drama-is-now-turning-into-a-blame-game_id174889
