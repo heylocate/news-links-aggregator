@@ -1,32 +1,39 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Phone Lookup": [
+    "https://blog.hiya.com/scam-of-the-month-whatsapp-scams",
+    "https://www.androidheadlines.com/2025/10/google-messages-adds-key-verifier-to-protect-users-from-sim-swap-and-impersonation-attacks.html"
+  ],
+  "Number / Device Tracking": [
+    "https://www.macrumors.com/2025/10/16/tim-cook-to-increase-investment-in-china/"
+  ],
   "Parental Control": [
-    "https://www.techradar.com/vpn/vpn-privacy-security/wisconsin-wants-to-force-all-adult-sites-to-block-vpns-with-a-new-age-verification-bill-heres-everything-we-know"
+    "https://www.qustodio.com/en/blog/is-youtube-safe-for-kids/",
+    "https://www.engadget.com/computing/accessories/best-bluetooth-tracker-140028377.html?src=rss"
   ],
   "Background Check": [
-    "https://www.pcworld.com/article/2939708/the-dangers-of-having-your-private-information-online.html",
-    "https://iapp.org/news/a/what-to-know-about-a-recent-german-background-check-gdpr-case-ruling"
+    "http://www.businesswire.com/news/home/20251016812840/en/Socure-and-Docusign-Bring-Identity-Certainty-to-Every-Signature-with-a-Frictionless-Experience-for-Every-Signer/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q=="
   ],
   "People Search": [
-    "https://www.pcworld.com/article/2939703/data-brokers-want-your-information-dont-let-them-take-it.html"
+    "https://venturebeat.com/ai/google-vs-openai-vs-visa-competing-agent-protocols-threaten-the-future-of-ai"
   ],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidauthority.com/google-maps-home-travel-time-chip-3608081/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/Prosper",
-    "https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/",
-    "https://www.techradar.com/phones/at-t/you-could-get-up-to-usd7-500-from-at-and-ts-usd177-million-data-breach-settlement-heres-how-to-claim-it",
-    "https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/",
-    "https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/",
-    "https://therecord.media/mango-fashion-retaier-data-breach",
-    "https://www.securityweek.com/customer-service-firm-5ca-denies-responsibility-for-discord-data-breach/",
-    "https://databreaches.net/2025/10/15/capita-hit-with-14m-fine-for-personal-data-breach-in-2023-cyber-attack/?pk_campaign=feed&pk_kwd=capita-hit-with-14m-fine-for-personal-data-breach-in-2023-cyber-attack",
-    "https://databreaches.net/2025/10/15/obsession-with-cyber-breach-notification-fuelling-costly-mistakes/?pk_campaign=feed&pk_kwd=obsession-with-cyber-breach-notification-fuelling-costly-mistakes",
-    "https://therecord.media/auto-insurance-companies-fined-ny-state-pre-fill-data-breaches",
-    "https://iapp.org/news/a/ico-fines-professional-services-com-gbp14m-following-2023-data-breach",
-    "https://www.phonearena.com/news/discord-data-breach-drama-is-now-turning-into-a-blame-game_id174889"
+    "https://www.globenewswire.com/news-release/2025/10/17/3168416/0/en/Goosehead-Insurance-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html",
+    "https://www.tomsguide.com/phones/network-carriers/at-and-t-settles-usd177-million-data-breach-lawsuit-how-you-can-claim-your-settlement-share",
+    "https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-customer-information/",
+    "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/",
+    "https://www.zdnet.com/article/new-deadline-claim-up-to-7500-from-at-ts-177m-data-breach-payouts-heres-how/",
+    "https://www.techradar.com/pro/security/huge-gbp14m-fine-handed-to-capita-for-security-failings-leading-to-data-breach",
+    "https://www.techradar.com/pro/security/sensitive-customer-info-exposed-in-mango-data-breach-heres-what-we-know",
+    "https://databreaches.net/2025/10/16/heritage-provider-network-49-99m-class-action-settlement/?pk_campaign=feed&pk_kwd=heritage-provider-network-49-99m-class-action-settlement",
+    "https://databreaches.net/2025/10/16/integris-health-agrees-to-30-million-settlement-over-2023-data-breach/?pk_campaign=feed&pk_kwd=integris-health-agrees-to-30-million-settlement-over-2023-data-breach",
+    "https://databreaches.net/2025/10/16/govt-seeks-police-probe-of-kt-for-allegedly-obstructing-data-breach-investigation/?pk_campaign=feed&pk_kwd=govt-seeks-police-probe-of-kt-for-allegedly-obstructing-data-breach-investigation",
+    "https://www.malwarebytes.com/blog/news/2025/10/mango-discloses-data-breach-at-third-party-provider",
+    "https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
