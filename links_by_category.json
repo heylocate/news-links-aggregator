@@ -1,36 +1,19 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.engadget.com/ai/meta-is-adding-ai-chatbot-focused-parental-controls-to-instagram-100027229.html?src=rss",
-    "https://techcrunch.com/2025/10/17/meta-previews-new-parental-controls-for-its-ai-experiences/",
-    "https://iapp.org/news/a/parliament-committee-adopts-report-on-child-safety-measures"
+  "Phone Lookup": [
+    "https://www.pr.com/press-release/951110"
   ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/google-maps-custom-icon-new-location/",
-    "https://www.androidauthority.com/google-maps-avatar-settings-apk-teardown-3608362/",
-    "https://www.androidauthority.com/maps-search-along-route-3608343/",
-    "https://blog.google/technology/developers/grounding-google-maps-gemini-api/",
-    "https://www.zdnet.com/article/waze-vs-google-maps-i-compared-two-of-the-best-navigation-apps-and-this-one-wins-easily/",
-    "https://www.androidpolice.com/google-maps-home-eta-chip/",
-    "https://www.androidcentral.com/apps-software/google-maps/google-maps-chip-to-show-time-to-get-home",
-    "https://www.tomsguide.com/computing/mobile-apps/google-maps-just-made-it-even-easier-to-tell-how-long-it-will-take-to-get-home-heres-how"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://databreaches.net/2025/10/17/data-breachesprosper-data-breach-impacts-17-6-million-accounts/?pk_campaign=feed&pk_kwd=data-breachesprosper-data-breach-impacts-17-6-million-accounts",
-    "https://www.globenewswire.com/news-release/2025/10/17/3168928/0/en/PeopleGuru-Holdings-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html",
-    "https://go.theregister.com/feed/www.theregister.com/2025/10/17/prosper_breach/",
-    "https://www.securityweek.com/in-other-news-crowdstrike-vulnerabilities-cisa-layoffs-mango-data-breach/",
-    "https://www.securityweek.com/hackers-steal-sensitive-data-from-auction-house-sothebys/",
-    "https://www.malwarebytes.com/blog/news/2025/10/prosper-data-breach-puts-17-million-people-at-risk-of-identity-theft",
-    "https://www.securityweek.com/prosper-data-breach-impacts-17-6-million-accounts/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.techspot.com/news/109917-meta-responds-ai-safety-backlash-stricter-parental-controls.html"
+  ]
 }
