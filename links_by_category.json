@@ -1,19 +1,26 @@
 {
-  "Phone Lookup": [
-    "https://www.pr.com/press-release/951110"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.techradar.com/ai-platforms-assistants/meta-is-giving-parents-a-kill-switch-for-teen-ai-chats",
+    "https://www.androidheadlines.com/2025/10/meta-adds-new-parental-controls-to-limit-teen-chats-with-ai-on-instagram-and-facebook.html"
+  ],
   "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [],
+  "People Search": [
+    "https://www.computerworld.com/article/4074784/its-the-end-of-the-windows-10-world-as-we-know-it.html"
+  ],
+  "Address Lookup": [
+    "https://www.tomsguide.com/computing/mobile-apps/google-maps-could-be-about-to-change-how-you-add-stops-mid-drive-and-this-is-why-itll-make-your-life-harder"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.tomsguide.com/computing/online-security/17-million-hit-in-major-lending-company-data-breach-how-to-see-if-youre-affected-and-what-to-do-next",
+    "https://therecord.media/verisure-data-breach-sweden-alert-alarm-subsidiary",
+    "https://www.techradar.com/pro/security/over-17-million-victims-reported-in-huge-prosper-data-breach-heres-what-we-know-so-far"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.techspot.com/news/109917-meta-responds-ai-safety-backlash-stricter-parental-controls.html"
-  ]
+  "Uncategorized": []
 }
