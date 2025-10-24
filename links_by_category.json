@@ -1,39 +1,37 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://developer.vonage.com/en/blog/detect-sim-swap-fraud-with-go-and-vonage"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.engadget.com/apps/youtube-is-adding-a-timer-to-shorts-so-you-dont-scroll-the-day-away-185204383.html?src=rss",
-    "https://www.gsma.com/newsroom/press-release/unicef-and-gsma-unite-with-partners-to-launch-africa-taskforce-on-child-online-protection-to-safeguard-children-in-the-digital-age/"
+    "https://www.pr.com/press-release/951826",
+    "https://www.engadget.com/ai/openai-reportedly-asked-for-memorial-guest-list-in-teen-suicide-case-163309269.html?src=rss"
   ],
-  "Background Check": [
-    "https://www.engadget.com/apps/apple-dumps-dating-apps-tea-and-teaonher-from-the-app-store-over-privacy-and-moderation-issues-191305457.html?src=rss"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://9to5google.com/2025/10/22/google-maps-android-auto-report-button-suggested-locations/",
-    "https://www.androidauthority.com/android-auto-google-maps-suggested-destinations-dropdown-3609254/"
+    "https://www.androidcentral.com/apps-software/android-auto/drivers-spot-an-android-auto-update-that-makes-it-easier-to-stay-informed"
   ],
   "Image Search": [
-    "https://www.computerworld.com/article/3630588/ai-pcs-get-the-latest-news-and-insights.html"
+    "https://www.pcworld.com/article/2950781/microsoft-adds-visual-search-to-windows-11s-built-in-screenshot-tool.html"
   ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.macrumors.com/2025/10/22/apple-removes-tea-dating-apps/",
-    "https://databreaches.net/2025/10/22/protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach/?pk_campaign=feed&pk_kwd=protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach",
-    "https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/",
-    "https://www.pcworld.com/article/2949527/183-million-email-accounts-just-got-compromised-check-if-youre-affected.html",
-    "https://databreaches.net/2025/10/22/hotel-and-casino-near-las-vegas-strip-suffers-data-breach-documents-say/?pk_campaign=feed&pk_kwd=hotel-and-casino-near-las-vegas-strip-suffers-data-breach-documents-say",
-    "https://databreaches.net/2025/10/22/bombay-high-court-orders-department-of-telecommunications-to-block-medusa-accounts-after-generali-insurance-data-breach/?pk_campaign=feed&pk_kwd=bombay-high-court-orders-department-of-telecommunications-to-block-medusa-accounts-after-generali-insurance-data-breach",
-    "https://unit42.paloaltonetworks.com/cloud-based-gift-card-fraud-campaign/",
-    "https://iapp.org/news/a/new-york-attorney-general-agrees-to-60000-settlement-with-accounting-firm-following-data-breaches",
-    "https://iapp.org/news/a/ico-says-ministry-of-defense-commits-to-better-data-management-practices",
-    "https://go.theregister.com/feed/www.theregister.com/2025/10/22/ico_afghan_leak_probe/"
+    "https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/",
+    "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-blue-cross-blue-shield-of-montana-customers-whose-data-may-have-been-compromised-302593410.html",
+    "https://securityboulevard.com/2025/10/prosper-marketplace-data-breach-expands-17-6-million-users-impacted-in-database-intrusion/",
+    "https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/",
+    "https://appleinsider.com/articles/25/10/23/apple-warns-europe-could-force-it-to-turn-off-key-privacy-feature?utm_source=rss",
+    "https://www.darkreading.com/threat-intelligence/unpaid-toll-texts-smishing-triad",
+    "https://unit42.paloaltonetworks.com/global-smishing-campaign/",
+    "https://iapp.org/news/a/epic-publishes-report-examining-us-state-attorneys-general-privacy-enforcement-activities",
+    "https://iapp.org/news/a/why-monitoring-for-genetic-data-misuse-is-different-than-typical-data-breach-responses",
+    "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": [
-    "https://www.cnet.com/tech/mobile/instagram-unveils-6-dramatic-home-screen-icons-but-only-for-teenagers/#ftag=CADf328eec",
-    "https://techcrunch.com/2025/10/22/instagram-rolls-out-custom-icons-but-only-for-teens/"
+    "https://www.pcworld.com/article/2941014/i-was-wrong-about-5g-laptops-heres-how-the-hp-go-changed-my-mind.html"
   ]
 }
