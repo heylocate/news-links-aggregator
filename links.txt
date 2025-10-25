@@ -1,27 +1,24 @@
-## Phone Lookup
-https://developer.vonage.com/en/blog/detect-sim-swap-fraud-with-go-and-vonage
+## Number / Device Tracking
+https://9to5google.com/2025/10/24/life360-pet-gps-collar-launch-fi-comparison/
 
 ## Parental Control
-https://www.pr.com/press-release/951826
-https://www.engadget.com/ai/openai-reportedly-asked-for-memorial-guest-list-in-teen-suicide-case-163309269.html?src=rss
+https://securityboulevard.com/2025/10/ndss-2025-symposium-on-usable-security-and-privacy-usec-2025-afternoon-paper-session-2/
 
-## Address Lookup
-https://www.androidcentral.com/apps-software/android-auto/drivers-spot-an-android-auto-update-that-makes-it-easier-to-stay-informed
+## Background Check
+https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/
 
 ## Image Search
-https://www.pcworld.com/article/2950781/microsoft-adds-visual-search-to-windows-11s-built-in-screenshot-tool.html
+https://www.zdnet.com/article/windows-11s-snipping-tool-just-got-a-google-lens-like-feature-heres-how-to-use-it/
 
 ## Security & Anti-Abuse
-https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/
-https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-blue-cross-blue-shield-of-montana-customers-whose-data-may-have-been-compromised-302593410.html
-https://securityboulevard.com/2025/10/prosper-marketplace-data-breach-expands-17-6-million-users-impacted-in-database-intrusion/
-https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/
-https://appleinsider.com/articles/25/10/23/apple-warns-europe-could-force-it-to-turn-off-key-privacy-feature?utm_source=rss
-https://www.darkreading.com/threat-intelligence/unpaid-toll-texts-smishing-triad
-https://unit42.paloaltonetworks.com/global-smishing-campaign/
-https://iapp.org/news/a/epic-publishes-report-examining-us-state-attorneys-general-privacy-enforcement-activities
-https://iapp.org/news/a/why-monitoring-for-genetic-data-misuse-is-different-than-typical-data-breach-responses
-https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html
-
-## Uncategorized
-https://www.pcworld.com/article/2941014/i-was-wrong-about-5g-laptops-heres-how-the-hp-go-changed-my-mind.html
+https://www.techspot.com/news/110003-have-pwned-adds-183-million-more-emails-major.html
+https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html
+https://www.zdnet.com/article/get-surfshark-vpn-and-antivirus-for-2-19-a-month-with-this-early-black-friday-deal/
+https://www.computerworld.com/article/4078690/apple-may-turn-off-key-privacy-tool-in-europe.html
+https://securityboulevard.com/2025/10/arsen-launches-smishing-simulation-to-help-companies-defend-against-mobile-phishing-threats/
+https://databreaches.net/2025/10/24/toys-r-us-canada-customers-notified-of-breach-of-personal-information/?pk_campaign=feed&pk_kwd=toys-r-us-canada-customers-notified-of-breach-of-personal-information
+https://databreaches.net/2025/10/24/gatineau-gymnastics-centre-warns-members-of-possible-data-breach/?pk_campaign=feed&pk_kwd=gatineau-gymnastics-centre-warns-members-of-possible-data-breach
+https://databreaches.net/2025/10/24/data-breach-in-42-latvian-municipalities-dvi-imposes-300000-euro-fine-on-zz-dats/?pk_campaign=feed&pk_kwd=data-breach-in-42-latvian-municipalities-dvi-imposes-300000-euro-fine-on-zz-dats
+https://www.bgr.com/2005876/apple-may-withdraw-app-tracking-transparency-europe/
+https://www.phonearena.com/news/europe-might-force-apple-to-kill-this-iphone-privacy-feature-and-you-wont-be-happy-about-this_id175168
+https://iapp.org/news/a/cnil-releases-survey-on-citizens-attitudes-toward-pay-or-consent-models
