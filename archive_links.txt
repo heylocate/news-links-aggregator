@@ -1926,3 +1926,9 @@ https://www.phonearena.com/news/europe-might-force-apple-to-kill-this-iphone-pri
 https://www.techspot.com/news/110003-have-pwned-adds-183-million-more-emails-major.html
 https://www.zdnet.com/article/get-surfshark-vpn-and-antivirus-for-2-19-a-month-with-this-early-black-friday-deal/
 https://www.zdnet.com/article/windows-11s-snipping-tool-just-got-a-google-lens-like-feature-heres-how-to-use-it/
+https://9to5mac.com/2025/10/25/security-bite-does-ask-app-not-to-track-actually-work/
+https://securityboulevard.com/2025/10/how-ai-llms-are-improving-authentication-flows/
+https://securityboulevard.com/2025/10/owasp-mobile-top-10-for-android-how-autosect-detects-each-risk/
+https://www.pcworld.com/article/2949527/183-million-email-accounts-just-got-breached-check-if-youre-affected.html
+https://www.techspot.com/news/110006-cybersecurity-experts-warn-real-time-voice-deepfakes-here.html
+https://www.tomsguide.com/computing/mobile-apps/i-love-google-maps-but-it-sucks-for-hiking-heres-the-app-i-use-to-avoid-getting-lost-in-the-woods

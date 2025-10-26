@@ -1,24 +1,11 @@
-## Number / Device Tracking
-https://9to5google.com/2025/10/24/life360-pet-gps-collar-launch-fi-comparison/
-
-## Parental Control
-https://securityboulevard.com/2025/10/ndss-2025-symposium-on-usable-security-and-privacy-usec-2025-afternoon-paper-session-2/
-
 ## Background Check
-https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/
+https://securityboulevard.com/2025/10/how-ai-llms-are-improving-authentication-flows/
 
-## Image Search
-https://www.zdnet.com/article/windows-11s-snipping-tool-just-got-a-google-lens-like-feature-heres-how-to-use-it/
+## Address Lookup
+https://www.tomsguide.com/computing/mobile-apps/i-love-google-maps-but-it-sucks-for-hiking-heres-the-app-i-use-to-avoid-getting-lost-in-the-woods
 
 ## Security & Anti-Abuse
-https://www.techspot.com/news/110003-have-pwned-adds-183-million-more-emails-major.html
-https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html
-https://www.zdnet.com/article/get-surfshark-vpn-and-antivirus-for-2-19-a-month-with-this-early-black-friday-deal/
-https://www.computerworld.com/article/4078690/apple-may-turn-off-key-privacy-tool-in-europe.html
-https://securityboulevard.com/2025/10/arsen-launches-smishing-simulation-to-help-companies-defend-against-mobile-phishing-threats/
-https://databreaches.net/2025/10/24/toys-r-us-canada-customers-notified-of-breach-of-personal-information/?pk_campaign=feed&pk_kwd=toys-r-us-canada-customers-notified-of-breach-of-personal-information
-https://databreaches.net/2025/10/24/gatineau-gymnastics-centre-warns-members-of-possible-data-breach/?pk_campaign=feed&pk_kwd=gatineau-gymnastics-centre-warns-members-of-possible-data-breach
-https://databreaches.net/2025/10/24/data-breach-in-42-latvian-municipalities-dvi-imposes-300000-euro-fine-on-zz-dats/?pk_campaign=feed&pk_kwd=data-breach-in-42-latvian-municipalities-dvi-imposes-300000-euro-fine-on-zz-dats
-https://www.bgr.com/2005876/apple-may-withdraw-app-tracking-transparency-europe/
-https://www.phonearena.com/news/europe-might-force-apple-to-kill-this-iphone-privacy-feature-and-you-wont-be-happy-about-this_id175168
-https://iapp.org/news/a/cnil-releases-survey-on-citizens-attitudes-toward-pay-or-consent-models
+https://9to5mac.com/2025/10/25/security-bite-does-ask-app-not-to-track-actually-work/
+https://www.techspot.com/news/110006-cybersecurity-experts-warn-real-time-voice-deepfakes-here.html
+https://www.pcworld.com/article/2949527/183-million-email-accounts-just-got-breached-check-if-youre-affected.html
+https://securityboulevard.com/2025/10/owasp-mobile-top-10-for-android-how-autosect-detects-each-risk/
