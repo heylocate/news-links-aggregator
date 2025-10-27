@@ -1932,3 +1932,8 @@ https://securityboulevard.com/2025/10/owasp-mobile-top-10-for-android-how-autose
 https://www.pcworld.com/article/2949527/183-million-email-accounts-just-got-breached-check-if-youre-affected.html
 https://www.techspot.com/news/110006-cybersecurity-experts-warn-real-time-voice-deepfakes-here.html
 https://www.tomsguide.com/computing/mobile-apps/i-love-google-maps-but-it-sucks-for-hiking-heres-the-app-i-use-to-avoid-getting-lost-in-the-woods
+https://appleinsider.com/articles/25/10/26/ads-likely-coming-to-apple-maps-in-2026?utm_source=rss
+https://hackernoon.com/arsen-launches-smishing-simulation-to-help-companies-defend-against-mobile-phishing-threats?source=rss
+https://www.engadget.com/apps/apple-is-reportedly-getting-ready-to-introduce-ads-to-its-maps-app-170654072.html?src=rss
+https://www.macworld.com/article/2948404/why-buy-an-airtag-and-a-keychain-this-new-gadget-is-both.html
+https://www.prnewswire.com/news-releases/boundless-devices-announces-the-new-motorola-q15-wi-fi-7-mesh-router-with-be3600-speeds-and-motosync-parental-controls-302594701.html
