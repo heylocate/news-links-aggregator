@@ -1960,3 +1960,11 @@ https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-
 https://www.engadget.com/cybersecurity/google-is-once-again-disputing-gmail-was-breached-180031380.html?src=rss
 https://www.engadget.com/mobile/smartphones/oppos-find-x9-pro-hands-on-detachable-telephoto-lens-7000mah-battery-160006373.html?src=rss
 https://www.securityweek.com/cybercriminals-trade-183-million-stolen-credentials-on-telegram-dark-forums/
+https://9to5mac.com/2025/10/29/mother-describes-the-dark-side-of-apples-family-sharing-when-a-relationship-ends/
+https://appleinsider.com/articles/25/10/29/when-an-ex-weaponizes-family-sharing----and-how-little-you-can-do?utm_source=rss
+https://iapp.org/news/a/cppa-meeting-to-cover-drop-requirements
+https://iapp.org/news/a/oaic-finds-lax-data-protections-at-the-center-of-wine-sellers-breach-incident
+https://securityboulevard.com/2025/10/survey-surfaces-rise-in-email-security-incidents-tied-to-ransomware/
+https://www.computerworld.com/article/4079613/android-16-additions.html
+https://www.securityweek.com/ad-and-pr-giant-dentsu-says-hackers-stole-merkle-data/
+https://www.wired.com/story/apples-family-sharing-helps-keep-children-safe-until-it-doesnt/

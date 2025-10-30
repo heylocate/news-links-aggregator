@@ -1,30 +1,26 @@
 {
   "Phone Lookup": [
-    "https://therecord.media/fcc-adopts-new-rule-targeting-robocalls"
+    "https://www.computerworld.com/article/4079613/android-16-additions.html"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [
-    "http://www.businesswire.com/news/home/20251028919490/en/Biometrics-Named-the-Top-Fraud-Fighting-Tool-Regula-Study-Finds/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q=="
+  "Parental Control": [
+    "https://appleinsider.com/articles/25/10/29/when-an-ex-weaponizes-family-sharing----and-how-little-you-can-do?utm_source=rss",
+    "https://9to5mac.com/2025/10/29/mother-describes-the-dark-side-of-apples-family-sharing-when-a-relationship-ends/",
+    "https://www.wired.com/story/apples-family-sharing-helps-keep-children-safe-until-it-doesnt/"
   ],
-  "People Search": [],
-  "Address Lookup": [
-    "https://blog.google/products/maps/transamerica-trail-ford-street-view/",
-    "https://www.engadget.com/mobile/smartphones/oppos-find-x9-pro-hands-on-detachable-telephoto-lens-7000mah-battery-160006373.html?src=rss"
+  "Background Check": [],
+  "People Search": [
+    "https://iapp.org/news/a/cppa-meeting-to-cover-drop-requirements"
   ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/",
-    "https://databreaches.net/2025/10/28/safaricom-backed-m-tiba-victim-of-a-possible-data-breach-affecting-millions-of-kenyans/?pk_campaign=feed&pk_kwd=safaricom-backed-m-tiba-victim-of-a-possible-data-breach-affecting-millions-of-kenyans",
-    "https://www.engadget.com/cybersecurity/google-is-once-again-disputing-gmail-was-breached-180031380.html?src=rss",
-    "http://www.businesswire.com/news/home/20251028188727/en/CellTrust-Wins-Top-InfoSec-Innovator-Award-2025-for-Enterprise-Data-Compliance/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q==",
-    "https://go.theregister.com/feed/www.theregister.com/2025/10/28/impact_afghan_data_breach/",
-    "https://www.securityweek.com/cybercriminals-trade-183-million-stolen-credentials-on-telegram-dark-forums/"
+    "https://securityboulevard.com/2025/10/survey-surfaces-rise-in-email-security-incidents-tied-to-ransomware/",
+    "https://www.securityweek.com/ad-and-pr-giant-dentsu-says-hackers-stole-merkle-data/",
+    "https://iapp.org/news/a/oaic-finds-lax-data-protections-at-the-center-of-wine-sellers-breach-incident"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://hackernoon.com/meet-social-links-hackernoon-company-of-the-week?source=rss"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
