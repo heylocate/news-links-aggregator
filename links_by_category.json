@@ -1,24 +1,35 @@
 {
   "Phone Lookup": [
-    "https://www.computerworld.com/article/4079613/android-16-additions.html"
+    "https://www.bgr.com/2012033/android-vs-iphone-scam-texts-calls-google-study/",
+    "https://blog.hiya.com/voice-security-still-a-major-concern-for-consumers-professionals"
   ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://appleinsider.com/articles/25/10/29/when-an-ex-weaponizes-family-sharing----and-how-little-you-can-do?utm_source=rss",
-    "https://9to5mac.com/2025/10/29/mother-describes-the-dark-side-of-apples-family-sharing-when-a-relationship-ends/",
-    "https://www.wired.com/story/apples-family-sharing-helps-keep-children-safe-until-it-doesnt/"
+    "https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/"
   ],
-  "Background Check": [],
-  "People Search": [
-    "https://iapp.org/news/a/cppa-meeting-to-cover-drop-requirements"
+  "Background Check": [
+    "https://www.eff.org/deeplinks/2025/10/age-verification-estimation-assurance-oh-my-guide-terminology"
   ],
-  "Address Lookup": [],
+  "People Search": [],
+  "Address Lookup": [
+    "https://www.androidheadlines.com/2025/10/how-to-blur-home-house-google-maps-street-view-privacy.html",
+    "https://www.slashgear.com/2011733/google-maps-gemini-ai-assistant-helpful-for-solo-drivers/",
+    "https://9to5google.com/2025/10/30/google-maps-power-saving-mode-prep/",
+    "https://www.androidauthority.com/google-maps-power-saving-3611409/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://securityboulevard.com/2025/10/survey-surfaces-rise-in-email-security-incidents-tied-to-ransomware/",
-    "https://www.securityweek.com/ad-and-pr-giant-dentsu-says-hackers-stole-merkle-data/",
-    "https://iapp.org/news/a/oaic-finds-lax-data-protections-at-the-center-of-wine-sellers-breach-incident"
+    "https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/",
+    "https://databreaches.net/2025/10/30/revealed-afghan-data-breach-after-mod-official-left-laptop-open-on-train/?pk_campaign=feed&pk_kwd=revealed-afghan-data-breach-after-mod-official-left-laptop-open-on-train",
+    "https://databreaches.net/2025/10/30/snowflake-loses-two-more-bids-to-dismiss-data-breach-plaintiffs/?pk_campaign=feed&pk_kwd=snowflake-loses-two-more-bids-to-dismiss-data-breach-plaintiffs",
+    "http://security.googleblog.com/2025/10/how-android-protects-you-from-scams.html",
+    "https://www.techradar.com/pro/security/conduent-admits-its-data-breach-may-have-affected-around-10-million-people",
+    "https://www.pcworld.com/article/407092/best-password-managers-reviews-and-buying-advice.html",
+    "https://www.securityweek.com/millions-impacted-by-conduent-data-breach/",
+    "https://9to5mac.com/2025/10/30/proton-data-breach-observatory-reports-as-soon-as-your-personal-data-hits-the-dark-web/",
+    "https://www.bgr.com/2011766/proton-data-breach-observatory-dark-web-data/",
+    "https://www.engadget.com/cybersecurity/proton-launches-data-breach-observatory-to-track-personal-info-leaks-110047833.html?src=rss"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
