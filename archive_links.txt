@@ -1986,3 +1986,14 @@ https://www.pcworld.com/article/407092/best-password-managers-reviews-and-buying
 https://www.securityweek.com/millions-impacted-by-conduent-data-breach/
 https://www.slashgear.com/2011733/google-maps-gemini-ai-assistant-helpful-for-solo-drivers/
 https://www.techradar.com/pro/security/conduent-admits-its-data-breach-may-have-affected-around-10-million-people
+https://securityboulevard.com/2025/10/preventing-dns-filtering-bypass-by-encrypted-dns-dot-doh-doq/
+https://therecord.media/upenn-hacker-email-affirmative
+https://www.androidcentral.com/apps-software/google-maps-is-testing-a-battery-saving-mode-youve-always-needed
+https://www.androidheadlines.com/2025/10/google-maps-could-soon-get-a-power-saving-mode-for-android-users.html
+https://www.bgr.com/2012904/google-maps-black-and-white-lock-screen-mode/
+https://www.computerworld.com/article/4082768/cyber-agencies-produce-long-overdue-best-practices-for-securing-microsoft-exchange-server-2.html
+https://www.pcworld.com/article/2958813/why-you-should-wrap-your-car-keys-in-aluminum-foil.html
+https://www.phonearena.com/news/google-testing-much-needed-google-maps-feature_id175380
+https://www.techradar.com/vpn/vpn-privacy-security/nearly-58-billion-personal-data-points-have-been-leaked-online-since-2004-new-study-reveals
+https://www.techradar.com/vpn/vpn-services/protons-new-observatory-reveals-over-100-billion-records-breached-heres-what-you-need-to-know
+https://www.tomsguide.com/computing/mobile-apps/google-maps-is-working-on-a-huge-upgrade-that-will-make-sure-your-phone-doesnt-die-while-getting-directions
