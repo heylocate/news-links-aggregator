@@ -1,20 +1,6 @@
-## Phone Lookup
-https://securityboulevard.com/2025/10/preventing-dns-filtering-bypass-by-encrypted-dns-dot-doh-doq/
-
-## Number / Device Tracking
-https://www.pcworld.com/article/2958813/why-you-should-wrap-your-car-keys-in-aluminum-foil.html
-
-## Background Check
-https://www.computerworld.com/article/4082768/cyber-agencies-produce-long-overdue-best-practices-for-securing-microsoft-exchange-server-2.html
-
 ## Address Lookup
-https://www.phonearena.com/news/google-testing-much-needed-google-maps-feature_id175380
-https://www.tomsguide.com/computing/mobile-apps/google-maps-is-working-on-a-huge-upgrade-that-will-make-sure-your-phone-doesnt-die-while-getting-directions
-https://www.androidcentral.com/apps-software/google-maps-is-testing-a-battery-saving-mode-youve-always-needed
-https://www.bgr.com/2012904/google-maps-black-and-white-lock-screen-mode/
-https://www.androidheadlines.com/2025/10/google-maps-could-soon-get-a-power-saving-mode-for-android-users.html
+https://www.howtogeek.com/this-secret-setting-prevents-google-maps-from-wasting-data-while-driving/
+https://www.howtogeek.com/how-to-use-google-maps-without-an-internet-connection/
 
 ## Security & Anti-Abuse
-https://therecord.media/upenn-hacker-email-affirmative
-https://www.techradar.com/vpn/vpn-privacy-security/nearly-58-billion-personal-data-points-have-been-leaked-online-since-2004-new-study-reveals
-https://www.techradar.com/vpn/vpn-services/protons-new-observatory-reveals-over-100-billion-records-breached-heres-what-you-need-to-know
+https://databreaches.net/2025/11/01/uk-woman-charged-after-nhs-patients-records-accessed-in-data-breach/?pk_campaign=feed&pk_kwd=uk-woman-charged-after-nhs-patients-records-accessed-in-data-breach
