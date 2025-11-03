@@ -2000,3 +2000,6 @@ https://www.tomsguide.com/computing/mobile-apps/google-maps-is-working-on-a-huge
 https://databreaches.net/2025/11/01/uk-woman-charged-after-nhs-patients-records-accessed-in-data-breach/?pk_campaign=feed&pk_kwd=uk-woman-charged-after-nhs-patients-records-accessed-in-data-breach
 https://www.howtogeek.com/how-to-use-google-maps-without-an-internet-connection/
 https://www.howtogeek.com/this-secret-setting-prevents-google-maps-from-wasting-data-while-driving/
+https://research.checkpoint.com/2025/drawn-to-danger-windows-graphics-vulnerabilities-lead-to-remote-code-execution-and-memory-exposure/
+https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/
+https://www.techradar.com/phones/android/google-maps-adds-a-useful-tweak-for-its-android-auto-interface-and-may-soon-help-you-save-your-phone-battery-while-navigating
