@@ -1,8 +1,13 @@
-## Background Check
-https://research.checkpoint.com/2025/drawn-to-danger-windows-graphics-vulnerabilities-lead-to-remote-code-execution-and-memory-exposure/
+## Number / Device Tracking
+https://www.pcworld.com/article/2958813/how-wrapping-keys-in-aluminum-foil-protects-your-car-from-thieves.html
 
 ## Address Lookup
-https://www.techradar.com/phones/android/google-maps-adds-a-useful-tweak-for-its-android-auto-interface-and-may-soon-help-you-save-your-phone-battery-while-navigating
+https://www.androidauthority.com/google-photos-maps-new-gradient-icon-3612300/
 
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/
+https://www.globenewswire.com/news-release/2025/11/04/3179933/0/en/Beverly-Hills-Oncology-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html
+https://www.globenewswire.com/news-release/2025/11/04/3179932/0/en/Oglethorpe-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html
+https://www.globenewswire.com/news-release/2025/11/04/3179918/6819/en/Oglethorpe-Inc-Data-Breach-Alert-Issued-By-Wolf-Haldenstein.html
+https://therecord.media/data-breach-costs-lead-to-profit-decline-south-korea-telecom
+https://securityboulevard.com/2025/11/a-guide-to-responding-to-a-third-party-data-breach/
+https://iapp.org/news/a/university-of-pennsylvania-hit-with-apparent-data-breach-after-mass-emails
