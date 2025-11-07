@@ -1,54 +1,28 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://techcrunch.com/2025/11/05/softbank-openai-launch-new-joint-venture-in-japan-as-ai-deals-grow-ever-more-circular/"
+  "Phone Lookup": [
+    "https://blog.hiya.com/consumers-businesses-losing-millions-due-to-calling-challenges"
   ],
+  "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://www.techradar.com/pro/security/want-to-know-what-eu-officials-are-up-to-call-a-data-broker",
-    "https://databreaches.net/2025/11/05/phone-location-data-of-top-eu-officials-for-sale-report-finds/?pk_campaign=feed&pk_kwd=phone-location-data-of-top-eu-officials-for-sale-report-finds",
-    "https://iapp.org/news/a/data-brokers-are-allegedly-selling-eu-officials-location-data"
-  ],
+  "People Search": [],
   "Address Lookup": [
-    "https://www.androidheadlines.com/2025/11/gemini-comes-to-google-maps-for-conversational-driving-experience.html",
-    "https://www.zdnet.com/article/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-one-easily-wins/",
-    "https://www.androidpolice.com/google-maps-gemini-upgrades/",
-    "https://www.androidcentral.com/apps-software/google-maps/google-maps-gets-a-gemini-boost-to-help-you-navigate-the-roads-like-a-pro",
-    "https://www.cnet.com/tech/services-and-software/7-hidden-google-maps-features-for-stress-free-holiday-travel/#ftag=CADf328eec",
-    "https://www.techradar.com/ai-platforms-assistants/google-maps-is-getting-a-big-gemini-upgrade-for-drivers-here-are-4-new-features-coming-soon",
-    "https://www.tomsguide.com/ai/google-maps-gets-the-ai-treatment-with-gemini-integration-heres-all-the-clever-new-things-it-can-do",
-    "https://9to5google.com/2025/11/05/google-maps-gemini-navigation/",
-    "https://www.phonearena.com/news/google-maps-landmark-based-navigation-gemini-powered-lens_id175495",
-    "https://9to5google.com/2025/11/05/google-maps-landmark-navigation-gemini-lens/",
-    "https://www.androidauthority.com/google-maps-gemini-3612976/",
-    "https://arstechnica.com/google/2025/11/so-long-assistant-gemini-is-taking-over-google-maps/",
-    "https://www.engadget.com/ai/google-maps-gemini-integration-will-make-hands-free-navigation-more-conversational-140009629.html?src=rss",
-    "https://blog.google/products/maps/gemini-navigation-features-landmark-lens/",
-    "https://techcrunch.com/2025/11/05/google-maps-bakes-in-gemini-to-improve-navigation-and-hands-free-use/",
-    "https://www.androidcentral.com/apps-software/google-maps/google-maps-and-polestar-fix-the-worst-part-of-highway-driving",
-    "https://blog.google/products/maps/gemini-navigation-global/"
+    "https://www.cnet.com/roadshow/news/this-new-ai-feature-for-cars-promises-to-keep-you-from-missing-your-exit/#ftag=CADf328eec",
+    "https://www.zdnet.com/article/google-maps-vs-waze-i-compared-two-of-the-best-navigation-apps-and-heres-who-wins/",
+    "https://www.techspot.com/news/110156-gemini-integration-google-maps-help-you-find-cafes.html",
+    "https://blog.google/products/maps/google-maps-data-holidays-2025/",
+    "https://www.bgr.com/2018694/google-maps-gemini-update-new-ai-features/",
+    "https://www.androidauthority.com/google-maps-sun-shade-apk-teardown-3613515/"
   ],
-  "Image Search": [
-    "https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/"
-  ],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
-    "https://www.zdnet.com/article/at-t-customers-can-still-claim-up-to-7500-from-177m-data-breach-settlement-heres-how/",
-    "https://techcrunch.com/2025/11/05/university-of-pennsylvania-confirms-hacker-stole-data-during-cyberattack/",
-    "https://databreaches.net/2025/11/05/swedish-it-company-data-breach-exposes-personal-details-of-1-5-million-users/?pk_campaign=feed&pk_kwd=swedish-it-company-data-breach-exposes-personal-details-of-1-5-million-users",
-    "https://databreaches.net/2025/11/05/nikkei-says-17000-impacted-by-data-breach-stemming-from-slack-account-hack/?pk_campaign=feed&pk_kwd=nikkei-says-17000-impacted-by-data-breach-stemming-from-slack-account-hack",
-    "https://databreaches.net/2025/11/05/software-dev-accidentally-leaks-australian-govt-documents/?pk_campaign=feed&pk_kwd=software-dev-accidentally-leaks-australian-govt-documents",
-    "https://www.securityweek.com/nikkei-says-17000-impacted-by-data-breach-stemming-from-slack-account-hack/",
-    "https://iapp.org/news/a/us-appellate-court-ruling-lowers-threshold-for-collecting-damages-in-data-breach-cases",
-    "https://iapp.org/news/a/telecom-company-reports-large-revenue-drop-after-data-breach-compensation-efforts"
+    "https://www.securityweek.com/automotive-it-firm-hyundai-autoever-discloses-data-breach/",
+    "https://go.theregister.com/feed/www.theregister.com/2025/11/06/nikkeis_private_chats_go_public/",
+    "https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.techspot.com/news/110146-mpa-tells-meta-stop-using-term-pg-13.html",
-    "https://www.engadget.com/big-tech/the-mpa-tells-meta-to-stop-using-pg-13-to-describe-teen-accounts-174251843.html?src=rss"
-  ]
+  "Uncategorized": []
 }
