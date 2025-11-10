@@ -2074,3 +2074,6 @@ https://haveibeenpwned.com/Breach/Tisza
 https://securityboulevard.com/2025/11/saturday-security-three-breaches-three-lessons-and-how-attackers-keep-adapting/
 https://www.androidcentral.com/phones/news-weekly-nov-8-2025
 https://www.tomsguide.com/phones/i-just-discovered-this-hidden-google-maps-feature-that-makes-my-route-planning-way-better
+https://databreaches.net/2025/11/09/san-joaquin-county-superior-court-concludes-sensitive-info-leaked-in-data-breach/?pk_campaign=feed&pk_kwd=san-joaquin-county-superior-court-concludes-sensitive-info-leaked-in-data-breach
+https://go.theregister.com/feed/www.theregister.com/2025/11/09/asia_tech_news_roundup/
+https://www.androidcentral.com/apps-software/google-maps/google-maps-gets-a-major-upgrade-with-gemini-for-smooth-navigation-on-android-and-ios
