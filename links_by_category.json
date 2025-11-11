@@ -2,16 +2,20 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
+  "Background Check": [
+    "https://securityboulevard.com/2025/11/hypr-and-yubico-deepen-partnership-to-secure-and-scale-passkey-deployment-through-automated-identity-verification/"
+  ],
+  "People Search": [
+    "https://www.globenewswire.com/news-release/2025/11/11/3185151/0/en/From-Pre-Orders-to-Presence-Breakthrough-Emotion-Tracking-Pendant-NUNA-Officially-Launches-in-U-S-Ahead-of-Holiday-Season.html"
+  ],
   "Address Lookup": [
-    "https://www.androidcentral.com/apps-software/google-maps/google-maps-gets-a-major-upgrade-with-gemini-for-smooth-navigation-on-android-and-ios"
+    "https://techcrunch.com/2025/11/10/google-maps-releases-new-ai-tools-to-let-you-create-interactive-projects/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://go.theregister.com/feed/www.theregister.com/2025/11/09/asia_tech_news_roundup/",
-    "https://databreaches.net/2025/11/09/san-joaquin-county-superior-court-concludes-sensitive-info-leaked-in-data-breach/?pk_campaign=feed&pk_kwd=san-joaquin-county-superior-court-concludes-sensitive-info-leaked-in-data-breach"
+    "https://www.techradar.com/pro/security/the-washington-post-confirms-it-suffered-an-oracle-linked-data-breach",
+    "https://www.computerworld.com/article/4085942/when-threats-escalate-cisos-need-to-call-in-the-cavalry.html"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
