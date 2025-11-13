@@ -1,34 +1,46 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://www.engadget.com/big-tech/google-sues-group-running-massive-sms-scam-operation-133000168.html?src=rss"
+  ],
   "Number / Device Tracking": [
-    "https://go.theregister.com/feed/www.theregister.com/2025/11/11/north_korean_spies_turn_googles/"
+    "https://securityboulevard.com/2025/11/ndss-2025-a-holistic-security-analysis-of-google-fuchsias-and-gvisors-network-stack/"
   ],
   "Parental Control": [
-    "https://www.qustodio.com/en/blog/what-is-chatgpt-is-it-safe/"
+    "https://www.verizon.com/about/parenting/tech-gift-guidance-safety-first",
+    "https://www.verizon.com/about/news/tech-gift-guidance-safety-first-phones-watches-and-consoles"
   ],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.eff.org/deeplinks/2025/11/washington-court-rules-data-captured-flock-safety-cameras-are-public-records"
+  ],
   "People Search": [],
   "Address Lookup": [
-    "https://www.bgr.com/2024143/google-maps-power-saving-mode-pixel-10-phones/",
-    "https://www.androidpolice.com/google-maps-power-saving-mode-only-on-pixel-10/",
-    "https://www.bgr.com/2021760/pixel-drop-nano-banana-ai-messages-google-maps-battery-mode/",
-    "https://www.androidauthority.com/google-maps-power-saving-mode-pixel-10-3614181/",
-    "https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/",
-    "https://www.engadget.com/mobile/smartphones/remix-in-google-messages-brings-ai-photo-editing-to-even-more-phones-190000445.html?src=rss",
-    "https://www.tomsguide.com/phones/google-pixel-phones/november-pixel-drop-brings-remix-photo-editing-to-google-messages-and-more",
-    "https://www.tomsguide.com/ai/google-maps-just-became-an-ai-developers-dream-toy-heres-what-the-new-changes-could-mean-for-you"
+    "https://www.tomsguide.com/computing/mobile-apps/google-maps-just-got-a-huge-upgrade-that-saves-your-battery-find-out-if-its-coming-to-your-phone",
+    "https://www.androidauthority.com/google-maps-tesla-supercharger-live-availability-3615270/",
+    "https://www.androidheadlines.com/2025/11/google-maps-integrates-tesla-supercharger-availability-across-devices.html",
+    "https://9to5google.com/2025/11/12/google-maps-now-shows-live-tesla-supercharger-availability/",
+    "https://www.androidcentral.com/phones/google-pixel/google-maps-power-saving-mode-limited-pixel-10",
+    "https://www.androidheadlines.com/2025/11/google-is-gatekeeping-a-brilliant-new-google-maps-feature-only-pixel-10-users-get-it.html",
+    "https://www.androidauthority.com/android-auto-google-maps-customization-3614347/"
   ],
-  "Image Search": [],
+  "Image Search": [
+    "https://blog.google/feed/search-images-tab-browse-organize/",
+    "https://go.theregister.com/feed/www.theregister.com/2025/11/12/firefox_145_arrives/"
+  ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/globallogic-warns-10-000-employees-of-data-theft-after-oracle-breach/",
-    "https://iapp.org/news/a/existing-laws-may-be-applied-to-chatbots-to-mitigate-risks-study-says",
-    "https://iapp.org/news/a/auto-company-experiences-data-breach-leaking-consumers-personal-data"
+    "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+    "https://www.darkreading.com/threat-intelligence/google-dim-lighthouse-phishing-as-a-service",
+    "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/",
+    "https://databreaches.net/2025/11/12/doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded/?pk_campaign=feed&pk_kwd=doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded",
+    "https://www.techradar.com/pro/data-breach-at-mysterious-chinese-firm-reveals-state-owned-cyber-weapons-and-even-a-list-of-targets",
+    "https://www.androidheadlines.com/2025/11/google-lawsuit-text-sms-phishing-operations-lighthouse-smishing-triad.html",
+    "https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html",
+    "https://databreaches.net/2025/11/12/almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach/?pk_campaign=feed&pk_kwd=almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach",
+    "https://www.securityweek.com/google-sues-chinese-cybercriminals-behind-lighthouse-phishing-kit/",
+    "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://appleinsider.com/articles/25/11/11/nomad-tracking-card-pro-review-find-my-mixed-with-apple-card-aesthetics?utm_source=rss"
-  ]
+  "Uncategorized": []
 }
