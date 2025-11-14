@@ -2120,3 +2120,15 @@ https://www.techradar.com/pro/data-breach-at-mysterious-chinese-firm-reveals-sta
 https://www.tomsguide.com/computing/mobile-apps/google-maps-just-got-a-huge-upgrade-that-saves-your-battery-find-out-if-its-coming-to-your-phone
 https://www.verizon.com/about/news/tech-gift-guidance-safety-first-phones-watches-and-consoles
 https://www.verizon.com/about/parenting/tech-gift-guidance-safety-first
+http://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html
+https://9to5mac.com/2025/11/13/2b-email-addresses-and-1-3b-passwords-compromised-in-multiple-data-breaches/
+https://blog.hiya.com/top-10-phone-scams-in-spain-in-2025
+https://databreaches.net/2025/11/13/district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive/?pk_campaign=feed&pk_kwd=district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive
+https://go.theregister.com/feed/www.theregister.com/2025/11/13/democrats_warn_info_gap_ice_state_data/
+https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/
+https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/
+https://www.engadget.com/ai/google-adds-agentic-ai-checkout-to-shopping-140000930.html?src=rss
+https://www.engadget.com/apps/google-will-allow-experienced-users-to-sideload-unverified-android-apps-130000130.html?src=rss
+https://www.engadget.com/big-tech/apple-halves-app-store-fees-for-mini-apps-190251153.html?src=rss
+https://www.engadget.com/deals/black-friday-vpn-deals-get-75-percent-off-proton-vpn-two-year-plans-153737858.html?src=rss
+https://www.techradar.com/vpn/vpn-services/protect-yourself-from-data-breaches-with-this-black-friday-vpn-deal
