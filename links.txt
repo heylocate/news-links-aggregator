@@ -1,21 +1,25 @@
-## Phone Lookup
-https://blog.hiya.com/top-10-phone-scams-in-spain-in-2025
+## Number / Device Tracking
+https://www.tomsguide.com/phones/belkin-recalls-nearly-85-000-power-banks-due-to-fire-risk-see-if-yours-is-affected
+https://www.theverge.com/news/821016/belkin-recall-auto-tracking-iphone-stand-pro-boostcharge-power-bank
 
 ## Parental Control
-https://www.engadget.com/big-tech/apple-halves-app-store-fees-for-mini-apps-190251153.html?src=rss
+https://www.pr.com/press-release/953351
 
 ## Background Check
-https://go.theregister.com/feed/www.theregister.com/2025/11/13/democrats_warn_info_gap_ice_state_data/
-https://www.engadget.com/apps/google-will-allow-experienced-users-to-sideload-unverified-android-apps-130000130.html?src=rss
+https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/
 
 ## People Search
-https://www.engadget.com/ai/google-adds-agentic-ai-checkout-to-shopping-140000930.html?src=rss
+https://iapp.org/news/a/california-office-of-administrative-law-approves-final-delete-act-regulations
 
 ## Security & Anti-Abuse
-https://www.engadget.com/deals/black-friday-vpn-deals-get-75-percent-off-proton-vpn-two-year-plans-153737858.html?src=rss
-https://www.techradar.com/vpn/vpn-services/protect-yourself-from-data-breaches-with-this-black-friday-vpn-deal
-http://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html
-https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/
-https://9to5mac.com/2025/11/13/2b-email-addresses-and-1-3b-passwords-compromised-in-multiple-data-breaches/
-https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/
-https://databreaches.net/2025/11/13/district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive/?pk_campaign=feed&pk_kwd=district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive
+https://www.androidheadlines.com/2025/11/logitech-suffers-data-breach-claims-no-sensitive-data-stolen.html
+https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/
+https://www.tomsguide.com/computing/online-security/doordash-just-revealed-major-data-breach-heres-what-customer-information-was-exposed
+https://securityboulevard.com/2025/11/shinyhunters-breaches-legacy-cloud-storage-system-of-checkout-com/
+https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/
+https://www.techradar.com/pro/security/doordash-confirms-serious-data-breach-customer-names-addresses-emails-are-more-all-leaked-heres-what-we-know
+https://www.techspot.com/news/110260-you-may-owed-up-7500-att-data-breach.html
+https://www.securityweek.com/checkout-com-discloses-data-breach-after-extortion-attempt/
+https://go.theregister.com/feed/www.theregister.com/2025/11/14/pac_mod_afghan_report/
+https://iapp.org/news/a/consumers-data-breached-after-cyberattack-on-food-delivery-service
+https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/
