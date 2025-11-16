@@ -1,33 +1,20 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.tomsguide.com/phones/belkin-recalls-nearly-85-000-power-banks-due-to-fire-risk-see-if-yours-is-affected",
-    "https://www.theverge.com/news/821016/belkin-recall-auto-tracking-iphone-stand-pro-boostcharge-power-bank"
-  ],
+  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.pr.com/press-release/953351"
+    "https://www.xda-developers.com/self-hosted-camera-monitoring-app-perfect-frigate-alternative/"
   ],
-  "Background Check": [
-    "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/"
+  "Background Check": [],
+  "People Search": [],
+  "Address Lookup": [
+    "https://www.cnet.com/roadshow/news/this-new-car-feature-uses-ai-to-keep-you-from-missing-your-exit/#ftag=CADf328eec",
+    "https://www.tomsguide.com/computing/mobile-apps/i-tested-apple-maps-guide-me-vs-google-maps-live-view-which-map-app-has-the-better-ar-navigation"
   ],
-  "People Search": [
-    "https://iapp.org/news/a/california-office-of-administrative-law-approves-final-delete-act-regulations"
-  ],
-  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.androidheadlines.com/2025/11/logitech-suffers-data-breach-claims-no-sensitive-data-stolen.html",
-    "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/",
-    "https://www.tomsguide.com/computing/online-security/doordash-just-revealed-major-data-breach-heres-what-customer-information-was-exposed",
-    "https://securityboulevard.com/2025/11/shinyhunters-breaches-legacy-cloud-storage-system-of-checkout-com/",
-    "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/",
-    "https://www.techradar.com/pro/security/doordash-confirms-serious-data-breach-customer-names-addresses-emails-are-more-all-leaked-heres-what-we-know",
-    "https://www.techspot.com/news/110260-you-may-owed-up-7500-att-data-breach.html",
-    "https://www.securityweek.com/checkout-com-discloses-data-breach-after-extortion-attempt/",
-    "https://go.theregister.com/feed/www.theregister.com/2025/11/14/pac_mod_afghan_report/",
-    "https://iapp.org/news/a/consumers-data-breached-after-cyberattack-on-food-delivery-service",
-    "https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/"
+    "https://www.engadget.com/deals/black-friday-vpn-deals-proton-vpn-two-year-plans-are-up-to-75-percent-off-153737122.html?src=rss",
+    "https://databreaches.net/2025/11/15/washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others/?pk_campaign=feed&pk_kwd=washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
