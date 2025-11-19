@@ -1,28 +1,28 @@
 {
   "Phone Lookup": [
-    "https://blog.hiya.com/hiya-and-masorange-partner-to-launch-llamada-visible-in-spain",
-    "https://www.prnewswire.com/news-releases/vonage-first-to-launch-fraud-prevention-network-apis-across-all-major-us-carriers-302617292.html"
+    "https://blog.hiya.com/updated-hiya-console-makes-it-easier-to-manage-your-calls"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
+  "Parental Control": [
+    "https://www.cnet.com/tech/gaming/roblox-rolls-out-age-verification-requirement-for-chat-amid-child-safety-criticism/#ftag=CADf328eec"
+  ],
+  "Background Check": [
+    "https://www.geekwire.com/2025/washington-state-cities-turn-off-license-plate-reader-cameras-amid-ruling-on-data-access/"
+  ],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/weather-next2-in-search-gemini-pixel-weather-and-google-maps/"
+    "https://www.androidauthority.com/google-maps-holiday-traffic-3616966/",
+    "https://9to5google.com/2025/11/18/android-auto-google-maps-ev-filters-charging-payment/",
+    "https://www.androidauthority.com/google-maps-android-auto-charging-filters-3616491/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/",
-    "https://www.howtogeek.com/doordash-new-data-breach-leaked-emails-and-physical-addresses/",
-    "https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/",
-    "https://therecord.media/logitech-discloses-data-breach-clop",
-    "https://www.engadget.com/deals/black-friday-vpn-deals-get-up-to-75-percent-off-proton-vpn-two-year-plans-153737542.html?src=rss",
-    "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/",
-    "https://www.pcworld.com/article/2974738/logitech-confirms-large-customer-data-breach-what-that-means-for-you.html",
-    "https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/",
-    "https://www.securityweek.com/doordash-says-personal-information-stolen-in-data-breach/",
-    "https://www.securityweek.com/logitech-confirms-data-breach-following-designation-as-oracle-hack-victim/"
+    "https://www.androidcentral.com/wearables/how-to-set-up-safety-and-emergency-features-on-google-pixel-watch",
+    "https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/",
+    "https://www.securityweek.com/pennsylvania-attorney-general-confirms-data-breach-after-ransomware-attack/",
+    "https://www.securityweek.com/princeton-university-data-breach-impacts-alumni-students-employees/",
+    "https://iapp.org/news/a/aepd-issues-encryption-guide-for-freelancers-smes"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
