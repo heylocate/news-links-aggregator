@@ -1,20 +1,30 @@
 ## Phone Lookup
-https://blog.hiya.com/updated-hiya-console-makes-it-easier-to-manage-your-calls
+https://www.macrumors.com/2025/11/19/app-store-awards-finalists-2025/
+http://www.businesswire.com/news/home/20251023365605/en/SmartBuy-Teams-Up-with-Truecaller-to-Power-Smarter-Retail-Engagement-in-Jordan/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q==
 
-## Parental Control
-https://www.cnet.com/tech/gaming/roblox-rolls-out-age-verification-requirement-for-chat-amid-child-safety-criticism/#ftag=CADf328eec
-
-## Background Check
-https://www.geekwire.com/2025/washington-state-cities-turn-off-license-plate-reader-cameras-amid-ruling-on-data-access/
+## Number / Device Tracking
+https://www.androidheadlines.com/2025/11/samsung-one-ui-8-5-anti-theft-protection-identity-check-galaxy-phones.html
 
 ## Address Lookup
-https://www.androidauthority.com/google-maps-holiday-traffic-3616966/
-https://9to5google.com/2025/11/18/android-auto-google-maps-ev-filters-charging-payment/
-https://www.androidauthority.com/google-maps-android-auto-charging-filters-3616491/
+https://www.macrumors.com/2025/11/19/google-maps-gemini-tips/
+https://www.phonearena.com/news/google-maps-new-holiday-features_id175897
+https://www.androidheadlines.com/2025/11/google-maps-2025-update-brings-powerful-new-features.html
+https://www.tomsguide.com/computing/mobile-apps/google-maps-gets-four-new-features-to-help-cut-your-travel-time-during-the-holidays
+https://www.androidpolice.com/google-maps-features-for-the-holidays/
+https://www.cnet.com/tech/services-and-software/google-maps-rolls-out-new-features-to-make-your-holiday-travel-smoother/#ftag=CADf328eec
+https://www.engadget.com/apps/google-maps-will-use-ai-to-predict-if-ev-chargers-will-be-available-on-arrival-191808879.html?src=rss
+https://www.techradar.com/computing/websites-apps/google-maps-is-adding-4-new-features-to-help-you-navigate-the-holiday-season
+https://techcrunch.com/2025/11/19/google-maps-adds-gemini-powered-tips-section-ev-charger-availability-predictions-and-more/
+https://www.bgr.com/2030819/google-maps-ev-charger-real-time-gemini-features/
+https://www.androidauthority.com/google-maps-four-new-features-3617259/
+https://blog.google/products/maps/holiday-gemini-tips-new-explore-tab/
+https://9to5google.com/2025/11/19/google-maps-review-nicknames/
 
 ## Security & Anti-Abuse
-https://www.androidcentral.com/wearables/how-to-set-up-safety-and-emergency-features-on-google-pixel-watch
-https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/
-https://www.securityweek.com/pennsylvania-attorney-general-confirms-data-breach-after-ransomware-attack/
-https://www.securityweek.com/princeton-university-data-breach-impacts-alumni-students-employees/
-https://iapp.org/news/a/aepd-issues-encryption-guide-for-freelancers-smes
+https://haveibeenpwned.com/Breach/Eurofiber
+https://securityboulevard.com/2025/11/apis-microservices-and-risk-management-firetail-blog/
+https://securityboulevard.com/2025/11/api-security-essentials-a-comprehensive-checklist-for-securing-your-api-firetail-blog/
+https://databreaches.net/2025/11/19/princeton-university-data-breach-impacts-alumni-students-employees/?pk_campaign=feed&pk_kwd=princeton-university-data-breach-impacts-alumni-students-employees
+https://databreaches.net/2025/11/19/french-agency-pajemploi-reports-data-breach-affecting-1-2m-people/?pk_campaign=feed&pk_kwd=french-agency-pajemploi-reports-data-breach-affecting-1-2m-people
+https://www.engadget.com/deals/get-up-to-75-percent-off-proton-vpn-two-year-plans-with-these-black-friday-vpn-deals-153737058.html?src=rss
+https://iapp.org/news/a/alberta-ontarios-ipcs-publish-powerschool-breach-findings
