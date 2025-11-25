@@ -1,21 +1,40 @@
 {
   "Phone Lookup": [
-    "https://www.pr.com/press-release/953720"
+    "https://blog.youmail.com/2025/11/media-coverage-michigan-lawmakers-eye-crackdown-after-robocall-surge/",
+    "https://blog.youmail.com/2025/11/media-coverage-consumer-groups-warn-of-an-unstoppable-robocall-glut/",
+    "https://www.phonearena.com/news/at-t-hundreds-of-spam-calls_id176011"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [],
+  "Parental Control": [
+    "https://www.howtogeek.com/uber-one-adds-family-sharing-just-in-time-for-the-holidays/",
+    "https://www.engadget.com/apps/uber-one-subscribers-can-now-share-free-deliveries-and-other-perks-with-their-family-120004629.html?src=rss",
+    "https://iapp.org/news/a/raft-of-childrens-online-safety-bills-could-move-forward-soon"
+  ],
+  "Background Check": [
+    "https://www.engadget.com/social-media/malaysia-takes-steps-to-ban-social-media-for-children-under-16-142643494.html?src=rss"
+  ],
+  "People Search": [
+    "https://iapp.org/news/a/chinas-cyber-regulator-posts-notices-for-personal-information-labeling-regulation-feedback"
+  ],
+  "Address Lookup": [
+    "https://9to5google.com/2025/11/24/waze-for-android-auto-now-lets-you-start-navigation-from-your-phone/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.globenewswire.com/news-release/2025/11/23/3193156/6819/en/Marquis-Software-Solutions-Inc-Norway-Savings-Bank-Data-Breach-Alert-Issued-By-Wolf-Haldenstein.html",
-    "https://databreaches.net/2025/11/23/ph-department-of-the-interior-and-local-government-to-probe-alleged-data-breach-by-hackers/?pk_campaign=feed&pk_kwd=ph-department-of-the-interior-and-local-government-to-probe-alleged-data-breach-by-hackers",
-    "https://haveibeenpwned.com/Breach/CodeStepByStep"
+    "https://securityboulevard.com/2025/11/hack-of-situsamc-puts-data-of-financial-services-firms-at-risk/",
+    "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
+    "https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/",
+    "https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/",
+    "https://9to5mac.com/2025/11/24/hackers-steal-customer-data-from-jpmorgan-chase-and-citi/",
+    "https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/",
+    "https://iapp.org/news/a/advocacy-groups-urge-probe-of-uk-ico",
+    "https://www.computerworld.com/article/4092047/how-has-cloud-flipped-the-regular-security-narrative.html"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.engadget.com/social-media/meta-allegedly-buried-research-showing-its-products-are-harming-users-152236073.html?src=rss"
+  ]
 }
