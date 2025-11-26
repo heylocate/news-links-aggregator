@@ -1,51 +1,103 @@
 import os
-import feedparser, time, re, pathlib, json, hashlib, concurrent.futures
+import json
+import time
+import re
+import pathlib
+import hashlib
+import logging
+import concurrent.futures
 from datetime import datetime, timezone
-from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode, urljoin, quote_plus
+from typing import Dict, List, Tuple, Iterable, Optional
+from urllib.parse import (
+    urlparse,
+    urlunparse,
+    parse_qsl,
+    urlencode,
+    urljoin,
+    quote_plus,
+)
+
+import feedparser  # type: ignore
 
 # optional heavy deps
 try:
-    import trafilatura
-except Exception:
+    import trafilatura  # type: ignore
+except Exception:  # pragma: no cover
     trafilatura = None
 try:
-    import requests
-except Exception:
+    import requests  # type: ignore
+except Exception:  # pragma: no cover
     requests = None
+
+# ---------------------------------------------------------------------------
+# Paths / constants
+# ---------------------------------------------------------------------------
 
 ROOT = pathlib.Path(__file__).parent
 
-# files
-SEEN_PATH   = ROOT / "seen.json"
-LINKS_TXT   = ROOT / "links.txt"
-LINKS_JSON  = ROOT / "links_by_category.json"
+SEEN_PATH = ROOT / "seen.json"
+LINKS_TXT = ROOT / "links.txt"
+LINKS_JSON = ROOT / "links_by_category.json"
+LINKS_FULL_JSON = ROOT / "links_by_category_full.json"
 ARCHIVE_TXT = ROOT / "archive_links.txt"
-CFG_PATH    = ROOT / "muvera_config.json"
-CAT_PATH    = ROOT / "categories.json"
-CACHE_DIR   = ROOT / "cache"
+CFG_PATH = ROOT / "muvera_config.json"
+CAT_PATH = ROOT / "categories.json"
+CACHE_DIR = ROOT / "cache"
 REASONS_LOG = ROOT / "reasons.jsonl"
 
 # allow toggle from workflow via env
-SEMANTIC_RERANK = os.getenv("HL_SEMANTIC_RERANK", "true").lower() in ("1","true","yes","y")
+SEMANTIC_RERANK = os.getenv("HL_SEMANTIC_RERANK", "true").lower() in (
+    "1",
+    "true",
+    "yes",
+    "y",
+)
 
-def read_lines(path: pathlib.Path):
+# ---------------------------------------------------------------------------
+# Logging
+# ---------------------------------------------------------------------------
+
+LOGGER = logging.getLogger("heylocate.news_aggregator")
+if not LOGGER.handlers:
+    # LOG_LEVEL можно переопределить через muvera_config.json или env HL_LOG_LEVEL
+    log_level_name = os.getenv("HL_LOG_LEVEL", "INFO").upper()
+    log_level = getattr(logging, log_level_name, logging.INFO)
+    logging.basicConfig(
+        level=log_level,
+        format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
+    )
+    LOGGER.setLevel(log_level)
+
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+
+def read_lines(path: pathlib.Path) -> List[str]:
     if not path.exists():
         return []
-    return [l.strip() for l in path.read_text(encoding="utf-8").splitlines()
-            if l.strip() and not l.strip().startswith("#")]
+    return [
+        l.strip()
+        for l in path.read_text(encoding="utf-8").splitlines()
+        if l.strip() and not l.strip().startswith("#")
+    ]
+
 
 def load_json(path: pathlib.Path, fallback):
     if not path.exists():
         return fallback
     try:
         return json.loads(path.read_text(encoding="utf-8"))
-    except Exception:
+    except Exception as e:  # pragma: no cover
+        LOGGER.warning("Failed to load JSON from %s: %s", path, e)
         return fallback
+
 
 def norm(text: str) -> str:
     if not text:
         return ""
     return re.sub(r"\s+", " ", text).strip()
+
 
 def normalize_domain(d: str) -> str:
     d = (d or "").strip().lower()
@@ -53,7 +105,18 @@ def normalize_domain(d: str) -> str:
         d = d[4:]
     return d
 
-# ---------- defaults (overridable by muvera_config.json) ----------
+
+def atomic_write_text(path: pathlib.Path, text: str) -> None:
+    """Безопасная запись файла: сначала .tmp, затем replace."""
+    tmp_path = path.with_suffix(path.suffix + ".tmp")
+    tmp_path.write_text(text, encoding="utf-8")
+    tmp_path.replace(path)
+
+
+# ---------------------------------------------------------------------------
+# Config (dict-based, как раньше, для совместимости)
+# ---------------------------------------------------------------------------
+
 CFG = {
     "REQUIRE_KEYWORDS": True,
     "LIMIT_PER_RUN": 800,
@@ -69,7 +132,7 @@ CFG = {
     "MAX_WORKERS": 8,
     "FALLBACK_IF_EMPTY": True,
     "DEBUG_STATS": True,
-    "MAX_AGE_DAYS": 1,        # only fresh items (≤ 1 day)
+    "MAX_AGE_DAYS": 1,  # only fresh items (≤ 1 day)
     "REQUIRE_PUBDATE": True,  # drop entries without pubdate
     "DISCOVERY": {
         "enabled": True,
@@ -77,121 +140,323 @@ CFG = {
         "max_links": 10,
         "per_query_limit": 30,
         "recency": "when:1d",
-
         # language-only mode (no geo binding)
         "language_only": True,
         "lang": "en",
-
         # domain harvesting
         "save_domains": True,
         "save_domains_file": "discovered_sources.txt",
-
         # fallback: try ceid country-bound EN editions only if language-only returned zero
         "fallback_ceid_if_empty": True,
         "compat_ceids": [
-            "US:en","GB:en","AU:en","CA:en","IN:en","IE:en","NZ:en","SG:en","ZA:en","PH:en","MY:en",
-            "NG:en","KE:en","GH:en","UG:en","TZ:en","RW:en","ZM:en","ZW:en","BW:en","NA:en","MW:en","LS:en","SZ:en",
-            "CM:en","GM:en","SL:en","LR:en","SD:en","SS:en","ET:en","ER:en","MU:en","SC:en","MZ:en",
-            "JM:en","TT:en","BB:en","BS:en","AG:en","LC:en","VC:en","GD:en","KN:en","BZ:en","GY:en","DM:en","BM:en",
-            "KY:en","VG:en","AI:en","MS:en","TC:en","GI:en","IM:en","GG:en","JE:en","MT:en","CY:en",
-            "HK:en","TW:en","JP:en","KR:en","VN:en","TH:en","ID:en","MM:en","KH:en","LA:en","BN:en","PK:en","LK:en","BD:en","NP:en","BT:en",
-            "AE:en","BH:en","KW:en","QA:en","OM:en","SA:en","IL:en","JO:en","LB:en","EG:en","MA:en","TN:en","DZ:en","TR:en",
-            "DE:en","FR:en","ES:en","IT:en","PT:en","NL:en","BE:en","LU:en","DK:en","SE:en","NO:en","FI:en","IS:en","CH:en","AT:en",
-            "PL:en","CZ:en","SK:en","HU:en","RO:en","BG:en","GR:en","SI:en","HR:en","RS:en","BA:en","ME:en","MK:en","AL:en",
-            "UA:en","MD:en","BY:en","RU:en","EE:en","LV:en","LT:en","GE:en","AM:en","AZ:en"
-        ]
-    }
+            "US:en",
+            "GB:en",
+            "AU:en",
+            "CA:en",
+            "IN:en",
+            "IE:en",
+            "NZ:en",
+            "SG:en",
+            "ZA:en",
+            "PH:en",
+            "MY:en",
+            "NG:en",
+            "KE:en",
+            "GH:en",
+            "UG:en",
+            "TZ:en",
+            "RW:en",
+            "ZM:en",
+            "ZW:en",
+            "BW:en",
+            "NA:en",
+            "MW:en",
+            "LS:en",
+            "SZ:en",
+            "CM:en",
+            "GM:en",
+            "SL:en",
+            "LR:en",
+            "SD:en",
+            "SS:en",
+            "ET:en",
+            "ER:en",
+            "MU:en",
+            "SC:en",
+            "MZ:en",
+            "JM:en",
+            "TT:en",
+            "BB:en",
+            "BS:en",
+            "AG:en",
+            "LC:en",
+            "VC:en",
+            "GD:en",
+            "KN:en",
+            "BZ:en",
+            "GY:en",
+            "DM:en",
+            "BM:en",
+            "KY:en",
+            "VG:en",
+            "AI:en",
+            "MS:en",
+            "TC:en",
+            "GI:en",
+            "IM:en",
+            "GG:en",
+            "JE:en",
+            "MT:en",
+            "CY:en",
+            "HK:en",
+            "TW:en",
+            "JP:en",
+            "KR:en",
+            "VN:en",
+            "TH:en",
+            "ID:en",
+            "MM:en",
+            "KH:en",
+            "LA:en",
+            "BN:en",
+            "PK:en",
+            "LK:en",
+            "BD:en",
+            "NP:en",
+            "BT:en",
+            "AE:en",
+            "BH:en",
+            "KW:en",
+            "QA:en",
+            "OM:en",
+            "SA:en",
+            "IL:en",
+            "JO:en",
+            "LB:en",
+            "EG:en",
+            "MA:en",
+            "TN:en",
+            "DZ:en",
+            "TR:en",
+            "DE:en",
+            "FR:en",
+            "ES:en",
+            "IT:en",
+            "PT:en",
+            "NL:en",
+            "BE:en",
+            "LU:en",
+            "DK:en",
+            "SE:en",
+            "NO:en",
+            "FI:en",
+            "IS:en",
+            "CH:en",
+            "AT:en",
+            "PL:en",
+            "CZ:en",
+            "SK:en",
+            "HU:en",
+            "RO:en",
+            "BG:en",
+            "GR:en",
+            "SI:en",
+            "HR:en",
+            "RS:en",
+            "BA:en",
+            "ME:en",
+            "MK:en",
+            "AL:en",
+            "UA:en",
+            "MD:en",
+            "BY:en",
+            "RU:en",
+            "EE:en",
+            "LV:en",
+            "LT:en",
+            "GE:en",
+            "AM:en",
+            "AZ:en",
+        ],
+    },
 }
+
 CFG.update(load_json(CFG_PATH, {}))
 AGE_LIMIT_SEC = int(CFG.get("MAX_AGE_DAYS", 1)) * 86400
 
-SOURCES   = read_lines(ROOT / "sources.txt")
-KEYWORDS  = [s.lower() for s in read_lines(ROOT / "keywords.txt")]
+SOURCES = read_lines(ROOT / "sources.txt")
+KEYWORDS = [s.lower() for s in read_lines(ROOT / "keywords.txt")]
 STOPWORDS = [s.lower() for s in read_lines(ROOT / "stopwords.txt")]
 BLOCKED_DOMAINS = {normalize_domain(d) for d in read_lines(ROOT / "blocked_domains.txt")}
 CATEGORIES = load_json(CAT_PATH, [])
 
 BROAD_TOKENS = {
-    "android","iphone","ios","ipados","watchos","wear os",
-    "5g","lte","volte","vowifi",
-    "samsung","galaxy","pixel","oneplus","xiaomi","oppo","vivo","nokia","motorola",
-    "phone","smartphone","mobile","cellular"
+    "android",
+    "iphone",
+    "ios",
+    "ipados",
+    "watchos",
+    "wear os",
+    "5g",
+    "lte",
+    "volte",
+    "vowifi",
+    "samsung",
+    "galaxy",
+    "pixel",
+    "oneplus",
+    "xiaomi",
+    "oppo",
+    "vivo",
+    "nokia",
+    "motorola",
+    "phone",
+    "smartphone",
+    "mobile",
+    "cellular",
 }
 
-# ---------- URL canonicalization ----------
-_TRACKING_PARAMS = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","utm_id",
-                    "utm_name","utm_cid","utm_reader","gclid","fbclid","mc_cid","mc_eid","igshid"}
+# ---------------------------------------------------------------------------
+# URL canonicalization
+# ---------------------------------------------------------------------------
+
+_TRACKING_PARAMS = {
+    "utm_source",
+    "utm_medium",
+    "utm_campaign",
+    "utm_term",
+    "utm_content",
+    "utm_id",
+    "utm_name",
+    "utm_cid",
+    "utm_reader",
+    "gclid",
+    "fbclid",
+    "mc_cid",
+    "mc_eid",
+    "igshid",
+}
+
 
 def canonical_url(u: str) -> str:
+    """Очищаем трекинг-параметры + пытаемся найти <link rel='canonical'> при наличии trafilatura."""
     try:
         p = urlparse(u)
-        q = [(k,v) for (k,v) in parse_qsl(p.query, keep_blank_values=True) if k.lower() not in _TRACKING_PARAMS]
-        p2 = p._replace(query=urlencode(q, doseq=True), fragment="", netloc=p.netloc.lower())
+        q = [
+            (k, v)
+            for (k, v) in parse_qsl(p.query, keep_blank_values=True)
+            if k.lower() not in _TRACKING_PARAMS
+        ]
+        p2 = p._replace(
+            query=urlencode(q, doseq=True),
+            fragment="",
+            netloc=p.netloc.lower(),
+        )
         u2 = urlunparse(p2)
-        if trafilatura is not None:
+        if trafilatura is not None and CFG.get("CANONICALIZE", True):
             html = trafilatura.fetch_url(u2, timeout=8)
             if html:
-                m = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']', html, re.I)
+                m = re.search(
+                    r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
+                    html,
+                    re.I,
+                )
                 if m:
                     href = m.group(1)
                     if not urlparse(href).netloc:
                         href = urljoin(u2, href)
                     return href
         return u2
-    except Exception:
+    except Exception as e:  # pragma: no cover
+        LOGGER.debug("canonical_url error for %s: %s", u, e)
         return u
 
-# ---------- keyword/stopword matching ----------
-def find_matches(hay: str, words):
-    hits = []
+
+# ---------------------------------------------------------------------------
+# Keyword / stopword matching
+# ---------------------------------------------------------------------------
+
+
+def find_matches(hay: str, words: Iterable[str]) -> List[str]:
+    hits: List[str] = []
     for w in words or []:
         w2 = (w or "").strip()
         if not w2:
             continue
-        if (" " in w2 and w2 in hay) or (re.search(rf"\b{re.escape(w2)}\b", hay) if " " not in w2 else False):
+        if (" " in w2 and w2 in hay) or (
+            " " not in w2 and re.search(rf"\b{re.escape(w2)}\b", hay)
+        ):
             hits.append(w2)
     return hits
+
 
 def match_topic_with_reason(title: str, summary: str):
     hay = f"{title.lower()} {summary.lower()}"
     stop_hits = find_matches(hay, STOPWORDS)
     if stop_hits:
         return False, {"stopwords": stop_hits}
-    if CFG["REQUIRE_KEYWORDS"] and not KEYWORDS:
+    if CFG.get("REQUIRE_KEYWORDS", True) and not KEYWORDS:
         return False, {"reason": "no_keywords"}
     narrow = [k for k in KEYWORDS if k not in BROAD_TOKENS]
     if narrow:
         hits = find_matches(hay, narrow)
-        return (True, {"keywords": hits, "narrow": True}) if hits else (False, {"keywords": [], "narrow": True})
+        return (True, {"keywords": hits, "narrow": True}) if hits else (
+            False,
+            {"keywords": [], "narrow": True},
+        )
     else:
         hits = find_matches(hay, KEYWORDS)
-        return (True, {"keywords": hits, "narrow": False}) if hits else (False, {"keywords": []})
+        return (True, {"keywords": hits, "narrow": False}) if hits else (
+            False,
+            {"keywords": []},
+        )
 
-# ---------- feed parsing ----------
+
+# ---------------------------------------------------------------------------
+# Feed parsing / gathering
+# ---------------------------------------------------------------------------
+
+
 def parse_feed(url: str):
     d = feedparser.parse(url)
     items = []
     for e in d.entries:
         title = norm(getattr(e, "title", ""))
-        link  = norm(getattr(e, "link", ""))
+        link = norm(getattr(e, "link", ""))
         summary = norm(getattr(e, "summary", getattr(e, "description", "")))
-        pp = getattr(e, "published_parsed", None) or getattr(e, "updated_parsed", None)
+        pp = getattr(e, "published_parsed", None) or getattr(
+            e,
+            "updated_parsed",
+            None,
+        )
         has_pub = pp is not None
         ts = int(time.mktime(pp)) if has_pub else None
         items.append((ts, has_pub, link, title, summary))
     return items
 
-# ---------- collecting with 1-day filter ----------
+
+def _parse_feed_safe(url: str):
+    try:
+        return parse_feed(url)
+    except Exception as e:  # pragma: no cover
+        LOGGER.warning("Feed error: %s (%s)", url, e)
+        return []
+
+
 def gather():
+    """Сбор всех свежих, тематических, уникальных ссылок из RSS."""
     now = int(time.time())
     age_floor = now - AGE_LIMIT_SEC
 
     all_items = []
-    for url in SOURCES:
-        try:
-            all_items.extend(parse_feed(url))
-        except Exception as e:
-            print("Feed error:", url, e)
+    if not SOURCES:
+        LOGGER.warning("No sources defined in sources.txt")
+        return []
+
+    max_workers = int(CFG.get("MAX_WORKERS", 8))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as ex:
+        for items in ex.map(_parse_feed_safe, SOURCES):
+            all_items.extend(items)
 
     themed = []
     dropped_age = 0
@@ -201,7 +466,7 @@ def gather():
         if CFG.get("REQUIRE_PUBDATE", True) and not has_pub:
             dropped_no_pub += 1
             continue
-        if has_pub and ts < age_floor:
+        if has_pub and ts is not None and ts < age_floor:
             dropped_age += 1
             continue
 
@@ -229,13 +494,24 @@ def gather():
 
     if CFG.get("DEBUG_STATS", True):
         from datetime import datetime as dt
-        print(f"[debug] kept={len(unique)} (dropped_age={dropped_age}, dropped_no_pub={dropped_no_pub}) "
-              f"age_floor={dt.fromtimestamp(age_floor, tz=timezone.utc).isoformat()}")
+
+        LOGGER.info(
+            "[debug] kept=%d (dropped_age=%d, dropped_no_pub=%d) age_floor=%s",
+            len(unique),
+            dropped_age,
+            dropped_no_pub,
+            dt.fromtimestamp(age_floor, tz=timezone.utc).isoformat(),
+        )
 
     return unique
 
-# ---------- seen store ----------
-def load_seen():
+
+# ---------------------------------------------------------------------------
+# Seen store
+# ---------------------------------------------------------------------------
+
+
+def load_seen() -> Dict[str, str]:
     if not SEEN_PATH.exists():
         return {}
     try:
@@ -244,38 +520,53 @@ def load_seen():
             now = datetime.now(timezone.utc).isoformat()
             return {u: now for u in data}
         return data if isinstance(data, dict) else {}
-    except Exception:
+    except Exception as e:  # pragma: no cover
+        LOGGER.warning("Failed to load seen.json: %s", e)
         return {}
 
-def save_seen(seen: dict):
-    SEEN_PATH.write_text(json.dumps(seen, ensure_ascii=False, indent=2), encoding="utf-8")
 
-def prune_seen(seen: dict, keep=50000):
+def save_seen(seen: Dict[str, str]):
+    text = json.dumps(seen, ensure_ascii=False, indent=2)
+    atomic_write_text(SEEN_PATH, text)
+
+
+def prune_seen(seen: Dict[str, str], keep: int = 50000) -> Dict[str, str]:
     if len(seen) <= keep:
         return seen
-    def ts_or_min(iso):
+
+    def ts_or_min(iso: str) -> datetime:
         try:
-            return datetime.fromisoformat(iso.replace("Z",""))
+            return datetime.fromisoformat(iso.replace("Z", ""))
         except Exception:
             return datetime.min.replace(tzinfo=timezone.utc)
+
     items = sorted(seen.items(), key=lambda kv: ts_or_min(kv[1]), reverse=True)[:keep]
     return dict(items)
 
-# ---------- categorization ----------
-def any_word_simple(hay: str, words):
+
+# ---------------------------------------------------------------------------
+# Categorization
+# ---------------------------------------------------------------------------
+
+
+def any_word_simple(hay: str, words: Iterable[str]) -> bool:
     for w in words or []:
-        if w and w in hay:
+        w2 = (w or "").strip().lower()
+        if not w2:
+            continue
+        if w2 in hay:
             return True
     return False
 
-def categorize_item(title, summary, domain):
+
+def categorize_item(title: str, summary: str, domain: str) -> str:
     hay = f"{title.lower()} {summary.lower()}"
     for cat in CATEGORIES:
         name = cat.get("name") or CFG["UNCATEGORIZED"]
         inc_any = [s.lower() for s in (cat.get("include_any") or [])]
         inc_all = [s.lower() for s in (cat.get("include_all") or [])]
         exc_any = [s.lower() for s in (cat.get("exclude_any") or [])]
-        doms    = [normalize_domain(s) for s in (cat.get("domains") or [])]
+        doms = [normalize_domain(s) for s in (cat.get("domains") or [])]
 
         if doms and domain in doms:
             if exc_any and any_word_simple(hay, exc_any):
@@ -291,8 +582,14 @@ def categorize_item(title, summary, domain):
         return name
     return CFG["UNCATEGORIZED"]
 
-# ---------- robust text fetch ----------
+
+# ---------------------------------------------------------------------------
+# Robust text fetch
+# ---------------------------------------------------------------------------
+
+
 def _fetch_text(url: str) -> str:
+    # сначала trafilatura.fetch_url, затем requests (если доступен)
     if trafilatura is not None:
         try:
             html = trafilatura.fetch_url(url, timeout=12)
@@ -300,48 +597,68 @@ def _fetch_text(url: str) -> str:
                 txt = trafilatura.extract(html, include_comments=False) or ""
                 if txt:
                     return txt.strip()
-        except Exception:
-            pass
+        except Exception as e:  # pragma: no cover
+            LOGGER.debug("trafilatura.fetch_url error for %s: %s", url, e)
     if requests is not None:
         try:
             headers = {"User-Agent": "Mozilla/5.0 (HL-NewsBot)"}
-            r = requests.get(url, timeout=12, headers=headers, allow_redirects=True)
+            r = requests.get(
+                url,
+                timeout=12,
+                headers=headers,
+                allow_redirects=True,
+            )
             if r.ok and r.text:
                 if trafilatura is not None:
-                    txt = trafilatura.extract(r.text, include_comments=False) or ""
+                    txt = trafilatura.extract(
+                        r.text,
+                        include_comments=False,
+                    ) or ""
                     return (txt or "").strip()
                 return r.text[:5000]
-        except Exception:
-            pass
+        except Exception as e:  # pragma: no cover
+            LOGGER.debug("requests.get error for %s: %s", url, e)
     return ""
+
 
 def fetch_text_cached(url: str) -> str:
     CACHE_DIR.mkdir(exist_ok=True)
-    p = CACHE_DIR / (hashlib.sha1(url.encode('utf-8')).hexdigest() + ".txt")
+    p = CACHE_DIR / (hashlib.sha1(url.encode("utf-8")).hexdigest() + ".txt")
     if p.exists():
         try:
             return p.read_text(encoding="utf-8", errors="ignore")
-        except Exception:
-            pass
+        except Exception as e:  # pragma: no cover
+            LOGGER.debug("Failed to read cache %s: %s", p, e)
     txt = _fetch_text(url)
     try:
         p.write_text(txt, encoding="utf-8")
-    except Exception:
-        pass
+    except Exception as e:  # pragma: no cover
+        LOGGER.debug("Failed to write cache %s: %s", p, e)
     return txt
 
-# ---------- MUVERA-like semantic scoring (BGE-M3) ----------
+
+# ---------------------------------------------------------------------------
+# MUVERA-like semantic scoring (BGE-M3) – оптимизировано
+# ---------------------------------------------------------------------------
+
 _MODEL = None
+_CAT_QUERIES_ENCODED = None  # кэш эмбеддингов запросов по категориям
+
+
 def _get_model():
     global _MODEL
-    from FlagEmbedding import BGEM3FlagModel
+    from FlagEmbedding import BGEM3FlagModel  # type: ignore
+
     if _MODEL is None:
-        _MODEL = BGEM3FlagModel('BAAI/bge-m3', use_fp16=False)
+        LOGGER.info("Loading BGE-M3 model for semantic rerank...")
+        _MODEL = BGEM3FlagModel("BAAI/bge-m3", use_fp16=False)
     return _MODEL
 
-def _chunks(s: str, n: int):
+
+def _chunks(s: str, n: int) -> Iterable[str]:
     for i in range(0, len(s), n):
-        yield s[i:i+n]
+        yield s[i : i + n]
+
 
 def _build_query_for_category(cat: dict) -> str:
     inc_any = cat.get("include_any") or []
@@ -349,19 +666,111 @@ def _build_query_for_category(cat: dict) -> str:
     parts = (inc_all[:3] if inc_all else []) + (inc_any[:5] if inc_any else [])
     return " ; ".join(parts) or "mobile security telecom lookup"
 
-def mv_score(query: str, doc_text: str, mv_weights, max_txt, chunk_size) -> float:
-    m = _get_model()
-    q_out = m.encode([query], return_dense=True, return_sparse=True, return_colbert_vecs=True)
-    best = 0.0
-    for piece in _chunks(doc_text[:max_txt], chunk_size):
-        d_out = m.encode([piece], return_dense=True, return_sparse=True, return_colbert_vecs=True)
-        d = float((q_out['dense_vecs'] @ d_out['dense_vecs'].T)[0,0])
-        s = float(m.compute_lexical_matching_score(q_out['lexical_weights'][0], d_out['lexical_weights'][0]))
-        c = float(m.colbert_score(q_out['colbert_vecs'][0], d_out['colbert_vecs'][0]))
-        hybrid = mv_weights[0]*d + mv_weights[1]*s + mv_weights[2]*c
-        if hybrid > best:
-            best = hybrid
-    return best
+
+def _build_category_queries_with_names() -> List[Tuple[str, str]]:
+    """[(category_name, query_string), ..., (UNCATEGORIZED, fallback_query)]"""
+    cat_queries = [
+        (c.get("name") or CFG["UNCATEGORIZED"], _build_query_for_category(c))
+        for c in CATEGORIES
+    ]
+    # запасная категория
+    cat_queries.append((CFG["UNCATEGORIZED"], "mobile security telecom lookup"))
+    return cat_queries
+
+
+def _ensure_cat_queries_encoded(model, cat_queries: List[Tuple[str, str]]):
+    """
+    Кодируем все category-queries один раз:
+    возвращает структуру q_out (как у BGEM3), но уже для всех запросов.
+    """
+    global _CAT_QUERIES_ENCODED
+    if _CAT_QUERIES_ENCODED is not None:
+        return _CAT_QUERIES_ENCODED
+    queries = [q for _, q in cat_queries]
+    LOGGER.info("Encoding %d category queries for semantic scoring...", len(queries))
+    q_out = model.encode(
+        queries,
+        return_dense=True,
+        return_sparse=True,
+        return_colbert_vecs=True,
+    )
+    _CAT_QUERIES_ENCODED = q_out
+    return q_out
+
+
+def mv_scores_for_all_categories(
+    model,
+    q_out,
+    doc_text: str,
+    mv_weights,
+    max_txt: int,
+    chunk_size: int,
+) -> List[float]:
+    """
+    Считаем лучший hybrid-score для документа по всем категориям сразу.
+    Возвращает список скороров [score_cat0, score_cat1, ...].
+    """
+    text = doc_text[:max_txt]
+    if not text.strip():
+        return [0.0] * len(q_out["dense_vecs"])
+
+    pieces = list(_chunks(text, chunk_size))
+    if not pieces:
+        return [0.0] * len(q_out["dense_vecs"])
+
+    d_out = model.encode(
+        pieces,
+        return_dense=True,
+        return_sparse=True,
+        return_colbert_vecs=True,
+    )
+
+    q_dense = q_out["dense_vecs"]  # shape: (n_cats, dim)
+    q_lex = q_out["lexical_weights"]  # list len n_cats
+    q_colb = q_out["colbert_vecs"]  # list len n_cats
+
+    d_dense = d_out["dense_vecs"]  # shape: (n_pieces, dim)
+    d_lex = d_out["lexical_weights"]  # list len n_pieces
+    d_colb = d_out["colbert_vecs"]  # list len n_pieces
+
+    # инициализируем нулями
+    n_cats = len(q_dense)
+    best_scores = [0.0] * n_cats
+
+    for piece_idx in range(len(pieces)):
+        d_vec = d_dense[piece_idx]
+        d_lex_w = d_lex[piece_idx]
+        d_colb_vecs = d_colb[piece_idx]
+        for cat_idx in range(n_cats):
+            try:
+                d = float(
+                    (q_dense[cat_idx] @ d_vec.T)[0, 0]
+                )  # dense similarity
+                s = float(
+                    model.compute_lexical_matching_score(
+                        q_lex[cat_idx],
+                        d_lex_w,
+                    )
+                )
+                c = float(
+                    model.colbert_score(
+                        q_colb[cat_idx],
+                        d_colb_vecs,
+                    )
+                )
+                hybrid = (
+                    mv_weights[0] * d
+                    + mv_weights[1] * s
+                    + mv_weights[2] * c
+                )
+                if hybrid > best_scores[cat_idx]:
+                    best_scores[cat_idx] = hybrid
+            except Exception:
+                # на всякий случай не падаем из-за одного сбоя
+                continue
+
+    return best_scores
+
 
 def log_reason(payload: dict):
     if not CFG.get("LOG_REASONS", True):
@@ -369,89 +778,150 @@ def log_reason(payload: dict):
     try:
         with open(REASONS_LOG, "a", encoding="utf-8") as f:
             f.write(json.dumps(payload, ensure_ascii=False) + "\n")
-    except Exception:
-        pass
+    except Exception as e:  # pragma: no cover
+        LOGGER.debug("Failed to write reasons.jsonl: %s", e)
+
 
 def _rule_only_grouping(items):
-    grouped = {}
+    """
+    items: [(ts, link, title, summary, domain, why)]
+    Возвращает grouped_urls и пустую карту скорингов.
+    """
+    grouped: Dict[str, List[str]] = {}
     for cat in [c.get("name") for c in CATEGORIES] + [CFG["UNCATEGORIZED"]]:
-        grouped[cat] = []
+        if cat:
+            grouped[cat] = []
+    score_map: Dict[str, Dict[str, float]] = {}
+
     for ts, link, title, summary, domain, why in items:
         cat = categorize_item(title, summary, domain)
         grouped.setdefault(cat, []).append(link)
-        log_reason({
-            "ts": datetime.now(timezone.utc).isoformat(),
-            "link": link,
-            "domain": domain,
-            "category": cat,
-            "semantic": False,
-            "keyword_hits": (why.get("keywords") if isinstance(why, dict) else None)
-        })
-    return grouped
+        log_reason(
+            {
+                "ts": datetime.now(timezone.utc).isoformat(),
+                "link": link,
+                "domain": domain,
+                "category": cat,
+                "semantic": False,
+                "keyword_hits": (why.get("keywords") if isinstance(why, dict) else None),
+            }
+        )
+    return grouped, score_map
+
 
 def semantic_filter_and_rank(items):
+    """
+    Главная функция ранжирования.
+    items: [(ts, link, title, summary, domain, why)]
+    Возвращает:
+        grouped_urls: {category -> [url, ...]}
+        score_map: {category -> {url -> score}}
+    """
     if not SEMANTIC_RERANK or trafilatura is None:
+        LOGGER.info(
+            "Semantic rerank disabled or trafilatura missing -> rule-only grouping"
+        )
         return _rule_only_grouping(items)
 
-    mv_weights = CFG["MV_WEIGHTS"]; threshold = CFG["THRESHOLD"]
-    max_fetch  = CFG["MAX_FETCH"];   max_txt   = CFG["MAX_TXT_LEN"]
-    chunk_size = CFG["CHUNK_SIZE"];  topk      = CFG["TOPK_PER_CAT"]
+    mv_weights = CFG["MV_WEIGHTS"]
+    threshold = CFG["THRESHOLD"]
+    max_fetch = CFG["MAX_FETCH"]
+    max_txt = CFG["MAX_TXT_LEN"]
+    chunk_size = CFG["CHUNK_SIZE"]
     max_workers = int(CFG.get("MAX_WORKERS", 8))
 
-    cat_queries = [(c.get("name") or CFG["UNCATEGORIZED"], _build_query_for_category(c)) for c in CATEGORIES]
-    cat_queries.append((CFG["UNCATEGORIZED"], "mobile security telecom lookup"))
+    model = _get_model()
+    cat_queries = _build_category_queries_with_names()
+    q_out = _ensure_cat_queries_encoded(model, cat_queries)
 
+    # ограничиваем количество документов для тяжёлой семантики
     to_score = items[:max_fetch]
     urls = [link for _, link, *_ in to_score]
-    texts = {}
+
+    texts: Dict[str, str] = {}
     empty_texts = 0
+    LOGGER.info(
+        "Fetching article texts for semantic scoring: %d candidates", len(urls)
+    )
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as ex:
         for url, txt in zip(urls, ex.map(fetch_text_cached, urls)):
             if not txt:
                 empty_texts += 1
             texts[url] = txt
 
-    kept = {name: [] for name, _ in cat_queries}
+    kept: Dict[str, List[Tuple[float, str]]] = {name: [] for name, _ in cat_queries}
+    score_map: Dict[str, Dict[str, float]] = {name: {} for name, _ in cat_queries}
+
     for (ts, link, title, summary, domain, why) in to_score:
         text = texts.get(link) or ""
         if not text:
             continue
-        for name, q in cat_queries:
-            try:
-                score = mv_score(q, text, mv_weights, max_txt, chunk_size)
-            except Exception as e:
-                print("Semantic scoring error:", e)
-                break
+
+        scores = mv_scores_for_all_categories(
+            model,
+            q_out,
+            text,
+            mv_weights,
+            max_txt,
+            chunk_size,
+        )
+
+        # идём по категориям в том же порядке, что и cat_queries
+        for idx, (name, query_str) in enumerate(cat_queries):
+            score = float(scores[idx])
             if score >= threshold:
                 kept[name].append((score, link))
-                log_reason({
-                    "ts": datetime.now(timezone.utc).isoformat(),
-                    "link": link,
-                    "domain": domain,
-                    "category": name,
-                    "semantic": True,
-                    "score": round(float(score), 4),
-                    "threshold": threshold,
-                    "query": q,
-                    "keyword_hits": (why.get("keywords") if isinstance(why, dict) else None)
-                })
+                score_map.setdefault(name, {})[link] = score
+                log_reason(
+                    {
+                        "ts": datetime.now(timezone.utc).isoformat(),
+                        "link": link,
+                        "domain": domain,
+                        "category": name,
+                        "semantic": True,
+                        "score": round(score, 4),
+                        "threshold": threshold,
+                        "query": query_str,
+                        "keyword_hits": (
+                            why.get("keywords") if isinstance(why, dict) else None
+                        ),
+                    }
+                )
                 break
 
-    grouped = {name: [u for s, u in sorted(vals, key=lambda x: x[0], reverse=True)[:topk]]
-               for name, vals in kept.items()}
+    # сортировка по скору и TOPK_PER_CAT
+    grouped = {
+        name: [u for s, u in sorted(vals, key=lambda x: x[0], reverse=True)[
+            : CFG["TOPK_PER_CAT"]
+        ]]
+        for name, vals in kept.items()
+    }
 
     total = sum(len(v) for v in grouped.values())
     if CFG.get("DEBUG_STATS", True):
-        print(f"[debug] items={len(items)}, to_score={len(to_score)}, empty_texts={empty_texts}, kept_total={total}")
+        LOGGER.info(
+            "[debug] semantic: items=%d, to_score=%d, empty_texts=%d, kept_total=%d",
+            len(items),
+            len(to_score),
+            empty_texts,
+            total,
+        )
 
     if total == 0 and CFG.get("FALLBACK_IF_EMPTY", True):
-        print("[warn] semantic produced 0 links; falling back to rule-only grouping")
+        LOGGER.warning(
+            "Semantic rerank produced 0 links; falling back to rule-only grouping"
+        )
         return _rule_only_grouping(items)
 
-    return grouped
+    return grouped, score_map
 
-# ---------- discovery helpers ----------
-def _known_source_domains():
+
+# ---------------------------------------------------------------------------
+# Discovery helpers (Google News)
+# ---------------------------------------------------------------------------
+
+
+def _known_source_domains() -> set:
     dset = set()
     for s in SOURCES:
         try:
@@ -460,27 +930,36 @@ def _known_source_domains():
             pass
     return dset
 
-def _gnews_search_feeds(query: str) -> list[str]:
+
+def _gnews_search_feeds(query: str) -> List[str]:
     """Build Google News RSS search feeds with language-only mode (no geo)."""
     cfg = CFG.get("DISCOVERY", {})
     recency = cfg.get("recency", "when:1d")
     q = quote_plus(f"{query} {recency}")
 
-    feeds = []
+    feeds: List[str] = []
     if cfg.get("language_only", False):
         lang = cfg.get("lang", "en")
         feeds.append(f"https://news.google.com/rss/search?q={q}&hl={lang}")
     else:
-        # legacy single-locale / locales
         locales = cfg.get("locales")
         if isinstance(locales, list) and locales:
             for loc in locales:
-                hl = loc.get("hl", "en-US"); gl = loc.get("gl", "US"); ceid = loc.get("ceid", "US:en")
-                feeds.append(f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}")
+                hl = loc.get("hl", "en-US")
+                gl = loc.get("gl", "US")
+                ceid = loc.get("ceid", "US:en")
+                feeds.append(
+                    f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
+                )
         else:
-            hl = cfg.get("hl", "en-US"); gl = cfg.get("gl", "US"); ceid = cfg.get("ceid", "US:en")
-            feeds.append(f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}")
+            hl = cfg.get("hl", "en-US")
+            gl = cfg.get("gl", "US")
+            ceid = cfg.get("ceid", "US:en")
+            feeds.append(
+                f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
+            )
     return feeds
+
 
 def _read_discovered_domains(path: pathlib.Path) -> set:
     if not path.exists():
@@ -490,27 +969,48 @@ def _read_discovered_domains(path: pathlib.Path) -> set:
     except Exception:
         return set()
 
+
 def _write_discovered_domains(path: pathlib.Path, domains: set):
     if not domains:
         return
     existing = _read_discovered_domains(path)
     merged = sorted({*existing, *{normalize_domain(d) for d in domains}} - {""})
     try:
-        path.write_text("\n".join(merged) + ("\n" if merged else ""), encoding="utf-8")
-    except Exception as e:
-        print("Discovered domains write error:", e)
+        path.write_text(
+            "\n".join(merged) + ("\n" if merged else ""),
+            encoding="utf-8",
+        )
+    except Exception as e:  # pragma: no cover
+        LOGGER.warning("Discovered domains write error: %s", e)
 
-# ---------- discovery main ----------
-def discover_outside(grouped_existing, seen_dict, already_links):
-    if not CFG.get("DISCOVERY", {}).get("enabled", False):
-        return []
+
+# ---------------------------------------------------------------------------
+# Discovery main
+# ---------------------------------------------------------------------------
+
+
+def discover_outside(
+    grouped_existing: Dict[str, List[str]],
+    seen_dict: Dict[str, str],
+    already_links: set,
+):
+    """
+    Возвращает:
+        discovery_links: [url, ...]
+        discovery_scores: {url -> score}
+    """
+    disc_cfg = CFG.get("DISCOVERY", {})
+    if not disc_cfg.get("enabled", False):
+        return [], {}
 
     now = int(time.time())
     age_floor = now - AGE_LIMIT_SEC
     known = _known_source_domains()
-    cat_queries = [(_build_query_for_category(c)) for c in CATEGORIES] or ["mobile security telecom lookup"]
+    cat_queries = [
+        (_build_query_for_category(c)) for c in CATEGORIES
+    ] or ["mobile security telecom lookup"]
 
-    per_query_limit = int(CFG["DISCOVERY"].get("per_query_limit", 30))
+    per_query_limit = int(disc_cfg.get("per_query_limit", 30))
     candidates = []
     # language-only feeds first
     for q in cat_queries:
@@ -521,7 +1021,7 @@ def discover_outside(grouped_existing, seen_dict, already_links):
                 for ts, has_pub, link, title, summary in parse_feed(feed_url):
                     if CFG.get("REQUIRE_PUBDATE", True) and not has_pub:
                         continue
-                    if has_pub and ts < age_floor:
+                    if has_pub and ts is not None and ts < age_floor:
                         continue
                     link_c = canonical_url(link)
                     dom = normalize_domain(urlparse(link_c).netloc)
@@ -536,22 +1036,29 @@ def discover_outside(grouped_existing, seen_dict, already_links):
                     local_candidates_count += 1
                     if len(candidates) >= per_query_limit * len(cat_queries):
                         break
-            except Exception as e:
-                print("Discovery feed error:", feed_url, e)
+            except Exception as e:  # pragma: no cover
+                LOGGER.warning("Discovery feed error: %s (%s)", feed_url, e)
 
         # optional fallback to ceid editions (EN) if language-only yielded zero for this query
-        if local_candidates_count == 0 and CFG["DISCOVERY"].get("language_only", False) and CFG["DISCOVERY"].get("fallback_ceid_if_empty", False):
-            recency = CFG["DISCOVERY"].get("recency", "when:1d")
+        if (
+            local_candidates_count == 0
+            and disc_cfg.get("language_only", False)
+            and disc_cfg.get("fallback_ceid_if_empty", False)
+        ):
+            recency = disc_cfg.get("recency", "when:1d")
             q_enc = quote_plus(f"{q} {recency}")
-            for ceid in CFG["DISCOVERY"].get("compat_ceids", ["US:en","GB:en"]):
+            for ceid in disc_cfg.get("compat_ceids", ["US:en", "GB:en"]):
                 try:
                     country = ceid.split(":")[0]
                     hl = f"en-{country}"
-                    feed_url = f"https://news.google.com/rss/search?q={q_enc}&hl={hl}&gl={country}&ceid={ceid}"
+                    feed_url = (
+                        f"https://news.google.com/rss/search?q={q_enc}"
+                        f"&hl={hl}&gl={country}&ceid={ceid}"
+                    )
                     for ts, has_pub, link, title, summary in parse_feed(feed_url):
                         if CFG.get("REQUIRE_PUBDATE", True) and not has_pub:
                             continue
-                        if has_pub and ts < age_floor:
+                        if has_pub and ts is not None and ts < age_floor:
                             continue
                         link_c = canonical_url(link)
                         dom = normalize_domain(urlparse(link_c).netloc)
@@ -565,18 +1072,34 @@ def discover_outside(grouped_existing, seen_dict, already_links):
                         candidates.append((ts or now, link_c, title, summary, dom))
                         if len(candidates) >= per_query_limit * len(cat_queries):
                             break
-                except Exception as e:
-                    print("Discovery fallback feed error:", e)
+                except Exception as e:  # pragma: no cover
+                    LOGGER.warning("Discovery fallback feed error: %s", e)
 
     if not candidates:
-        return []
+        return [], {}
 
-    mv_weights = CFG["MV_WEIGHTS"]; threshold = CFG["THRESHOLD"]
-    max_txt = CFG["MAX_TXT_LEN"]; chunk_size = CFG["CHUNK_SIZE"]
+    mv_weights = CFG["MV_WEIGHTS"]
+    threshold = CFG["THRESHOLD"]
+    max_txt = CFG["MAX_TXT_LEN"]
+    chunk_size = CFG["CHUNK_SIZE"]
     max_workers = int(CFG.get("MAX_WORKERS", 8))
 
+    model = _get_model()
+    # для discovery запросы чуть проще: используем только текст категорий
+    q_texts = cat_queries
+    q_out = model.encode(
+        q_texts,
+        return_dense=True,
+        return_sparse=True,
+        return_colbert_vecs=True,
+    )
+
     urls = [link for _, link, *_ in candidates]
-    texts = {}
+    texts: Dict[str, str] = {}
+    LOGGER.info(
+        "Discovery: fetching texts for %d candidate articles",
+        len(urls),
+    )
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as ex:
         for url, txt in zip(urls, ex.map(fetch_text_cached, urls)):
             texts[url] = txt
@@ -586,88 +1109,193 @@ def discover_outside(grouped_existing, seen_dict, already_links):
         text = texts.get(link) or ""
         if not text:
             continue
-        best = 0.0; best_q = None
-        for q in cat_queries:
-            try:
-                s = mv_score(q, text, mv_weights, max_txt, chunk_size)
-            except Exception:
-                s = 0.0
-            if s > best:
-                best = s; best_q = q
+        scores = mv_scores_for_all_categories(
+            model,
+            q_out,
+            text,
+            mv_weights,
+            max_txt,
+            chunk_size,
+        )
+        best = max(scores) if scores else 0.0
+        best_q = q_texts[scores.index(best)] if scores else None
         if best >= threshold:
             scored.append((best, link, dom, best_q))
 
     scored.sort(key=lambda x: x[0], reverse=True)
-    lim = int(CFG["DISCOVERY"].get("max_links", 10))
-    out_links = []
-    out_domains = set()
+    lim = int(disc_cfg.get("max_links", 10))
+    out_links: List[str] = []
+    out_domains: set = set()
+    out_scores: Dict[str, float] = {}
+    disc_cat_name = disc_cfg.get("category_name", "Outside Sources (Top 10)")
+
     for s, link, dom, best_q in scored[:lim]:
         out_links.append(link)
         out_domains.add(dom)
-        log_reason({
-            "ts": datetime.now(timezone.utc).isoformat(),
-            "link": link,
-            "domain": dom,
-            "category": CFG["DISCOVERY"].get("category_name", "Outside Sources"),
-            "semantic": True,
-            "score": round(float(s), 4),
-            "threshold": threshold,
-            "query": best_q,
-            "outside": True
-        })
+        out_scores[link] = float(s)
+        log_reason(
+            {
+                "ts": datetime.now(timezone.utc).isoformat(),
+                "link": link,
+                "domain": dom,
+                "category": disc_cat_name,
+                "semantic": True,
+                "score": round(float(s), 4),
+                "threshold": threshold,
+                "query": best_q,
+                "outside": True,
+            }
+        )
 
-    if CFG.get("DISCOVERY", {}).get("save_domains", True):
-        _write_discovered_domains(ROOT / (CFG["DISCOVERY"].get("save_domains_file", "discovered_sources.txt")), out_domains)
+    if disc_cfg.get("save_domains", True):
+        _write_discovered_domains(ROOT / disc_cfg.get("save_domains_file", "discovered_sources.txt"), out_domains)
 
-    return out_links
+    return out_links, out_scores
 
-# ---------- outputs ----------
-def write_outputs(grouped):
-    LINKS_JSON.write_text(json.dumps(grouped, ensure_ascii=False, indent=2), encoding="utf-8")
-    lines = []
+
+# ---------------------------------------------------------------------------
+# Outputs
+# ---------------------------------------------------------------------------
+
+
+def write_outputs(
+    grouped: Dict[str, List[str]],
+    full_by_cat: Dict[str, List[dict]],
+):
+    """
+    grouped: {category -> [url, ...]}
+    full_by_cat: {category -> [ {url,title,summary,domain,score,source}, ... ]}
+    """
+    # компактный JSON (как раньше)
+    atomic_write_text(
+        LINKS_JSON,
+        json.dumps(grouped, ensure_ascii=False, indent=2),
+    )
+
+    # новый "полный" JSON с метаданными
+    atomic_write_text(
+        LINKS_FULL_JSON,
+        json.dumps(full_by_cat, ensure_ascii=False, indent=2),
+    )
+
+    # текстовый вывод для удобного чтения
+    lines: List[str] = []
     for cat, urls in grouped.items():
         if not urls:
             continue
         lines.append(f"## {cat}")
         lines.extend(urls)
         lines.append("")
-    LINKS_TXT.write_text(("\n".join(lines).strip() + "\n") if lines else "", encoding="utf-8")
+    text = ("\n".join(lines).strip() + "\n") if lines else ""
+    atomic_write_text(LINKS_TXT, text)
 
-def append_archive(urls):
-    if not urls:
+
+def append_archive(urls: Iterable[str]):
+    urls_list = list(urls)
+    if not urls_list:
         return
     with open(ARCHIVE_TXT, "a", encoding="utf-8") as f:
-        for link in urls:
+        for link in urls_list:
             f.write(link + "\n")
 
-# ---------- main ----------
-if __name__ == "__main__":
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+
+def build_full_records_by_category(
+    grouped: Dict[str, List[str]],
+    items: List[Tuple[int, str, str, str, str, dict]],
+    score_map: Dict[str, Dict[str, float]],
+    discovery_scores: Dict[str, float],
+) -> Dict[str, List[dict]]:
+    """
+    Собирает структуру:
+        { category -> [ {url,title,summary,domain,score,source}, ... ] }
+    """
+    items_by_url: Dict[str, Tuple[int, str, str, str, dict]] = {}
+    for ts, link, title, summary, domain, why in items:
+        items_by_url[link] = (ts, title, summary, domain, why)
+
+    full_by_cat: Dict[str, List[dict]] = {}
+
+    for cat, urls in grouped.items():
+        cat_records: List[dict] = []
+        for url in urls:
+            ts, title, summary, domain, why = items_by_url.get(
+                url,
+                (None, "", "", "", {}),
+            )
+            # score из основного semantic ранжирования
+            score = score_map.get(cat, {}).get(url)
+            # если ссылка discovery — можем дополнительно взять score из discovery_scores
+            if score is None and url in discovery_scores:
+                score = discovery_scores[url]
+
+            cat_records.append(
+                {
+                    "url": url,
+                    "title": title,
+                    "summary": summary,
+                    "domain": domain,
+                    "score": score,
+                    "source": "discovery" if url in discovery_scores else "rss",
+                }
+            )
+        full_by_cat[cat] = cat_records
+
+    return full_by_cat
+
+
+def main():
+    LOGGER.info("Starting news-links aggregation run")
     CACHE_DIR.mkdir(exist_ok=True)
+
     items = gather()  # [(ts, link, title, summary, domain, why)]
     seen = load_seen()
     now_iso = datetime.now(timezone.utc).isoformat()
 
+    # отбрасываем уже виденные ссылки
     new_items = [it for it in items if it[1] not in seen]
 
-    grouped = semantic_filter_and_rank(new_items)
+    grouped, score_map = semantic_filter_and_rank(new_items)
 
     # discovery category (+ auto-save discovered domains)
+    discovery_scores: Dict[str, float] = {}
     try:
-        already = set([u for urls in grouped.values() for u in urls])
-        discovery_links = discover_outside(grouped, seen, already)
+        already = {u for urls in grouped.values() for u in urls}
+        discovery_links, discovery_scores = discover_outside(
+            grouped,
+            seen,
+            already,
+        )
         if discovery_links:
-            grouped[CFG["DISCOVERY"].get("category_name", "Outside Sources (Top 10)")] = discovery_links
-    except Exception as e:
-        print("Discovery error:", e)
+            disc_name = CFG["DISCOVERY"].get(
+                "category_name",
+                "Outside Sources (Top 10)",
+            )
+            grouped[disc_name] = discovery_links
+    except Exception as e:  # pragma: no cover
+        LOGGER.warning("Discovery error: %s", e)
+
+    # строим полные записи с метаданными
+    full_by_cat = build_full_records_by_category(
+        grouped,
+        new_items,
+        score_map,
+        discovery_scores,
+    )
 
     # outputs
-    write_outputs(grouped)
+    write_outputs(grouped, full_by_cat)
 
     # update seen + archive with all new links (incl. discovery)
-    new_links = set([link for _, link, *_ in new_items])
+    new_links = {link for _, link, *_ in new_items}
     for urls in grouped.values():
         for link in urls:
             new_links.add(link)
+
     for link in new_links:
         seen[link] = now_iso
     seen = prune_seen(seen, keep=50000)
@@ -675,4 +1303,8 @@ if __name__ == "__main__":
     append_archive(sorted(new_links))
 
     total_new = sum(len(v) for v in grouped.values())
-    print(f"[OK] New categorized links (incl. discovery): {total_new}")
+    LOGGER.info("[OK] New categorized links (incl. discovery): %d", total_new)
+
+
+if __name__ == "__main__":
+    main()
