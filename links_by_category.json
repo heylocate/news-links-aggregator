@@ -1,18 +1,15 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.globenewswire.com/news-release/2025/11/26/3195209/0/en/Legends-Limousine-Worldwide-Introduces-Specialized-Newborn-Car-Seats-for-Safe-Family-Airport-Transfers-in-NYC.html"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.phonearena.com/news/t-mobile-just-lost-a-customer-forever-thanks-to-a-google-maps-ad_id176087"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.securityweek.com/ransomware-attack-disrupts-local-emergency-alert-system-across-us/",
-    "https://www.securityweek.com/dartmouth-college-confirms-data-theft-in-oracle-hack/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
