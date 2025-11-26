@@ -1,31 +1,21 @@
-## Phone Lookup
-https://blog.youmail.com/2025/11/media-coverage-michigan-lawmakers-eye-crackdown-after-robocall-surge/
-https://blog.youmail.com/2025/11/media-coverage-consumer-groups-warn-of-an-unstoppable-robocall-glut/
-https://www.phonearena.com/news/at-t-hundreds-of-spam-calls_id176011
-
 ## Parental Control
-https://www.howtogeek.com/uber-one-adds-family-sharing-just-in-time-for-the-holidays/
-https://www.engadget.com/apps/uber-one-subscribers-can-now-share-free-deliveries-and-other-perks-with-their-family-120004629.html?src=rss
-https://iapp.org/news/a/raft-of-childrens-online-safety-bills-could-move-forward-soon
-
-## Background Check
-https://www.engadget.com/social-media/malaysia-takes-steps-to-ban-social-media-for-children-under-16-142643494.html?src=rss
+https://www.engadget.com/ai/folotoys-ai-teddy-bear-is-back-on-sale-following-its-brief-foray-into-bdsm-213138383.html?src=rss
+https://www.pcworld.com/article/2871081/how-norton-is-helping-to-block-the-latest-ai-scams.html
+https://www.pcworld.com/article/2872446/watch-your-favorite-shows-from-home-with-norton-vpn-now-up-to-72-off-in-the-cyber-week-sale.html
+https://www.wired.com/story/he-hunted-alleged-groomers-on-roblox-then-the-company-banned-him/
+https://about.fb.com/news/2025/11/canadian-parents-support-app-store-age-verification-for-teens-when-downloading-apps/
 
 ## People Search
-https://iapp.org/news/a/chinas-cyber-regulator-posts-notices-for-personal-information-labeling-regulation-feedback
+https://www.macrumors.com/2025/11/25/apple-polish-probe-app-tracking-transparency/
 
-## Address Lookup
-https://9to5google.com/2025/11/24/waze-for-android-auto-now-lets-you-start-navigation-from-your-phone/
+## Image Search
+https://www.androidauthority.com/circle-to-search-ai-mode-image-results-3619414/
 
 ## Security & Anti-Abuse
-https://securityboulevard.com/2025/11/hack-of-situsamc-puts-data-of-financial-services-firms-at-risk/
-https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/
-https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/
-https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/
-https://9to5mac.com/2025/11/24/hackers-steal-customer-data-from-jpmorgan-chase-and-citi/
-https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/
-https://iapp.org/news/a/advocacy-groups-urge-probe-of-uk-ico
-https://www.computerworld.com/article/4092047/how-has-cloud-flipped-the-regular-security-narrative.html
-
-## Uncategorized
-https://www.engadget.com/social-media/meta-allegedly-buried-research-showing-its-products-are-harming-users-152236073.html?src=rss
+https://www.globenewswire.com/news-release/2025/11/26/3194814/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Dartmouth-College-Customers-Whose-Data-May-Have-Been-Compromised.html
+https://www.slashgear.com/2033025/gmail-password-how-to-know-compromised-data-leak/
+https://appleinsider.com/articles/25/11/25/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss
+https://9to5mac.com/2025/11/25/apple-falsely-accused-of-misleading-users-about-app-tracking-transparency-privacy/
+https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/
+https://iapp.org/news/a/fcc-fines-comcast-1-5m-for-data-breach
+https://iapp.org/news/a/polands-competition-watchdog-files-antitrust-charges-against-apple
