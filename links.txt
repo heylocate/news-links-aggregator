@@ -1,11 +1,19 @@
+## Number / Device Tracking
+https://www.macworld.com/article/2986756/a-three-pack-of-these-tiny-airtag-alternatives-is-only-70-for-black-friday.html
+
 ## Parental Control
-https://www.eff.org/deeplinks/2025/11/eff-arizona-federal-court-protect-public-school-students-surveillance-and
-https://www.eff.org/deeplinks/2025/11/privacy-children-too
+https://www.techspot.com/news/110412-openai-blames-teen-suicide-misuse-chatgpt-broke-terms.html
+https://www.pcworld.com/article/2988990/protect-your-pc-for-cheap-with-78-off-bitdefender-total-security.html
 
 ## Address Lookup
-https://www.androidauthority.com/google-maps-power-saving-mode-rollout-3620065/
-https://www.androidpolice.com/google-maps-gets-a-gemini-boost-ahead-of-the-holidays/
-https://9to5google.com/2025/11/26/google-maps-gemini-navigation-rollout/
+https://9to5google.com/2025/11/27/google-maps-power-saving-pixel-10/
+https://www.androidheadlines.com/2025/11/gemini-arrives-in-google-maps-with-full-hands-free-navigation.html
+https://www.phonearena.com/news/google-maps-power-saving-mode_id176124
 
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/
+https://www.techradar.com/pro/the-war-on-trust-how-ai-is-rewriting-the-rules-of-cyber-resilience
+https://www.malwarebytes.com/blog/news/2025/11/millions-at-risk-after-nationwide-codered-alert-system-outage-and-data-breach
+https://9to5mac.com/2025/11/27/psa-openai-is-notifying-all-users-of-a-data-breach-but-you-probably-arent-affected/
+https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/
+https://www.engadget.com/deals/black-friday-vpn-deals-get-up-to-75-percent-off-proton-vpn-two-year-plans-and-more-153737294.html?src=rss
+https://haveibeenpwned.com/Breach/CSDN
