@@ -1,19 +1,14 @@
 ## Number / Device Tracking
-https://www.macworld.com/article/2986756/a-three-pack-of-these-tiny-airtag-alternatives-is-only-70-for-black-friday.html
+https://www.globenewswire.com/news-release/2025/11/28/3195988/0/en/Geofencing-Market-Set-for-Strong-Growth-to-USD-15-97-Billion-by-2033-Driven-by-Expanding-Location-Based-Marketing-and-IoT-Adoption-Research-by-SNS-Insider.html
 
 ## Parental Control
-https://www.techspot.com/news/110412-openai-blames-teen-suicide-misuse-chatgpt-broke-terms.html
-https://www.pcworld.com/article/2988990/protect-your-pc-for-cheap-with-78-off-bitdefender-total-security.html
+https://www.techradar.com/live/news/apple-black-friday-deals-2025-australia-live
 
 ## Address Lookup
-https://9to5google.com/2025/11/27/google-maps-power-saving-pixel-10/
-https://www.androidheadlines.com/2025/11/gemini-arrives-in-google-maps-with-full-hands-free-navigation.html
-https://www.phonearena.com/news/google-maps-power-saving-mode_id176124
+https://www.androidauthority.com/know-before-you-go-3620311/
+https://www.androidcentral.com/phones/google-pixel/google-maps-finally-gets-a-power-saving-glow-up-and-your-pixel-10-is-first-in-line
+https://www.engadget.com/apps/a-google-maps-power-saving-mode-lands-on-pixel-10-devices-180000601.html?src=rss
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/the-war-on-trust-how-ai-is-rewriting-the-rules-of-cyber-resilience
-https://www.malwarebytes.com/blog/news/2025/11/millions-at-risk-after-nationwide-codered-alert-system-outage-and-data-breach
-https://9to5mac.com/2025/11/27/psa-openai-is-notifying-all-users-of-a-data-breach-but-you-probably-arent-affected/
-https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/
-https://www.engadget.com/deals/black-friday-vpn-deals-get-up-to-75-percent-off-proton-vpn-two-year-plans-and-more-153737294.html?src=rss
-https://haveibeenpwned.com/Breach/CSDN
+https://www.techradar.com/ai-platforms-assistants/openai/openai-apologizes-for-big-mixpanel-data-breach-that-exposed-emails-and-more-heres-what-we-know
+https://www.securityweek.com/asahi-data-breach-impacts-2-million-individuals/
