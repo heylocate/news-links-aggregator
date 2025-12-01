@@ -1,19 +1,33 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [
-    "https://www.pr.com/press-release/954748"
+  "Number / Device Tracking": [
+    "https://news.samsung.com/global/samsung-partners-with-turkish-airlines-to-elevate-the-travel-experience"
   ],
+  "Parental Control": [
+    "https://www.tomsguide.com/ai/my-kids-bought-extreme-fart-extension-for-alexa-heres-how-to-quickly-set-up-parental-controls-and-stop-voice-purchases"
+  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.phonearena.com/news/google-maps-will-be-changed-forever_id176217"
+    "https://www.androidauthority.com/google-maps-route-options-3620187/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://databreaches.net/2025/12/01/data-breach-hits-south-koreas-amazon-potentially-affecting-65-of-countrys-population/?pk_campaign=feed&pk_kwd=data-breach-hits-south-koreas-amazon-potentially-affecting-65-of-countrys-population",
+    "https://go.theregister.com/feed/www.theregister.com/2025/12/01/coupang_breach/",
+    "https://therecord.media/coupang-south-korea-data-breach",
+    "https://techcrunch.com/2025/12/01/koreas-coupang-says-data-breach-exposed-nearly-34m-customers-personal-information/",
+    "https://go.theregister.com/feed/www.theregister.com/2025/12/01/french_football_federation_breach/",
+    "https://www.techradar.com/pro/security/french-football-federation-suffers-data-breach-that-compromised-club-members-data",
+    "https://research.checkpoint.com/2025/1st-december-threat-intelligence-report/",
+    "https://haveibeenpwned.com/Breach/Zilvia",
+    "https://www.engadget.com/deals/cyber-monday-vpn-deals-get-75-percent-off-proton-vpn-two-year-plans-plus-save-on-nordvpn-expressvpn-and-more-070013207.html?src=rss"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
-  "Monitoring / Spy Apps": [],
+  "Monitoring / Spy Apps": [
+    "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
+  ],
   "Uncategorized": []
 }
