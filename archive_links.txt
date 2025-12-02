@@ -2335,3 +2335,5 @@ https://www.engadget.com/cybersecurity/india-will-require-a-state-owned-cybersec
 https://www.macrumors.com/2025/12/01/india-iphone-preinstall-government-app/
 https://www.pcworld.com/article/2996378/nice-norton-360-premium-is-82-off-during-cyber-monday.html
 https://www.qustodio.com/en/blog/should-i-get-my-child-a-phone-checklist/
+https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-theft-after-oracle-ebs-hack/
+https://www.securityweek.com/personal-information-of-33-7-million-stolen-from-coupang/
