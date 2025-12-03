@@ -1,17 +1,13 @@
-## Phone Lookup
-https://www.engadget.com/social-media/ireland-is-investigating-tiktok-and-linkedin-for-possible-dsa-violations-194519622.html?src=rss
-https://blog.hiya.com/holiday-scams-package-delivery
+## Number / Device Tracking
+https://techcrunch.com/2025/12/03/after-intense-backlash-india-pulls-mandate-to-pre-install-government-app-on-smartphones/
+https://www.macworld.com/article/2990658/this-ultra-slim-tracker-is-still-just-24-for-cyber-week-never-lose-your-wallet-again.html
 
 ## Parental Control
-https://www.engadget.com/mobile/android-16-updates-include-ai-powered-notification-summaries-and-built-in-parental-controls-190057208.html?src=rss
-https://www.cnet.com/tech/services-and-software/googles-latest-android-update-brings-more-ai-features-smarter-notifications-and-major-accessibility-tools/#ftag=CADf328eec
-https://www.techradar.com/vpn/vpn-privacy-security/us-congress-to-consider-app-store-age-verification-measures
+https://www.pcworld.com/article/2872446/watch-your-favorite-shows-from-home-with-norton.html
 
 ## Security & Anti-Abuse
-https://9to5mac.com/2025/12/02/germany-evaluates-app-tracking-transparency-changes/
-https://appleinsider.com/articles/25/12/02/app-tracking-transparency-under-the-gun-by-german-antitrust-investigators?utm_source=rss
-https://www.engadget.com/deals/cyber-monday-subscription-and-streaming-deals-you-can-still-get-big-discounts-on-starz-masterclass-headspace-and-more-174507557.html?src=rss
-https://techcrunch.com/2025/12/02/a-data-breach-at-analytics-giant-mixpanel-leaves-a-lot-of-open-questions/
-https://www.androidauthority.com/att-2024-breach-final-terms-3621341/
-https://go.theregister.com/feed/www.theregister.com/2025/12/02/london_councils_data_breach/
-https://iapp.org/news/a/education-technology-company-agrees-to-ftc-settlement-in-2021-data-breach-case
+https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/
+https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/
+
+## Uncategorized
+https://iapp.org/news/a/irelands-media-regulators-probe-tiktok-linkedin-for-potential-dsa-violations
