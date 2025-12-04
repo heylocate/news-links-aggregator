@@ -2355,3 +2355,9 @@ https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-d
 https://www.macworld.com/article/2990658/this-ultra-slim-tracker-is-still-just-24-for-cyber-week-never-lose-your-wallet-again.html
 https://www.pcworld.com/article/2872446/watch-your-favorite-shows-from-home-with-norton.html
 https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/
+https://techcrunch.com/2025/12/03/fintech-firm-marquis-alerts-dozens-of-us-banks-and-credit-unions-of-a-data-breach-after-ransomware-attack/
+https://therecord.media/university-of-phoenix-data-breach
+https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/
+https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/
+https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/
+https://www.globenewswire.com/news-release/2025/12/04/3199454/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Marquis-Software-Solutions-Inc-Customers-Whose-Data-May-Have-Been-Compromised.html
