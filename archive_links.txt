@@ -2361,3 +2361,7 @@ https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-bre
 https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/
 https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/
 https://www.globenewswire.com/news-release/2025/12/04/3199454/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Marquis-Software-Solutions-Inc-Customers-Whose-Data-May-Have-Been-Compromised.html
+https://iapp.org/news/a/germanys-competition-watchdog-to-assess-apples-attf
+https://www.prnewswire.com/news-releases/durin-and-philips-home-access-bring-hands-free-codeless-entry-to-millions-of-homes-302632273.html
+https://www.securityweek.com/marquis-data-breach-impacts-over-780000-people/
+https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/

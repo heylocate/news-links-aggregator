@@ -1,7 +1,7 @@
+## Background Check
+https://www.prnewswire.com/news-releases/durin-and-philips-home-access-bring-hands-free-codeless-entry-to-millions-of-homes-302632273.html
+
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2025/12/04/3199454/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Marquis-Software-Solutions-Inc-Customers-Whose-Data-May-Have-Been-Compromised.html
-https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/
-https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/
-https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/
-https://techcrunch.com/2025/12/03/fintech-firm-marquis-alerts-dozens-of-us-banks-and-credit-unions-of-a-data-breach-after-ransomware-attack/
-https://therecord.media/university-of-phoenix-data-breach
+https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/
+https://www.securityweek.com/marquis-data-breach-impacts-over-780000-people/
+https://iapp.org/news/a/germanys-competition-watchdog-to-assess-apples-attf
