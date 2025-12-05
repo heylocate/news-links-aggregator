@@ -2372,3 +2372,5 @@ https://www.pcworld.com/article/2833058/was-your-data-stolen-in-the-att-breaches
 https://www.pcworld.com/article/2999889/samsungs-smarttag2-bluetooth-tracker-4-pack-is-now-40-percent-cheaper.html
 https://www.zdnet.com/article/waze-vs-google-maps/
 https://www.zdnet.com/article/you-can-still-claim-your-at-t-data-breach-settlement-of-up-to-7500-how-to-apply-for-free/
+https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/
+https://www.cnet.com/tech/services-and-software/these-google-maps-ai-tools-can-help-keep-your-holiday-travel-plans-on-track/#ftag=CADf328eec
