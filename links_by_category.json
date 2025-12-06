@@ -4,15 +4,15 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.cnet.com/tech/services-and-software/these-google-maps-ai-tools-can-help-keep-your-holiday-travel-plans-on-track/#ftag=CADf328eec"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/"
+    "https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://hackernoon.com/the-next-palantir-could-ignite-in-tel-aviv-and-its-built-on-soft-signal-intelligence-not-surveil?source=rss"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

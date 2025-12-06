@@ -2374,3 +2374,5 @@ https://www.zdnet.com/article/waze-vs-google-maps/
 https://www.zdnet.com/article/you-can-still-claim-your-at-t-data-breach-settlement-of-up-to-7500-how-to-apply-for-free/
 https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/
 https://www.cnet.com/tech/services-and-software/these-google-maps-ai-tools-can-help-keep-your-holiday-travel-plans-on-track/#ftag=CADf328eec
+https://hackernoon.com/the-next-palantir-could-ignite-in-tel-aviv-and-its-built-on-soft-signal-intelligence-not-surveil?source=rss
+https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/
