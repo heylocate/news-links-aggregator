@@ -1,5 +1,2 @@
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/
-
-## OSINT & Open Source Intelligence
-https://hackernoon.com/the-next-palantir-could-ignite-in-tel-aviv-and-its-built-on-soft-signal-intelligence-not-surveil?source=rss
+https://haveibeenpwned.com/Breach/KinoKong
