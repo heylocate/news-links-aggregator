@@ -7,7 +7,10 @@
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://securityboulevard.com/2025/12/ex-employee-sues-washington-post-over-oracle-ebs-related-data-breach/",
+    "https://www.globenewswire.com/news-release/2025/12/08/3201176/0/en/PETCO-DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Data-Privacy-Claims-on-Behalf-of-Petco-Health-and-Wellness-Company-Inc-Customers.html"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

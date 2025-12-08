@@ -2378,3 +2378,5 @@ https://hackernoon.com/the-next-palantir-could-ignite-in-tel-aviv-and-its-built-
 https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/
 https://haveibeenpwned.com/Breach/KinoKong
 https://appleinsider.com/articles/25/12/06/indias-request-for-satellite-aided-iphone-location-data-is-a-privacy-nightmare?utm_source=rss
+https://securityboulevard.com/2025/12/ex-employee-sues-washington-post-over-oracle-ebs-related-data-breach/
+https://www.globenewswire.com/news-release/2025/12/08/3201176/0/en/PETCO-DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Data-Privacy-Claims-on-Behalf-of-Petco-Health-and-Wellness-Company-Inc-Customers.html
