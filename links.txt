@@ -1,12 +1,3 @@
-## Parental Control
-https://www.techspot.com/news/110521-parents-mandatory-ipad-use-school-hurting-kids-grades.html
-
-## Background Check
-https://www.eff.org/deeplinks/2025/12/10-not-so-hidden-dangers-age-verification
-
-## Address Lookup
-https://www.engadget.com/wearables/heres-how-google-is-laying-the-foundation-for-our-mixed-reality-future-180000716.html?src=rss
-
 ## Security & Anti-Abuse
-https://www.informationweek.com/cybersecurity/outsmart-risk-a-5-point-plan-to-survive-a-data-breach
-https://iapp.org/news/a/south-korea-pipc-finalizes-information-protection-certifications
+https://therecord.media/seoul-cyber-investigators-seize-data-korea-tech-giant
+https://www.securityweek.com/over-300000-individuals-impacted-by-vitas-hospice-data-breach/

@@ -2393,3 +2393,5 @@ https://www.eff.org/deeplinks/2025/12/10-not-so-hidden-dangers-age-verification
 https://www.engadget.com/wearables/heres-how-google-is-laying-the-foundation-for-our-mixed-reality-future-180000716.html?src=rss
 https://www.informationweek.com/cybersecurity/outsmart-risk-a-5-point-plan-to-survive-a-data-breach
 https://www.techspot.com/news/110521-parents-mandatory-ipad-use-school-hurting-kids-grades.html
+https://therecord.media/seoul-cyber-investigators-seize-data-korea-tech-giant
+https://www.securityweek.com/over-300000-individuals-impacted-by-vitas-hospice-data-breach/
