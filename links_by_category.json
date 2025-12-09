@@ -1,23 +1,21 @@
 {
-  "Phone Lookup": [
-    "https://blog.youmail.com/2025/12/americans-get-2-5-billion-robocalls-a-month-and-the-trend-is-worsening/",
-    "https://blog.youmail.com/2025/12/media-coverage-how-california-and-tech-companies-are-fighting-back-on-robocalls/",
-    "https://blog.youmail.com/2025/12/spam-scam-and-robocalls-hit-six-year-high/",
-    "https://www.prnewswire.com/news-releases/us-consumers-received-just-over-3-8-billion-robocalls-in-november-2025--according-to-youmail-robocall-index-302635087.html"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
+  "Parental Control": [
+    "https://www.techspot.com/news/110521-parents-mandatory-ipad-use-school-hurting-kids-grades.html"
+  ],
+  "Background Check": [
+    "https://www.eff.org/deeplinks/2025/12/10-not-so-hidden-dangers-age-verification"
+  ],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/stopped-using-google-maps-android-app-love-driving/",
-    "https://www.digitaltrends.com/phones/samsungs-one-ui-8-5-might-just-save-your-vacation-photos/"
+    "https://www.engadget.com/wearables/heres-how-google-is-laying-the-foundation-for-our-mixed-reality-future-180000716.html?src=rss"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://research.checkpoint.com/2025/8th-december-threat-intelligence-report/",
-    "https://www.securityweek.com/tri-century-eye-care-data-breach-impacts-200000-individuals/"
+    "https://www.informationweek.com/cybersecurity/outsmart-risk-a-5-point-plan-to-survive-a-data-breach",
+    "https://iapp.org/news/a/south-korea-pipc-finalizes-information-protection-certifications"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
