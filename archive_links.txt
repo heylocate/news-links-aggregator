@@ -2431,3 +2431,7 @@ https://iapp.org/news/a/ico-fines-password-manager-for-lax-security-measures-tha
 https://iapp.org/news/a/us-steps-up-its-data-collection-capabilities-for-immigration-actions
 https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/
 https://www.techradar.com/pro/security/ico-levies-gbp1-2-million-fine-against-lastpass-data-breach-compromised-info-on-1-6-million-users
+https://gizmodo.com/you-have-a-week-to-claim-up-to-7500-from-att-data-breach-settlements-2000698631
+https://hackernoon.com/how-i-built-a-bicameral-ai-agent-that-uses-australian-lasers-to-make-decisions-when-logic-fails?source=rss
+https://www.androidpolice.com/google-maps-now-works-better-than-ever-inside-the-gemini-app/
+https://www.securityweek.com/fieldtex-data-breach-impacts-238000/

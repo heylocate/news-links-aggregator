@@ -1,27 +1,22 @@
 {
-  "Phone Lookup": [
-    "https://blog.hiya.com/top-phone-scams-in-france-in-2025"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://iapp.org/news/a/us-steps-up-its-data-collection-capabilities-for-immigration-actions"
-  ],
+  "People Search": [],
   "Address Lookup": [
-    "https://9to5google.com/2025/12/11/gemini-app-google-maps-visual/"
+    "https://www.androidpolice.com/google-maps-now-works-better-than-ever-inside-the-gemini-app/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://android-developers.googleblog.com/2025/12/building-safer-android-and-google-play.html",
-    "https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/",
-    "https://go.theregister.com/feed/www.theregister.com/2025/12/11/lastpass_ico_fine/",
-    "https://www.techradar.com/pro/security/ico-levies-gbp1-2-million-fine-against-lastpass-data-breach-compromised-info-on-1-6-million-users",
-    "https://iapp.org/news/a/ico-fines-password-manager-for-lax-security-measures-that-led-to-2022-breach"
+    "https://gizmodo.com/you-have-a-week-to-claim-up-to-7500-from-att-data-breach-settlements-2000698631",
+    "https://www.securityweek.com/fieldtex-data-breach-impacts-238000/"
   ],
   "OSINT & Open Source Intelligence": [],
-  "Number Utilities & International": [],
+  "Number Utilities & International": [
+    "https://hackernoon.com/how-i-built-a-bicameral-ai-agent-that-uses-australian-lasers-to-make-decisions-when-logic-fails?source=rss"
+  ],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
 }
