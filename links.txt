@@ -1,17 +1,3 @@
-## Number / Device Tracking
-https://www.zdnet.com/article/pacsafe-vibe-325-sling-bag-review/
-
-## Background Check
-https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/
-
-## People Search
-https://iapp.org/news/a/calprivacy-issues-guidance-for-launch-of-drop-system
-
-## Security & Anti-Abuse
-https://databreaches.net/2025/12/12/virginia-urology-silent-on-possible-data-breach-as-purported-patient-data-begins-to-leak/?pk_campaign=feed&pk_kwd=virginia-urology-silent-on-possible-data-breach-as-purported-patient-data-begins-to-leak
-https://appleinsider.com/articles/25/12/12/dont-wait-to-update-ios-262-fixes-webkit-issues-used-for-targeted-attacks?utm_source=rss
-https://www.tomsguide.com/computing/online-security/nearly-5-6-million-people-hit-by-massive-data-breach-at-credit-check-company-what-you-need-to-know
-https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/
-
-## OSINT & Open Source Intelligence
-https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html
+## Address Lookup
+https://www.phonearena.com/news/gemini-app-delivers-revised-google-maps-response_id176591
+https://www.tomsguide.com/phones/i-tested-google-maps-vs-apple-maps-to-see-which-offers-the-best-public-transportation-experience-heres-what-happened
