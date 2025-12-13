@@ -2435,3 +2435,11 @@ https://gizmodo.com/you-have-a-week-to-claim-up-to-7500-from-att-data-breach-set
 https://hackernoon.com/how-i-built-a-bicameral-ai-agent-that-uses-australian-lasers-to-make-decisions-when-logic-fails?source=rss
 https://www.androidpolice.com/google-maps-now-works-better-than-ever-inside-the-gemini-app/
 https://www.securityweek.com/fieldtex-data-breach-impacts-238000/
+https://appleinsider.com/articles/25/12/12/dont-wait-to-update-ios-262-fixes-webkit-issues-used-for-targeted-attacks?utm_source=rss
+https://databreaches.net/2025/12/12/virginia-urology-silent-on-possible-data-breach-as-purported-patient-data-begins-to-leak/?pk_campaign=feed&pk_kwd=virginia-urology-silent-on-possible-data-breach-as-purported-patient-data-begins-to-leak
+https://iapp.org/news/a/calprivacy-issues-guidance-for-launch-of-drop-system
+https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/
+https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html
+https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/
+https://www.tomsguide.com/computing/online-security/nearly-5-6-million-people-hit-by-massive-data-breach-at-credit-check-company-what-you-need-to-know
+https://www.zdnet.com/article/pacsafe-vibe-325-sling-bag-review/
