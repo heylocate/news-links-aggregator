@@ -4,11 +4,14 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer",
+    "https://www.pr.com/press-release/956090"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.prnewswire.com/news-releases/700credit-data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-700credit-llc-customers-whose-data-may-have-been-compromised-302641670.html"
+    "https://databreaches.net/2025/12/14/askul-says-740000-sets-of-data-breached-in-cyberattack/?pk_campaign=feed&pk_kwd=askul-says-740000-sets-of-data-breached-in-cyberattack"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
