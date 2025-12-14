@@ -4,13 +4,12 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.phonearena.com/news/gemini-app-delivers-revised-google-maps-response_id176591",
-    "https://www.tomsguide.com/phones/i-tested-google-maps-vs-apple-maps-to-see-which-offers-the-best-public-transportation-experience-heres-what-happened"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.prnewswire.com/news-releases/700credit-data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-700credit-llc-customers-whose-data-may-have-been-compromised-302641670.html"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
