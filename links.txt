@@ -1,17 +1,23 @@
 ## Parental Control
-https://www.trustedreviews.com/reviews/life360-pet-tracker
-https://www.macrumors.com/2025/12/15/uk-pushes-apple-block-explicit-images/
-https://www.eff.org/deeplinks/2025/12/eff-open-rights-group-big-brother-watch-and-index-censorship-call-uk-government
+https://www.engadget.com/social-media/judge-blocks-louisianas-social-media-age-verification-law-001212758.html?src=rss
+https://www.computerworld.com/article/4106494/the-uk-wants-your-iphone-to-check-your-age.html
 
 ## Background Check
-https://www.securityweek.com/700credit-data-breach-impacts-5-8-million-individuals/
+https://techreport.com/news/business/australia-teen-social-media-ban-age-verification/
 
 ## Address Lookup
-https://www.digitaltrends.com/phones/geminis-latest-upgrade-makes-it-easier-for-you-to-discover-local-hotspots/
-https://www.cnet.com/videos/gemini-in-google-maps-is-a-hands-free-ai-driving-assistant/#ftag=CADf328eec
-https://www.cnet.com/tech/mobile/i-tried-google-maps-new-gemini-feature-and-it-was-a-surprisingly-helpful-ai-assistant/#ftag=CADf328eec
-https://www.androidauthority.com/google-maps-in-gemini-visual-upgrade-3625207/
-https://www.phonearena.com/news/waze-testing-traffic-light-support_id176604
+https://www.androidauthority.com/google-maps-ski-lifts-trails-3625388/
+https://www.zdnet.com/article/gemini-google-maps-visual-update-local-search/
+https://www.androidcentral.com/apps-software/google-maps/how-to-enable-and-use-google-maps-power-saving-mode
+https://9to5google.com/2025/12/15/waze-is-testing-support-for-showing-traffic-lights-along-your-route/
 
 ## Security & Anti-Abuse
-https://therecord.media/data-breaches-affecting-20-million-prosper-700credit
+https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-nahga-claim-services-customers-whose-data-may-have-been-compromised-302642955.html
+https://www.engadget.com/cybersecurity/google-is-retiring-its-free-dark-web-monitoring-tool-next-year-023103252.html?src=rss
+https://www.globenewswire.com/news-release/2025/12/16/3205927/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Cove-Risk-Services-LLC-Customers-Whose-Data-May-Have-Been-Compromised.html
+https://www.globenewswire.com/news-release/2025/12/16/3205926/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Rockrose-Development-L-L-C-Customers-Whose-Data-May-Have-Been-Compromised.html
+https://securityboulevard.com/2025/12/official-appomni-company-information/
+https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/
+https://www.techradar.com/pro/security/massive-data-breach-sees-credit-card-details-of-over-5-6-million-victims-leaked-heres-what-we-know
+https://www.zdnet.com/article/att-data-breach-settlement-how-to-claim/
+https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/
