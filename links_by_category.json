@@ -1,24 +1,28 @@
 {
-  "Phone Lookup": [
-    "https://blog.hiya.com/top-10-phone-scams-in-the-uk-in-2025"
+  "Phone Lookup": [],
+  "Number / Device Tracking": [
+    "https://www.geekwire.com/2025/washington-and-35-other-states-reach-settlement-with-hyundai-and-kia-over-lack-of-anti-theft-tech/"
   ],
-  "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.qustodio.com/en/blog/is-yope-safe/"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidheadlines.com/2025/12/waze-is-testing-a-traffic-lights-feature-to-catch-up-with-google-maps.html",
-    "https://www.techradar.com/computing/software/google-maps-just-got-a-big-upgrade-for-your-skiing-trip-and-its-all-thanks-to-a-backlash-from-snowsports-lovers",
-    "https://www.androidpolice.com/android-auto-navigation-upgrade/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://go.theregister.com/feed/www.theregister.com/2025/12/16/trio_of_breaches/",
-    "https://www.phonearena.com/news/time-is-almost-up-for-att-customers-to-claim-what-theyre-owed_id176653"
+    "https://www.pcworld.com/article/3013171/pornhub-hacked-view-and-search-history-for-premium-members-could-leak.html",
+    "https://www.techradar.com/pro/security/soundcloud-confirms-data-breach-user-info-stolen-heres-what-you-need-to-know",
+    "https://www.malwarebytes.com/blog/news/2025/12/soundcloud-pornhub-and-700credit-all-reported-data-breaches-but-the-similarities-end-there",
+    "https://www.digitaltrends.com/computing/google-is-shutting-down-a-tool-that-nudged-you-about-data-leaks/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.macworld.com/article/3009184/wavlink-thunderbolt-5-dock-review.html",
+    "https://www.engadget.com/social-media/instagram-launches-a-fire-tv-app-for-reels-160003710.html?src=rss",
+    "https://www.pcworld.com/article/3012789/instagram-reels-are-now-streaming-on-amazon-fire-tv-devices.html"
+  ]
 }
