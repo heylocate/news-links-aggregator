@@ -1,16 +1,10 @@
-## Number / Device Tracking
-https://www.geekwire.com/2025/washington-and-35-other-states-reach-settlement-with-hyundai-and-kia-over-lack-of-anti-theft-tech/
+## People Search
+https://securityboulevard.com/2025/12/google-chrome-extension-is-intercepting-millions-of-users-ai-chats/
 
-## Parental Control
-https://www.qustodio.com/en/blog/is-yope-safe/
+## Address Lookup
+https://www.androidpolice.com/google-maps-is-always-essential/
+https://www.androidauthority.com/find-hub-maps-3625771/
 
 ## Security & Anti-Abuse
-https://www.pcworld.com/article/3013171/pornhub-hacked-view-and-search-history-for-premium-members-could-leak.html
-https://www.techradar.com/pro/security/soundcloud-confirms-data-breach-user-info-stolen-heres-what-you-need-to-know
-https://www.malwarebytes.com/blog/news/2025/12/soundcloud-pornhub-and-700credit-all-reported-data-breaches-but-the-similarities-end-there
-https://www.digitaltrends.com/computing/google-is-shutting-down-a-tool-that-nudged-you-about-data-leaks/
-
-## Uncategorized
-https://www.macworld.com/article/3009184/wavlink-thunderbolt-5-dock-review.html
-https://www.engadget.com/social-media/instagram-launches-a-fire-tv-app-for-reels-160003710.html?src=rss
-https://www.pcworld.com/article/3012789/instagram-reels-are-now-streaming-on-amazon-fire-tv-devices.html
+https://www.pcworld.com/article/3013870/google-kills-off-its-dark-web-report-in-january-im-so-bummed.html
+https://www.pcworld.com/article/3013864/the-fbi-just-contributed-635-million-passwords-to-data-leak-tracking-site-have-i-been-pwned.html
