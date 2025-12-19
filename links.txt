@@ -1,12 +1,16 @@
+## Number / Device Tracking
+https://gizmodo.com/kia-and-hyundia-could-pay-over-500-million-to-settle-viral-kia-boys-thefts-2000701494
+
+## Parental Control
+https://www.computerworld.com/article/4108697/apple-changes-app-store-in-japan.html
+
 ## Background Check
-https://securityboulevard.com/2025/12/the-biggest-cyber-stories-of-the-year-what-2025-taught-us/
+https://securityboulevard.com/2025/12/client-id-metadata-documents-cimd-the-future-of-mcp-authentication/
 
 ## Address Lookup
-https://www.tomsguide.com/computing/mobile-apps/google-maps-brings-back-a-feature-it-killed-in-2024-following-major-backlash
+https://www.bgr.com/2055507/google-maps-revived-discontinued-feature-winter-2025/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/auto-giant-lkq-says-its-the-latest-firm-hit-by-oracle-ebs-data-breach
-https://therecord.media/uk-nhs-tech-provider-dxs-discloses-hack
-https://www.pcworld.com/article/3014191/protect-data-from-ransomware-and-more-with-eset-cybersecurity.html
-https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/
-https://haveibeenpwned.com/Breach/AUTOSUR
+https://www.globenewswire.com/news-release/2025/12/19/3208277/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Parexel-International-LLC-Customers-Whose-Data-May-Have-Been-Compromised.html
+https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/
+https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/

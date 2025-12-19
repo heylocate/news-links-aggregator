@@ -2511,3 +2511,10 @@ https://www.pcworld.com/article/3014191/protect-data-from-ransomware-and-more-wi
 https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/
 https://www.techradar.com/pro/security/auto-giant-lkq-says-its-the-latest-firm-hit-by-oracle-ebs-data-breach
 https://www.tomsguide.com/computing/mobile-apps/google-maps-brings-back-a-feature-it-killed-in-2024-following-major-backlash
+https://gizmodo.com/kia-and-hyundia-could-pay-over-500-million-to-settle-viral-kia-boys-thefts-2000701494
+https://securityboulevard.com/2025/12/client-id-metadata-documents-cimd-the-future-of-mcp-authentication/
+https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/
+https://www.bgr.com/2055507/google-maps-revived-discontinued-feature-winter-2025/
+https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/
+https://www.computerworld.com/article/4108697/apple-changes-app-store-in-japan.html
+https://www.globenewswire.com/news-release/2025/12/19/3208277/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Parexel-International-LLC-Customers-Whose-Data-May-Have-Been-Compromised.html
