@@ -5,11 +5,11 @@
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
-  "Image Search": [
-    "https://www.globenewswire.com/news-release/2025/12/20/3208874/0/en/Copyseeker-Launches-n8n-Community-Node-for-Automated-Reverse-Image-Search.html"
-  ],
+  "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://securityboulevard.com/2025/12/how-essential-are-nhis-in-the-effective-management-of-cloud-security/"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
