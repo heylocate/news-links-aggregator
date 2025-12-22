@@ -1,2 +1,5 @@
+## Address Lookup
+https://www.androidpolice.com/the-simple-google-maps-feature-i-need-for-every-group-road-trip/
+
 ## Security & Anti-Abuse
-https://securityboulevard.com/2025/12/how-essential-are-nhis-in-the-effective-management-of-cloud-security/
+https://securityboulevard.com/2025/12/marquis-data-breach-exposes-hundreds-of-thousands-of-bank-customers/
