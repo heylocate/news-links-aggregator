@@ -1,14 +1,10 @@
-## Background Check
-https://www.engadget.com/big-tech/uber-allows-violent-felons-to-drive-on-its-platform-investigation-finds-162721155.html?src=rss
+## Number / Device Tracking
+https://www.digitaltrends.com/phones/androids-find-hub-now-lets-you-switch-up-map-views-for-easier-device-tracking/
 
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/
-https://9to5mac.com/2025/12/22/apple-fined-in-italy-over-app-tracking-transparency/
-https://www.tomsguide.com/computing/online-security/3-5-million-hit-in-us-college-data-breach-with-full-names-dates-of-birth-ssns-bank-info-and-more-exposed-how-to-see-if-youre-affected
-https://www.macrumors.com/2025/12/22/italy-fines-apple-over-app-tracking-transparency/
-
-## OSINT & Open Source Intelligence
-https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/
-
-## Uncategorized
-https://www.tomsguide.com/computing/social-media/new-york-will-soon-require-social-media-platforms-to-add-warning-labels-for-minors-everything-you-need-to-know
+https://www.computerworld.com/article/4111134/apple-fined-billions-in-italy.html
+https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/
+https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/
+https://www.tomsguide.com/phones/iphones/apple-fined-over-usd100-000-000-for-this-one-disproportionate-iphone-feature
+https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/
+https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/
