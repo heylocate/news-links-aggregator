@@ -1,29 +1,26 @@
 {
-  "Phone Lookup": [
-    "https://blog.hiya.com/scam-of-the-month-remote-access-scams",
-    "https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-51-2025-302647871.html"
-  ],
-  "Number / Device Tracking": [
-    "https://www.macworld.com/article/3011405/this-24-airtag-alternative-can-fit-in-your-wallet.html"
-  ],
+  "Phone Lookup": [],
+  "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [
-    "https://www.zdnet.com/article/google-maps-alternative-comaps-hands-on/"
+  "Background Check": [
+    "https://www.engadget.com/big-tech/uber-allows-violent-felons-to-drive-on-its-platform-investigation-finds-162721155.html?src=rss"
   ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
-    "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
-    "https://www.malwarebytes.com/blog/news/2025/12/pornhub-tells-users-to-expect-sextortion-emails-after-data-exposure",
-    "https://research.checkpoint.com/2025/22nd-december-threat-intelligence-report/",
-    "https://appleinsider.com/articles/25/12/22/italy-fines-apple-115-million-over-app-tracking-transparency?utm_source=rss",
-    "https://www.techradar.com/pro/security/nhs-england-tech-provider-reveals-data-breach-dxs-international-hit-by-ransomware"
+    "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
+    "https://9to5mac.com/2025/12/22/apple-fined-in-italy-over-app-tracking-transparency/",
+    "https://www.tomsguide.com/computing/online-security/3-5-million-hit-in-us-college-data-breach-with-full-names-dates-of-birth-ssns-bank-info-and-more-exposed-how-to-see-if-youre-affected",
+    "https://www.macrumors.com/2025/12/22/italy-fines-apple-over-app-tracking-transparency/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.tomsguide.com/computing/social-media/new-york-will-soon-require-social-media-platforms-to-add-warning-labels-for-minors-everything-you-need-to-know"
+  ]
 }
