@@ -1,14 +1,17 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.tomsguide.com/ai/chatgpt-vs-gemini-i-asked-both-for-parenting-advice-and-one-clearly-did-it-better"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/Utair"
+    "https://securityboulevard.com/2025/12/survey-nearly-half-of-data-breaches-involved-third-party-remote-access-2/",
+    "https://securityboulevard.com/2025/12/top-data-breaches-in-2025-month-wise/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
