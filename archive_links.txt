@@ -2611,3 +2611,9 @@ https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-amon
 https://www.eff.org/deeplinks/2025/12/drone-first-responder-programs-2025-review
 https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/
 https://www.tomsguide.com/computing/online-security/22-6-million-hit-in-massive-insurance-data-breach-with-ids-ssns-healthcare-info-and-more-exposed-what-to-do-now
+https://databreaches.net/2025/12/30/french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach/?pk_campaign=feed&pk_kwd=french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach
+https://databreaches.net/2025/12/30/software-company-lacked-downstream-liability-for-data-breach/?pk_campaign=feed&pk_kwd=software-company-lacked-downstream-liability-for-data-breach
+https://securityboulevard.com/2025/12/oracle-breach-the-impact-is-bigger-than-you-think-grip-2/
+https://www.androidpolice.com/google-maps-still-makes-this-simple-thing-feel-hard/
+https://www.cnet.com/home/smart-home/a-home-tech-trick-called-geofencing-is-changing-how-people-use-devices/#ftag=CADf328eec
+https://www.macworld.com/article/227083/mac-tips-setup-spotlight-time-machine-spotlight-dock-shortcuts.html
