@@ -1,25 +1,26 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.cnet.com/home/smart-home/a-home-tech-trick-called-geofencing-is-changing-how-people-use-devices/#ftag=CADf328eec"
-  ],
+  "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.pr.com/press-release/957210"
+  ],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/google-maps-still-makes-this-simple-thing-feel-hard/"
-  ],
-  "Image Search": [
-    "https://www.macworld.com/article/227083/mac-tips-setup-spotlight-time-machine-spotlight-dock-shortcuts.html"
-  ],
+  "Address Lookup": [],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://securityboulevard.com/2025/12/oracle-breach-the-impact-is-bigger-than-you-think-grip-2/",
-    "https://databreaches.net/2025/12/30/software-company-lacked-downstream-liability-for-data-breach/?pk_campaign=feed&pk_kwd=software-company-lacked-downstream-liability-for-data-breach",
-    "https://databreaches.net/2025/12/30/french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach/?pk_campaign=feed&pk_kwd=french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach"
+    "https://www.globenewswire.com/news-release/2025/12/31/3211670/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html",
+    "https://www.globenewswire.com/news-release/2025/12/31/3211671/6713/en/Coupang-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html",
+    "https://securityboulevard.com/2025/12/how-powerful-are-current-ai-solutions-in-detecting-nhidr/",
+    "https://www.techradar.com/pro/security/coupang-to-pay-almost-usd1-2-billion-in-compensation-for-data-breach",
+    "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
+    "https://www.cnet.com/news/privacy/aflac-june-2025-data-breach-update-how-many-people-affected/#ftag=CADf328eec"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.eff.org/deeplinks/2025/12/effs-investigations-expose-flock-safetys-surveillance-abuses-2025-review"
+  ]
 }
