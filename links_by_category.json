@@ -4,12 +4,16 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.bgr.com/2065070/google-maps-vs-apple-maps-which-is-better/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.pcworld.com/article/2973310/the-best-smart-home-products-of-2025-26.html"
+  ]
 }
