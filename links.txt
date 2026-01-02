@@ -1,2 +1,7 @@
+## People Search
+https://www.eff.org/deeplinks/2025/12/surveillance-self-defense-2025-year-review
+
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/
+https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/
+https://www.tomsguide.com/computing/online-security/i-write-about-hackers-for-a-living-but-these-are-the-3-real-world-threats-that-worry-me-most
+https://securityboulevard.com/2026/01/types-of-authentication-complete-guide-to-authentication-methods-mechanisms/
