@@ -1,7 +1,5 @@
 {
-  "Phone Lookup": [
-    "https://www.howtogeek.com/the-most-overlooked-way-to-stop-spam-calls-on-android-and-iphone/"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
@@ -9,16 +7,7 @@
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.prnewswire.com/news-releases/f5-inc-securities-fraud-class-action-result-of-data-breach-and-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302651874.html",
-    "https://www.prnewswire.com/news-releases/coupang-inc-securities-fraud-class-action-result-of-data-breach-and-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302651992.html",
-    "https://www.tomsguide.com/computing/online-security/nearly-500-000-patients-hit-in-massive-healthcare-data-breach-everything-you-need-to-know",
-    "https://therecord.media/covenant-health-breach-qilin",
-    "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
-    "https://databreaches.net/2026/01/02/nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected/?pk_campaign=feed&pk_kwd=nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected",
-    "https://databreaches.net/2026/01/02/healthcare-firm-handing-2000000-to-customers-after-data-breach-exposes-highly-confidential-information-of-512000-people/?pk_campaign=feed&pk_kwd=healthcare-firm-handing-2000000-to-customers-after-data-breach-exposes-highly-confidential-information-of-512000-people",
-    "https://venturebeat.com/security/seven-steps-to-ai-supply-chain-visibility"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
