@@ -3,11 +3,16 @@
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/",
+    "https://www.engadget.com/cybersecurity/california-introduces-a-one-stop-shop-to-delete-your-online-data-footprint-173102064.html?src=rss"
+  ],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-covenant-health-inc-customers-whose-data-may-have-been-compromised-302651925.html"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
