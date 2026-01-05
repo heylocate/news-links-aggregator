@@ -2649,3 +2649,8 @@ https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-
 https://www.macworld.com/article/3016423/screen-time-gets-smarter-with-this-kids-app-now-20-off-for-a-limited-time.html
 https://www.pcworld.com/article/3021405/switchbot-lock-vision-series-uses-3d-facial-recognition-to-unlock.html
 https://www.tomsguide.com/ai/openai-may-buy-pinterest-and-it-could-change-how-we-search-shop-and-scroll
+https://securityboulevard.com/2026/01/how-osint-breach-data-connects-the-dots-in-attribution-investigations/
+https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/
+https://www.pcworld.com/article/3021439/kwiksets-new-aura-reach-matter-smart-lock-is-already-available.html
+https://www.pcworld.com/article/3023058/welp-wired-got-hacked-and-2-4-million-accounts-are-affected.html
+https://www.techradar.com/vpn/vpn-services/nordvpn-denies-data-breach-after-hackers-claim-salesforce-leak-heres-everything-we-know-so-far
