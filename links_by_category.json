@@ -1,22 +1,28 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://appleinsider.com/articles/26/01/06/find-my-comes-to-mofts-new-magnetic-iphone-accessories?utm_source=rss"
+  ],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [],
+  "People Search": [
+    "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
+    "https://www.tomsguide.com/computing/online-security/new-california-regulations-help-delete-your-personal-information-off-the-internet-heres-what-to-know",
+    "https://www.techspot.com/news/110807-california-made-much-easier-delete-data-across-500.html"
+  ],
+  "Address Lookup": [
+    "https://www.androidpolice.com/app-brings-pixel-10-google-maps-power-saving-mode-older-pixels/",
+    "https://www.engadget.com/wearables/rokid-introduces-display-free-ai-smartglasses-at-ces-2026-010017906.html?src=rss"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
-    "https://www.techradar.com/vpn/vpn-services/nordvpn-denies-data-breach-after-hackers-claim-salesforce-leak-heres-everything-we-know-so-far",
-    "https://www.pcworld.com/article/3023058/welp-wired-got-hacked-and-2-4-million-accounts-are-affected.html",
-    "https://securityboulevard.com/2026/01/how-osint-breach-data-connects-the-dots-in-attribution-investigations/"
+    "https://www.tomsguide.com/computing/vpns/nordvpn-claims-alleged-data-breach-is-false-and-that-user-data-is-safe"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://securityboulevard.com/2026/01/how-osint-strengthens-executive-threat-intelligence/"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.pcworld.com/article/3021439/kwiksets-new-aura-reach-matter-smart-lock-is-already-available.html"
-  ]
+  "Uncategorized": []
 }

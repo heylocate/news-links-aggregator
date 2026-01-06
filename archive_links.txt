@@ -2654,3 +2654,11 @@ https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-thir
 https://www.pcworld.com/article/3021439/kwiksets-new-aura-reach-matter-smart-lock-is-already-available.html
 https://www.pcworld.com/article/3023058/welp-wired-got-hacked-and-2-4-million-accounts-are-affected.html
 https://www.techradar.com/vpn/vpn-services/nordvpn-denies-data-breach-after-hackers-claim-salesforce-leak-heres-everything-we-know-so-far
+https://appleinsider.com/articles/26/01/06/find-my-comes-to-mofts-new-magnetic-iphone-accessories?utm_source=rss
+https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/
+https://securityboulevard.com/2026/01/how-osint-strengthens-executive-threat-intelligence/
+https://www.androidpolice.com/app-brings-pixel-10-google-maps-power-saving-mode-older-pixels/
+https://www.engadget.com/wearables/rokid-introduces-display-free-ai-smartglasses-at-ces-2026-010017906.html?src=rss
+https://www.techspot.com/news/110807-california-made-much-easier-delete-data-across-500.html
+https://www.tomsguide.com/computing/online-security/new-california-regulations-help-delete-your-personal-information-off-the-internet-heres-what-to-know
+https://www.tomsguide.com/computing/vpns/nordvpn-claims-alleged-data-breach-is-false-and-that-user-data-is-safe
