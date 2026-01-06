@@ -2662,3 +2662,5 @@ https://www.engadget.com/wearables/rokid-introduces-display-free-ai-smartglasses
 https://www.techspot.com/news/110807-california-made-much-easier-delete-data-across-500.html
 https://www.tomsguide.com/computing/online-security/new-california-regulations-help-delete-your-personal-information-off-the-internet-heres-what-to-know
 https://www.tomsguide.com/computing/vpns/nordvpn-claims-alleged-data-breach-is-false-and-that-user-data-is-safe
+https://haveibeenpwned.com/Breach/WhiteDate
+https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/

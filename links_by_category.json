@@ -1,27 +1,17 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://appleinsider.com/articles/26/01/06/find-my-comes-to-mofts-new-magnetic-iphone-accessories?utm_source=rss"
-  ],
+  "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
-    "https://www.tomsguide.com/computing/online-security/new-california-regulations-help-delete-your-personal-information-off-the-internet-heres-what-to-know",
-    "https://www.techspot.com/news/110807-california-made-much-easier-delete-data-across-500.html"
-  ],
-  "Address Lookup": [
-    "https://www.androidpolice.com/app-brings-pixel-10-google-maps-power-saving-mode-older-pixels/",
-    "https://www.engadget.com/wearables/rokid-introduces-display-free-ai-smartglasses-at-ces-2026-010017906.html?src=rss"
-  ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.tomsguide.com/computing/vpns/nordvpn-claims-alleged-data-breach-is-false-and-that-user-data-is-safe"
+    "https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/",
+    "https://haveibeenpwned.com/Breach/WhiteDate"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://securityboulevard.com/2026/01/how-osint-strengthens-executive-threat-intelligence/"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
