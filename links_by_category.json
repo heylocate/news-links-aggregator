@@ -1,17 +1,27 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Phone Lookup": [
+    "https://blog.hiya.com/hiya-awarded-10-g2-winter-2026-badges-for-branded-caller-id"
+  ],
+  "Number / Device Tracking": [
+    "https://www.digitaltrends.com/phones/moto-tag-2-goes-beyond-object-tracking-and-lasts-much-longer-than-airtags/"
+  ],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidheadlines.com/2026/01/pixel-10-google-maps-power-saving-mode-older-pixels-essentials-app.html"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/",
-    "https://haveibeenpwned.com/Breach/WhiteDate"
+    "https://www.globenewswire.com/news-release/2026/01/07/3214239/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html",
+    "https://www.globenewswire.com/news-release/2026/01/07/3214238/6713/en/Coupang-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html",
+    "https://www.techradar.com/pro/security/one-of-the-largest-us-broadband-providers-investigates-breach",
+    "https://databreaches.net/2026/01/06/desjardins-data-breach-quebec-suspect-arrested-in-spain/?pk_campaign=feed&pk_kwd=desjardins-data-breach-quebec-suspect-arrested-in-spain"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://www.eff.org/deeplinks/2025/12/homeland-security-spending-trail-how-follow-money-through-us-government-databases"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
