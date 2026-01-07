@@ -1,17 +1,12 @@
-## Phone Lookup
-https://blog.hiya.com/hiya-awarded-10-g2-winter-2026-badges-for-branded-caller-id
-
 ## Number / Device Tracking
-https://www.digitaltrends.com/phones/moto-tag-2-goes-beyond-object-tracking-and-lasts-much-longer-than-airtags/
+https://www.macworld.com/article/3021119/these-ultra-slim-trackers-fit-where-airtags-dont-and-are-on-sale.html
 
 ## Address Lookup
-https://www.androidheadlines.com/2026/01/pixel-10-google-maps-power-saving-mode-older-pixels-essentials-app.html
+https://www.computerworld.com/article/4112883/android-search-upgrade.html
 
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/01/07/3214239/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
-https://www.globenewswire.com/news-release/2026/01/07/3214238/6713/en/Coupang-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
-https://www.techradar.com/pro/security/one-of-the-largest-us-broadband-providers-investigates-breach
-https://databreaches.net/2026/01/06/desjardins-data-breach-quebec-suspect-arrested-in-spain/?pk_campaign=feed&pk_kwd=desjardins-data-breach-quebec-suspect-arrested-in-spain
+https://databreaches.net/2026/01/07/crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e/?pk_campaign=feed&pk_kwd=crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e
+https://gizmodo.com/crypto-hardware-wallet-maker-ledger-impacted-by-third-party-data-breach-2000706407
 
 ## OSINT & Open Source Intelligence
-https://www.eff.org/deeplinks/2025/12/homeland-security-spending-trail-how-follow-money-through-us-government-databases
+https://securityboulevard.com/2026/01/dark-web-intelligence-how-to-leverage-osint-for-proactive-threat-mitigation/
