@@ -2677,3 +2677,4 @@ https://gizmodo.com/crypto-hardware-wallet-maker-ledger-impacted-by-third-party-
 https://securityboulevard.com/2026/01/dark-web-intelligence-how-to-leverage-osint-for-proactive-threat-mitigation/
 https://www.computerworld.com/article/4112883/android-search-upgrade.html
 https://www.macworld.com/article/3021119/these-ultra-slim-trackers-fit-where-airtags-dont-and-are-on-sale.html
+https://therecord.media/spanish-airline-attributes-recent-breach-allegation-to-nov-incident

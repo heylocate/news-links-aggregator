@@ -1,12 +1,2 @@
-## Number / Device Tracking
-https://www.macworld.com/article/3021119/these-ultra-slim-trackers-fit-where-airtags-dont-and-are-on-sale.html
-
-## Address Lookup
-https://www.computerworld.com/article/4112883/android-search-upgrade.html
-
 ## Security & Anti-Abuse
-https://databreaches.net/2026/01/07/crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e/?pk_campaign=feed&pk_kwd=crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e
-https://gizmodo.com/crypto-hardware-wallet-maker-ledger-impacted-by-third-party-data-breach-2000706407
-
-## OSINT & Open Source Intelligence
-https://securityboulevard.com/2026/01/dark-web-intelligence-how-to-leverage-osint-for-proactive-threat-mitigation/
+https://therecord.media/spanish-airline-attributes-recent-breach-allegation-to-nov-incident
