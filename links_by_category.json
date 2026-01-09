@@ -1,24 +1,25 @@
 {
   "Phone Lookup": [
-    "https://www.prnewswire.com/news-releases/us-consumers-received-52-5-billion-robocalls-in-2025--over-4-1-billion-in-december-according-to-youmail-robocall-index-302656174.html"
+    "http://www.businesswire.com/news/home/20260108033739/en/Hiya-and-Deutsche-Telekom-Bring-Branded-Calling-at-Scale-to-Germany-Helping-Businesses-Reach-Customers-in-the-Moments-That-Matter/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q=="
   ],
-  "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Number / Device Tracking": [
+    "https://www.engadget.com/deals/you-can-get-a-four-pack-of-samsung-smarttag-2-trackers-for-just-45-173936230.html?src=rss",
+    "https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents"
+  ],
+  "Parental Control": [
+    "https://www.prnewswire.com/news-releases/courtsapp-launches-as-the-healthiest-app-in-the-world-turning-screen-time-into-play-time-302656773.html"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/ready-to-ditch-google-maps-until-noticed-what-i-missed/",
-    "https://www.androidauthority.com/google-maps-android-xr-navigation-gemini-3630887/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/01/08/methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months/?pk_campaign=feed&pk_kwd=methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months"
+    "https://www.globenewswire.com/news-release/2026/01/09/3215868/6819/en/Gulshan-Management-Services-Inc-Data-Breach-Alert-Issued-By-Wolf-Haldenstein.html",
+    "https://hackernoon.com/why-ledgers-latest-data-breach-exposes-the-hidden-risks-of-third-party-dependencies?source=rss"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.macworld.com/article/668972/best-airtag-cases-holders-accessories.html"
-  ]
+  "Uncategorized": []
 }
