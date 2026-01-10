@@ -2699,3 +2699,5 @@ https://9to5google.com/2026/01/09/google-maps-settings-redesign/
 https://venturebeat.com/security/ciso-inference-security-platforms-11-runtime-attacks-2026
 https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/
 https://www.engadget.com/big-tech/its-time-for-apple-to-reinstate-iceblock-220802356.html?src=rss
+https://haveibeenpwned.com/Breach/BreachForums2025
+https://www.androidpolice.com/google-maps-android-settings-page-redesign/
