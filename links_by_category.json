@@ -4,13 +4,13 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/google-maps-android-settings-page-redesign/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/BreachForums2025"
+    "https://www.phonearena.com/news/another-meta-data-breach-exposes-sensitive-information-of-millions-of-instagram-users_id177218",
+    "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss",
+    "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
