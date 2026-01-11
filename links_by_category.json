@@ -1,16 +1,19 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://www.macworld.com/article/3022100/airtags-too-bulky-try-this-24-sleek-tracker-card-instead.html"
+  ],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidauthority.com/cant-trust-google-maps-audio-3629878/",
+    "https://www.phonearena.com/news/menu-gets-long-overdue-change-google-maps_id177220"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.phonearena.com/news/another-meta-data-breach-exposes-sensitive-information-of-millions-of-instagram-users_id177218",
-    "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss",
-    "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/"
+    "https://hackernoon.com/1-11-2026-techbeat?source=rss"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
