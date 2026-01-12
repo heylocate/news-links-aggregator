@@ -1,7 +1,13 @@
+## Phone Lookup
+https://www.cnet.com/tech/mobile/one-simple-solution-to-stop-scam-calls/
+
 ## Parental Control
-https://www.socialmediatoday.com/news/tiktok-launches-new-calendar-to-help-parents-manage-teens-screen-time/809303/
+https://www.digitaltrends.com/social-media/new-under-5-screen-time-guidance-targets-passive-time-what-it-changes-for-you/
 
 ## Security & Anti-Abuse
-https://www.socialmediatoday.com/news/instagram-says-there-was-no-data-breach-over-the-weekend/809302/
-https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html?src=rss
-https://securityboulevard.com/2026/01/massive-instagram-data-scare-ties-17-5m-accounts-to-leak-but-meta-denies-breach/
+https://www.pcworld.com/article/3029762/no-your-instagram-wasnt-hacked-still-heres-what-you-should-now.html
+https://www.tomsguide.com/computing/online-security/instagram-denies-data-breach-after-password-reset-email-wave-heres-what-to-do-next
+https://go.theregister.com/feed/www.theregister.com/2026/01/12/breachforums_breach/
+https://www.macrumors.com/2026/01/12/apple-opposes-india-plan-access-ios-source-code/
+https://www.techradar.com/pro/security/been-asked-to-reset-your-instagram-password-company-denies-data-breach-reports-after-users-bombarded-with-request-emails
+https://www.digitaltrends.com/social-media/instagram-says-you-can-ignore-shady-password-reset-emails-after-breach-report/
