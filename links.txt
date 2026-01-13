@@ -1,13 +1,17 @@
 ## Phone Lookup
-https://www.cnet.com/tech/mobile/one-simple-solution-to-stop-scam-calls/
+https://blog.hiya.com/deutsche-telekom-and-hiya-bring-branded-calling-at-scale-to-germany
 
 ## Parental Control
-https://www.digitaltrends.com/social-media/new-under-5-screen-time-guidance-targets-passive-time-what-it-changes-for-you/
+https://www.androidpolice.com/whatsapp-parental-controls/
 
 ## Security & Anti-Abuse
-https://www.pcworld.com/article/3029762/no-your-instagram-wasnt-hacked-still-heres-what-you-should-now.html
-https://www.tomsguide.com/computing/online-security/instagram-denies-data-breach-after-password-reset-email-wave-heres-what-to-do-next
-https://go.theregister.com/feed/www.theregister.com/2026/01/12/breachforums_breach/
-https://www.macrumors.com/2026/01/12/apple-opposes-india-plan-access-ios-source-code/
-https://www.techradar.com/pro/security/been-asked-to-reset-your-instagram-password-company-denies-data-breach-reports-after-users-bombarded-with-request-emails
-https://www.digitaltrends.com/social-media/instagram-says-you-can-ignore-shady-password-reset-emails-after-breach-report/
+https://www.computerworld.com/article/4115670/india-may-require-smartphone-manufacturers-to-disclose-source-code.html
+https://www.phonearena.com/news/massive-data-breach-compromised-passwords_id177257
+https://www.tomsguide.com/computing/online-security/worried-about-missing-jury-duty-two-inmates-exploited-those-fears-to-steal-over-usd450-000-using-vishing-from-behind-bars
+https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/
+https://www.techradar.com/pro/security/hacking-hub-breachforums-hit-by-data-breach-324-000-accounts-exposed
+https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/
+
+## Uncategorized
+https://www.socialmediatoday.com/news/meta-says-its-removed-540k-teen-accounts-in-australia/809403/
+https://www.techradar.com/computing/social-media/meta-wipes-over-500-000-australian-teen-accounts-in-a-single-week-but-says-world-first-social-media-crackdown-is-failing
