@@ -1,29 +1,25 @@
 {
-  "Phone Lookup": [
-    "https://blog.hiya.com/deutsche-telekom-and-hiya-bring-branded-calling-at-scale-to-germany"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.androidpolice.com/whatsapp-parental-controls/"
+    "https://www.androidheadlines.com/2026/01/whatsapp-is-finally-bringing-parental-control-features-to-safeguard-kids.html"
   ],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://www.pcworld.com/article/3023073/at-last-california-residents-can-block-data-brokers-selling-personal-info.html"
+  ],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.computerworld.com/article/4115670/india-may-require-smartphone-manufacturers-to-disclose-source-code.html",
-    "https://www.phonearena.com/news/massive-data-breach-compromised-passwords_id177257",
-    "https://www.tomsguide.com/computing/online-security/worried-about-missing-jury-duty-two-inmates-exploited-those-fears-to-steal-over-usd450-000-using-vishing-from-behind-bars",
-    "https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/",
-    "https://www.techradar.com/pro/security/hacking-hub-breachforums-hit-by-data-breach-324-000-accounts-exposed",
-    "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/"
+    "https://www.techradar.com/pro/security/betterment-confirms-data-breach-tells-customers-to-beware-crypto-scam-notifications",
+    "https://www.troyhunt.com/who-decides-who-doesnt-deserve-privacy/",
+    "https://www.techradar.com/pro/security/spanish-energy-giant-endesa-says-it-was-hit-by-data-breach-customers-affected-and-20-million-files-allegedly-put-up-for-sale",
+    "https://securityboulevard.com/2026/01/russias-crackdown-on-probiv-data-leaks-may-have-fed-the-beast-instead/",
+    "https://hackernoon.com/1-13-2026-techbeat?source=rss"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.socialmediatoday.com/news/meta-says-its-removed-540k-teen-accounts-in-australia/809403/",
-    "https://www.techradar.com/computing/social-media/meta-wipes-over-500-000-australian-teen-accounts-in-a-single-week-but-says-world-first-social-media-crackdown-is-failing"
-  ]
+  "Uncategorized": []
 }
