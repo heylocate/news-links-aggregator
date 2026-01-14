@@ -1,10 +1,8 @@
 {
-  "Phone Lookup": [
-    "https://www.phonearena.com/news/t-mobile-parent-company-thinks-it-has-the-fix-for-spam-calls_id177279"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.androidcentral.com/phones/google-pixel/how-to-set-up-android-parental-controls"
+    "https://www.engadget.com/entertainment/youtube/youtube-adds-more-parental-controls-including-a-way-to-block-teens-from-watching-shorts-151329673.html?src=rss"
   ],
   "Background Check": [],
   "People Search": [],
@@ -12,19 +10,16 @@
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.globenewswire.com/news-release/2026/01/14/3218384/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html",
-    "https://databreaches.net/2026/01/13/personal-details-of-thousands-of-border-patrol-and-ice-agents-allegedly-leaked-in-huge-data-breach/?pk_campaign=feed&pk_kwd=personal-details-of-thousands-of-border-patrol-and-ice-agents-allegedly-leaked-in-huge-data-breach",
-    "https://securityboulevard.com/2026/01/service-providers-help-pig-butcher-scammers-scale-operations-infoblox/",
-    "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/",
-    "https://securityboulevard.com/2026/01/quantum-resistant-identity-and-access-management-for-mcp-hosts/",
-    "https://www.securityweek.com/after-goldman-jpmorgan-discloses-law-firm-data-breach/",
-    "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/"
+    "https://go.theregister.com/feed/www.theregister.com/2026/01/14/france_fines_free_free_mobile/",
+    "https://databreaches.net/2026/01/14/data-protection-agency-tells-coupang-to-stop-publishing-unconfirmed-information-about-data-breach/?pk_campaign=feed&pk_kwd=data-protection-agency-tells-coupang-to-stop-publishing-unconfirmed-information-about-data-breach",
+    "https://databreaches.net/2026/01/14/eurail-passengers-taken-for-a-ride-as-data-breach-spills-passports-bank-details/?pk_campaign=feed&pk_kwd=eurail-passengers-taken-for-a-ride-as-data-breach-spills-passports-bank-details",
+    "https://go.theregister.com/feed/www.theregister.com/2026/01/14/eurail_breach/",
+    "https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/",
+    "https://go.theregister.com/feed/www.theregister.com/2026/01/14/endesa_breach/",
+    "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.computerworld.com/article/4116481/memory-shortage-threat-helps-trigger-pc-buying-spree.html",
-    "https://www.pcworld.com/article/3031517/pc-sales-surged-in-q4-because-everyones-scared-of-memory-shortages.html"
-  ]
+  "Uncategorized": []
 }

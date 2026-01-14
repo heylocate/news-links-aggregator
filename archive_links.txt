@@ -2748,3 +2748,11 @@ https://www.globenewswire.com/news-release/2026/01/14/3218384/6713/en/F5-Inc-Sec
 https://www.pcworld.com/article/3031517/pc-sales-surged-in-q4-because-everyones-scared-of-memory-shortages.html
 https://www.phonearena.com/news/t-mobile-parent-company-thinks-it-has-the-fix-for-spam-calls_id177279
 https://www.securityweek.com/after-goldman-jpmorgan-discloses-law-firm-data-breach/
+https://databreaches.net/2026/01/14/data-protection-agency-tells-coupang-to-stop-publishing-unconfirmed-information-about-data-breach/?pk_campaign=feed&pk_kwd=data-protection-agency-tells-coupang-to-stop-publishing-unconfirmed-information-about-data-breach
+https://databreaches.net/2026/01/14/eurail-passengers-taken-for-a-ride-as-data-breach-spills-passports-bank-details/?pk_campaign=feed&pk_kwd=eurail-passengers-taken-for-a-ride-as-data-breach-spills-passports-bank-details
+https://go.theregister.com/feed/www.theregister.com/2026/01/14/endesa_breach/
+https://go.theregister.com/feed/www.theregister.com/2026/01/14/eurail_breach/
+https://go.theregister.com/feed/www.theregister.com/2026/01/14/france_fines_free_free_mobile/
+https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/
+https://www.engadget.com/entertainment/youtube/youtube-adds-more-parental-controls-including-a-way-to-block-teens-from-watching-shorts-151329673.html?src=rss
+https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/
