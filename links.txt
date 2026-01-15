@@ -1,14 +1,12 @@
 ## Parental Control
-https://9to5mac.com/2026/01/14/as-pressure-mounts-over-apple-xai-says-grok-will-stop-undressing-people/
-https://www.androidheadlines.com/2026/01/youtubes-updated-parental-controls-will-block-shorts-for-teens.html
-
-## Background Check
-https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/
+https://www.digitaltrends.com/computing/your-teens-youtube-shorts-scrolling-can-now-have-a-hard-cap/
 
 ## People Search
-https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/
+https://www.engadget.com/transportation/ftc-finalizes-gm-punishment-over-driver-data-sharing-scandal-130012313.html?src=rss
 
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/
-https://therecord.media/france-data-regulator-fine
-https://hackernoon.com/zero-trust-network-accessztna-enforcement-using-real-time-risk-scoring-and-dynamic-path-segmentation?source=rss
+https://go.theregister.com/feed/www.theregister.com/2026/01/15/woman_bailed_following_doctors_office/
+https://www.androidauthority.com/android-intrusion-logging-first-look-3632690/
+https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/
+https://www.securityweek.com/traveler-information-stolen-in-eurail-data-breach/
+https://hackernoon.com/1-15-2026-techbeat?source=rss
