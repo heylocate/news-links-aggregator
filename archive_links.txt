@@ -2756,3 +2756,10 @@ https://go.theregister.com/feed/www.theregister.com/2026/01/14/france_fines_free
 https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/
 https://www.engadget.com/entertainment/youtube/youtube-adds-more-parental-controls-including-a-way-to-block-teens-from-watching-shorts-151329673.html?src=rss
 https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/
+https://9to5mac.com/2026/01/14/as-pressure-mounts-over-apple-xai-says-grok-will-stop-undressing-people/
+https://hackernoon.com/zero-trust-network-accessztna-enforcement-using-real-time-risk-scoring-and-dynamic-path-segmentation?source=rss
+https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/
+https://therecord.media/france-data-regulator-fine
+https://www.androidheadlines.com/2026/01/youtubes-updated-parental-controls-will-block-shorts-for-teens.html
+https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/
+https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/

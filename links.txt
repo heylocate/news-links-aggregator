@@ -1,11 +1,14 @@
 ## Parental Control
-https://www.engadget.com/entertainment/youtube/youtube-adds-more-parental-controls-including-a-way-to-block-teens-from-watching-shorts-151329673.html?src=rss
+https://9to5mac.com/2026/01/14/as-pressure-mounts-over-apple-xai-says-grok-will-stop-undressing-people/
+https://www.androidheadlines.com/2026/01/youtubes-updated-parental-controls-will-block-shorts-for-teens.html
+
+## Background Check
+https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/
+
+## People Search
+https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/
 
 ## Security & Anti-Abuse
-https://go.theregister.com/feed/www.theregister.com/2026/01/14/france_fines_free_free_mobile/
-https://databreaches.net/2026/01/14/data-protection-agency-tells-coupang-to-stop-publishing-unconfirmed-information-about-data-breach/?pk_campaign=feed&pk_kwd=data-protection-agency-tells-coupang-to-stop-publishing-unconfirmed-information-about-data-breach
-https://databreaches.net/2026/01/14/eurail-passengers-taken-for-a-ride-as-data-breach-spills-passports-bank-details/?pk_campaign=feed&pk_kwd=eurail-passengers-taken-for-a-ride-as-data-breach-spills-passports-bank-details
-https://go.theregister.com/feed/www.theregister.com/2026/01/14/eurail_breach/
-https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/
-https://go.theregister.com/feed/www.theregister.com/2026/01/14/endesa_breach/
-https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/
+https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/
+https://therecord.media/france-data-regulator-fine
+https://hackernoon.com/zero-trust-network-accessztna-enforcement-using-real-time-risk-scoring-and-dynamic-path-segmentation?source=rss
