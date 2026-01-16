@@ -2770,3 +2770,5 @@ https://www.digitaltrends.com/computing/your-teens-youtube-shorts-scrolling-can-
 https://www.engadget.com/transportation/ftc-finalizes-gm-punishment-over-driver-data-sharing-scandal-130012313.html?src=rss
 https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/
 https://www.securityweek.com/traveler-information-stolen-in-eurail-data-breach/
+https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/
+https://www.tomsguide.com/computing/online-security/kaiser-permanente-reaches-usd46-million-settlement-over-data-breach-how-to-file-your-claim
