@@ -1,15 +1,21 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.pcworld.com/article/3030115/say-bye-bye-to-ads-and-malware-on-9-devices-for-just-40.html"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.zdnet.com/article/google-maps-vs-waze/",
+    "https://www.computerworld.com/article/4117545/google-flexes-another-ai-advantage.html"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.tomsguide.com/computing/online-security/kaiser-permanente-reaches-usd46-million-settlement-over-data-breach-how-to-file-your-claim",
-    "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/"
+    "https://www.pcworld.com/article/3024327/never-reply-to-these-text-messages-how-to-spot-sms-cost-traps.html",
+    "https://therecord.media/canada-ciro-investing-regulator-confirms-data-breach",
+    "https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
