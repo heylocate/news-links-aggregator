@@ -1,21 +1,18 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.pcworld.com/article/3030115/say-bye-bye-to-ads-and-malware-on-9-devices-for-just-40.html"
+  "Parental Control": [],
+  "Background Check": [
+    "https://www.eff.org/deeplinks/2026/01/baton-rouge-acquires-straight-military-surveillance-drone"
   ],
-  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.zdnet.com/article/google-maps-vs-waze/",
-    "https://www.computerworld.com/article/4117545/google-flexes-another-ai-advantage.html"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.pcworld.com/article/3024327/never-reply-to-these-text-messages-how-to-spot-sms-cost-traps.html",
-    "https://therecord.media/canada-ciro-investing-regulator-confirms-data-breach",
-    "https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/"
+    "https://www.techradar.com/phones/iphone/more-than-messages-here-are-7-hidden-features-that-makes-apple-messages-an-essential-app",
+    "https://www.prnewswire.com/news-releases/coupang-inc-securities-fraud-class-action-result-of-data-breach-and-20-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302663738.html",
+    "https://www.prnewswire.com/news-releases/f5-inc-securities-fraud-class-action-result-of-data-breach-and-24-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302663722.html"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
