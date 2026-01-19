@@ -1,6 +1,12 @@
+## Phone Lookup
+https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-3-2026-302664283.html
+
+## Background Check
+https://securityboulevard.com/2026/01/entity-resolution-vs-identity-verification-what-security-teams-actually-need/
+
 ## Address Lookup
-https://www.androidpolice.com/brilliant-google-maps-gestures-most-people-overlook/
+https://www.zdnet.com/article/google-maps-alternative-comaps-review/
 
 ## Security & Anti-Abuse
-https://www.engadget.com/cybersecurity/washington-is-the-latest-state-pursuing-an-age-verification-law-for-porn-sites-174423529.html?src=rss
-https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/
+https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/
+https://research.checkpoint.com/2026/19th-january-threat-intelligence-report/
