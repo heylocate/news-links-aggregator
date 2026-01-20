@@ -1,14 +1,22 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.hiya.com/scam-of-the-month-sim-card-scams"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.howtogeek.com/every-google-maps-user-should-change-these-settings-now/",
+    "https://www.xda-developers.com/self-hosted-location-tracking-service-its-better-than-google-maps/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.techradar.com/pro/security/huge-data-breach-reveals-info-on-750-000-investors-heres-what-we-know-and-how-to-see-if-youre-affected"
+    "https://databreaches.net/2026/01/20/sk-telecom-files-lawsuit-to-revoke-record-135-bln-won-fine-over-data-breach/?pk_campaign=feed&pk_kwd=sk-telecom-files-lawsuit-to-revoke-record-135-bln-won-fine-over-data-breach",
+    "https://databreaches.net/2026/01/20/uk-secret-gagging-order-should-not-have-been-used-to-cover-up-afghan-data-breach-sir-ben-wallace-says/?pk_campaign=feed&pk_kwd=uk-secret-gagging-order-should-not-have-been-used-to-cover-up-afghan-data-breach-sir-ben-wallace-says",
+    "https://databreaches.net/2026/01/20/2025-double-the-breaches-but-less-patient-data-compromised/?pk_campaign=feed&pk_kwd=2025-double-the-breaches-but-less-patient-data-compromised",
+    "https://databreaches.net/2026/01/20/uk-north-west-ambulance-services-increased-breach-reports-may-reflect-better-reporting/?pk_campaign=feed&pk_kwd=uk-north-west-ambulance-services-increased-breach-reports-may-reflect-better-reporting"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
