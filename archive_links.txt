@@ -2794,3 +2794,4 @@ https://securityboulevard.com/2026/01/entity-resolution-vs-identity-verification
 https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/
 https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-3-2026-302664283.html
 https://www.zdnet.com/article/google-maps-alternative-comaps-review/
+https://www.techradar.com/pro/security/huge-data-breach-reveals-info-on-750-000-investors-heres-what-we-know-and-how-to-see-if-youre-affected
