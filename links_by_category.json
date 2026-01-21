@@ -1,20 +1,25 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
+  "Parental Control": [
+    "https://www.prnewswire.com/news-releases/ascap-music-cafe-at-the-sundance-film-festival-celebrates-28-years-in-park-city-with-creator-conversations-featuring-kathleen-hanna-and-tamra-davis-and-live-performances-from-emily-bear-josh-kelley-foxy-shazam-nathalia-ron-ar-302666703.html",
+    "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
+    "https://go.theregister.com/feed/www.theregister.com/2026/01/21/uk_social_media_ban/",
+    "https://www.verizon.com/about/parenting/parental-control-notification-what-to-do",
+    "https://www.verizon.com/about/news/you-just-got-parental-control-notification-what-should-you-do-next"
+  ],
+  "Background Check": [
+    "https://securityboulevard.com/2026/01/enterprise-grade-identity-verification-for-ai-enhanced-workflows/"
+  ],
+  "People Search": [
+    "https://www.pr.com/press-release/958359"
+  ],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.globenewswire.com/news-release/2026/01/21/3222382/6713/en/Coupang-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-20-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html",
-    "https://www.globenewswire.com/news-release/2026/01/21/3222380/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-24-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html",
-    "https://9to5mac.com/2026/01/20/apple-scores-legal-win-in-france-over-app-tracking-transparency/",
-    "https://appleinsider.com/articles/26/01/21/french-court-says-apple-app-tracking-transparency-function-can-stay?utm_source=rss",
-    "https://www.macrumors.com/2026/01/20/france-app-tracking-transparency-ruling/",
-    "https://securityboulevard.com/2026/01/integrating-enzoic-alerts-into-microsoft-sentinel-with-azure-logic-apps/",
-    "https://www.computerworld.com/article/4119141/confidential-apple-data-hacked-in-claimed-luxshare-attack.html"
+    "https://www.macworld.com/article/3038728/french-court-saves-apple-from-possible-ban-over-iphone-privacy-feature.html",
+    "https://www.phonearena.com/news/a-quiet-legal-battle-over-iphone-privacy-just-went-apple-way_id177534"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
