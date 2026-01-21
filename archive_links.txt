@@ -2802,3 +2802,10 @@ https://databreaches.net/2026/01/20/uk-north-west-ambulance-services-increased-b
 https://databreaches.net/2026/01/20/uk-secret-gagging-order-should-not-have-been-used-to-cover-up-afghan-data-breach-sir-ben-wallace-says/?pk_campaign=feed&pk_kwd=uk-secret-gagging-order-should-not-have-been-used-to-cover-up-afghan-data-breach-sir-ben-wallace-says
 https://www.howtogeek.com/every-google-maps-user-should-change-these-settings-now/
 https://www.xda-developers.com/self-hosted-location-tracking-service-its-better-than-google-maps/
+https://9to5mac.com/2026/01/20/apple-scores-legal-win-in-france-over-app-tracking-transparency/
+https://appleinsider.com/articles/26/01/21/french-court-says-apple-app-tracking-transparency-function-can-stay?utm_source=rss
+https://securityboulevard.com/2026/01/integrating-enzoic-alerts-into-microsoft-sentinel-with-azure-logic-apps/
+https://www.computerworld.com/article/4119141/confidential-apple-data-hacked-in-claimed-luxshare-attack.html
+https://www.globenewswire.com/news-release/2026/01/21/3222380/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-24-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
+https://www.globenewswire.com/news-release/2026/01/21/3222382/6713/en/Coupang-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-20-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
+https://www.macrumors.com/2026/01/20/france-app-tracking-transparency-ruling/
