@@ -2850,3 +2850,9 @@ https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding
 https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/
 https://www.techradar.com/pro/eu-issued-over-eur1-2bn-in-gdpr-fines-in-2025-as-multiple-data-breaches-bite
 https://www.zdnet.com/article/pacsafe-vibe-325-antitheft-bag-review/
+https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss
+https://venturebeat.com/security/12-ai-defenses-claimed-near-zero-attack-success-researchers-broke-all-of-them
+https://www.androidpolice.com/big-data-leak-exposes-149-million-accounts-across-facebook-gmail/
+https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html?src=rss
+https://www.techradar.com/pro/security/custom-made-vishing-kits-are-attacking-sso-accounts-across-the-world-google-microsoft-and-okta-under-threat-heres-what-we-know
+https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version
