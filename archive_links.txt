@@ -2856,3 +2856,6 @@ https://www.androidpolice.com/big-data-leak-exposes-149-million-accounts-across-
 https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html?src=rss
 https://www.techradar.com/pro/security/custom-made-vishing-kits-are-attacking-sso-accounts-across-the-world-google-microsoft-and-okta-under-threat-heres-what-we-know
 https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version
+https://www.androidpolice.com/the-secret-swipes-that-make-google-maps-more-usable-while-driving/
+https://www.cnet.com/home/services/experts-winter-safety-checklist/
+https://www.phonearena.com/news/data-breach-exposes-login-credentials-for-popular-apps_id177639
