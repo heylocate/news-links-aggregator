@@ -1,13 +1,18 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.pr.com/press-release/958715",
+    "https://www.pcworld.com/article/3041549/adguards-5-star-ad-blocker-works-on-youtube-free-streaming-and-the-web.html"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

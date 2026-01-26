@@ -2862,3 +2862,6 @@ https://www.phonearena.com/news/data-breach-exposes-login-credentials-for-popula
 https://www.macworld.com/article/3040625/this-educational-app-for-kids-was-250-but-now-its-only-60-for-life.html
 https://www.pr.com/press-release/959066
 https://www.techradar.com/pro/beware-hackers-have-hijacked-openais-invite-your-team-feature-to-break-into-your-business
+https://www.pcworld.com/article/3041549/adguards-5-star-ad-blocker-works-on-youtube-free-streaming-and-the-web.html
+https://www.pr.com/press-release/958715
+https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/
