@@ -1,17 +1,23 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.prnewswire.com/news-releases/central-bark-reports-record-2025-systemwide-sales-unit-level-milestones-and-continued-franchise-expansion-302671124.html",
+    "https://www.macworld.com/article/3043308/airtag-2-is-a-missed-opportunity-for-a-reboot.html",
+    "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://appleinsider.com/articles/26/01/26/apple-c-series-modem-enables-new-privacy-focused-limit-precise-location-feature?utm_source=rss"
+    "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
-  "Monitoring / Spy Apps": [],
+  "Monitoring / Spy Apps": [
+    "https://www.techradar.com/gaming/the-next-chapter-begins-blizzard-announces-several-showcases-that-will-share-plans-for-the-future-of-world-of-warcraft-overwatch-diablo-and-hearthstone"
+  ],
   "Uncategorized": []
 }
