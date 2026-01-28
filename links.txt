@@ -1,20 +1,8 @@
 ## Number / Device Tracking
-https://www.tomsguide.com/phones/android-phones/android-just-got-a-trio-of-powerful-anti-theft-upgrades-heres-how-they-work
-https://www.bgr.com/2085976/android-16-new-anti-theft-features-2026/
-https://www.zdnet.com/article/android-anti-theft-security-updates/
-https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/
+https://www.digitaltrends.com/phones/androids-new-safety-tools-make-it-harder-for-thieves-to-break-into-your-phone/
 
 ## Parental Control
-https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html?src=rss
-https://www.cnet.com/tech/services-and-software/limit-screen-time-iphone-android-wellness-settings-help/
-https://www.verizon.com/about/news/built-parental-controls-might-not-be-enough-heres-why-layered-approach-matters
-https://www.verizon.com/about/parenting/parental-controls-why-layered-approach-matters
-https://www.macworld.com/article/1659017/ios-versions-list.html
-
-## Background Check
-https://hackernoon.com/bcon-global-launches-non-custodial-crypto-payment-gateway?source=rss
+https://www.androidheadlines.com/2026/01/mark-zuckerberg-reportedly-opposed-parental-controls-for-meta-ai-chatbots.html
 
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/01/28/3227173/6713/en/Coupang-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-20-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
-https://www.globenewswire.com/news-release/2026/01/28/3227171/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-24-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
-https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/
+https://www.techradar.com/pro/security/panera-bread-reportedly-hit-by-worrying-data-breach-that-sees-14-million-records-exposed-heres-what-we-know
