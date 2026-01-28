@@ -1,10 +1,20 @@
+## Number / Device Tracking
+https://www.tomsguide.com/phones/android-phones/android-just-got-a-trio-of-powerful-anti-theft-upgrades-heres-how-they-work
+https://www.bgr.com/2085976/android-16-new-anti-theft-features-2026/
+https://www.zdnet.com/article/android-anti-theft-security-updates/
+https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/
+
 ## Parental Control
-https://www.prnewswire.com/news-releases/central-bark-reports-record-2025-systemwide-sales-unit-level-milestones-and-continued-franchise-expansion-302671124.html
-https://www.macworld.com/article/3043308/airtag-2-is-a-missed-opportunity-for-a-reboot.html
-https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/
+https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html?src=rss
+https://www.cnet.com/tech/services-and-software/limit-screen-time-iphone-android-wellness-settings-help/
+https://www.verizon.com/about/news/built-parental-controls-might-not-be-enough-heres-why-layered-approach-matters
+https://www.verizon.com/about/parenting/parental-controls-why-layered-approach-matters
+https://www.macworld.com/article/1659017/ios-versions-list.html
+
+## Background Check
+https://hackernoon.com/bcon-global-launches-non-custodial-crypto-payment-gateway?source=rss
 
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/
-
-## Monitoring / Spy Apps
-https://www.techradar.com/gaming/the-next-chapter-begins-blizzard-announces-several-showcases-that-will-share-plans-for-the-future-of-world-of-warcraft-overwatch-diablo-and-hearthstone
+https://www.globenewswire.com/news-release/2026/01/28/3227173/6713/en/Coupang-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-20-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
+https://www.globenewswire.com/news-release/2026/01/28/3227171/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-24-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
+https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/
