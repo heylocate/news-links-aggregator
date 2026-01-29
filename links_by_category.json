@@ -1,28 +1,27 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://readwrite.com/judge-30-day-timeline-kalshi-implement-geofencing-massachusetts/"
-  ],
-  "Parental Control": [
-    "https://therecord.media/ftc-commissioner-age-verification-children-online"
-  ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://www.computerworld.com/article/4123603/happy-data-privacy-week-from-apple.html"
-  ],
+  "People Search": [],
   "Address Lookup": [
-    "https://www.cnet.com/tech/services-and-software/you-can-blur-your-home-on-google-maps-with-just-a-few-clicks/"
+    "https://www.androidauthority.com/google-maps-gemini-walking-3636079/",
+    "https://blog.google/products-and-platforms/products/maps/gemini-navigation-biking-walking/",
+    "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
+    "https://9to5google.com/2026/01/29/gemini-google-maps-walking-cycling/",
+    "https://www.tomsguide.com/ai/google-maps-just-got-a-major-ai-upgrade-and-its-finally-hands-free-for-walkers-and-cyclists"
   ],
-  "Image Search": [
-    "https://www.macrumors.com/2026/01/28/final-cut-pro-and-logic-pro-updated/"
-  ],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/01/28/ai-digital-helper-lena-health-breach-exposed-some-houston-methodist-patients-medical-info/?pk_campaign=feed&pk_kwd=ai-digital-helper-lena-health-breach-exposed-some-houston-methodist-patients-medical-info",
-    "https://www.techradar.com/pro/security/confirmed-soundcloud-data-breach-hit-29-8-million-accounts-how-to-find-out-if-youre-affected"
+    "https://databreaches.net/2026/01/29/youre-not-paranoid-lawyers-are-coming-to-get-you/?pk_campaign=feed&pk_kwd=youre-not-paranoid-lawyers-are-coming-to-get-you",
+    "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
+    "https://securityboulevard.com/2026/01/soundcloud-data-breach-nearly-30-million-accounts-confirmed-exposed/"
   ],
   "OSINT & Open Source Intelligence": [],
-  "Number Utilities & International": [],
+  "Number Utilities & International": [
+    "https://hackernoon.com/i-connected-a-quantum-random-number-generator-to-llama-3-to-summon-a-demon-heres-what-happened?source=rss"
+  ],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
 }
