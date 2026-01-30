@@ -2903,3 +2903,10 @@ https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-w
 https://www.androidauthority.com/google-maps-gemini-walking-3636079/
 https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/
 https://www.tomsguide.com/ai/google-maps-just-got-a-major-ai-upgrade-and-its-finally-hands-free-for-walkers-and-cyclists
+https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/
+https://www.androidpolice.com/carplay-is-better-when-android-auto-does-these-things-right/
+https://www.androidpolice.com/gemini-is-now-available-for-walking-and-cycling/
+https://www.eff.org/deeplinks/2026/01/google-settlement-may-bring-new-privacy-controls-real-time-bidding
+https://www.phonearena.com/news/gemini-has-new-capabilities-in-google-maps_id177797
+https://www.prnewswire.com/news-releases/privacy-alert-munson-healthcare-under-investigation-for-data-breach-of-over-100-000-patient-records-302674623.html
+https://www.zdnet.com/article/android-anti-theft-security-update/
