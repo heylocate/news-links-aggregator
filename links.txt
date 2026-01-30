@@ -1,14 +1,10 @@
-## Number / Device Tracking
-https://www.zdnet.com/article/android-anti-theft-security-update/
-
-## People Search
-https://www.eff.org/deeplinks/2026/01/google-settlement-may-bring-new-privacy-controls-real-time-bidding
+## Parental Control
+https://go.theregister.com/feed/www.theregister.com/2026/01/30/sellafield_robot_dogs/
 
 ## Address Lookup
-https://www.phonearena.com/news/gemini-has-new-capabilities-in-google-maps_id177797
-https://www.androidpolice.com/gemini-is-now-available-for-walking-and-cycling/
-https://www.androidpolice.com/carplay-is-better-when-android-auto-does-these-things-right/
+https://www.macrumors.com/2026/01/30/google-maps-gemini-chat-during-walking-cycling/
 
 ## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/privacy-alert-munson-healthcare-under-investigation-for-data-breach-of-over-100-000-patient-records-302674623.html
-https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/
+https://www.techradar.com/pro/security/marquis-confirms-data-breach-point-finger-of-blame-at-sonicwall-firewall
+https://securityboulevard.com/2026/01/top-6-data-breaches-of-january-2026/
+https://www.pr.com/press-release/959391
