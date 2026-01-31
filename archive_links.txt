@@ -2923,3 +2923,9 @@ https://www.prnewswire.com/news-releases/f5-inc-securities-fraud-class-action-re
 https://www.qustodio.com/en/blog/ai-in-education-smart-tips/
 https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html
 https://www.techspot.com/news/111137-android-phones-getting-smarter-about-detecting-when-theyve.html
+https://9to5mac.com/2026/01/31/2026-year-take-control-of-your-privacy-incogni/
+https://haveibeenpwned.com/Breach/PaneraBread
+https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html
+https://www.androidpolice.com/i-replaced-google-maps-with-waze-immediately-regretted-it/
+https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/
+https://www.globenewswire.com/news-release/2026/01/31/3229857/0/en/IronWallet-Introduces-Next-Generation-Multi-Chain-Crypto-Wallet-With-Gasless-Transactions-and-Privacy-First-Security.html
