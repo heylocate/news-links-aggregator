@@ -1,10 +1,15 @@
+## Number / Device Tracking
+https://www.techspot.com/news/111137-android-phones-getting-smarter-about-detecting-when-theyve.html
+
 ## Parental Control
-https://go.theregister.com/feed/www.theregister.com/2026/01/30/sellafield_robot_dogs/
+https://www.qustodio.com/en/blog/ai-in-education-smart-tips/
 
 ## Address Lookup
-https://www.macrumors.com/2026/01/30/google-maps-gemini-chat-during-walking-cycling/
+https://www.bgr.com/2089167/google-maps-update-voice-controlled-gemini/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/marquis-confirms-data-breach-point-finger-of-blame-at-sonicwall-firewall
-https://securityboulevard.com/2026/01/top-6-data-breaches-of-january-2026/
-https://www.pr.com/press-release/959391
+https://www.prnewswire.com/news-releases/f5-inc-securities-fraud-class-action-result-of-data-breach-and-24-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302675457.html
+https://go.theregister.com/feed/www.theregister.com/2026/01/30/trizetto_health_data_stolen/
+https://therecord.media/coupang-acting-CEO-questioned-police-investigating-data-breach
+https://databreaches.net/2026/01/30/investigation-into-data-breach-involving-blue-cross-blue-shield-members-could-head-to-court/?pk_campaign=feed&pk_kwd=investigation-into-data-breach-involving-blue-cross-blue-shield-members-could-head-to-court
+https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html
