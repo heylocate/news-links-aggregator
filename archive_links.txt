@@ -2929,3 +2929,6 @@ https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html
 https://www.androidpolice.com/i-replaced-google-maps-with-waze-immediately-regretted-it/
 https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/
 https://www.globenewswire.com/news-release/2026/01/31/3229857/0/en/IronWallet-Introduces-Next-Generation-Multi-Chain-Crypto-Wallet-With-Gasless-Transactions-and-Privacy-First-Security.html
+https://databreaches.net/2026/01/31/comcast-agrees-to-117-5-million-settlement-to-resolve-lawsuits-over-2023-citrix-bleed-data-breach/?pk_campaign=feed&pk_kwd=comcast-agrees-to-117-5-million-settlement-to-resolve-lawsuits-over-2023-citrix-bleed-data-breach
+https://databreaches.net/2026/01/31/rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach/?pk_campaign=feed&pk_kwd=rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach
+https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest
