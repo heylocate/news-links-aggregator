@@ -1,3 +1,15 @@
+## Phone Lookup
+https://appleinsider.com/articles/26/02/02/how-terrible---the-insanely-wealthy-are-confounded-by-call-screening?utm_source=rss
+
+## Parental Control
+https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/
+
+## Address Lookup
+https://www.tomsguide.com/computing/mobile-apps/this-google-maps-feature-will-change-the-way-you-navigate-with-the-app-and-its-hiding-in-plain-sight
+
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/02/02/3229938/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-1st-MidAmerica-Credit-Union-Customers-Whose-Data-May-Have-Been-Compromised.html
-https://www.globenewswire.com/news-release/2026/02/02/3229932/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Alpine-Ear-Nose-and-Throat-Customers-Whose-Data-May-Have-Been-Compromised.html
+https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/
+https://www.techradar.com/pro/security/major-health-provider-data-breach-may-have-affected-thousands-more-people-over-700k-now-thought-to-have-been-hit
+https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/
+https://www.pcworld.com/article/3040578/yes-you-should-use-an-encrypted-email-service.html
+https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/
