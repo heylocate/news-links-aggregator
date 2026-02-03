@@ -1,27 +1,21 @@
 {
-  "Phone Lookup": [
-    "https://appleinsider.com/articles/26/02/02/how-terrible---the-insanely-wealthy-are-confounded-by-call-screening?utm_source=rss"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.tomsguide.com/computing/mobile-apps/this-google-maps-feature-will-change-the-way-you-navigate-with-the-app-and-its-hiding-in-plain-sight"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/",
-    "https://www.techradar.com/pro/security/major-health-provider-data-breach-may-have-affected-thousands-more-people-over-700k-now-thought-to-have-been-hit",
-    "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
-    "https://www.pcworld.com/article/3040578/yes-you-should-use-an-encrypted-email-service.html",
-    "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/"
+    "https://www.engadget.com/cybersecurity/france-might-seek-restrictions-on-vpn-use-in-campaign-to-keep-minors-off-social-media-205308716.html?src=rss",
+    "https://securityboulevard.com/2026/02/what-verified-breach-data-changes-about-exposure-monitoring/",
+    "https://www.techradar.com/pro/security/canada-computers-and-electronics-reveals-data-breach-customer-data-exposed-heres-what-we-know"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.socialmediatoday.com/news/snapchat-says-its-restricted-415k-teen-accounts-in-australia/811143/"
+  ]
 }

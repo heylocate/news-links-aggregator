@@ -2943,3 +2943,7 @@ https://www.pcworld.com/article/3040578/yes-you-should-use-an-encrypted-email-se
 https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/
 https://www.techradar.com/pro/security/major-health-provider-data-breach-may-have-affected-thousands-more-people-over-700k-now-thought-to-have-been-hit
 https://www.tomsguide.com/computing/mobile-apps/this-google-maps-feature-will-change-the-way-you-navigate-with-the-app-and-its-hiding-in-plain-sight
+https://securityboulevard.com/2026/02/what-verified-breach-data-changes-about-exposure-monitoring/
+https://www.engadget.com/cybersecurity/france-might-seek-restrictions-on-vpn-use-in-campaign-to-keep-minors-off-social-media-205308716.html?src=rss
+https://www.socialmediatoday.com/news/snapchat-says-its-restricted-415k-teen-accounts-in-australia/811143/
+https://www.techradar.com/pro/security/canada-computers-and-electronics-reveals-data-breach-customer-data-exposed-heres-what-we-know
