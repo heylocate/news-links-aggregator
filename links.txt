@@ -1,11 +1,7 @@
-## People Search
-https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/
-
 ## Address Lookup
-https://www.androidpolice.com/google-maps-suggest-an-edit-gemini-android/
-https://www.androidauthority.com/google-maps-gemini-suggest-an-edit-apk-teardown-3637395/
+https://www.androidauthority.com/invisible-car-icon-bug-android-auto-google-maps-3637576/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/panera-bread-data-breach-much-more-serious-than-we-thought-over-5-million-customers-were-hit-new-reports-claim
-https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers
-https://securityboulevard.com/2026/02/the-ultimate-guide-to-single-sign-on-in-2025/
+https://www.globenewswire.com/news-release/2026/02/04/3231719/6713/en/F5-Inc-Securities-Fraud-Class-Action-Result-of-Data-Breach-and-24-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html
+http://www.businesswire.com/news/home/20260203596480/en/Credential-Theft-Drives-Most-Damaging-Healthcare-Email-Breaches-Going-Into-2026/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q==
+https://www.tomsguide.com/computing/vpns/surfsharks-new-feature-makes-internet-searching-safer-heres-what-you-need-to-know
