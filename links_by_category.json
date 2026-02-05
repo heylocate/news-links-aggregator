@@ -1,28 +1,28 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.prnewswire.com/news-releases/as-the-epidemic-of-screen-time-rises-and-attention-spans-shrink-roylco-is-doing-something-to-engage-and-encourage-developing-brains-302680399.html"
+  ],
   "Background Check": [
-    "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/"
+    "https://www.pcworld.com/article/3052767/expressvpn-levels-up-with-new-privacy-and-security-features.html"
   ],
   "People Search": [],
   "Address Lookup": [
-    "https://9to5google.com/2026/02/04/android-auto-bug-causes-your-car-to-vanish-from-google-maps/"
+    "https://www.phonearena.com/news/android-auto-bug-car-icon-disappear-google-maps_id177963"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/02/04/two-ivy-league-universities-had-donor-information-breaches-will-donors-be-notified/?pk_campaign=feed&pk_kwd=two-ivy-league-universities-had-donor-information-breaches-will-donors-be-notified",
-    "https://haveibeenpwned.com/Breach/Betterment",
-    "https://www.techradar.com/pro/security/massive-chinese-data-breach-allegedly-spills-8-7-billion-records-heres-what-we-know",
-    "https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/"
+    "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
+    "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+    "https://www.techradar.com/pro/security/personal-data-stolen-during-harvard-and-upenn-data-breaches-leaked-online-emails-home-addresses-and-more-all-published",
+    "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
-  "Monitoring / Spy Apps": [
-    "https://www.cnet.com/tech/gaming/new-overwatch-heroes-thoughts-gameplay/",
-    "https://gizmodo.com/overwatch-2-rebrands-and-its-messy-arc-is-complete-2000717981",
-    "https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news"
-  ],
-  "Uncategorized": []
+  "Monitoring / Spy Apps": [],
+  "Uncategorized": [
+    "https://www.theverge.com/news/874158/senators-meta-teen-accounts-private-default"
+  ]
 }
