@@ -1,13 +1,8 @@
-## Parental Control
-https://appleinsider.com/articles/26/02/06/capitol-hill-probe-spotlights-claims-apple-and-google-were-pushed-to-block-ice-monitoring-apps?utm_source=rss
-https://www.zdnet.com/article/at-t-kid-friendly-smartphone-amigo-jr-parental-controls/
+## Number / Device Tracking
+https://www.androidauthority.com/stolen-pixel-phone-security-limitation-3636364/
 
 ## Address Lookup
-https://www.xda-developers.com/i-still-use-waze-over-google-maps-because-its-community-reporting-features-are-unmatched/
+https://www.macworld.com/article/3051547/the-mini-smartphone-minimalists-have-been-waiting-for-is-100.html
 
 ## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/Substack
-https://www.androidheadlines.com/2026/02/fairphone-says-unusual-confirmation-order-emails-were-likely-not-a-data-breach.html
-https://go.theregister.com/feed/www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/
-https://www.techradar.com/pro/security/conduent-data-breach-might-have-been-much-worse-than-initially-expected
-https://www.techradar.com/pro/security/top-investment-platform-hit-in-data-breach-over-1-4-million-betterment-accounts-exposed
+https://databreaches.net/2026/02/07/hong-kong-plans-to-revive-privacy-law-requiring-firms-to-report-data-breaches/?pk_campaign=feed&pk_kwd=hong-kong-plans-to-revive-privacy-law-requiring-firms-to-report-data-breaches
