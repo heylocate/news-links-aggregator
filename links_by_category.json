@@ -4,13 +4,11 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.zdnet.com/article/comaps-review-google-maps-alternative/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/02/07/several-dutch-agencies-suffer-major-data-breach/?pk_campaign=feed&pk_kwd=several-dutch-agencies-suffer-major-data-breach"
+    "https://hackernoon.com/ai-security-exposure-detector-earns-a-13-proof-of-usefulness-score-building-an-ai-powered-data-leak-identification-tool?source=rss"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
