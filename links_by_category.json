@@ -1,15 +1,16 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.digitaltrends.com/phones/att-unveils-amigo-jr-a-samsung-made-kid-phone-built-around-safety/",
+    "https://www.engadget.com/mobile/smartphones/atts-budget-friendly-phone-for-kids-was-designed-with-parental-controls-in-mind-202200139.html?src=rss"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://hackernoon.com/ai-security-exposure-detector-earns-a-13-proof-of-usefulness-score-building-an-ai-powered-data-leak-identification-tool?source=rss"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
