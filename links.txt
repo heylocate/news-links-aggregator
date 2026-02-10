@@ -1,17 +1,21 @@
+## Phone Lookup
+https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-on-robocall-blocking
+
 ## Parental Control
-https://www.zdnet.com/article/why-you-should-put-your-phone-screen-side-down/
-https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/
-https://appleinsider.com/articles/26/02/09/discords-upcoming-safety-update-makes-age-verification-hard-to-avoid?utm_source=rss
-https://www.engadget.com/apps/doj-may-face-investigation-for-pressuring-apple-google-to-remove-apps-for-tracking-ice-agents-212145181.html?src=rss
-https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-26/
-https://www.androidheadlines.com/2026/02/phone-screen-time-child-depression-risk-study-results.html
+https://www.engadget.com/general/the-morning-after-doj-may-face-investigation-over-removal-of-ice-agent-tracking-apps-121500737.html?src=rss
 
 ## Background Check
-https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/
+https://hackernoon.com/securing-the-digital-nerve-system-a-practical-guide-to-implementing-zero-trust-api-security?source=rss
+
+## Address Lookup
+https://www.androidauthority.com/google-maps-ask-maps-gemini-apk-teardown-3639448/
+
+## Image Search
+https://hackernoon.com/how-to-download-and-use-googles-search-app-on-windows-11?source=rss
 
 ## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/ANPS
-https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/
+https://www.engadget.com/cybersecurity/googles-new-tool-helps-you-remove-non-consensual-explicit-images-from-search-155352248.html?src=rss
+https://www.techradar.com/pro/security/huge-stalkerware-data-breach-sees-500-000-records-leaked-by-hacktivists
 
 ## Monitoring / Spy Apps
-https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/
+https://www.cnet.com/tech/gaming/overwatch-spotlight-new-season-1-story-heroes/
