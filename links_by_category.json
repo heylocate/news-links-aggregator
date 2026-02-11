@@ -1,30 +1,23 @@
 {
-  "Phone Lookup": [
-    "https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-on-robocall-blocking"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.engadget.com/general/the-morning-after-doj-may-face-investigation-over-removal-of-ice-agent-tracking-apps-121500737.html?src=rss"
-  ],
+  "Parental Control": [],
   "Background Check": [
-    "https://hackernoon.com/securing-the-digital-nerve-system-a-practical-guide-to-implementing-zero-trust-api-security?source=rss"
+    "https://www.eff.org/press/releases/coalition-urges-california-revoke-permits-federal-license-plate-reader-surveillance"
   ],
-  "People Search": [],
+  "People Search": [
+    "https://venturebeat.com/data/observational-memory-cuts-ai-agent-costs-10x-and-outscores-rag-on-long"
+  ],
   "Address Lookup": [
-    "https://www.androidauthority.com/google-maps-ask-maps-gemini-apk-teardown-3639448/"
+    "https://www.androidheadlines.com/2026/02/google-maps-gemini-powered-ask-maps-tool.html"
   ],
-  "Image Search": [
-    "https://hackernoon.com/how-to-download-and-use-googles-search-app-on-windows-11?source=rss"
-  ],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.engadget.com/cybersecurity/googles-new-tool-helps-you-remove-non-consensual-explicit-images-from-search-155352248.html?src=rss",
-    "https://www.techradar.com/pro/security/huge-stalkerware-data-breach-sees-500-000-records-leaked-by-hacktivists"
+    "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
-  "Monitoring / Spy Apps": [
-    "https://www.cnet.com/tech/gaming/overwatch-spotlight-new-season-1-story-heroes/"
-  ],
+  "Monitoring / Spy Apps": [],
   "Uncategorized": []
 }

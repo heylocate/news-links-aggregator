@@ -3030,3 +3030,7 @@ https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-o
 https://www.engadget.com/cybersecurity/googles-new-tool-helps-you-remove-non-consensual-explicit-images-from-search-155352248.html?src=rss
 https://www.engadget.com/general/the-morning-after-doj-may-face-investigation-over-removal-of-ice-agent-tracking-apps-121500737.html?src=rss
 https://www.techradar.com/pro/security/huge-stalkerware-data-breach-sees-500-000-records-leaked-by-hacktivists
+https://venturebeat.com/data/observational-memory-cuts-ai-agent-costs-10x-and-outscores-rag-on-long
+https://www.androidheadlines.com/2026/02/google-maps-gemini-powered-ask-maps-tool.html
+https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/
+https://www.eff.org/press/releases/coalition-urges-california-revoke-permits-federal-license-plate-reader-surveillance
