@@ -1,11 +1,15 @@
-## Background Check
-https://www.eff.org/press/releases/coalition-urges-california-revoke-permits-federal-license-plate-reader-surveillance
+## Number / Device Tracking
+https://9to5google.com/2026/02/11/xiaomi-tag-android-find-hub-tracker-leak/
 
-## People Search
-https://venturebeat.com/data/observational-memory-cuts-ai-agent-costs-10x-and-outscores-rag-on-long
+## Parental Control
+https://www.prnewswire.com/news-releases/lingokids-new-career-lessons-inspire-kids-to-explore-what-they-can-be-when-they-grow-up-transforming-screen-time-to-dream-time-302684677.html
+https://www.macworld.com/article/3055247/choose-screen-time-that-encourages-exploration-instead-of-constant-stimulation-this-app-is-a-flat-45.html
 
 ## Address Lookup
-https://www.androidheadlines.com/2026/02/google-maps-gemini-powered-ask-maps-tool.html
+https://www.androidcentral.com/apps-software/google-maps/google-maps-might-get-a-trial-space-for-new-features-and-ask-maps-could-headline
+https://www.pcworld.com/article/3055373/meet-the-tiny-android-smartphone-designed-for-everyday-use-now-99-99.html
 
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/
+https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/
+https://www.techradar.com/pro/security/thousands-of-volvo-customers-possibly-affected-in-major-data-breach-17-000-affected-heres-what-we-know
+https://www.pcworld.com/article/3057906/discords-new-age-verification-requirement-sucks.html
