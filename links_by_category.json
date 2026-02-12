@@ -3,18 +3,21 @@
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://go.theregister.com/feed/www.theregister.com/2026/02/11/security_researcher_287_chrome_extensions_data_leak/"
+  "People Search": [],
+  "Address Lookup": [
+    "https://www.androidpolice.com/android-auto-will-finally-get-this-beloved-google-maps-feature/"
   ],
-  "Address Lookup": [],
-  "Image Search": [
-    "https://www.engadget.com/ai/anthropic-beefs-up-claudes-free-tier-as-openai-prepares-to-stuff-ads-into-chatgpts-194100939.html?src=rss",
-    "https://www.pcworld.com/article/3058610/google-now-lets-you-delete-your-personal-info-from-search-results.html"
-  ],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://securityboulevard.com/2026/02/login-instructions-for-various-platforms/",
-    "https://therecord.media/georgia-healthcare-company-data-breach-impacts-620000"
+    "https://www.techradar.com/pro/security/huge-onefly-data-breach-sees-traveler-ids-and-payment-details-leaked",
+    "https://www.pcworld.com/article/3059670/discord-is-cooked-users-are-jumping-ship-and-seeking-alternatives.html",
+    "https://securityboulevard.com/2026/02/ai-is-supercharging-romance-scams-with-deepfakes-and-bots/",
+    "https://databreaches.net/2026/02/12/comcast-agrees-to-117-5m-data-breach-class-action-settlement/?pk_campaign=feed&pk_kwd=comcast-agrees-to-117-5m-data-breach-class-action-settlement",
+    "https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/",
+    "https://securityboulevard.com/2026/02/healthcare-networks-financial-regulators-and-industrial-systems-on-the-same-target-list/",
+    "https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database",
+    "https://hackernoon.com/ai-apps-have-a-new-attack-surface-external-inputs?source=rss"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
