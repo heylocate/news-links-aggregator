@@ -1,16 +1,19 @@
+## Number / Device Tracking
+https://www.macworld.com/article/3058951/this-slim-airtag-alternative-4-pack-tracker-deal-hits-right-before-travel-season.html
+
 ## Parental Control
-https://www.computerworld.com/article/4131872/hackers-turn-bossware-against-the-bosses-2.html
-https://go.theregister.com/feed/www.theregister.com/2026/02/12/ransomware_slingers_bossware/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/
+https://www.computerworld.com/article/4131645/why-theres-no-screenless-revolution.html
+
+## Background Check
+https://hackernoon.com/how-a-small-osint-team-turned-the-epstein-files-dump-into-actionable-intelligence?source=rss
 
 ## Address Lookup
-https://www.androidheadlines.com/2026/02/google-maps-may-let-drivers-change-their-avatar-icon-directly-in-android-auto.html
-https://www.cnet.com/tech/computing/youtube-finally-comes-to-apple-vision-pro/
-https://9to5google.com/2026/02/12/google-maps-reportedly-prepping-car-icon-and-color-picker-for-android-auto/
+https://www.pr.com/press-release/960804
+
+## Image Search
+https://www.macrumors.com/2026/02/13/meta-facial-recognition-smart-glasses/
 
 ## Security & Anti-Abuse
-https://securityboulevard.com/2026/02/understanding-authentication-methods/
-https://www.globenewswire.com/news-release/2026/02/13/3237804/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-ApolloMD-Business-Services-LLC-Customers-Whose-Data-May-Have-Been-Compromised.html
-https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach
-https://therecord.media/dutch-telecom-giant-announces-data-breach
-https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/
-https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/
+https://databreaches.net/2026/02/13/koreas-personal-information-protection-commissioner-fines-3-lvmh-luxury-brands-after-salesforce-data-breaches/?pk_campaign=feed&pk_kwd=koreas-personal-information-protection-commissioner-fines-3-lvmh-luxury-brands-after-salesforce-data-breaches
+https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/
