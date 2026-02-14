@@ -1,26 +1,23 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.macworld.com/article/3058951/this-slim-airtag-alternative-4-pack-tracker-deal-hits-right-before-travel-season.html"
+  "Number / Device Tracking": [],
+  "Parental Control": [],
+  "Background Check": [],
+  "People Search": [
+    "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/"
   ],
-  "Parental Control": [
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
-    "https://www.computerworld.com/article/4131645/why-theres-no-screenless-revolution.html"
-  ],
-  "Background Check": [
-    "https://hackernoon.com/how-a-small-osint-team-turned-the-epstein-files-dump-into-actionable-intelligence?source=rss"
-  ],
-  "People Search": [],
-  "Address Lookup": [
-    "https://www.pr.com/press-release/960804"
-  ],
+  "Address Lookup": [],
   "Image Search": [
-    "https://www.macrumors.com/2026/02/13/meta-facial-recognition-smart-glasses/"
+    "https://www.pcworld.com/article/3060759/anthropic-gives-even-more-features-to-claudes-free-users.html"
   ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/02/13/koreas-personal-information-protection-commissioner-fines-3-lvmh-luxury-brands-after-salesforce-data-breaches/?pk_campaign=feed&pk_kwd=koreas-personal-information-protection-commissioner-fines-3-lvmh-luxury-brands-after-salesforce-data-breaches",
-    "https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/"
+    "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
+    "https://www.eff.org/deeplinks/2026/02/seven-billion-reasons-facebook-abandon-its-face-recognition-plans",
+    "https://databreaches.net/2026/02/13/attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data/?pk_campaign=feed&pk_kwd=attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data",
+    "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
+    "https://databreaches.net/2026/02/13/south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack/?pk_campaign=feed&pk_kwd=south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack",
+    "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
