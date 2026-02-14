@@ -3,21 +3,14 @@
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/"
-  ],
+  "People Search": [],
   "Address Lookup": [],
-  "Image Search": [
-    "https://www.pcworld.com/article/3060759/anthropic-gives-even-more-features-to-claudes-free-users.html"
-  ],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
-    "https://www.eff.org/deeplinks/2026/02/seven-billion-reasons-facebook-abandon-its-face-recognition-plans",
-    "https://databreaches.net/2026/02/13/attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data/?pk_campaign=feed&pk_kwd=attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data",
-    "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
-    "https://databreaches.net/2026/02/13/south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack/?pk_campaign=feed&pk_kwd=south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack",
-    "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/"
+    "https://databreaches.net/2026/02/14/guernsey-medical-practice-sanctioned-after-cyber-criminals-access-patient-data-through-email-account/?pk_campaign=feed&pk_kwd=guernsey-medical-practice-sanctioned-after-cyber-criminals-access-patient-data-through-email-account",
+    "https://databreaches.net/2026/02/14/new-kurd-hackers-forum-focuses-on-middle-eastern-data-breaches-and-leaks/?pk_campaign=feed&pk_kwd=new-kurd-hackers-forum-focuses-on-middle-eastern-data-breaches-and-leaks",
+    "https://databreaches.net/2026/02/14/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/?pk_campaign=feed&pk_kwd=dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
