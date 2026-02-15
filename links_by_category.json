@@ -4,7 +4,9 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidpolice.com/i-let-gemini-plan-my-weekend/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
