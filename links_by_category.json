@@ -4,12 +4,14 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/i-let-gemini-plan-my-weekend/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-north-star-fertility-partners-llc-clients-whose-data-may-have-been-compromised-302688462.html",
+    "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-strategic-investment-solutions-inc-clients-whose-data-may-have-been-compromised-302688459.html",
+    "https://www.globenewswire.com/news-release/2026/02/16/3238516/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Academic-Urology-Urogynecology-of-Arizona-Customers-Whose-Data-May-Have-Been-Compromised.html"
+  ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
