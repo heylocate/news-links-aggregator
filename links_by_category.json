@@ -1,22 +1,22 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://www.digitaltrends.com/phones/ios-26-4-puts-your-iphone-in-anti-theft-mode-by-default/",
+    "https://www.zdnet.com/article/scosche-foundit-car-charger-and-finder-tag-review/"
+  ],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/i-stopped-ignoring-these-google-maps-features-commute-improved/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/CanadaGoose",
-    "https://www.techradar.com/pro/security/sex-toy-firm-hit-by-data-breach-tenga-says-hacker-infiltrated-systems-stole-customer-data",
-    "https://haveibeenpwned.com/Breach/UniversityOfPennsylvania",
-    "https://research.checkpoint.com/2026/16th-february-threat-intelligence-report/"
+    "https://www.computerworld.com/article/4015023/openai-latest-news-and-insights.html"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.zdnet.com/article/veger-x5-spotlight/"
+  ]
 }
