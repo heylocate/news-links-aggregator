@@ -1,21 +1,19 @@
 {
-  "Phone Lookup": [
-    "https://blog.youmail.com/2026/02/screenshot-and-stop-spam-with-youmail/"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://go.theregister.com/feed/www.theregister.com/2026/02/16/starmer_social_media/"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidpolice.com/i-stopped-ignoring-these-google-maps-features-commute-improved/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/",
-    "https://www.techradar.com/pro/security/blockchain-fintech-giant-figure-hit-by-data-breach-says-limited-number-of-files-impacted",
-    "https://www.computerworld.com/article/4132716/leaky-chrome-extensions-with-37m-installs-caught-shipping-your-browsing-history-2.html",
-    "https://haveibeenpwned.com/Breach/APOIAse"
+    "https://haveibeenpwned.com/Breach/CanadaGoose",
+    "https://www.techradar.com/pro/security/sex-toy-firm-hit-by-data-breach-tenga-says-hacker-infiltrated-systems-stole-customer-data",
+    "https://haveibeenpwned.com/Breach/UniversityOfPennsylvania",
+    "https://research.checkpoint.com/2026/16th-february-threat-intelligence-report/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],

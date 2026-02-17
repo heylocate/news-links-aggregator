@@ -3096,3 +3096,8 @@ https://haveibeenpwned.com/Breach/APOIAse
 https://www.computerworld.com/article/4132716/leaky-chrome-extensions-with-37m-installs-caught-shipping-your-browsing-history-2.html
 https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/
 https://www.techradar.com/pro/security/blockchain-fintech-giant-figure-hit-by-data-breach-says-limited-number-of-files-impacted
+https://haveibeenpwned.com/Breach/CanadaGoose
+https://haveibeenpwned.com/Breach/UniversityOfPennsylvania
+https://research.checkpoint.com/2026/16th-february-threat-intelligence-report/
+https://www.androidpolice.com/i-stopped-ignoring-these-google-maps-features-commute-improved/
+https://www.techradar.com/pro/security/sex-toy-firm-hit-by-data-breach-tenga-says-hacker-infiltrated-systems-stole-customer-data
