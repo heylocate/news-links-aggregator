@@ -1,22 +1,26 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [
-    "https://www.digitaltrends.com/phones/ios-26-4-puts-your-iphone-in-anti-theft-mode-by-default/",
-    "https://www.zdnet.com/article/scosche-foundit-car-charger-and-finder-tag-review/"
+    "https://www.bgr.com/2103839/iphone-stolen-device-protection-on-default-ios-26-4/",
+    "https://www.prnewswire.com/news-releases/life360-and-uber-announce-new-integration-to-help-families-stay-connected-on-every-trip-302689769.html"
   ],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.prnewswire.com/news-releases/sandler-partners-introduces-scout-email-an-industry-first-way-to-run-address-lookups-from-your-inbox-302689815.html"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.computerworld.com/article/4015023/openai-latest-news-and-insights.html"
+    "https://www.prnewswire.com/news-releases/privacy-alert-trizetto-provider-solutions-under-investigation-for-data-breach-of-over-700-000-patient-records-302691109.html",
+    "https://www.globenewswire.com/news-release/2026/02/18/3239900/0/en/WIRX-Pharmacy-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html",
+    "https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea",
+    "https://www.macworld.com/article/676307/how-to-know-if-your-mac-has-been-hacked.html",
+    "https://databreaches.net/2026/02/17/hackers-offer-to-sell-millions-of-eurail-user-records/?pk_campaign=feed&pk_kwd=hackers-offer-to-sell-millions-of-eurail-user-records"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.zdnet.com/article/veger-x5-spotlight/"
-  ]
+  "Uncategorized": []
 }
