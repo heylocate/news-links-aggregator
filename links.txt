@@ -1,13 +1,5 @@
-## Number / Device Tracking
-https://www.bgr.com/2103839/iphone-stolen-device-protection-on-default-ios-26-4/
-https://www.prnewswire.com/news-releases/life360-and-uber-announce-new-integration-to-help-families-stay-connected-on-every-trip-302689769.html
-
-## Address Lookup
-https://www.prnewswire.com/news-releases/sandler-partners-introduces-scout-email-an-industry-first-way-to-run-address-lookups-from-your-inbox-302689815.html
+## Phone Lookup
+https://www.macworld.com/article/3057914/10-free-iphone-features-to-block-spam-and-daily-distractions.html
 
 ## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/privacy-alert-trizetto-provider-solutions-under-investigation-for-data-breach-of-over-700-000-patient-records-302691109.html
-https://www.globenewswire.com/news-release/2026/02/18/3239900/0/en/WIRX-Pharmacy-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html
-https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea
-https://www.macworld.com/article/676307/how-to-know-if-your-mac-has-been-hacked.html
-https://databreaches.net/2026/02/17/hackers-offer-to-sell-millions-of-eurail-user-records/?pk_campaign=feed&pk_kwd=hackers-offer-to-sell-millions-of-eurail-user-records
+https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/
