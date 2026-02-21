@@ -1,24 +1,18 @@
 {
-  "Phone Lookup": [
-    "https://blog.youmail.com/2026/02/whos-calling-in-2026-start-the-year-smarter-with-reverse-phone-lookup/"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.engadget.com/computing/accessories/how-to-know-if-an-airtag-is-tracking-you-130000764.html?src=rss"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.tomsguide.com/ai/google-gemini/gemini-is-getting-a-dedicated-google-maps-section-heres-everything-youll-be-able-to-do",
-    "https://www.techspot.com/news/111403-google-maps-hiding-reviews-photos-more-unless-you.html",
-    "https://www.androidcentral.com/apps-software/google-maps/google-maps-might-keep-things-from-you-if-you-dont-sign-in-to-an-account"
+    "https://www.tomsguide.com/phones/i-use-android-auto-and-carplay-practically-every-day-but-heres-the-one-thing-i-also-do-before-driving"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
-    "https://www.cnet.com/tech/services-and-software/another-data-breach-heres-how-to-lock-down-your-online-accounts/",
-    "https://databreaches.net/2026/02/20/san-jose-slow-to-tell-workers-about-data-breach/?pk_campaign=feed&pk_kwd=san-jose-slow-to-tell-workers-about-data-breach",
-    "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-    "https://www.engadget.com/apps/google-play-used-ai-to-help-block-175-million-bad-apps-in-2025-102208054.html?src=rss"
+    "https://databreaches.net/2026/02/21/this-is-how-you-do-it-dentist-speaks-out-after-practice-hit-by-cyber-attack/?pk_campaign=feed&pk_kwd=this-is-how-you-do-it-dentist-speaks-out-after-practice-hit-by-cyber-attack"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
