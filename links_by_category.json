@@ -1,27 +1,24 @@
 {
   "Phone Lookup": [
-    "http://www.businesswire.com/news/home/20260204688874/en/Hiya-and-O2-Telef%C3%B3nica-Launch-Branded-Calling-Expanding-Coverage-for-More-than-90-of-the-German-Mobile-Market/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q=="
+    "https://blog.youmail.com/2026/02/whos-calling-in-2026-start-the-year-smarter-with-reverse-phone-lookup/"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.theverge.com/tech/876196/top-app-store-apps-developers"
-  ],
-  "Background Check": [
-    "https://securityboulevard.com/2026/02/how-ai-agents-are-transforming-identity-verification-and-authentication-systems/"
-  ],
+  "Parental Control": [],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.tomsguide.com/computing/mobile-apps/google-maps-appears-to-be-removing-features-if-youre-not-logged-in-and-thats-a-huge-mistake",
-    "https://www.digitaltrends.com/computing/google-maps-tests-hiding-reviews-and-images-unless-you-sign-in/",
-    "https://www.phonearena.com/news/some-google-maps-users-not-seeing-valuable-information_id178321",
-    "https://www.androidauthority.com/gemini-google-maps-attachment-button-3642327/"
+    "https://www.tomsguide.com/ai/google-gemini/gemini-is-getting-a-dedicated-google-maps-section-heres-everything-youll-be-able-to-do",
+    "https://www.techspot.com/news/111403-google-maps-hiding-reviews-photos-more-unless-you.html",
+    "https://www.androidcentral.com/apps-software/google-maps/google-maps-might-keep-things-from-you-if-you-dont-sign-in-to-an-account"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/",
-    "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
-    "https://9to5mac.com/2026/02/19/millions-of-passwords-and-social-security-numbers-exposed-as-old-hacks-remain-a-threat/"
+    "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
+    "https://www.cnet.com/tech/services-and-software/another-data-breach-heres-how-to-lock-down-your-online-accounts/",
+    "https://databreaches.net/2026/02/20/san-jose-slow-to-tell-workers-about-data-breach/?pk_campaign=feed&pk_kwd=san-jose-slow-to-tell-workers-about-data-breach",
+    "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+    "https://www.engadget.com/apps/google-play-used-ai-to-help-block-175-million-bad-apps-in-2025-102208054.html?src=rss"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
