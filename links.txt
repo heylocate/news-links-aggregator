@@ -1,8 +1,2 @@
-## Parental Control
-https://www.engadget.com/computing/accessories/how-to-know-if-an-airtag-is-tracking-you-130000764.html?src=rss
-
-## Address Lookup
-https://www.tomsguide.com/phones/i-use-android-auto-and-carplay-practically-every-day-but-heres-the-one-thing-i-also-do-before-driving
-
 ## Security & Anti-Abuse
-https://databreaches.net/2026/02/21/this-is-how-you-do-it-dentist-speaks-out-after-practice-hit-by-cyber-attack/?pk_campaign=feed&pk_kwd=this-is-how-you-do-it-dentist-speaks-out-after-practice-hit-by-cyber-attack
+https://haveibeenpwned.com/Breach/CarGurus
