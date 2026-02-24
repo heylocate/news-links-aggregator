@@ -1,17 +1,28 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://www.digitaltrends.com/phones/mofts-ultra-slim-magsafe-wallet-with-a-kickstand-gets-apple-find-my-tracking/"
+  ],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://9to5google.com/2026/02/23/google-maps-limited-view-signed-out/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/CarGurus"
+    "https://www.tomsguide.com/computing/online-security/paypal-notifies-customers-of-data-breach-that-exposed-ssns-and-more-for-nearly-6-months",
+    "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
+    "https://readwrite.com/wynn-resorts-federal-class-action-data-breach/",
+    "https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/",
+    "https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/",
+    "https://research.checkpoint.com/2026/23rd-february-threat-intelligence-report/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://blog.hiya.com/hiya-delivers-top-tier-speech-deepfake-detection-on-the-hugging-face-arena"
+  ]
 }
