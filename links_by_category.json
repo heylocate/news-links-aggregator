@@ -1,37 +1,34 @@
 {
-  "Phone Lookup": [
-    "https://blog.youmail.com/2026/02/how-ai-is-changing-the-spam-call-game-and-why-smarter-protection-matters-more-than-ever/"
+  "Phone Lookup": [],
+  "Number / Device Tracking": [
+    "https://hackernoon.com/robots-learn-to-see-with-language-in-real-time-using-3d-gaussian-splatting?source=rss"
   ],
-  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote",
-    "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
-    "https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety",
-    "https://www.androidpolice.com/shortcut-only-home-screen-i-dont-miss-widgets/"
+    "https://www.digitaltrends.com/computing/apple-starts-checking-your-age-before-you-download-these-apps/",
+    "https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/"
   ],
-  "Background Check": [
-    "https://www.socialmediatoday.com/news/linkedin-id-verification-partner-persona-under-fire-for-security-concerns/813034/",
-    "https://venturebeat.com/technology/the-era-of-human-web-search-is-over-nimble-launches-agentic-search-platform",
-    "https://www.androidheadlines.com/2026/02/linkedin-id-verification-data-will-likely-be-shared-with-third-parties.html",
-    "https://www.computerworld.com/article/4136052/microsoft-undercuts-its-kinder-gentler-image-with-big-ice-contract.html"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.howtogeek.com/google-maps-is-great-for-so-much-more-than-navigation/"
+    "https://9to5google.com/2026/02/25/google-maps-might-integrate-nano-banana/",
+    "https://www.androidauthority.com/google-maps-street-view-nano-banana-apk-teardown-3644111/"
   ],
-  "Image Search": [],
+  "Image Search": [
+    "https://www.digitaltrends.com/phones/google-brings-a-trio-of-cool-ai-powered-tricks-to-galaxy-s26-and-pixel-phones/",
+    "https://www.digitaltrends.com/computing/android-adds-new-gemini-ai-features-smarter-search-and-better-scam-protection/"
+  ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
-    "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
-    "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
-    "https://www.engadget.com/social-media/reddit-fined-196-million-over-age-verification-checks-in-the-uk-173705048.html?src=rss",
-    "https://www.techradar.com/pro/security/top-ad-tech-firm-optimizely-hit-by-data-breach-around-10-000-companies-possibly-affected"
+    "https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager",
+    "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
+    "https://databreaches.net/2026/02/25/south-korea-considers-updates-to-data-and-cyber-laws/?pk_campaign=feed&pk_kwd=south-korea-considers-updates-to-data-and-cyber-laws",
+    "https://databreaches.net/2026/02/25/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/?pk_campaign=feed&pk_kwd=wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site",
+    "https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/",
+    "https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/",
+    "https://haveibeenpwned.com/Breach/CanadianTire"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
-  "Monitoring / Spy Apps": [
-    "https://www.techradar.com/gaming/mobile-gaming/a-new-overwatch-game-has-just-been-revealed-but-i-wouldnt-be-surprised-if-you-missed-it"
-  ],
+  "Monitoring / Spy Apps": [],
   "Uncategorized": []
 }
