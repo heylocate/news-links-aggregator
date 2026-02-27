@@ -3187,3 +3187,11 @@ https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager
 https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/
 https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/
 https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/
+https://developer.vonage.com/en/blog/strengthen-identity-verification-using-subscriber-match
+https://haveibeenpwned.com/Breach/Odido
+https://venturebeat.com/technology/googles-nano-banana-2-takes-aim-at-the-production-cost-problem-thats-kept-ai
+https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/
+https://www.cnet.com/tech/services-and-software/conduent-data-breach-lock-down-your-online-accounts/
+https://www.macworld.com/article/3068210/this-24-slim-tracker-pulls-off-the-things-an-airtag-cant.html
+https://www.pcworld.com/article/3072412/ai-and-id-verification-apps-leaked-data-on-millions-of-android-users.html
+https://www.tomsguide.com/computing/online-security/conduent-data-breach-gets-bigger-more-than-25-million-people-across-the-us-are-now-affected

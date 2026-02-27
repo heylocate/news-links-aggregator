@@ -1,31 +1,23 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [
-    "https://hackernoon.com/robots-learn-to-see-with-language-in-real-time-using-3d-gaussian-splatting?source=rss"
+    "https://venturebeat.com/technology/googles-nano-banana-2-takes-aim-at-the-production-cost-problem-thats-kept-ai",
+    "https://www.macworld.com/article/3068210/this-24-slim-tracker-pulls-off-the-things-an-airtag-cant.html"
   ],
-  "Parental Control": [
-    "https://www.digitaltrends.com/computing/apple-starts-checking-your-age-before-you-download-these-apps/",
-    "https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/"
+  "Parental Control": [],
+  "Background Check": [
+    "https://www.pcworld.com/article/3072412/ai-and-id-verification-apps-leaked-data-on-millions-of-android-users.html",
+    "https://developer.vonage.com/en/blog/strengthen-identity-verification-using-subscriber-match"
   ],
-  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://9to5google.com/2026/02/25/google-maps-might-integrate-nano-banana/",
-    "https://www.androidauthority.com/google-maps-street-view-nano-banana-apk-teardown-3644111/"
-  ],
-  "Image Search": [
-    "https://www.digitaltrends.com/phones/google-brings-a-trio-of-cool-ai-powered-tricks-to-galaxy-s26-and-pixel-phones/",
-    "https://www.digitaltrends.com/computing/android-adds-new-gemini-ai-features-smarter-search-and-better-scam-protection/"
-  ],
+  "Address Lookup": [],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager",
-    "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
-    "https://databreaches.net/2026/02/25/south-korea-considers-updates-to-data-and-cyber-laws/?pk_campaign=feed&pk_kwd=south-korea-considers-updates-to-data-and-cyber-laws",
-    "https://databreaches.net/2026/02/25/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/?pk_campaign=feed&pk_kwd=wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site",
-    "https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/",
-    "https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/",
-    "https://haveibeenpwned.com/Breach/CanadianTire"
+    "https://www.cnet.com/tech/services-and-software/conduent-data-breach-lock-down-your-online-accounts/",
+    "https://haveibeenpwned.com/Breach/Odido",
+    "https://www.tomsguide.com/computing/online-security/conduent-data-breach-gets-bigger-more-than-25-million-people-across-the-us-are-now-affected",
+    "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
