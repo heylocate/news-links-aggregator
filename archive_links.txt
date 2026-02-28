@@ -3207,3 +3207,10 @@ https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transpa
 https://www.engadget.com/apps/google-maps-will-finally-be-usable-in-south-korea-104301396.html?src=rss
 https://www.prnewswire.com/news-releases/all-about-cookies-announces-2026-editors-choice-awards-for-data-removal-services-302699219.html
 https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/
+https://databreaches.net/2026/02/28/connecticut-senate-bill-raises-the-stakes-on-data-breach-response/?pk_campaign=feed&pk_kwd=connecticut-senate-bill-raises-the-stakes-on-data-breach-response
+https://github.com/Artem7sk/NexusEye-OSINT
+https://github.com/EgooDev/beluga-tools
+https://securityboulevard.com/2026/02/how-vciso-services-reduce-cyber-risk-without-increasing-costs/
+https://securityboulevard.com/2026/02/ios-penetration-testing-definition-process-and-tools/
+https://www.androidpolice.com/im-stuck-with-google-maps-ive-found-better-apps/
+https://www.corviont.com/blog/hardware-footprint-benchmarks-methodology-and-full-results/
