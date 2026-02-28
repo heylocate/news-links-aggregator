@@ -65,6 +65,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add links.txt links_by_category.json archive_links.txt seen.json reasons.jsonl || true
-          git commit -m "daily update (semantic + discovery) [skip ci]" || echo "nothing to commit"
+          # Добавляем БД и публичные файлы. Старые json удалятся сами (если ты их удалишь из репозитория)
+          git add links.txt links_by_category.json archive_links.txt heylocate.db || true
+          git commit -m "daily update (async + sqlite + vector cache) [skip ci]" || echo "nothing to commit"
           git push
