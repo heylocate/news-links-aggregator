@@ -58,6 +58,7 @@ jobs:
       - name: Run aggregator (categorized, semantic + discovery)
         env:
           HL_SEMANTIC_RERANK: ${{ env.HL_SEMANTIC_RERANK }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python aggregator_links.py
 
       - name: Commit artifacts
