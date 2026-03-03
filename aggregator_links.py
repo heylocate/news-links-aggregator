@@ -54,7 +54,8 @@ def load_json(path: pathlib.Path, fallback):
     except: return fallback
 
 def norm(text: str) -> str:
-    return re.sub(r"\s+", " ", text).strip() if text else ""
+    # Защита от NoneType: явно переводим в строку
+    return re.sub(r"\s+", " ", str(text)).strip() if text else ""
 
 def normalize_domain(d: str) -> str:
     d = (d or "").strip().lower()
@@ -145,7 +146,11 @@ def find_matches(hay: str, words: Iterable[str]) -> List[str]:
     return hits
 
 def match_topic_with_reason(title: str, summary: str):
-    hay = f"{title.lower()} {summary.lower()}"
+    # ЗАЩИТА ОТ ПУСТЫХ ЗНАЧЕНИЙ (NoneType Error fix)
+    safe_title = title if title is not None else ""
+    safe_summary = summary if summary is not None else ""
+    
+    hay = f"{safe_title.lower()} {safe_summary.lower()}"
     stop_hits = find_matches(hay, STOPWORDS)
     if stop_hits: return False, {"stopwords": stop_hits}
     if CFG.get("REQUIRE_KEYWORDS", True) and not KEYWORDS: return False, {"reason": "no_keywords"}
@@ -207,7 +212,7 @@ class ArxivProvider(BaseProvider):
                 async with session.get(url, timeout=10) as resp:
                     d = await asyncio.to_thread(feedparser.parse, await resp.text())
                     return [(int(time.mktime(e.published_parsed)) if getattr(e, "published_parsed", None) else None, 
-                             True, norm(getattr(e, "link", "")), f"[Paper] {norm(getattr(e, 'title', ''))}", 
+                             True, norm(getattr(e, "link", "")), norm(f"[Paper] {getattr(e, 'title', '')}"), 
                              norm(getattr(e, "summary", ""))) for e in d.entries]
             except: return []
 
@@ -230,7 +235,7 @@ class HackerNewsProvider(BaseProvider):
                     async with session.get(item_url, timeout=5) as r:
                         data = await r.json()
                         if data and "title" in data and "url" in data:
-                            return (data.get("time"), True, data["url"], f"[HN] {data['title']}", "")
+                            return (data.get("time"), True, data["url"], norm(f"[HN] {data['title']}"), "")
                 except: pass
                 return None
 
@@ -260,7 +265,12 @@ class GitHubProvider(BaseProvider):
                         updated = repo.get("updated_at")
                         try: ts = int(datetime.strptime(updated, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc).timestamp())
                         except: ts = int(time.time())
-                        local_items.append((ts, True, repo.get("html_url", ""), f"[GitHub] {repo.get('full_name', '')}", repo.get("description", "")))
+                        
+                        # Явная нормализация для GitHub (именно тут API возвращает null/None в description)
+                        title = norm(f"[GitHub] {repo.get('full_name', '')}")
+                        summary = norm(repo.get("description", ""))
+                        
+                        local_items.append((ts, True, repo.get("html_url", ""), title, summary))
                     return local_items
             except: return []
 
@@ -379,7 +389,11 @@ def any_word_simple(hay: str, words: Iterable[str]) -> bool:
     return any((w.strip().lower() in hay) for w in words or [] if w.strip())
 
 def categorize_item(title: str, summary: str, domain: str) -> str:
-    hay = f"{title.lower()} {summary.lower()}"
+    # ЗАЩИТА ОТ ПУСТЫХ ЗНАЧЕНИЙ 
+    safe_title = title if title is not None else ""
+    safe_summary = summary if summary is not None else ""
+    
+    hay = f"{safe_title.lower()} {safe_summary.lower()}"
     for cat in CATEGORIES:
         name = cat.get("name") or CFG["UNCATEGORIZED"]
         inc_any = [s.lower() for s in (cat.get("include_any") or [])]
