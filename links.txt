@@ -1,15 +1,18 @@
 ## Phone Lookup
-http://www.businesswire.com/news/home/20260301082723/en/State-of-the-Call-2026-AI-Deepfake-Voice-Calls-Hit-1-in-4-Americans-as-Consumers-Say-Scammers-Are-Beating-Mobile-Network-Operators-2-to-1/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+https://github.com/apple/pir-service-example
 
-## Number / Device Tracking
-https://www.macworld.com/article/3072611/turn-your-wallet-into-a-trackable-smart-device-with-these-slim-cards-for-24-off.html
+## People Search
+https://databreaches.net/2026/03/03/congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars/?pk_campaign=feed&pk_kwd=congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars
 
-## Parental Control
-https://www.tomsguide.com/ai/i-tested-the-ball2-smart-ball-during-a-snowstorm-and-it-got-all-three-of-my-kids-playing-together
+## Address Lookup
+https://9to5google.com/2026/03/03/google-maps-gradient-icon/
 
 ## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/KomikoAI
+https://securityboulevard.com/2026/03/one-foothold-25-million-victims-the-risk-inside-modern-breaches/
+https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/
 
 ## OSINT & Open Source Intelligence
-https://github.com/TheEddMan/osint-ioc-collector
-https://github.com/ravenastar-js/social-id
+https://github.com/magen-yehuda-intel/magen-yehuda-bot
+https://github.com/yomogi0731/GHunt
+https://github.com/CyberSh3ll-oss/Osintagram
+https://github.com/laikhtman/WarPanel
