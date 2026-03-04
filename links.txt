@@ -1,15 +1,15 @@
-## People Search
-https://go.theregister.com/feed/www.theregister.com/2026/03/03/chatbot_data_harvesting_personal_info/
+## Phone Lookup
+https://github.com/jaibhagwanchouhan/InfCall---Flutter-Caller-ID-App
 
-## Address Lookup
-https://www.phonearena.com/news/google-maps-new-look_id178655
-https://securityboulevard.com/2026/03/the-docusign-email-that-wasnt-a-three-redirect-credential-harvest/
+## Background Check
+https://blog.cloudflare.com/deepfakes-insider-threats-identity-verification/
+
+## Security & Anti-Abuse
+https://www.techradar.com/pro/security/lexisnexis-confirms-data-breach-says-hackers-hit-customer-and-business-info
+https://venturebeat.com/security/ai-supply-chain-visibility-gap-anthropic-pentagon-ciso-audit
+https://www.techradar.com/pro/security/paint-giant-akzonobel-reveals-data-breach-says-us-site-was-affected
+https://securityboulevard.com/2026/03/shadow-ai-vs-managed-ai-whats-the-difference-firetail-blog/
 
 ## OSINT & Open Source Intelligence
-https://github.com/drakfxpp/osint-resources
-https://github.com/ali-montolalu/bgp-routing-resources
-https://github.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025
-
-## Uncategorized
-https://github.com/Aztian054/Kali-Linux-Phone-Tracker-v2.0
-https://gizmodo.com/feds-used-online-advertising-data-to-track-the-publics-phone-locations-2000729129
+https://github.com/dabbott05/Crypto-Investment-Scam-OSINT
+https://github.com/maxht531-design/osint-intelligence-suite
