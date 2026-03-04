@@ -1,29 +1,27 @@
 {
-  "Phone Lookup": [
-    "https://github.com/apple/pir-service-example"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [
-    "https://databreaches.net/2026/03/03/congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars/?pk_campaign=feed&pk_kwd=congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars"
+    "https://go.theregister.com/feed/www.theregister.com/2026/03/03/chatbot_data_harvesting_personal_info/"
   ],
   "Address Lookup": [
-    "https://9to5google.com/2026/03/03/google-maps-gradient-icon/"
+    "https://www.phonearena.com/news/google-maps-new-look_id178655",
+    "https://securityboulevard.com/2026/03/the-docusign-email-that-wasnt-a-three-redirect-credential-harvest/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://securityboulevard.com/2026/03/one-foothold-25-million-victims-the-risk-inside-modern-breaches/",
-    "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/magen-yehuda-intel/magen-yehuda-bot",
-    "https://github.com/yomogi0731/GHunt",
-    "https://github.com/CyberSh3ll-oss/Osintagram",
-    "https://github.com/laikhtman/WarPanel"
+    "https://github.com/drakfxpp/osint-resources",
+    "https://github.com/ali-montolalu/bgp-routing-resources",
+    "https://github.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://github.com/Aztian054/Kali-Linux-Phone-Tracker-v2.0",
+    "https://gizmodo.com/feds-used-online-advertising-data-to-track-the-publics-phone-locations-2000729129"
+  ]
 }

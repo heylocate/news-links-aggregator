@@ -3229,3 +3229,11 @@ https://github.com/magen-yehuda-intel/magen-yehuda-bot
 https://github.com/yomogi0731/GHunt
 https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/
 https://securityboulevard.com/2026/03/one-foothold-25-million-victims-the-risk-inside-modern-breaches/
+https://github.com/Aztian054/Kali-Linux-Phone-Tracker-v2.0
+https://github.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025
+https://github.com/ali-montolalu/bgp-routing-resources
+https://github.com/drakfxpp/osint-resources
+https://gizmodo.com/feds-used-online-advertising-data-to-track-the-publics-phone-locations-2000729129
+https://go.theregister.com/feed/www.theregister.com/2026/03/03/chatbot_data_harvesting_personal_info/
+https://securityboulevard.com/2026/03/the-docusign-email-that-wasnt-a-three-redirect-credential-harvest/
+https://www.phonearena.com/news/google-maps-new-look_id178655
