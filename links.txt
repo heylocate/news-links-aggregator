@@ -1,15 +1,13 @@
 ## Phone Lookup
-https://github.com/jaibhagwanchouhan/InfCall---Flutter-Caller-ID-App
+https://github.com/PeteSumners/voice-mcp
+https://www.tomsguide.com/computing/vpns/spam-calls-begone-nordvpn-launches-call-protection-feature-for-android-users-in-europe
 
-## Background Check
-https://blog.cloudflare.com/deepfakes-insider-threats-identity-verification/
+## Parental Control
+https://www.engadget.com/social-media/mark-zuckerberg-downplays-metas-own-research-in-new-mexico-child-safety-trial-222924340.html?src=rss
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/lexisnexis-confirms-data-breach-says-hackers-hit-customer-and-business-info
-https://venturebeat.com/security/ai-supply-chain-visibility-gap-anthropic-pentagon-ciso-audit
-https://www.techradar.com/pro/security/paint-giant-akzonobel-reveals-data-breach-says-us-site-was-affected
-https://securityboulevard.com/2026/03/shadow-ai-vs-managed-ai-whats-the-difference-firetail-blog/
+https://securityboulevard.com/2026/03/what-to-expect-from-irans-digital-counterstrike/
+https://go.theregister.com/feed/www.theregister.com/2026/03/04/lexisnexis_legal_professional_confirms_data/
 
 ## OSINT & Open Source Intelligence
-https://github.com/dabbott05/Crypto-Investment-Scam-OSINT
-https://github.com/maxht531-design/osint-intelligence-suite
+https://github.com/beerbearbears/OSINT-Hub
