@@ -1,10 +1,14 @@
-## Phone Lookup
-https://github.com/BioHazard786/Alternate
+## Number / Device Tracking
+https://github.com/Judetech55/judetech111
 
 ## Parental Control
-https://www.verizon.com/about/parenting/digital-detox-zone
-https://www.verizon.com/about/news/how-make-digital-detox-zone-your-home
+https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act
 
-## OSINT & Open Source Intelligence
-https://github.com/juan201185/radar-osint-global
-https://github.com/spydisec/spydithreatintel
+## Address Lookup
+https://gizmodo.com/artist-uses-google-maps-to-bring-the-fallout-new-vegas-strip-into-real-world-vegas-2000730069
+
+## Image Search
+https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/
+
+## Uncategorized
+https://github.com/Zaeem446/tracify-app
