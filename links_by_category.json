@@ -1,25 +1,23 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://github.com/Judetech55/judetech111"
-  ],
-  "Parental Control": [
-    "https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act"
-  ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [
-    "https://gizmodo.com/artist-uses-google-maps-to-bring-the-fallout-new-vegas-strip-into-real-world-vegas-2000730069"
+  "People Search": [
+    "https://www.theverge.com/entertainment/889978/hidden-object-games-indie"
   ],
-  "Image Search": [
-    "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/"
-  ],
+  "Address Lookup": [],
+  "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://github.com/Bart0911/hibp-lookup",
+    "https://securityboulevard.com/2026/03/breaches-up-number-of-victims-down-impact-stronger/"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/maiconwinchester/steam-osint",
+    "https://github.com/carcipization/ai-osint"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://github.com/Zaeem446/tracify-app"
-  ]
+  "Uncategorized": []
 }
