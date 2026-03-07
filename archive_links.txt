@@ -3266,3 +3266,10 @@ https://github.com/carcipization/ai-osint
 https://github.com/maiconwinchester/steam-osint
 https://securityboulevard.com/2026/03/breaches-up-number-of-victims-down-impact-stronger/
 https://www.theverge.com/entertainment/889978/hidden-object-games-indie
+https://blog.hiya.com/how-to-do-a-reverse-phone-lookup
+https://github.com/bucska/Refloow-Geo-Forensics
+https://github.com/puppetsbunny68-hash/pup
+https://securityboulevard.com/2026/03/fbi-is-investigating-the-sophisticated-hack-of-its-surveillance-system/
+https://thenextweb.com/news/unmasking-the-illusion-of-safety-online
+https://www.pcworld.com/article/3078645/the-conduent-data-breach-isnt-the-largest-but-its-still-a-big-deal.html
+https://www.tomsguide.com/computing/mobile-apps/i-just-realized-how-bad-google-maps-is-on-carplay-why-does-it-look-so-terrible

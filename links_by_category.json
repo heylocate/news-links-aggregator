@@ -1,21 +1,25 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.hiya.com/how-to-do-a-reverse-phone-lookup"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
-  "People Search": [
-    "https://www.theverge.com/entertainment/889978/hidden-object-games-indie"
+  "Background Check": [
+    "https://www.pcworld.com/article/3078645/the-conduent-data-breach-isnt-the-largest-but-its-still-a-big-deal.html"
   ],
-  "Address Lookup": [],
+  "People Search": [],
+  "Address Lookup": [
+    "https://www.tomsguide.com/computing/mobile-apps/i-just-realized-how-bad-google-maps-is-on-carplay-why-does-it-look-so-terrible"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://github.com/Bart0911/hibp-lookup",
-    "https://securityboulevard.com/2026/03/breaches-up-number-of-victims-down-impact-stronger/"
+    "https://securityboulevard.com/2026/03/fbi-is-investigating-the-sophisticated-hack-of-its-surveillance-system/",
+    "https://thenextweb.com/news/unmasking-the-illusion-of-safety-online"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/maiconwinchester/steam-osint",
-    "https://github.com/carcipization/ai-osint"
+    "https://github.com/bucska/Refloow-Geo-Forensics",
+    "https://github.com/puppetsbunny68-hash/pup"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
