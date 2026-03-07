@@ -1,27 +1,22 @@
 {
-  "Phone Lookup": [
-    "https://blog.hiya.com/how-to-do-a-reverse-phone-lookup"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [
-    "https://www.pcworld.com/article/3078645/the-conduent-data-breach-isnt-the-largest-but-its-still-a-big-deal.html"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.tomsguide.com/computing/mobile-apps/i-just-realized-how-bad-google-maps-is-on-carplay-why-does-it-look-so-terrible"
+    "https://github.com/Naveenkumar-026/A4-Osint"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://securityboulevard.com/2026/03/fbi-is-investigating-the-sophisticated-hack-of-its-surveillance-system/",
-    "https://thenextweb.com/news/unmasking-the-illusion-of-safety-online"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/bucska/Refloow-Geo-Forensics",
-    "https://github.com/puppetsbunny68-hash/pup"
+    "https://github.com/pinkycourse/GhostIntel",
+    "https://github.com/onlygoku/digital-shadow-mapper"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/"
+  ]
 }

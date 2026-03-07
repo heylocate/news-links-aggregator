@@ -3273,3 +3273,7 @@ https://securityboulevard.com/2026/03/fbi-is-investigating-the-sophisticated-hac
 https://thenextweb.com/news/unmasking-the-illusion-of-safety-online
 https://www.pcworld.com/article/3078645/the-conduent-data-breach-isnt-the-largest-but-its-still-a-big-deal.html
 https://www.tomsguide.com/computing/mobile-apps/i-just-realized-how-bad-google-maps-is-on-carplay-why-does-it-look-so-terrible
+https://github.com/Naveenkumar-026/A4-Osint
+https://github.com/onlygoku/digital-shadow-mapper
+https://github.com/pinkycourse/GhostIntel
+https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/
