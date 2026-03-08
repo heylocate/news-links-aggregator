@@ -1,7 +1,10 @@
-## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-persons-affected-by-the-trizetto-provider-solutions-tps-data-breach-302707524.html
-https://www.globenewswire.com/news-release/2026/03/08/3251424/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Persons-Affected-by-the-Banner-Capital-Bank-Data-Breach.html
-https://www.globenewswire.com/news-release/2026/03/08/3251423/0/en/DATA-BREACH-ALERT-Edelson-Lechtzin-LLP-is-Investigating-Claims-on-Behalf-of-Persons-Affected-by-the-TriZetto-Provider-Solutions-TPS-Data-Breach.html
+## Number / Device Tracking
+https://github.com/rizaaliemniyetli/Phone-Tracker
+
+## Parental Control
+https://www.pcworld.com/article/3076959/stop-annoying-ads-on-nine-devices-for-a-one-time-11-through-today-only.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/alenpb/OSINT
+https://github.com/thecodedev22/OnlinePersonaFinder
+https://github.com/karamabbasi05/Osint-Sync
+https://github.com/AryaClsec/Tracelens
