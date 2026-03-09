@@ -1,3 +1,10 @@
+## Address Lookup
+https://9to5google.com/2026/03/09/google-maps-go-gains-gradient-app-icon-redesign/
+
+## Security & Anti-Abuse
+https://www.techradar.com/pro/security/trizetto-data-breach-health-tech-giant-reveals-personal-info-of-3-4-million-users-may-have-been-affected
+https://www.pcworld.com/article/2461571/hackers-know-your-social-security-number-heres-how-to-stay-safe.html
+
 ## OSINT & Open Source Intelligence
-https://github.com/cicero78M/cicero-osint
-https://github.com/LDMB123/sigint-map
+https://github.com/ishaq2321/phishing-detection-osint
+https://github.com/Sufia-TheSecureDev/python_automation--security-tools-
