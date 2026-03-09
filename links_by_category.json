@@ -1,11 +1,7 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://github.com/rizaaliemniyetli/Phone-Tracker"
-  ],
-  "Parental Control": [
-    "https://www.pcworld.com/article/3076959/stop-annoying-ads-on-nine-devices-for-a-one-time-11-through-today-only.html"
-  ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
@@ -13,9 +9,8 @@
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/thecodedev22/OnlinePersonaFinder",
-    "https://github.com/karamabbasi05/Osint-Sync",
-    "https://github.com/AryaClsec/Tracelens"
+    "https://github.com/cicero78M/cicero-osint",
+    "https://github.com/LDMB123/sigint-map"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

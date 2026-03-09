@@ -3286,3 +3286,5 @@ https://github.com/karamabbasi05/Osint-Sync
 https://github.com/rizaaliemniyetli/Phone-Tracker
 https://github.com/thecodedev22/OnlinePersonaFinder
 https://www.pcworld.com/article/3076959/stop-annoying-ads-on-nine-devices-for-a-one-time-11-through-today-only.html
+https://github.com/LDMB123/sigint-map
+https://github.com/cicero78M/cicero-osint
