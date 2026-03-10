@@ -1,23 +1,28 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://9to5google.com/2026/03/09/find-hub-biometric-login/"
+  "Phone Lookup": [
+    "http://www.businesswire.com/news/home/20260310267511/en/AVOXI-Introduces-Trusted-Outbound-Voice-Software-to-Boost-Enterprise-Answer-Rates-and-Reduce-Spam-Calls-to-Customers/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
   ],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [
-    "https://www.eff.org/deeplinks/2026/03/safe-act-imperfect-vehicle-real-section-702-reform"
+  "Number / Device Tracking": [],
+  "Parental Control": [
+    "https://www.macworld.com/article/3081678/apple-just-created-a-billion-more-mac-users.html"
   ],
+  "Background Check": [
+    "https://www.pcworld.com/article/3078645/conduent-hack-exposed-25-million-medical-social-security-records.html"
+  ],
+  "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
-  "Email Lookup": [],
+  "Email Lookup": [
+    "https://securityboulevard.com/2026/03/inside-a-bot-operators-email-verification-infrastructure/"
+  ],
   "Security & Anti-Abuse": [
-    "https://appleinsider.com/articles/26/03/10/app-tracking-transparency-still-under-fire-from-german-publishers",
-    "https://9to5mac.com/2026/03/09/german-publishers-push-regulators-to-fine-apple-over-app-tracking-transparency/"
+    "https://www.techradar.com/pro/security/ericsson-us-reveals-employee-and-customer-data-breach-after-third-party-hack",
+    "https://go.theregister.com/feed/www.theregister.com/2026/03/10/ericsson_blames_vendor_vishing_slipup/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/dfirtnt/Huntable-CTI-Studio",
-    "https://github.com/ptthanhloi/awesome-hacker-engines"
+    "https://github.com/sijiaozhi/wayback-url-finder",
+    "https://github.com/Vitalcheffe/nexus-platform",
+    "https://github.com/Jonaskouame/Phone-Number-Tracker"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
