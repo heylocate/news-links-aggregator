@@ -3293,3 +3293,9 @@ https://github.com/Sufia-TheSecureDev/python_automation--security-tools-
 https://github.com/ishaq2321/phishing-detection-osint
 https://www.pcworld.com/article/2461571/hackers-know-your-social-security-number-heres-how-to-stay-safe.html
 https://www.techradar.com/pro/security/trizetto-data-breach-health-tech-giant-reveals-personal-info-of-3-4-million-users-may-have-been-affected
+https://9to5google.com/2026/03/09/find-hub-biometric-login/
+https://9to5mac.com/2026/03/09/german-publishers-push-regulators-to-fine-apple-over-app-tracking-transparency/
+https://appleinsider.com/articles/26/03/10/app-tracking-transparency-still-under-fire-from-german-publishers
+https://github.com/dfirtnt/Huntable-CTI-Studio
+https://github.com/ptthanhloi/awesome-hacker-engines
+https://www.eff.org/deeplinks/2026/03/safe-act-imperfect-vehicle-real-section-702-reform
