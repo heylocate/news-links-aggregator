@@ -3308,3 +3308,7 @@ https://securityboulevard.com/2026/03/inside-a-bot-operators-email-verification-
 https://www.macworld.com/article/3081678/apple-just-created-a-billion-more-mac-users.html
 https://www.pcworld.com/article/3078645/conduent-hack-exposed-25-million-medical-social-security-records.html
 https://www.techradar.com/pro/security/ericsson-us-reveals-employee-and-customer-data-breach-after-third-party-hack
+https://github.com/farukabi/CallerId-ve-Adisyon-Sistemi
+https://thenextweb.com/news/why-2026-will-be-the-year-of-governed-cybersecurity-ai
+https://www.eff.org/deeplinks/2026/03/government-must-not-force-companies-participate-ai-powered-surveillance
+https://www.tomsguide.com/phones/android-phones/google-caves-lets-people-search-google-photos-without-ai-heres-how-to-use-it
