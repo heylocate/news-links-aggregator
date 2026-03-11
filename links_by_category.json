@@ -1,22 +1,28 @@
 {
   "Phone Lookup": [
-    "https://github.com/farukabi/CallerId-ve-Adisyon-Sistemi"
+    "https://www.malwarebytes.com/blog/threat-intel/2026/03/watch-out-for-tax-season-robocalls-pushing-fake-relief-programs",
+    "https://securityboulevard.com/2026/03/watch-out-for-tax-season-robocalls-pushing-fake-relief-programs/"
   ],
-  "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [
-    "https://www.tomsguide.com/phones/android-phones/google-caves-lets-people-search-google-photos-without-ai-heres-how-to-use-it",
-    "https://www.eff.org/deeplinks/2026/03/government-must-not-force-companies-participate-ai-powered-surveillance"
+  "Number / Device Tracking": [
+    "https://www.techspot.com/news/111636-court-continued-use-tracking-app-counts-consent-even.html"
   ],
+  "Parental Control": [
+    "https://www.zdnet.com/article/how-to-reduce-screen-time-stop-scrolling-break-phone-addicton/"
+  ],
+  "Background Check": [
+    "https://hackernoon.com/safe-trade-services-earns-a-43-proof-of-usefulness-score-by-building-identity-verification-for-p2p-transactions?source=rss"
+  ],
+  "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://thenextweb.com/news/why-2026-will-be-the-year-of-governed-cybersecurity-ai"
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/cnpjpw/cnpjpw"
   ],
-  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://github.com/edrees88ah-droid/Tracker-Phone"
+  ]
 }
