@@ -3344,3 +3344,15 @@ https://www.techradar.com/ai-platforms-assistants/our-biggest-navigation-upgrade
 https://www.tomsguide.com/computing/mobile-apps/google-maps-is-adding-even-more-gemini-features-and-it-could-be-the-biggest-upgrade-for-years
 https://www.tomsguide.com/computing/mobile-apps/oil-prices-are-spiking-heres-how-i-used-google-maps-to-find-cheap-gas-near-me
 https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/
+https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html
+https://blog.hiya.com/mwc-2026-voice-is-the-new-battleground-for-trust
+https://gizmodo.com/gemini-is-now-your-permanent-passenger-in-google-maps-2000732868
+https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/
+https://www.androidcentral.com/apps-software/google-maps/immersive-navigation-in-google-maps-is-like-opening-a-new-app-for-the-modern-era-of-driving
+https://www.androidheadlines.com/2026/03/google-maps-gemini-ask-maps-immersive-navigation.html
+https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone
+https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control
+https://www.engadget.com/social-media/x-could-be-breaching-us-sanctions-on-iran-watchdog-warns-213550284.html?src=rss
+https://www.pcworld.com/article/3087519/the-era-of-bargain-priced-pcs-is-behind-us.html
+https://www.phonearena.com/news/google-maps-biggest-navigation-upgrade-in-decade_id178889
+https://www.zdnet.com/article/google-maps-two-big-upgrades-new-driving-experience/
