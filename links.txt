@@ -1,23 +1,7 @@
-## Phone Lookup
-https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/
-https://blog.hiya.com/mwc-2026-voice-is-the-new-battleground-for-trust
-
-## Parental Control
-https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control
-
-## Background Check
-https://www.engadget.com/social-media/x-could-be-breaching-us-sanctions-on-iran-watchdog-warns-213550284.html?src=rss
-
 ## Address Lookup
-https://www.zdnet.com/article/google-maps-two-big-upgrades-new-driving-experience/
-https://www.phonearena.com/news/google-maps-biggest-navigation-upgrade-in-decade_id178889
-https://www.androidheadlines.com/2026/03/google-maps-gemini-ask-maps-immersive-navigation.html
-https://www.androidcentral.com/apps-software/google-maps/immersive-navigation-in-google-maps-is-like-opening-a-new-app-for-the-modern-era-of-driving
-https://gizmodo.com/gemini-is-now-your-permanent-passenger-in-google-maps-2000732868
+https://www.howtogeek.com/google-maps-is-tracking-more-than-you-realize-5-settings-to-fix-now/
+https://www.techspot.com/news/111670-google-maps-gets-conversational-gemini-powered-ask-maps.html
 
 ## Security & Anti-Abuse
-https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html
-https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone
-
-## Uncategorized
-https://www.pcworld.com/article/3087519/the-era-of-bargain-priced-pcs-is-behind-us.html
+https://databreaches.net/2026/03/13/the-broken-records-tracing-the-human-cost-of-the-2022-british-mod-leak/?pk_campaign=feed&pk_kwd=the-broken-records-tracing-the-human-cost-of-the-2022-british-mod-leak
+https://www.techradar.com/pro/security/starbucks-reveals-venti-data-breach-hundreds-of-employees-possibly-affected
