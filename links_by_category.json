@@ -1,18 +1,17 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html?src=rss",
+    "https://www.eff.org/deeplinks/2026/03/eff-launches-new-fight-free-law"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.howtogeek.com/google-maps-is-tracking-more-than-you-realize-5-settings-to-fix-now/",
-    "https://www.techspot.com/news/111670-google-maps-gets-conversational-gemini-powered-ask-maps.html"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/03/13/the-broken-records-tracing-the-human-cost-of-the-2022-british-mod-leak/?pk_campaign=feed&pk_kwd=the-broken-records-tracing-the-human-cost-of-the-2022-british-mod-leak",
-    "https://www.techradar.com/pro/security/starbucks-reveals-venti-data-breach-hundreds-of-employees-possibly-affected"
+    "https://www.techradar.com/pro/security/loblaw-confirms-data-breach-canadian-retail-giant-says-basic-customer-information-affected"
   ],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
