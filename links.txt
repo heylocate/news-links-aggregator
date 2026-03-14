@@ -1,6 +1,8 @@
 ## Parental Control
-https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html?src=rss
-https://www.eff.org/deeplinks/2026/03/eff-launches-new-fight-free-law
+https://www.macworld.com/article/3081678/macbook-neo-students-schools-generation-mac-users.html
 
-## Security & Anti-Abuse
-https://www.techradar.com/pro/security/loblaw-confirms-data-breach-canadian-retail-giant-says-basic-customer-information-affected
+## Address Lookup
+https://thenextweb.com/news/google-maps-launches-ask-maps
+
+## OSINT & Open Source Intelligence
+https://github.com/captain108/osint-bot
