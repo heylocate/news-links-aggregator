@@ -3366,3 +3366,6 @@ https://www.techradar.com/pro/security/loblaw-confirms-data-breach-canadian-reta
 https://github.com/captain108/osint-bot
 https://thenextweb.com/news/google-maps-launches-ask-maps
 https://www.macworld.com/article/3081678/macbook-neo-students-schools-generation-mac-users.html
+https://haveibeenpwned.com/Breach/Baydoner
+https://securityboulevard.com/2026/03/are-healthcare-data-systems-supported-by-nhis-effectively/
+https://www.techradar.com/pro/security/deepfake-worries-hit-a-new-high-as-one-in-four-americans-say-they-have-received-a-deepfake-voice-call-in-the-past-12-months-experts-blame-the-weaponization-of-ai

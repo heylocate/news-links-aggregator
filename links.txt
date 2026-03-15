@@ -1,8 +1,6 @@
-## Parental Control
-https://www.macworld.com/article/3081678/macbook-neo-students-schools-generation-mac-users.html
+## Phone Lookup
+https://www.techradar.com/pro/security/deepfake-worries-hit-a-new-high-as-one-in-four-americans-say-they-have-received-a-deepfake-voice-call-in-the-past-12-months-experts-blame-the-weaponization-of-ai
 
-## Address Lookup
-https://thenextweb.com/news/google-maps-launches-ask-maps
-
-## OSINT & Open Source Intelligence
-https://github.com/captain108/osint-bot
+## Security & Anti-Abuse
+https://haveibeenpwned.com/Breach/Baydoner
+https://securityboulevard.com/2026/03/are-healthcare-data-systems-supported-by-nhis-effectively/
