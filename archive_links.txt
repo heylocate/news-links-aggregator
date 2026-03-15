@@ -3369,3 +3369,8 @@ https://www.macworld.com/article/3081678/macbook-neo-students-schools-generation
 https://haveibeenpwned.com/Breach/Baydoner
 https://securityboulevard.com/2026/03/are-healthcare-data-systems-supported-by-nhis-effectively/
 https://www.techradar.com/pro/security/deepfake-worries-hit-a-new-high-as-one-in-four-americans-say-they-have-received-a-deepfake-voice-call-in-the-past-12-months-experts-blame-the-weaponization-of-ai
+https://github.com/Khushal-Savalakha/ethical-hacking-and-pentest-labs
+https://github.com/MrW3ST/OSMINT
+https://haveibeenpwned.com/Breach/DivineSkins
+https://www.androidpolice.com/i-used-a-minimalist-sidephone-to-fix-my-screen-time/
+https://www.techradar.com/pro/im-a-cybersecurity-professional-heres-why-im-preparing-for-an-ai-data-breach
