@@ -1,10 +1,12 @@
-## Parental Control
-https://www.androidpolice.com/i-used-a-minimalist-sidephone-to-fix-my-screen-time/
+## Phone Lookup
+https://github.com/8bitmcu/ESPHome_ht9032d
+
+## Background Check
+https://www.theverge.com/tech/895083/aether-os-browser-at-protocol
+https://www.eff.org/deeplinks/2026/03/foilies-2026
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/im-a-cybersecurity-professional-heres-why-im-preparing-for-an-ai-data-breach
-https://haveibeenpwned.com/Breach/DivineSkins
+https://appleinsider.com/articles/26/03/15/sunday-reboot-alicia-keys-social-oddness-and-avp-in-the-air
 
 ## OSINT & Open Source Intelligence
-https://github.com/MrW3ST/OSMINT
-https://github.com/Khushal-Savalakha/ethical-hacking-and-pentest-labs
+https://github.com/pepitopere666/WireTapper
