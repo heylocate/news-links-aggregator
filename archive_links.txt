@@ -3379,3 +3379,8 @@ https://github.com/8bitmcu/ESPHome_ht9032d
 https://github.com/pepitopere666/WireTapper
 https://www.eff.org/deeplinks/2026/03/foilies-2026
 https://www.theverge.com/tech/895083/aether-os-browser-at-protocol
+https://github.com/vraestoren/caller_id.sh
+https://hackernoon.com/how-i-built-a-cache-first-azure-maps-integration?source=rss
+https://www.howtogeek.com/i-tested-6-google-maps-alternatives-this-is-the-one-im-sticking-with/
+https://www.pcworld.com/article/3078449/your-browsers-credit-card-autofill-can-be-hacked-use-these-3-alternatives-instead.html
+https://www.wired.com/story/best-dark-web-monitoring-services/

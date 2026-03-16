@@ -1,23 +1,23 @@
 {
   "Phone Lookup": [
-    "https://github.com/8bitmcu/ESPHome_ht9032d"
+    "https://github.com/vraestoren/caller_id.sh"
   ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [
-    "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
-    "https://www.eff.org/deeplinks/2026/03/foilies-2026"
+    "https://www.pcworld.com/article/3078449/your-browsers-credit-card-autofill-can-be-hacked-use-these-3-alternatives-instead.html"
   ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.howtogeek.com/i-tested-6-google-maps-alternatives-this-is-the-one-im-sticking-with/",
+    "https://hackernoon.com/how-i-built-a-cache-first-azure-maps-integration?source=rss"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://appleinsider.com/articles/26/03/15/sunday-reboot-alicia-keys-social-oddness-and-avp-in-the-air"
+    "https://www.wired.com/story/best-dark-web-monitoring-services/"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/pepitopere666/WireTapper"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
