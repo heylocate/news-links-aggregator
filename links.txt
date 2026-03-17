@@ -1,12 +1,5 @@
-## Phone Lookup
-https://github.com/vraestoren/caller_id.sh
-
 ## Background Check
-https://www.pcworld.com/article/3078449/your-browsers-credit-card-autofill-can-be-hacked-use-these-3-alternatives-instead.html
+https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert
 
-## Address Lookup
-https://www.howtogeek.com/i-tested-6-google-maps-alternatives-this-is-the-one-im-sticking-with/
-https://hackernoon.com/how-i-built-a-cache-first-azure-maps-integration?source=rss
-
-## Security & Anti-Abuse
-https://www.wired.com/story/best-dark-web-monitoring-services/
+## Uncategorized
+https://9to5mac.com/2026/03/16/apple-finewoven-wallet/
