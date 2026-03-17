@@ -3386,3 +3386,6 @@ https://www.pcworld.com/article/3078449/your-browsers-credit-card-autofill-can-b
 https://www.wired.com/story/best-dark-web-monitoring-services/
 https://9to5mac.com/2026/03/16/apple-finewoven-wallet/
 https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert
+https://developer.vonage.com/en/blog/prevent-burner-accounts-creation-using-the-sim-swap-api
+https://github.com/Giuseppe552/threadr
+https://github.com/ssaunajung-dot/osint-map

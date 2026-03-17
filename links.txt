@@ -1,5 +1,6 @@
-## Background Check
-https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert
+## Phone Lookup
+https://developer.vonage.com/en/blog/prevent-burner-accounts-creation-using-the-sim-swap-api
 
-## Uncategorized
-https://9to5mac.com/2026/03/16/apple-finewoven-wallet/
+## OSINT & Open Source Intelligence
+https://github.com/Giuseppe552/threadr
+https://github.com/ssaunajung-dot/osint-map

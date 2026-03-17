@@ -1,19 +1,20 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://developer.vonage.com/en/blog/prevent-burner-accounts-creation-using-the-sim-swap-api"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [
-    "https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Giuseppe552/threadr",
+    "https://github.com/ssaunajung-dot/osint-map"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://9to5mac.com/2026/03/16/apple-finewoven-wallet/"
-  ]
+  "Uncategorized": []
 }
