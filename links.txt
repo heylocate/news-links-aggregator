@@ -1,10 +1,17 @@
 ## Phone Lookup
-https://blog.hiya.com/survey-consumer-frustration-with-unwanted-calls-is-increasing
+https://blog.hiya.com/hiya-and-vodafone-bring-branded-calling-to-nearly-100-of-uk
+http://www.businesswire.com/news/home/20260318666086/en/Hiya-Now-Live-with-Branded-Calling-on-Vodafone-Extending-Verified-Caller-Identity-to-Nearly-100-of-UK-Mobile-Subscribers/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+
+## Parental Control
+https://www.cnet.com/tech/gaming/my-kid-wanted-video-games-i-was-against-it-this-console-gave-us-both-the-win/
+https://www.cnet.com/tech/mobile/new-att-app-march-2026/
+
+## Image Search
+https://www.pcworld.com/article/3090981/deepfake-detection-tools-dont-always-work-heres-proof.html
 
 ## Security & Anti-Abuse
-https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
+https://haveibeenpwned.com/Breach/Aura
 
 ## OSINT & Open Source Intelligence
-https://github.com/rishabhstop-coder/Osint
-https://github.com/ruyynn/GhostIntel
-https://github.com/kamonegi13/DDoS-Radar
+https://github.com/Condor2026/Diabolic_v17
+https://github.com/Condor2026/Diabolic_Peninsular_V17
