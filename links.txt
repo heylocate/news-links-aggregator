@@ -1,6 +1,10 @@
 ## Phone Lookup
-https://developer.vonage.com/en/blog/prevent-burner-accounts-creation-using-the-sim-swap-api
+https://blog.hiya.com/survey-consumer-frustration-with-unwanted-calls-is-increasing
+
+## Security & Anti-Abuse
+https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
 
 ## OSINT & Open Source Intelligence
-https://github.com/Giuseppe552/threadr
-https://github.com/ssaunajung-dot/osint-map
+https://github.com/rishabhstop-coder/Osint
+https://github.com/ruyynn/GhostIntel
+https://github.com/kamonegi13/DDoS-Radar

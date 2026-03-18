@@ -3389,3 +3389,8 @@ https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-withou
 https://developer.vonage.com/en/blog/prevent-burner-accounts-creation-using-the-sim-swap-api
 https://github.com/Giuseppe552/threadr
 https://github.com/ssaunajung-dot/osint-map
+https://blog.hiya.com/survey-consumer-frustration-with-unwanted-calls-is-increasing
+https://github.com/kamonegi13/DDoS-Radar
+https://github.com/rishabhstop-coder/Osint
+https://github.com/ruyynn/GhostIntel
+https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
