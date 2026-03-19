@@ -1,26 +1,28 @@
 {
   "Phone Lookup": [
-    "https://blog.hiya.com/hiya-and-vodafone-bring-branded-calling-to-nearly-100-of-uk",
-    "http://www.businesswire.com/news/home/20260318666086/en/Hiya-Now-Live-with-Branded-Calling-on-Vodafone-Extending-Verified-Caller-Identity-to-Nearly-100-of-UK-Mobile-Subscribers/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
+    "https://github.com/deelayer/CallListID"
   ],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://www.macworld.com/article/3092452/this-clever-4-port-twelve-south-charger-that-never-gets-lost-is-50-off-today.html"
+  ],
   "Parental Control": [
-    "https://www.cnet.com/tech/gaming/my-kid-wanted-video-games-i-was-against-it-this-console-gave-us-both-the-win/",
-    "https://www.cnet.com/tech/mobile/new-att-app-march-2026/"
+    "https://www.cnet.com/tech/services-and-software/apple-unchains-family-members-from-a-single-payment-option-in-new-family-sharing/",
+    "https://9to5mac.com/2026/03/18/ios-26-4-to-finally-let-family-sharing-members-use-their-own-payment-methods/",
+    "https://appleinsider.com/articles/26/03/18/family-sharing-no-longer-means-sharing-a-credit-card-in-ios-264",
+    "https://www.macworld.com/article/3062548/ios-26-4-beta-features-install-release.html"
   ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
-  "Image Search": [
-    "https://www.pcworld.com/article/3090981/deepfake-detection-tools-dont-always-work-heres-proof.html"
+  "Address Lookup": [
+    "https://www.howtogeek.com/i-hated-using-google-maps-for-walking-until-i-changed-these-settings/"
   ],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/Aura"
+    "https://therecord.media/marquis-bank-vendor-data-breach"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Condor2026/Diabolic_v17",
-    "https://github.com/Condor2026/Diabolic_Peninsular_V17"
+    "https://github.com/Nullprotocols/osint"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

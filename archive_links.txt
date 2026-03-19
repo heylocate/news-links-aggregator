@@ -3402,3 +3402,12 @@ https://haveibeenpwned.com/Breach/Aura
 https://www.cnet.com/tech/gaming/my-kid-wanted-video-games-i-was-against-it-this-console-gave-us-both-the-win/
 https://www.cnet.com/tech/mobile/new-att-app-march-2026/
 https://www.pcworld.com/article/3090981/deepfake-detection-tools-dont-always-work-heres-proof.html
+https://9to5mac.com/2026/03/18/ios-26-4-to-finally-let-family-sharing-members-use-their-own-payment-methods/
+https://appleinsider.com/articles/26/03/18/family-sharing-no-longer-means-sharing-a-credit-card-in-ios-264
+https://github.com/Nullprotocols/osint
+https://github.com/deelayer/CallListID
+https://therecord.media/marquis-bank-vendor-data-breach
+https://www.cnet.com/tech/services-and-software/apple-unchains-family-members-from-a-single-payment-option-in-new-family-sharing/
+https://www.howtogeek.com/i-hated-using-google-maps-for-walking-until-i-changed-these-settings/
+https://www.macworld.com/article/3062548/ios-26-4-beta-features-install-release.html
+https://www.macworld.com/article/3092452/this-clever-4-port-twelve-south-charger-that-never-gets-lost-is-50-off-today.html
