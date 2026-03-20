@@ -1,22 +1,12 @@
-## Parental Control
-https://www.qustodio.com/en/blog/in-game-chat-risks-and-tips/
-
 ## Background Check
-https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix
-https://android-developers.googleblog.com/2026/03/android-developer-verification.html
-
-## People Search
-https://www.engadget.com/cybersecurity/dont-be-surprised-that-the-fbi-is-buying-your-location-data-182047627.html?src=rss
+https://www.mobileworldlive.com/regulation/korea-extends-facial-recognition-sim-registration-pilot/
 
 ## Address Lookup
-https://www.androidheadlines.com/2026/03/google-maps-tests-dedicated-location-sharing-button-on-android.html
-https://appleinsider.com/articles/26/03/19/google-finally-bringing-gemini-app-to-mac-after-apple-partnership
+https://www.tomsguide.com/ai/this-hidden-google-maps-feature-helped-me-find-the-cheapest-gas-nearby-and-its-a-game-changer
+https://www.tomsguide.com/phones/this-google-maps-feature-saves-me-20-minutes-every-day-and-youre-probably-ignoring-it
 
 ## Security & Anti-Abuse
-https://www.tomsguide.com/computing/online-security/identity-protection-company-aura-suffers-massive-900-000-person-data-breach-customer-information-exposed
-https://databreaches.net/2026/03/19/deaconess-patients-sensitive-data-stolen-in-vendor-breach/?pk_campaign=feed&pk_kwd=deaconess-patients-sensitive-data-stolen-in-vendor-breach
-https://hackernoon.com/sms-blasters-are-the-smishing-scam-to-watch-in-2026?source=rss
-https://databreaches.net/2026/03/19/personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital/?pk_campaign=feed&pk_kwd=personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital
+https://www.tomsguide.com/computing/online-security/2-7-million-hit-in-workplace-benefits-data-breach-with-full-names-dates-of-birth-ssns-and-more-exposed-what-to-do-now
 
 ## OSINT & Open Source Intelligence
-https://github.com/secondminddev-max/space-osint
+https://github.com/Estwarden/collectors

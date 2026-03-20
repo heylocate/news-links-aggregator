@@ -3426,3 +3426,8 @@ https://www.androidheadlines.com/2026/03/google-maps-tests-dedicated-location-sh
 https://www.engadget.com/cybersecurity/dont-be-surprised-that-the-fbi-is-buying-your-location-data-182047627.html?src=rss
 https://www.qustodio.com/en/blog/in-game-chat-risks-and-tips/
 https://www.tomsguide.com/computing/online-security/identity-protection-company-aura-suffers-massive-900-000-person-data-breach-customer-information-exposed
+https://github.com/Estwarden/collectors
+https://www.mobileworldlive.com/regulation/korea-extends-facial-recognition-sim-registration-pilot/
+https://www.tomsguide.com/ai/this-hidden-google-maps-feature-helped-me-find-the-cheapest-gas-nearby-and-its-a-game-changer
+https://www.tomsguide.com/computing/online-security/2-7-million-hit-in-workplace-benefits-data-breach-with-full-names-dates-of-birth-ssns-and-more-exposed-what-to-do-now
+https://www.tomsguide.com/phones/this-google-maps-feature-saves-me-20-minutes-every-day-and-youre-probably-ignoring-it
