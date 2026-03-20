@@ -1,9 +1,22 @@
 ## Parental Control
-https://securityboulevard.com/2026/03/3-things-to-look-for-in-cloud-based-web-content-filtering-solutions/
+https://www.qustodio.com/en/blog/in-game-chat-risks-and-tips/
+
+## Background Check
+https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix
+https://android-developers.googleblog.com/2026/03/android-developer-verification.html
 
 ## People Search
-https://9to5mac.com/2026/03/19/fbi-and-dia-are-buying-location-data-of-us-citizens-from-data-brokers/
+https://www.engadget.com/cybersecurity/dont-be-surprised-that-the-fbi-is-buying-your-location-data-182047627.html?src=rss
 
 ## Address Lookup
-https://www.androidpolice.com/google-maps-location-sharing-update-android-leak/
-https://www.phonearena.com/news/google-maps-to-get-a-new-simplified-way-to-share-location_id179036
+https://www.androidheadlines.com/2026/03/google-maps-tests-dedicated-location-sharing-button-on-android.html
+https://appleinsider.com/articles/26/03/19/google-finally-bringing-gemini-app-to-mac-after-apple-partnership
+
+## Security & Anti-Abuse
+https://www.tomsguide.com/computing/online-security/identity-protection-company-aura-suffers-massive-900-000-person-data-breach-customer-information-exposed
+https://databreaches.net/2026/03/19/deaconess-patients-sensitive-data-stolen-in-vendor-breach/?pk_campaign=feed&pk_kwd=deaconess-patients-sensitive-data-stolen-in-vendor-breach
+https://hackernoon.com/sms-blasters-are-the-smishing-scam-to-watch-in-2026?source=rss
+https://databreaches.net/2026/03/19/personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital/?pk_campaign=feed&pk_kwd=personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital
+
+## OSINT & Open Source Intelligence
+https://github.com/secondminddev-max/space-osint
