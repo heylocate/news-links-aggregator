@@ -1,22 +1,23 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [
-    "https://www.mobileworldlive.com/regulation/korea-extends-facial-recognition-sim-registration-pilot/"
+  "Parental Control": [
+    "https://www.engadget.com/social-media/pinterest-ceo-says-teens-under-16-should-be-banned-from-social-media-but-not-pinterest-211630443.html?src=rss",
+    "https://www.engadget.com/ai/the-white-house-proposes-new-ai-policy-framework-that-supersedes-state-laws-192251995.html?src=rss",
+    "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+    "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+    "https://www.qustodio.com/en/blog/whats-next/"
   ],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.tomsguide.com/ai/this-hidden-google-maps-feature-helped-me-find-the-cheapest-gas-nearby-and-its-a-game-changer",
-    "https://www.tomsguide.com/phones/this-google-maps-feature-saves-me-20-minutes-every-day-and-youre-probably-ignoring-it"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.tomsguide.com/computing/online-security/2-7-million-hit-in-workplace-benefits-data-breach-with-full-names-dates-of-birth-ssns-and-more-exposed-what-to-do-now"
+    "https://databreaches.net/2026/03/20/weill-cornell-medicine-discloses-an-insider-data-breach/?pk_campaign=feed&pk_kwd=weill-cornell-medicine-discloses-an-insider-data-breach"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Estwarden/collectors"
+    "https://github.com/Arman171/WebForensic"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
