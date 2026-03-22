@@ -1,7 +1,2 @@
-## Background Check
-https://www.globenewswire.com/news-release/2026/03/21/3260014/0/en/Bitcoin-Everlight-Opens-Phase-1-of-Its-Presale-With-Dual-Audit-and-Dual-KYC-Verification-Already-in-Place.html
-
 ## OSINT & Open Source Intelligence
-https://github.com/tbckr/trident
-https://github.com/Judge-97/dorkgen
-https://github.com/lerugray/auftragstaktik
+https://github.com/purvi05v/threat-intel-dashboard
