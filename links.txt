@@ -1,9 +1,7 @@
-## Background Check
-https://www.engadget.com/social-media/reddit-is-weighing-identity-verification-methods-to-combat-its-bot-problem-195814671.html
-
 ## Security & Anti-Abuse
-https://www.zdnet.com/article/delete-me-review/
+https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace
 
 ## OSINT & Open Source Intelligence
-https://github.com/erbop2026-collab/iran-osint
-https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy
+https://github.com/resetpaid/lumina
+https://github.com/KavyaJain321/osint-mon
+https://github.com/vjdino4/threat-intelligence-aggregator
