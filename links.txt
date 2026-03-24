@@ -1,14 +1,13 @@
-## Number / Device Tracking
-https://www.tomsguide.com/computing/vpns/surfshark-vpn-takes-aim-at-life360-by-launching-heypolo-a-privacy-first-location-sharing-app
-
-## Background Check
-https://www.pcworld.com/article/3096319/reddit-might-tackle-its-bot-problem-with-identity-verification.html
+## Parental Control
+https://www.verizon.com/about/news/how-raise-connected-kid-without-raising-screen-kid
+https://www.verizon.com/about/parenting/raise-connected-kid-without-raising-screen-kid
 
 ## Address Lookup
-https://www.phonearena.com/news/apple-maps-ads_id179107
-https://www.engadget.com/apps/apple-will-reportedly-start-stuffing-ads-into-the-maps-app-182311634.html?src=rss
+https://www.techradar.com/ai-platforms-assistants/gemini/my-phone-is-about-to-die-and-i-dont-want-to-buy-anything-i-tested-google-maps-ask-maps-ai-and-it-actually-helped
 
 ## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/RSBoards
-https://www.cnet.com/tech/services-and-software/crunchyroll-investigating-claims-of-cyberattack/
-https://therecord.media/kaplan-data-breach-hack-notification
+https://securityboulevard.com/2026/03/utimaco-survey-78-of-us-companies-say-data-breaches-are-the-top-genai-risk-but-most-havent-acted/
+https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/
+
+## OSINT & Open Source Intelligence
+https://github.com/CtotheBtotheE/lewisham-osint-frontend
