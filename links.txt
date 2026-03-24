@@ -1,15 +1,14 @@
 ## Number / Device Tracking
-https://github.com/alphoncek/-TecH
+https://www.tomsguide.com/computing/vpns/surfshark-vpn-takes-aim-at-life360-by-launching-heypolo-a-privacy-first-location-sharing-app
+
+## Background Check
+https://www.pcworld.com/article/3096319/reddit-might-tackle-its-bot-problem-with-identity-verification.html
 
 ## Address Lookup
-https://www.tomsguide.com/computing/mobile-apps/my-sense-of-direction-is-so-bad-that-even-google-maps-cant-help-can-this-usd5m-local-transit-app-do-any-better
+https://www.phonearena.com/news/apple-maps-ads_id179107
+https://www.engadget.com/apps/apple-will-reportedly-start-stuffing-ads-into-the-maps-app-182311634.html?src=rss
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/03/23/hackers-target-schools-towns-in-alarming-attacks-why-arent-more-using-new-jerseys-ms-isac-ybersecurity-service/?pk_campaign=feed&pk_kwd=hackers-target-schools-towns-in-alarming-attacks-why-arent-more-using-new-jerseys-ms-isac-ybersecurity-service
-https://databreaches.net/2026/03/23/au-fairfield-council-obtains-injunction-against-unknown-threat-actors-in-ransomware-incident/?pk_campaign=feed&pk_kwd=au-fairfield-council-obtains-injunction-against-unknown-threat-actors-in-ransomware-incident
-
-## OSINT & Open Source Intelligence
-https://github.com/chekRodriiguez/buit
-https://github.com/itsnotqwerty/tabber-discord
-https://github.com/jtmx22/awesome-hacker-engines
-https://github.com/Francis6061/mandesh_suite
+https://haveibeenpwned.com/Breach/RSBoards
+https://www.cnet.com/tech/services-and-software/crunchyroll-investigating-claims-of-cyberattack/
+https://therecord.media/kaplan-data-breach-hack-notification
