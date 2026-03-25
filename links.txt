@@ -1,13 +1,13 @@
 ## Parental Control
-https://www.verizon.com/about/news/how-raise-connected-kid-without-raising-screen-kid
-https://www.verizon.com/about/parenting/raise-connected-kid-without-raising-screen-kid
-
-## Address Lookup
-https://www.techradar.com/ai-platforms-assistants/gemini/my-phone-is-about-to-die-and-i-dont-want-to-buy-anything-i-tested-google-maps-ask-maps-ai-and-it-actually-helped
+https://gizmodo.com/watershed-moment-meta-just-lost-a-huge-court-case-about-child-safety-2000737712
+https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/
+https://www.engadget.com/social-media/jury-rules-against-meta-orders-375-million-fine-in-major-child-safety-trial-224215209.html?src=rss
+https://www.engadget.com/entertainment/streaming/three-new-gemini-features-come-to-google-tv-175724155.html?src=rss
 
 ## Security & Anti-Abuse
-https://securityboulevard.com/2026/03/utimaco-survey-78-of-us-companies-say-data-breaches-are-the-top-genai-risk-but-most-havent-acted/
-https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/
+https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/
+https://www.techradar.com/pro/security/traces-of-unauthorized-access-mazda-confirms-data-breach-that-exposed-employee-and-partner-data
 
 ## OSINT & Open Source Intelligence
-https://github.com/CtotheBtotheE/lewisham-osint-frontend
+https://github.com/M1n4-07/semiconductor-osint
+https://github.com/praneethkoti/dark-web-threat-intel-toolkit
