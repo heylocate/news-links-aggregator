@@ -1,24 +1,34 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/rakibulcodes/caller-info",
+    "https://github.com/aXtr1o1/NanoSoft_VoiceAgent",
+    "https://github.com/FreePBX/superfecta"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://gizmodo.com/watershed-moment-meta-just-lost-a-huge-court-case-about-child-safety-2000737712",
-    "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
-    "https://www.engadget.com/social-media/jury-rules-against-meta-orders-375-million-fine-in-major-child-safety-trial-224215209.html?src=rss",
-    "https://www.engadget.com/entertainment/streaming/three-new-gemini-features-come-to-google-tv-175724155.html?src=rss"
+    "https://github.com/AiYuSherry/stock-monitor",
+    "https://www.bgr.com/2128020/apps-change-screen-time-for-better/",
+    "https://arstechnica.com/tech-policy/2026/03/meta-loses-trial-after-arguing-child-exploitation-was-inevitable-on-its-apps/",
+    "https://www.androidheadlines.com/2026/03/meta-ordered-to-pay-375m-penalty-in-child-safety-verdict.html",
+    "https://www.engadget.com/big-tech/apple-introduces-age-verification-for-icloud-accounts-in-the-uk-115340237.html?src=rss"
   ],
-  "Background Check": [],
+  "Background Check": [
+    "http://security.googleblog.com/2026/03/post-quantum-cryptography-in-android.html"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/",
-    "https://www.techradar.com/pro/security/traces-of-unauthorized-access-mazda-confirms-data-breach-that-exposed-employee-and-partner-data"
+    "https://www.techradar.com/pro/security/millions-possibly-affected-by-data-breach-at-dermatology-giant-qualderm",
+    "https://www.techradar.com/pro/security/hackerone-says-employees-hit-by-data-breach-and-navia-hack-is-to-blame",
+    "https://databreaches.net/2026/03/25/delaware-supreme-court-reverses-holds-cyber-insurers-sufficiently-pled-collective-subrogation-claim-resulting-from-blackbaud-data-breach/?pk_campaign=feed&pk_kwd=delaware-supreme-court-reverses-holds-cyber-insurers-sufficiently-pled-collective-subrogation-claim-resulting-from-blackbaud-data-breach",
+    "https://databreaches.net/2026/03/25/utimaco-survey-finds-78-of-us-companies-name-legacy-data-breaches-the-top-gen-ai-risk/?pk_campaign=feed&pk_kwd=utimaco-survey-finds-78-of-us-companies-name-legacy-data-breaches-the-top-gen-ai-risk",
+    "https://databreaches.net/2026/03/25/handala-hackers-alleges-massive-data-breach-of-tamir-pardo-former-mossad-chief/?pk_campaign=feed&pk_kwd=handala-hackers-alleges-massive-data-breach-of-tamir-pardo-former-mossad-chief",
+    "https://www.tomsguide.com/computing/vpns/if-youre-caught-up-in-the-aura-data-breach-nordvpns-dark-web-monitoring-can-save-your-skin"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/M1n4-07/semiconductor-osint",
-    "https://github.com/praneethkoti/dark-web-threat-intel-toolkit"
+    "https://github.com/norrisfrank/Norry-Ghosty-2.0"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
