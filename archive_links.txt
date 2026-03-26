@@ -3504,3 +3504,14 @@ https://haveibeenpwned.com/Breach/SoundRadix
 https://securityboulevard.com/2026/03/fedramp-and-the-data-broker-loophole/
 https://www.engadget.com/social-media/jury-rules-against-meta-and-youtube-in-social-media-addiction-case-181344860.html?src=rss
 https://www.engadget.com/social-media/reddit-will-prompt-some-accounts-to-verify-humanness-in-latest-bot-crackdown-161000181.html?src=rss
+https://github.com/abhisheksemwal-maker/CSP-App-TrustLine-26Mar2026
+https://github.com/caffeinepub/equal-ai-caller-id-assistant
+https://github.com/data2391/FINDER-v2
+https://github.com/gamlin-ccdocs/php-vicidial-caller-id-reputation
+https://github.com/guzmanpatriciomartin/OSINT-Brief
+https://securityboulevard.com/2026/03/what-is-runtime-identity-securing-every-action-beyond-login/
+https://techreport.com/news/tesla-faces-class-action-lawsuit-over-data-breach-of-75000-employees/
+https://therecord.media/snapchat-child-safety-pornhub-eu
+https://www.engadget.com/ai/openai-drops-plans-to-release-an-adult-chatbot-113121190.html?src=rss
+https://www.howtogeek.com/ive-used-waze-for-10-years-heres-why-i-refuse-to-switch-to-google-maps/
+https://www.qustodio.com/en/blog/is-polybuzz-safe/

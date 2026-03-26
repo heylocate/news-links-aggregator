@@ -1,19 +1,22 @@
 ## Phone Lookup
-https://github.com/meerasim12/caller-id-verifier
+https://github.com/data2391/FINDER-v2
+https://github.com/abhisheksemwal-maker/CSP-App-TrustLine-26Mar2026
+https://github.com/caffeinepub/equal-ai-caller-id-assistant
+https://github.com/gamlin-ccdocs/php-vicidial-caller-id-reputation
 
 ## Parental Control
-https://www.engadget.com/social-media/jury-rules-against-meta-and-youtube-in-social-media-addiction-case-181344860.html?src=rss
-https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/
-https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html
+https://therecord.media/snapchat-child-safety-pornhub-eu
+https://www.engadget.com/ai/openai-drops-plans-to-release-an-adult-chatbot-113121190.html?src=rss
+https://www.qustodio.com/en/blog/is-polybuzz-safe/
 
 ## Background Check
-https://www.engadget.com/social-media/reddit-will-prompt-some-accounts-to-verify-humanness-in-latest-bot-crackdown-161000181.html?src=rss
+https://securityboulevard.com/2026/03/what-is-runtime-identity-securing-every-action-beyond-login/
 
-## People Search
-https://securityboulevard.com/2026/03/fedramp-and-the-data-broker-loophole/
+## Address Lookup
+https://www.howtogeek.com/ive-used-waze-for-10-years-heres-why-i-refuse-to-switch-to-google-maps/
 
 ## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/SoundRadix
+https://techreport.com/news/tesla-faces-class-action-lawsuit-over-data-breach-of-75000-employees/
 
 ## OSINT & Open Source Intelligence
-https://github.com/veltrixia-labs/osint-platform
+https://github.com/guzmanpatriciomartin/OSINT-Brief
