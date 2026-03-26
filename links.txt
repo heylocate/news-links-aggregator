@@ -1,25 +1,19 @@
 ## Phone Lookup
-https://github.com/rakibulcodes/caller-info
-https://github.com/aXtr1o1/NanoSoft_VoiceAgent
-https://github.com/FreePBX/superfecta
+https://github.com/meerasim12/caller-id-verifier
 
 ## Parental Control
-https://github.com/AiYuSherry/stock-monitor
-https://www.bgr.com/2128020/apps-change-screen-time-for-better/
-https://arstechnica.com/tech-policy/2026/03/meta-loses-trial-after-arguing-child-exploitation-was-inevitable-on-its-apps/
-https://www.androidheadlines.com/2026/03/meta-ordered-to-pay-375m-penalty-in-child-safety-verdict.html
-https://www.engadget.com/big-tech/apple-introduces-age-verification-for-icloud-accounts-in-the-uk-115340237.html?src=rss
+https://www.engadget.com/social-media/jury-rules-against-meta-and-youtube-in-social-media-addiction-case-181344860.html?src=rss
+https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/
+https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html
 
 ## Background Check
-http://security.googleblog.com/2026/03/post-quantum-cryptography-in-android.html
+https://www.engadget.com/social-media/reddit-will-prompt-some-accounts-to-verify-humanness-in-latest-bot-crackdown-161000181.html?src=rss
+
+## People Search
+https://securityboulevard.com/2026/03/fedramp-and-the-data-broker-loophole/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/millions-possibly-affected-by-data-breach-at-dermatology-giant-qualderm
-https://www.techradar.com/pro/security/hackerone-says-employees-hit-by-data-breach-and-navia-hack-is-to-blame
-https://databreaches.net/2026/03/25/delaware-supreme-court-reverses-holds-cyber-insurers-sufficiently-pled-collective-subrogation-claim-resulting-from-blackbaud-data-breach/?pk_campaign=feed&pk_kwd=delaware-supreme-court-reverses-holds-cyber-insurers-sufficiently-pled-collective-subrogation-claim-resulting-from-blackbaud-data-breach
-https://databreaches.net/2026/03/25/utimaco-survey-finds-78-of-us-companies-name-legacy-data-breaches-the-top-gen-ai-risk/?pk_campaign=feed&pk_kwd=utimaco-survey-finds-78-of-us-companies-name-legacy-data-breaches-the-top-gen-ai-risk
-https://databreaches.net/2026/03/25/handala-hackers-alleges-massive-data-breach-of-tamir-pardo-former-mossad-chief/?pk_campaign=feed&pk_kwd=handala-hackers-alleges-massive-data-breach-of-tamir-pardo-former-mossad-chief
-https://www.tomsguide.com/computing/vpns/if-youre-caught-up-in-the-aura-data-breach-nordvpns-dark-web-monitoring-can-save-your-skin
+https://haveibeenpwned.com/Breach/SoundRadix
 
 ## OSINT & Open Source Intelligence
-https://github.com/norrisfrank/Norry-Ghosty-2.0
+https://github.com/veltrixia-labs/osint-platform

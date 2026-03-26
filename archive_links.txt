@@ -3496,3 +3496,11 @@ https://www.engadget.com/big-tech/apple-introduces-age-verification-for-icloud-a
 https://www.techradar.com/pro/security/hackerone-says-employees-hit-by-data-breach-and-navia-hack-is-to-blame
 https://www.techradar.com/pro/security/millions-possibly-affected-by-data-breach-at-dermatology-giant-qualderm
 https://www.tomsguide.com/computing/vpns/if-youre-caught-up-in-the-aura-data-breach-nordvpns-dark-web-monitoring-can-save-your-skin
+https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/
+https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html
+https://github.com/meerasim12/caller-id-verifier
+https://github.com/veltrixia-labs/osint-platform
+https://haveibeenpwned.com/Breach/SoundRadix
+https://securityboulevard.com/2026/03/fedramp-and-the-data-broker-loophole/
+https://www.engadget.com/social-media/jury-rules-against-meta-and-youtube-in-social-media-addiction-case-181344860.html?src=rss
+https://www.engadget.com/social-media/reddit-will-prompt-some-accounts-to-verify-humanness-in-latest-bot-crackdown-161000181.html?src=rss
