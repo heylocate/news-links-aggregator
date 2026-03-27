@@ -1,22 +1,15 @@
 ## Phone Lookup
-https://github.com/data2391/FINDER-v2
-https://github.com/abhisheksemwal-maker/CSP-App-TrustLine-26Mar2026
-https://github.com/caffeinepub/equal-ai-caller-id-assistant
-https://github.com/gamlin-ccdocs/php-vicidial-caller-id-reputation
+https://blog.hiya.com/ai-is-making-voice-fraud-worse-both-in-volume-and-in-targeting
 
 ## Parental Control
-https://therecord.media/snapchat-child-safety-pornhub-eu
-https://www.engadget.com/ai/openai-drops-plans-to-release-an-adult-chatbot-113121190.html?src=rss
-https://www.qustodio.com/en/blog/is-polybuzz-safe/
+https://www.zdnet.com/article/blue-light-glasses-cortisol-test-results/
 
 ## Background Check
-https://securityboulevard.com/2026/03/what-is-runtime-identity-securing-every-action-beyond-login/
-
-## Address Lookup
-https://www.howtogeek.com/ive-used-waze-for-10-years-heres-why-i-refuse-to-switch-to-google-maps/
-
-## Security & Anti-Abuse
-https://techreport.com/news/tesla-faces-class-action-lawsuit-over-data-breach-of-75000-employees/
+https://www.eff.org/deeplinks/2026/03/traffic-violation-license-plate-reader-mission-creep-already-here
 
 ## OSINT & Open Source Intelligence
-https://github.com/guzmanpatriciomartin/OSINT-Brief
+https://github.com/Themansd/GHOSTRACE
+https://github.com/F4BIO-M4G4LH43S/OSINT-SOC-platform
+
+## Uncategorized
+https://www.engadget.com/social-media/the-eu-is-investigating-snapchat-over-possible-child-protection-breaches-174722759.html?src=rss
