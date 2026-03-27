@@ -1,15 +1,12 @@
 ## Phone Lookup
-https://blog.hiya.com/ai-is-making-voice-fraud-worse-both-in-volume-and-in-targeting
+https://business-resources.truecaller.com/psts/truecaller-business-chat-a-trusted-alternative-for-business-messaging
 
-## Parental Control
-https://www.zdnet.com/article/blue-light-glasses-cortisol-test-results/
+## Number / Device Tracking
+https://github.com/Sedolf/NeuroCod-Tracker
 
-## Background Check
-https://www.eff.org/deeplinks/2026/03/traffic-violation-license-plate-reader-mission-creep-already-here
+## Security & Anti-Abuse
+https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach
 
 ## OSINT & Open Source Intelligence
-https://github.com/Themansd/GHOSTRACE
-https://github.com/F4BIO-M4G4LH43S/OSINT-SOC-platform
-
-## Uncategorized
-https://www.engadget.com/social-media/the-eu-is-investigating-snapchat-over-possible-child-protection-breaches-174722759.html?src=rss
+https://github.com/lina767/digital-war-room
+https://github.com/OmphalosOSINT/OSINT-Playbook
