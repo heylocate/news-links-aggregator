@@ -1,22 +1,21 @@
 {
-  "Phone Lookup": [
-    "https://business-resources.truecaller.com/psts/truecaller-business-chat-a-trusted-alternative-for-business-messaging"
+  "Phone Lookup": [],
+  "Number / Device Tracking": [],
+  "Parental Control": [
+    "https://www.mobileworldlive.com/europe/uk-steps-up-efforts-to-curb-screen-time/"
   ],
-  "Number / Device Tracking": [
-    "https://github.com/Sedolf/NeuroCod-Tracker"
-  ],
-  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach"
+    "https://securityboulevard.com/2026/03/how-to-ensure-confident-data-privacy-with-nhis/",
+    "https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss",
+    "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/lina767/digital-war-room",
-    "https://github.com/OmphalosOSINT/OSINT-Playbook"
+    "https://github.com/chatGTPprobe/SitRoom"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
