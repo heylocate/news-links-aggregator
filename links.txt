@@ -1,10 +1,9 @@
-## Parental Control
-https://www.mobileworldlive.com/europe/uk-steps-up-efforts-to-curb-screen-time/
+## Phone Lookup
+https://github.com/ArturKos/CallerID
 
 ## Security & Anti-Abuse
-https://securityboulevard.com/2026/03/how-to-ensure-confident-data-privacy-with-nhis/
-https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss
-https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/
+https://databreaches.net/2026/03/28/thousands-of-corewell-health-patients-affected-by-security-breach/?pk_campaign=feed&pk_kwd=thousands-of-corewell-health-patients-affected-by-security-breach
 
 ## OSINT & Open Source Intelligence
-https://github.com/chatGTPprobe/SitRoom
+https://github.com/lockfale/OSINT-Framework
+https://github.com/jp-220738/OsintInteractive

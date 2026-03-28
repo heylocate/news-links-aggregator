@@ -3531,3 +3531,7 @@ https://securityboulevard.com/2026/03/how-to-ensure-confident-data-privacy-with-
 https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/
 https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss
 https://www.mobileworldlive.com/europe/uk-steps-up-efforts-to-curb-screen-time/
+https://databreaches.net/2026/03/28/thousands-of-corewell-health-patients-affected-by-security-breach/?pk_campaign=feed&pk_kwd=thousands-of-corewell-health-patients-affected-by-security-breach
+https://github.com/ArturKos/CallerID
+https://github.com/jp-220738/OsintInteractive
+https://github.com/lockfale/OSINT-Framework
