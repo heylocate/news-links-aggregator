@@ -3539,3 +3539,5 @@ https://databreaches.net/2026/03/28/thankfully-the-infinite-campus-incident-did-
 https://github.com/champmq/CoSINT
 https://www.macrumors.com/2026/03/28/future-iphone-drivers-license-states/
 https://www.zdnet.com/article/why-scammers-call-you-say-nothing-how-to-respond-safely/
+https://github.com/Davizitos007/OSINT-NEXUS
+https://github.com/Prajwalgrathish/TotalOSINT

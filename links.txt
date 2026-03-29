@@ -1,11 +1,3 @@
-## Phone Lookup
-https://www.zdnet.com/article/why-scammers-call-you-say-nothing-how-to-respond-safely/
-
-## Background Check
-https://www.macrumors.com/2026/03/28/future-iphone-drivers-license-states/
-
-## Security & Anti-Abuse
-https://databreaches.net/2026/03/28/thankfully-the-infinite-campus-incident-did-not-involve-a-lot-of-non-directory-student-information/?pk_campaign=feed&pk_kwd=thankfully-the-infinite-campus-incident-did-not-involve-a-lot-of-non-directory-student-information
-
 ## OSINT & Open Source Intelligence
-https://github.com/champmq/CoSINT
+https://github.com/Prajwalgrathish/TotalOSINT
+https://github.com/Davizitos007/OSINT-NEXUS
