@@ -1,16 +1,20 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/joelst/entra-verified-id-helpdesk",
+    "https://github.com/amishounak/ShadowContacts"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.zdnet.com/article/google-maps-settings-features-tips-tricks/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Prajwalgrathish/TotalOSINT",
-    "https://github.com/Davizitos007/OSINT-NEXUS"
+    "https://github.com/lasawno/Knowledge-Base-Integration"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

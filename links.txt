@@ -1,3 +1,9 @@
+## Phone Lookup
+https://github.com/joelst/entra-verified-id-helpdesk
+https://github.com/amishounak/ShadowContacts
+
+## Address Lookup
+https://www.zdnet.com/article/google-maps-settings-features-tips-tricks/
+
 ## OSINT & Open Source Intelligence
-https://github.com/Prajwalgrathish/TotalOSINT
-https://github.com/Davizitos007/OSINT-NEXUS
+https://github.com/lasawno/Knowledge-Base-Integration

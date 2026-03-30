@@ -3541,3 +3541,7 @@ https://www.macrumors.com/2026/03/28/future-iphone-drivers-license-states/
 https://www.zdnet.com/article/why-scammers-call-you-say-nothing-how-to-respond-safely/
 https://github.com/Davizitos007/OSINT-NEXUS
 https://github.com/Prajwalgrathish/TotalOSINT
+https://github.com/amishounak/ShadowContacts
+https://github.com/joelst/entra-verified-id-helpdesk
+https://github.com/lasawno/Knowledge-Base-Integration
+https://www.zdnet.com/article/google-maps-settings-features-tips-tricks/
