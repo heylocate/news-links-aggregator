@@ -1,28 +1,26 @@
 {
-  "Phone Lookup": [
-    "https://www.prnewswire.com/news-releases/truecaller-expands-business-messaging-ecosystem-to-multiple-partners-enabling-global-scale-302728672.html"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.cnet.com/tech/services-and-software/norton-antivirus-review/"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://blog.google/products-and-platforms/products/maps/google-maps-simplifies-battery-predictions-and-trip-planning-for-350-android-auto-ev-models/",
-    "https://9to5google.com/2026/03/30/android-auto-maps-ev-trip-planning/"
+    "https://www.cnet.com/roadshow/news/google-maps-android-auto-ev-roadrip-charge-plan-update/",
+    "https://www.phonearena.com/news/more-vehicles-support-google-maps-ev-charging-features_id179284",
+    "https://www.androidheadlines.com/2026/03/new-google-maps-features-for-350-android-auto-ev-models-look-to-ease-drivers-range-anxiety.html",
+    "https://www.howtogeek.com/the-google-maps-update-ev-owners-have-been-waiting-for-is-finally-here/",
+    "https://www.androidpolice.com/google-maps-simplifies-battery-predictions-and-trip-planning-for-evs/",
+    "https://www.androidcentral.com/apps-software/google-maps/get-in-android-auto-evs-see-ai-battery-predictions-in-google-maps-for-stress-free-plans"
   ],
-  "Image Search": [],
+  "Image Search": [
+    "https://www.engadget.com/cybersecurity/okcupid-settles-ftc-case-on-alleged-misuse-of-its-users-personal-data-175159228.html?src=rss"
+  ],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.techradar.com/pro/security/european-commission-confirms-platform-data-breach-admits-data-have-been-taken-from-official-websites"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/JorgeRosbel/webpeek"
+    "https://github.com/mcasrom/iran-osint-monitor"
   ],
   "Number Utilities & International": [],
-  "Monitoring / Spy Apps": [
-    "https://www.cnet.com/tech/gaming/how-a-former-overwatch-pro-made-mizuki/"
-  ],
+  "Monitoring / Spy Apps": [],
   "Uncategorized": []
 }
