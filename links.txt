@@ -1,13 +1,15 @@
 ## Address Lookup
-https://www.cnet.com/roadshow/news/google-maps-android-auto-ev-roadrip-charge-plan-update/
-https://www.phonearena.com/news/more-vehicles-support-google-maps-ev-charging-features_id179284
-https://www.androidheadlines.com/2026/03/new-google-maps-features-for-350-android-auto-ev-models-look-to-ease-drivers-range-anxiety.html
-https://www.howtogeek.com/the-google-maps-update-ev-owners-have-been-waiting-for-is-finally-here/
-https://www.androidpolice.com/google-maps-simplifies-battery-predictions-and-trip-planning-for-evs/
-https://www.androidcentral.com/apps-software/google-maps/get-in-android-auto-evs-see-ai-battery-predictions-in-google-maps-for-stress-free-plans
+https://9to5google.com/2026/03/31/google-shows-how-you-should-use-ask-maps-as-the-feature-rolls-out-widely/
+https://www.computerworld.com/article/4152003/it-lesson-from-the-iran-war-ai-makes-your-data-problems-so-much-worse.html
+https://www.bgr.com/2136133/android-auto-new-feature-ev-trip-planning-supported-car-brands/
+https://www.tomsguide.com/phones/android-phones/google-maps-just-added-a-major-ev-charging-update-and-it-fixes-one-of-my-biggest-electric-driving-problems
 
-## Image Search
-https://www.engadget.com/cybersecurity/okcupid-settles-ftc-case-on-alleged-misuse-of-its-users-personal-data-175159228.html?src=rss
+## Security & Anti-Abuse
+https://haveibeenpwned.com/Breach/CutiesAI
 
 ## OSINT & Open Source Intelligence
-https://github.com/mcasrom/iran-osint-monitor
+https://github.com/apurvsinghgautam/robin
+https://github.com/pretivello/osint.win
+
+## Uncategorized
+https://www.theverge.com/tech/904081/meta-mpa-agreement-pg-13-rating
