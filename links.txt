@@ -1,19 +1,10 @@
-## Phone Lookup
-https://techcrunch.com/2026/03/31/caller-id-app-truecaller-hits-500-million-monthly-users/
-https://github.com/csong8-dev/lucy-middleware
-
-## Number / Device Tracking
-https://9to5mac.com/2026/03/31/app-store-connect-adds-11-new-languages-for-localized-app-metadata/
-
 ## Parental Control
-https://www.qustodio.com/en/blog/teen-boys-and-sports-gambling/
+https://www.pcworld.com/article/3104521/teenagers-gemini-mistake-locks-entire-family-out-of-google-accounts.html
+https://www.wired.com/story/user-behavior-taylor-lorenz/
 
-## OSINT & Open Source Intelligence
-https://github.com/Ringmast4r/Huginn-Muninn
-https://github.com/Stojanovic94/Security-Analyst-Toolkit
+## Background Check
+https://developer.vonage.com/en/blog/q1-2026-vonage-developer-recap
 
-## Monitoring / Spy Apps
-https://www.cnet.com/tech/gaming/overwatch-first-look-hero-51/
-
-## Uncategorized
-https://www.engadget.com/social-media/meta-will-substantially-reduce-describing-instagram-teen-accounts-as-pg-13-175912683.html?src=rss
+## Security & Anti-Abuse
+https://www.pcworld.com/article/3102935/the-lastpass-breach-settlement-is-real-heres-what-you-should-know.html
+https://haveibeenpwned.com/Breach/SUCCESS
