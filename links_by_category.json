@@ -1,27 +1,29 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Phone Lookup": [
+    "https://techcrunch.com/2026/03/31/caller-id-app-truecaller-hits-500-million-monthly-users/",
+    "https://github.com/csong8-dev/lucy-middleware"
+  ],
+  "Number / Device Tracking": [
+    "https://9to5mac.com/2026/03/31/app-store-connect-adds-11-new-languages-for-localized-app-metadata/"
+  ],
+  "Parental Control": [
+    "https://www.qustodio.com/en/blog/teen-boys-and-sports-gambling/"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://9to5google.com/2026/03/31/google-shows-how-you-should-use-ask-maps-as-the-feature-rolls-out-widely/",
-    "https://www.computerworld.com/article/4152003/it-lesson-from-the-iran-war-ai-makes-your-data-problems-so-much-worse.html",
-    "https://www.bgr.com/2136133/android-auto-new-feature-ev-trip-planning-supported-car-brands/",
-    "https://www.tomsguide.com/phones/android-phones/google-maps-just-added-a-major-ev-charging-update-and-it-fixes-one-of-my-biggest-electric-driving-problems"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/CutiesAI"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/apurvsinghgautam/robin",
-    "https://github.com/pretivello/osint.win"
+    "https://github.com/Ringmast4r/Huginn-Muninn",
+    "https://github.com/Stojanovic94/Security-Analyst-Toolkit"
   ],
   "Number Utilities & International": [],
-  "Monitoring / Spy Apps": [],
+  "Monitoring / Spy Apps": [
+    "https://www.cnet.com/tech/gaming/overwatch-first-look-hero-51/"
+  ],
   "Uncategorized": [
-    "https://www.theverge.com/tech/904081/meta-mpa-agreement-pg-13-rating"
+    "https://www.engadget.com/social-media/meta-will-substantially-reduce-describing-instagram-teen-accounts-as-pg-13-175912683.html?src=rss"
   ]
 }
