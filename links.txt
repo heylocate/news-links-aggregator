@@ -1,10 +1,8 @@
-## Parental Control
-https://www.pcworld.com/article/3104521/teenagers-gemini-mistake-locks-entire-family-out-of-google-accounts.html
-https://www.wired.com/story/user-behavior-taylor-lorenz/
-
-## Background Check
-https://developer.vonage.com/en/blog/q1-2026-vonage-developer-recap
+## Phone Lookup
+https://github.com/zosko/caller-id
 
 ## Security & Anti-Abuse
-https://www.pcworld.com/article/3102935/the-lastpass-breach-settlement-is-real-heres-what-you-should-know.html
-https://haveibeenpwned.com/Breach/SUCCESS
+https://www.prnewswire.com/news-releases/privacy-alert-nacogdoches-memorial-hospital-under-investigation-for-data-breach-of-over-250-000-records-302732257.html
+
+## OSINT & Open Source Intelligence
+https://github.com/0x31i/asm-ng
