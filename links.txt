@@ -1,8 +1,5 @@
-## Phone Lookup
-https://github.com/zosko/caller-id
-
-## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/privacy-alert-nacogdoches-memorial-hospital-under-investigation-for-data-breach-of-over-250-000-records-302732257.html
+## Background Check
+https://www.theverge.com/tech/905922/new-york-3d-printed-ghost-gun-ban-luigi-mangione-united-healthcare-shooting
 
 ## OSINT & Open Source Intelligence
-https://github.com/0x31i/asm-ng
+https://github.com/Parkemoon/cross-strait-signal

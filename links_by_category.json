@@ -1,19 +1,17 @@
 {
-  "Phone Lookup": [
-    "https://github.com/zosko/caller-id"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.theverge.com/tech/905922/new-york-3d-printed-ghost-gun-ban-luigi-mangione-united-healthcare-shooting"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.prnewswire.com/news-releases/privacy-alert-nacogdoches-memorial-hospital-under-investigation-for-data-breach-of-over-250-000-records-302732257.html"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/0x31i/asm-ng"
+    "https://github.com/Parkemoon/cross-strait-signal"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

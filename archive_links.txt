@@ -3584,3 +3584,5 @@ https://www.wired.com/story/user-behavior-taylor-lorenz/
 https://github.com/0x31i/asm-ng
 https://github.com/zosko/caller-id
 https://www.prnewswire.com/news-releases/privacy-alert-nacogdoches-memorial-hospital-under-investigation-for-data-breach-of-over-250-000-records-302732257.html
+https://github.com/Parkemoon/cross-strait-signal
+https://www.theverge.com/tech/905922/new-york-3d-printed-ghost-gun-ban-luigi-mangione-united-healthcare-shooting
