@@ -1,5 +1,10 @@
-## Background Check
-https://www.theverge.com/tech/905922/new-york-3d-printed-ghost-gun-ban-luigi-mangione-united-healthcare-shooting
+## Phone Lookup
+https://seclists.org/fulldisclosure/2026/Apr/2
+
+## Parental Control
+https://www.eff.org/deeplinks/2026/03/speaking-freely-jacob-mchangama
 
 ## OSINT & Open Source Intelligence
-https://github.com/Parkemoon/cross-strait-signal
+https://github.com/dananmay/palomar
+https://github.com/arshad9061/osint-x
+https://github.com/souza19811214/GhostRecon

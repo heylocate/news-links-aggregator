@@ -3586,3 +3586,8 @@ https://github.com/zosko/caller-id
 https://www.prnewswire.com/news-releases/privacy-alert-nacogdoches-memorial-hospital-under-investigation-for-data-breach-of-over-250-000-records-302732257.html
 https://github.com/Parkemoon/cross-strait-signal
 https://www.theverge.com/tech/905922/new-york-3d-printed-ghost-gun-ban-luigi-mangione-united-healthcare-shooting
+https://github.com/arshad9061/osint-x
+https://github.com/dananmay/palomar
+https://github.com/souza19811214/GhostRecon
+https://seclists.org/fulldisclosure/2026/Apr/2
+https://www.eff.org/deeplinks/2026/03/speaking-freely-jacob-mchangama
