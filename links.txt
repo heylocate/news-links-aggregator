@@ -1,10 +1,10 @@
-## Phone Lookup
-https://seclists.org/fulldisclosure/2026/Apr/2
+## Number / Device Tracking
+https://www.tomsguide.com/computing/vpns/heypolo-vs-life360-which-location-sharing-app-is-better-for-your-personal-data
 
 ## Parental Control
-https://www.eff.org/deeplinks/2026/03/speaking-freely-jacob-mchangama
+https://www.zdnet.com/article/bloom-card-review/
+https://www.cnet.com/tech/mobile/how-to-turn-your-iphone-into-a-dumb-phone-to-lower-screentime-and-curb-phone-addiction/
 
 ## OSINT & Open Source Intelligence
-https://github.com/dananmay/palomar
-https://github.com/arshad9061/osint-x
-https://github.com/souza19811214/GhostRecon
+https://github.com/claramercury/Guerra-ir-n-an-lisis-OSINT
+https://github.com/noamrozenfeld/shaagat-haari
