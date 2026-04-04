@@ -1,10 +1,9 @@
 {
-  "Phone Lookup": [
-    "https://therecord.media/fcc-proposes-5-million-fine-robocall"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/"
+    "https://github.com/Gadai14/Digital_wellbeing",
+    "https://www.macworld.com/article/3103787/this-montessori-kids-app-turns-screen-time-into-learning-time-now-76-off.html"
   ],
   "Background Check": [],
   "People Search": [],
@@ -12,21 +11,12 @@
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://therecord.media/european-commission-cyberattack-teampcp",
-    "https://haveibeenpwned.com/Breach/SongTrivia2",
-    "https://www.globenewswire.com/news-release/2026/04/03/3268159/0/en/Data-Breach-Alert-Edelson-Lechtzin-LLP-Investigates-Hims-Hers-Inc-Data-Breach.html",
-    "https://databreaches.net/2026/04/03/questions-raised-after-cherry-creek-students-notified-of-data-breach-lawsuit/?pk_campaign=feed&pk_kwd=questions-raised-after-cherry-creek-students-notified-of-data-breach-lawsuit",
-    "https://databreaches.net/2026/04/03/bakerhostetlers-2026-report-findings-from-1250-clients-breach-experiences-in-2025/?pk_campaign=feed&pk_kwd=bakerhostetlers-2026-report-findings-from-1250-clients-breach-experiences-in-2025",
-    "https://databreaches.net/2026/04/03/nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach/?pk_campaign=feed&pk_kwd=nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach",
-    "https://databreaches.net/2026/04/03/italys-data-protection-regulator-fined-intesa-sanpaolo-e31-8-million-over-insider-data-breach/?pk_campaign=feed&pk_kwd=italys-data-protection-regulator-fined-intesa-sanpaolo-e31-8-million-over-insider-data-breach",
-    "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-    "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/"
+    "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+    "https://thenextweb.com/news/european-commission-breach-trivy-supply-chain"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/SamForbes70/alumnibeacon",
-    "https://github.com/mjlak1000/cls-osint-engine-",
-    "https://github.com/TGOSINTMASTER/telegram-osint-bot",
-    "https://github.com/alonebeast002/spectre"
+    "https://github.com/NovaCode37/SakuraOsintTryhackme-completed",
+    "https://github.com/Krish-Patwa01/FileOsint"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

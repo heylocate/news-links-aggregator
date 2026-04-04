@@ -3611,3 +3611,9 @@ https://therecord.media/european-commission-cyberattack-teampcp
 https://therecord.media/fcc-proposes-5-million-fine-robocall
 https://www.globenewswire.com/news-release/2026/04/03/3268159/0/en/Data-Breach-Alert-Edelson-Lechtzin-LLP-Investigates-Hims-Hers-Inc-Data-Breach.html
 https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/
+https://github.com/Gadai14/Digital_wellbeing
+https://github.com/Krish-Patwa01/FileOsint
+https://github.com/NovaCode37/SakuraOsintTryhackme-completed
+https://thenextweb.com/news/european-commission-breach-trivy-supply-chain
+https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/
+https://www.macworld.com/article/3103787/this-montessori-kids-app-turns-screen-time-into-learning-time-now-76-off.html
