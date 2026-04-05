@@ -1,11 +1,14 @@
+## Phone Lookup
+https://github.com/ni554n/truecallerjs_bot
+
 ## Parental Control
-https://github.com/Gadai14/Digital_wellbeing
-https://www.macworld.com/article/3103787/this-montessori-kids-app-turns-screen-time-into-learning-time-now-76-off.html
+https://gizmodo.com/i-regret-to-inform-you-that-the-artemis-ii-astronauts-are-having-lots-of-screen-time-2000742513
 
 ## Security & Anti-Abuse
-https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/
-https://thenextweb.com/news/european-commission-breach-trivy-supply-chain
+https://databreaches.net/2026/04/04/hong-kong-hospital-authority-apologises-for-data-breach-involving-56000-patients/?pk_campaign=feed&pk_kwd=hong-kong-hospital-authority-apologises-for-data-breach-involving-56000-patients
+https://databreaches.net/2026/04/04/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/?pk_campaign=feed&pk_kwd=meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk
+https://securityboulevard.com/2026/04/internet-connected-coffee-machine-reportedly-led-to-corporate-data-breach/
 
 ## OSINT & Open Source Intelligence
-https://github.com/NovaCode37/SakuraOsintTryhackme-completed
-https://github.com/Krish-Patwa01/FileOsint
+https://github.com/1oosedows/enna
+https://osintradar.com/
