@@ -3629,3 +3629,8 @@ https://github.com/giovabal/pulpit
 https://github.com/xryuseix/exifpr
 https://www.theverge.com/tech/907015/gemini-google-maps-hands-on
 https://www.tomsguide.com/phones/never-be-late-lose-your-car-or-stress-about-parking-again-3-google-maps-features-i-swear-by
+https://github.com/Gokul-Eswar/OSINT-Agent
+https://github.com/MysticX662/ThreatMonitoring
+https://github.com/TannerTunstall/OSINT-Monitor
+https://github.com/dkphiv/osint-analysis
+https://www.socialmediatoday.com/news/major-social-platforms-issue-joint-warning-about-child-safety-in-eu/816661/
