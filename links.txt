@@ -1,8 +1,7 @@
-## Parental Control
-https://www.socialmediatoday.com/news/major-social-platforms-issue-joint-warning-about-child-safety-in-eu/816661/
+## Phone Lookup
+https://www.phonearena.com/news/galaxy-s25-series-to-get-call-screening-feature_id179465
 
-## OSINT & Open Source Intelligence
-https://github.com/dkphiv/osint-analysis
-https://github.com/TannerTunstall/OSINT-Monitor
-https://github.com/Gokul-Eswar/OSINT-Agent
-https://github.com/MysticX662/ThreatMonitoring
+## Security & Anti-Abuse
+https://www.techradar.com/pro/security/one-of-the-largest-corporate-espionage-and-data-breach-scandals-in-digital-history-new-browsergate-report-claims-linkedin-secretly-scans-user-browsers-for-installed-extensions-and-collects-device-data
+https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/
+https://databreaches.net/2026/04/06/two-data-security-incidents-affected-immigration-law-firms-and-their-clients/?pk_campaign=feed&pk_kwd=two-data-security-incidents-affected-immigration-law-firms-and-their-clients
