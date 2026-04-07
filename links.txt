@@ -1,7 +1,13 @@
-## Security & Anti-Abuse
-https://databreaches.net/2026/04/06/jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group
+## Parental Control
+https://www.macworld.com/article/3108120/intego-one-review.html
+https://www.prnewswire.com/news-releases/littlebird-and-lacuna-space-partner-to-expand-the-precision-safety-network-for-families-302735865.html
 
-## OSINT & Open Source Intelligence
-https://github.com/hanyshehata1510/RoboBack
-https://github.com/gustqvo432/LootBin
-https://github.com/FLORCRIOLLO/blueosint
+## Address Lookup
+https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/
+https://9to5google.com/2026/04/07/google-maps-to-suggest-photos-using-your-library/
+https://www.pcworld.com/article/3106032/sharing-your-location-with-chatgpt-do-it-the-right-way.html
+https://www.prnewswire.com/news-releases/precisely-expands-fedramp-authorized-offering-with-address-verification-and-geocoding-302735072.html
+
+## Security & Anti-Abuse
+https://securityboulevard.com/2026/04/the-complete-guide-to-passwordless-authentication-in-2026-how-it-works-why-it-matters-and-how-to-implement-it/
+https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html
