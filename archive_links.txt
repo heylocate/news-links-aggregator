@@ -3638,3 +3638,7 @@ https://databreaches.net/2026/04/06/two-data-security-incidents-affected-immigra
 https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/
 https://www.phonearena.com/news/galaxy-s25-series-to-get-call-screening-feature_id179465
 https://www.techradar.com/pro/security/one-of-the-largest-corporate-espionage-and-data-breach-scandals-in-digital-history-new-browsergate-report-claims-linkedin-secretly-scans-user-browsers-for-installed-extensions-and-collects-device-data
+https://databreaches.net/2026/04/06/jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group
+https://github.com/FLORCRIOLLO/blueosint
+https://github.com/gustqvo432/LootBin
+https://github.com/hanyshehata1510/RoboBack
