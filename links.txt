@@ -1,13 +1,14 @@
-## Parental Control
-https://www.macworld.com/article/3108120/intego-one-review.html
-https://www.prnewswire.com/news-releases/littlebird-and-lacuna-space-partner-to-expand-the-precision-safety-network-for-families-302735865.html
+## Phone Lookup
+https://github.com/marceloalmeida/get-caller-identity
 
 ## Address Lookup
-https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/
-https://9to5google.com/2026/04/07/google-maps-to-suggest-photos-using-your-library/
-https://www.pcworld.com/article/3106032/sharing-your-location-with-chatgpt-do-it-the-right-way.html
-https://www.prnewswire.com/news-releases/precisely-expands-fedramp-authorized-offering-with-address-verification-and-geocoding-302735072.html
+https://www.androidheadlines.com/2026/04/google-maps-adds-ai-captions-to-improve-user-contributions-and-sharing.html
+https://thenextweb.com/news/google-maps-gemini-ai-photo-captions
 
 ## Security & Anti-Abuse
-https://securityboulevard.com/2026/04/the-complete-guide-to-passwordless-authentication-in-2026-how-it-works-why-it-matters-and-how-to-implement-it/
-https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html
+https://share.jotbird.com/restless-steady-riverbend
+https://haveibeenpwned.com/Breach/MyLovelyAI
+
+## OSINT & Open Source Intelligence
+https://github.com/stalk-project1331/stalk
+https://github.com/IccTeam/OwlTrack
