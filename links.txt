@@ -1,21 +1,11 @@
-## Phone Lookup
-https://www.prnewswire.com/news-releases/us-consumers-received-just-over-4-2-billion-robocalls-in-march-according-to-youmail-robocall-index-302737169.html
-
-## Number / Device Tracking
-https://github.com/Bird-Conservancy-of-the-Rockies/COREC-analysis
-
 ## Parental Control
-https://www.engadget.com/social-media/greece-will-ban-all-kids-under-15-from-using-social-media-154850415.html?src=rss
-https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/
+https://www.cnet.com/tech/services-and-software/openai-child-safety-framework-deepfakes-csam-news/
 
 ## Address Lookup
-https://www.tomsguide.com/ai/google-gemini/i-just-tried-the-new-google-maps-update-and-these-3-new-features-are-game-changers
+https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/
+https://www.cnet.com/tech/google-upgrades-crowdsourced-maps-features/
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/04/08/iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach/?pk_campaign=feed&pk_kwd=iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach
-https://securityboulevard.com/2026/04/ai-security-risks-how-enterprises-manage-llm-shadow-ai-and-agentic-threats-firetail-blog/
-https://databreaches.net/2026/04/08/hk-man-arrested-over-stolen-patient-personal-data/?pk_campaign=feed&pk_kwd=hk-man-arrested-over-stolen-patient-personal-data
-
-## OSINT & Open Source Intelligence
-https://github.com/mcasrom/SIEG-Mani
-https://github.com/yakuphanycl/WinstonRedGuard
+https://www.prnewswire.com/news-releases/privacy-alert-russell-cellular-under-investigation-for-data-breach-of-over-6-million-customer-and-employee-records-302737645.html
+https://www.prnewswire.com/news-releases/privacy-alert-docketwise-under-investigation-for-data-breach-of-over-116-000-records-302737614.html
+https://databreaches.net/2026/04/08/trumps-personnel-agency-is-asking-for-federal-workers-medical-records/?pk_campaign=feed&pk_kwd=trumps-personnel-agency-is-asking-for-federal-workers-medical-records
