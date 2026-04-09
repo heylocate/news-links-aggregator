@@ -1,24 +1,28 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.cnet.com/tech/services-and-software/openai-child-safety-framework-deepfakes-csam-news/"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
-    "https://www.cnet.com/tech/google-upgrades-crowdsourced-maps-features/"
+    "https://www.phonearena.com/news/google-wants-you-to-literally-tell-maps-your-opinion_id179562"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.prnewswire.com/news-releases/privacy-alert-russell-cellular-under-investigation-for-data-breach-of-over-6-million-customer-and-employee-records-302737645.html",
-    "https://www.prnewswire.com/news-releases/privacy-alert-docketwise-under-investigation-for-data-breach-of-over-116-000-records-302737614.html",
-    "https://databreaches.net/2026/04/08/trumps-personnel-agency-is-asking-for-federal-workers-medical-records/?pk_campaign=feed&pk_kwd=trumps-personnel-agency-is-asking-for-federal-workers-medical-records"
+    "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/",
+    "https://databreaches.net/2026/04/09/lotte-card-given-notice-of-3m-penalty-business-suspension-over-massive-data-breach/?pk_campaign=feed&pk_kwd=lotte-card-given-notice-of-3m-penalty-business-suspension-over-massive-data-breach",
+    "https://databreaches.net/2026/04/09/capita-under-investigation-after-workers-hit-by-pensions-data-breach/?pk_campaign=feed&pk_kwd=capita-under-investigation-after-workers-hit-by-pensions-data-breach"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/dMystification/reddit-pattern-matcher",
+    "https://github.com/stefanieversace/NYC-Event-Threat-Intelligence-Dashboard",
+    "https://github.com/kenny1046/SENTINEL"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://about.fb.com/news/2026/04/instagram-expands-teen-accounts-inspired-by-13-content-ratings-2/",
+    "https://about.fb.com/news/2026/04/instagram-expands-teen-accounts-inspired-by-13-content-ratings/"
+  ]
 }
