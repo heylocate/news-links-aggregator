@@ -1,8 +1,11 @@
 ## Phone Lookup
-https://blog.hiya.com/subscribers-believe-mobile-network-operators-should-protect-them-against-voice-fraud
-https://github.com/Self-order-kiosks/pos-system-for-takeaway-uk
-https://therecord.media/fcc-proposes-new-rule-robocall-crackdown
+https://github.com/AmarnathCJD/TrueLogs
 
-## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-figure-lending-corp-data-breach-affecting-nearly-1-million-users-302738937.html
-https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/
+## Parental Control
+https://www.prnewswire.com/news-releases/teenaegis-launches-ai-harm-index-characterai-scores-critical-openai-earns-most-improved-designation-with-lowest-risk-score-302738873.html
+
+## People Search
+https://www.zdnet.com/article/best-data-removal-services/
+
+## Address Lookup
+https://www.bgr.com/2142082/hidden-google-maps-features-make-trips-better/
