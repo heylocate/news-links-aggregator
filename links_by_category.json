@@ -1,28 +1,22 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.hiya.com/subscribers-believe-mobile-network-operators-should-protect-them-against-voice-fraud",
+    "https://github.com/Self-order-kiosks/pos-system-for-takeaway-uk",
+    "https://therecord.media/fcc-proposes-new-rule-robocall-crackdown"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.phonearena.com/news/google-wants-you-to-literally-tell-maps-your-opinion_id179562"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/",
-    "https://databreaches.net/2026/04/09/lotte-card-given-notice-of-3m-penalty-business-suspension-over-massive-data-breach/?pk_campaign=feed&pk_kwd=lotte-card-given-notice-of-3m-penalty-business-suspension-over-massive-data-breach",
-    "https://databreaches.net/2026/04/09/capita-under-investigation-after-workers-hit-by-pensions-data-breach/?pk_campaign=feed&pk_kwd=capita-under-investigation-after-workers-hit-by-pensions-data-breach"
+    "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-figure-lending-corp-data-breach-affecting-nearly-1-million-users-302738937.html",
+    "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/dMystification/reddit-pattern-matcher",
-    "https://github.com/stefanieversace/NYC-Event-Threat-Intelligence-Dashboard",
-    "https://github.com/kenny1046/SENTINEL"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://about.fb.com/news/2026/04/instagram-expands-teen-accounts-inspired-by-13-content-ratings-2/",
-    "https://about.fb.com/news/2026/04/instagram-expands-teen-accounts-inspired-by-13-content-ratings/"
-  ]
+  "Uncategorized": []
 }
