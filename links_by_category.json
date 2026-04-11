@@ -1,14 +1,24 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/rowansfriedman12-bot/SpoofGlobal"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://github.com/Pranish-Sapkota/Phone-Number-Tracker",
+    "https://www.howtogeek.com/i-use-waze-every-day-but-i-still-keep-google-maps-for-this-one-feature/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/shadowblaze73442-bot/Kya-osint-",
+    "https://github.com/dcf666/osint-mideast-report"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
