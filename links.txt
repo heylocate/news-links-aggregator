@@ -1,0 +1,10 @@
+## Number / Device Tracking
+https://www.macworld.com/article/3108642/apple-users-are-trading-their-airtags-for-this-24-alternative.html
+
+## Parental Control
+https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/
+
+## OSINT & Open Source Intelligence
+https://github.com/CyberZ7/Ghostint-Tools
+https://github.com/mufon609/uap_osint
+https://github.com/ahnaf-hasan/OSINT-Tracker
