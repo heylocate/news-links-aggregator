@@ -1,5 +1,15 @@
 ## Phone Lookup
-https://www.phonearena.com/news/real-life-example-of-sim-swap-costs-verizon-customer-big-bucks_id179620
+https://github.com/Lavanyasingh88/Caller_id_app
+
+## Address Lookup
+https://www.howtogeek.com/switched-from-google-maps-to-open-source-alternative/
 
 ## Security & Anti-Abuse
-https://www.techspot.com/news/112038-rockstar-games-hit-ransom-demand-after-third-party.html
+https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/
+https://research.checkpoint.com/2026/13th-april-threat-intelligence-report/
+https://www.techradar.com/pro/security/rockstar-confirms-major-third-party-data-breach-gta-vi-maker-says-no-impact-on-our-organization-or-our-players
+
+## OSINT & Open Source Intelligence
+https://github.com/xcmvaditya/Ghost-Osint
+https://github.com/nnullTrace/cybersecurity-portfolio
+https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit
