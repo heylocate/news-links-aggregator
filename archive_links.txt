@@ -3702,3 +3702,5 @@ https://github.com/ahnaf-hasan/OSINT-Tracker
 https://github.com/mufon609/uap_osint
 https://www.macworld.com/article/3108642/apple-users-are-trading-their-airtags-for-this-24-alternative.html
 https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/
+https://www.phonearena.com/news/real-life-example-of-sim-swap-costs-verizon-customer-big-bucks_id179620
+https://www.techspot.com/news/112038-rockstar-games-hit-ransom-demand-after-third-party.html
