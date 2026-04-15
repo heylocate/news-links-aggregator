@@ -3738,3 +3738,8 @@ https://securityboulevard.com/2026/04/cisco-crm-salesforce-data-breach-claims-ti
 https://securityboulevard.com/2026/04/what-makes-agentic-ai-a-smart-choice-for-data-security/
 https://therecord.media/virginia-enacts-ban-on-precise-geolocation-data
 https://www.cnet.com/home/internet/117-5m-comcast-data-breach-settlement-site/
+https://github.com/CyberCipherIntel/threat-intel
+https://github.com/butlerboy94/shadowsight-backend
+https://hackernoon.com/the-$126-million-patient-zero-healthcares-identity-crisis?source=rss
+https://therecord.media/mcgraw-hill-data-leak-tied-to-salesforce-misconfiguration
+https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/

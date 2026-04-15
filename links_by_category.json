@@ -1,23 +1,22 @@
 {
   "Phone Lookup": [
-    "https://blog.hiya.com/eroding-trust-is-crippling-the-voice-channel"
+    "https://github.com/butlerboy94/shadowsight-backend"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [
-    "https://therecord.media/virginia-enacts-ban-on-precise-geolocation-data"
+  "Parental Control": [
+    "https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/"
   ],
+  "Background Check": [],
+  "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://securityboulevard.com/2026/04/cisco-crm-salesforce-data-breach-claims-tied-to-shinyhunters-what-defenders-should-look-for-and-how-to-respond/",
-    "https://securityboulevard.com/2026/04/what-makes-agentic-ai-a-smart-choice-for-data-security/",
-    "https://www.cnet.com/home/internet/117-5m-comcast-data-breach-settlement-site/"
+    "https://therecord.media/mcgraw-hill-data-leak-tied-to-salesforce-misconfiguration",
+    "https://hackernoon.com/the-$126-million-patient-zero-healthcares-identity-crisis?source=rss"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Tonaco97/tonaco-cyber"
+    "https://github.com/CyberCipherIntel/threat-intel"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
