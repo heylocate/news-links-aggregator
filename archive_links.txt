@@ -3732,3 +3732,9 @@ https://www.techradar.com/pro/security/basic-fit-gym-group-data-breach-exposes-d
 https://www.techradar.com/pro/security/booking-com-confirms-reservation-data-breach-tells-customers-hackers-may-have-been-able-to-access-certain-booking-information
 https://www.verizon.com/about/news/screen-time-guidelines-new-rules-raising-kids-phones
 https://www.verizon.com/about/parenting/screen-time-guidelines-verizon-family
+https://blog.hiya.com/eroding-trust-is-crippling-the-voice-channel
+https://github.com/Tonaco97/tonaco-cyber
+https://securityboulevard.com/2026/04/cisco-crm-salesforce-data-breach-claims-tied-to-shinyhunters-what-defenders-should-look-for-and-how-to-respond/
+https://securityboulevard.com/2026/04/what-makes-agentic-ai-a-smart-choice-for-data-security/
+https://therecord.media/virginia-enacts-ban-on-precise-geolocation-data
+https://www.cnet.com/home/internet/117-5m-comcast-data-breach-settlement-site/
