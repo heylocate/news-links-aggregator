@@ -3744,3 +3744,10 @@ https://hackernoon.com/the-$126-million-patient-zero-healthcares-identity-crisis
 https://therecord.media/mcgraw-hill-data-leak-tied-to-salesforce-misconfiguration
 https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/
 https://haveibeenpwned.com/Breach/McGrawHill
+https://github.com/Bli1z/Aegis
+https://github.com/demirgitbuh/demchecker
+https://securityboulevard.com/2026/04/is-aquila-dmitry-from-wasm-forum-community-the-author-of-the-carberp-banking-malware/
+https://securityboulevard.com/2026/04/payouts-king-takes-aim-at-the-ransomware-throne/
+https://www.engadget.com/ai/anthropic-will-ask-claude-users-to-verify-their-identities-for-a-few-use-cases-115754092.html?src=rss
+https://www.engadget.com/apps/youtube-now-lets-you-hide-shorts-085538825.html?src=rss
+https://www.tomsguide.com/phones/i-just-tried-google-maps-new-bus-tracking-feature-in-the-uk-its-a-good-start-but-theres-room-to-improve

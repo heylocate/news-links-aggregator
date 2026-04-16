@@ -1,2 +1,16 @@
-## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/McGrawHill
+## Phone Lookup
+https://securityboulevard.com/2026/04/payouts-king-takes-aim-at-the-ransomware-throne/
+
+## Parental Control
+https://www.engadget.com/apps/youtube-now-lets-you-hide-shorts-085538825.html?src=rss
+
+## Background Check
+https://www.engadget.com/ai/anthropic-will-ask-claude-users-to-verify-their-identities-for-a-few-use-cases-115754092.html?src=rss
+
+## Address Lookup
+https://www.tomsguide.com/phones/i-just-tried-google-maps-new-bus-tracking-feature-in-the-uk-its-a-good-start-but-theres-room-to-improve
+
+## OSINT & Open Source Intelligence
+https://github.com/demirgitbuh/demchecker
+https://github.com/Bli1z/Aegis
+https://securityboulevard.com/2026/04/is-aquila-dmitry-from-wasm-forum-community-the-author-of-the-carberp-banking-malware/

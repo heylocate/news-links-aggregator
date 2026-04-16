@@ -1,16 +1,26 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://securityboulevard.com/2026/04/payouts-king-takes-aim-at-the-ransomware-throne/"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
+  "Parental Control": [
+    "https://www.engadget.com/apps/youtube-now-lets-you-hide-shorts-085538825.html?src=rss"
+  ],
+  "Background Check": [
+    "https://www.engadget.com/ai/anthropic-will-ask-claude-users-to-verify-their-identities-for-a-few-use-cases-115754092.html?src=rss"
+  ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.tomsguide.com/phones/i-just-tried-google-maps-new-bus-tracking-feature-in-the-uk-its-a-good-start-but-theres-room-to-improve"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/McGrawHill"
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/demirgitbuh/demchecker",
+    "https://github.com/Bli1z/Aegis",
+    "https://securityboulevard.com/2026/04/is-aquila-dmitry-from-wasm-forum-community-the-author-of-the-carberp-banking-malware/"
   ],
-  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
