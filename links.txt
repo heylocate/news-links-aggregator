@@ -1,12 +1,2 @@
-## Phone Lookup
-https://github.com/butlerboy94/shadowsight-backend
-
-## Parental Control
-https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/
-
 ## Security & Anti-Abuse
-https://therecord.media/mcgraw-hill-data-leak-tied-to-salesforce-misconfiguration
-https://hackernoon.com/the-$126-million-patient-zero-healthcares-identity-crisis?source=rss
-
-## OSINT & Open Source Intelligence
-https://github.com/CyberCipherIntel/threat-intel
+https://haveibeenpwned.com/Breach/McGrawHill
