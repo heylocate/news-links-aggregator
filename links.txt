@@ -1,16 +1,18 @@
 ## Phone Lookup
-https://securityboulevard.com/2026/04/payouts-king-takes-aim-at-the-ransomware-throne/
+https://hackernoon.com/catching-989-out-of-100-deepfakes-what-it-takes-to-lead-hugging-faces-leaderboard?source=rss
 
 ## Parental Control
-https://www.engadget.com/apps/youtube-now-lets-you-hide-shorts-085538825.html?src=rss
+https://www.cnet.com/tech/gaming/roblox-settlement-nevada-12-million-payout-lawsuit-child-safety/
 
 ## Background Check
-https://www.engadget.com/ai/anthropic-will-ask-claude-users-to-verify-their-identities-for-a-few-use-cases-115754092.html?src=rss
+https://www.androidheadlines.com/2026/04/claude-ai-identity-verification-government-id-persona.html
+https://hackernoon.com/the-apple-pay-moment-for-web3-mixin-integrates-coinbase-to-make-fiat-to-crypto-faster-than-a-text?source=rss
 
 ## Address Lookup
-https://www.tomsguide.com/phones/i-just-tried-google-maps-new-bus-tracking-feature-in-the-uk-its-a-good-start-but-theres-room-to-improve
+https://www.androidpolice.com/gemini-is-google-maps-new-sheriff/
+
+## Email Lookup
+https://www.pr.com/press-release/966026
 
 ## OSINT & Open Source Intelligence
-https://github.com/demirgitbuh/demchecker
-https://github.com/Bli1z/Aegis
-https://securityboulevard.com/2026/04/is-aquila-dmitry-from-wasm-forum-community-the-author-of-the-carberp-banking-malware/
+https://github.com/wtv1gnf3hbk/iran-briefing
