@@ -1,18 +1,19 @@
-## Phone Lookup
-https://hackernoon.com/catching-989-out-of-100-deepfakes-what-it-takes-to-lead-hugging-faces-leaderboard?source=rss
+## Number / Device Tracking
+https://www.androidheadlines.com/2026/04/moft-trackable-tripod-wallet-debuts-with-apple-find-my-at-just-60.html
 
 ## Parental Control
-https://www.cnet.com/tech/gaming/roblox-settlement-nevada-12-million-payout-lawsuit-child-safety/
+https://www.androidcentral.com/phones/samsung-galaxy/samsungs-new-kids-tablet-adds-usd100-for-parental-controls-and-a-bouncy-case
 
 ## Background Check
-https://www.androidheadlines.com/2026/04/claude-ai-identity-verification-government-id-persona.html
-https://hackernoon.com/the-apple-pay-moment-for-web3-mixin-integrates-coinbase-to-make-fiat-to-crypto-faster-than-a-text?source=rss
+https://www.techradar.com/pro/claude-wants-your-passport-as-identity-verification-to-access-certain-capabilities-but-promises-it-isnt-using-your-face-to-train-its-models
 
-## Address Lookup
-https://www.androidpolice.com/gemini-is-google-maps-new-sheriff/
+## People Search
+https://www.pcworld.com/article/2941324/chrome-tracks-more-than-you-realize-heres-how-to-take-back-your-privacy.html
 
-## Email Lookup
-https://www.pr.com/press-release/966026
+## Security & Anti-Abuse
+https://databreaches.net/2026/04/17/oklahoma-state-tax-commission-fails-to-notice-data-breach-for-18-months/?pk_campaign=feed&pk_kwd=oklahoma-state-tax-commission-fails-to-notice-data-breach-for-18-months
 
 ## OSINT & Open Source Intelligence
-https://github.com/wtv1gnf3hbk/iran-briefing
+https://github.com/NeooeN45/Osint-Master
+https://github.com/acuestamd/geosentinel
+https://github.com/Baroude/pi5-recon-platform
