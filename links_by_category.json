@@ -1,27 +1,26 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.androidheadlines.com/2026/04/moft-trackable-tripod-wallet-debuts-with-apple-find-my-at-just-60.html"
-  ],
+  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-new-kids-tablet-adds-usd100-for-parental-controls-and-a-bouncy-case"
+    "https://appleinsider.com/articles/26/04/18/ice-monitoring-app-takedowns-violated-the-first-amendment"
   ],
   "Background Check": [
-    "https://www.techradar.com/pro/claude-wants-your-passport-as-identity-verification-to-access-certain-capabilities-but-promises-it-isnt-using-your-face-to-train-its-models"
+    "https://www.computerworld.com/article/4160511/world-id-expands-its-proof-of-human-vision-for-the-ai-era.html",
+    "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/"
   ],
-  "People Search": [
-    "https://www.pcworld.com/article/2941324/chrome-tracks-more-than-you-realize-heres-how-to-take-back-your-privacy.html"
-  ],
+  "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/04/17/oklahoma-state-tax-commission-fails-to-notice-data-breach-for-18-months/?pk_campaign=feed&pk_kwd=oklahoma-state-tax-commission-fails-to-notice-data-breach-for-18-months"
+    "https://databreaches.net/2026/04/18/judge-lets-state-auditors-investigation-into-data-breach-affecting-blue-cross-blue-shield-members-move-forward/?pk_campaign=feed&pk_kwd=judge-lets-state-auditors-investigation-into-data-breach-affecting-blue-cross-blue-shield-members-move-forward",
+    "https://www.slashgear.com/2150900/fbi-powerschool-hacker-arrest-matthew-lane/",
+    "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+    "https://securityboulevard.com/2026/04/ignoring-dpdp-compliance-heres-the-risk-to-your-organization/",
+    "https://securityboulevard.com/2026/04/booking-com-breach-shows-exactly-how-smishing-attacks-get-made/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/NeooeN45/Osint-Master",
-    "https://github.com/acuestamd/geosentinel",
-    "https://github.com/Baroude/pi5-recon-platform"
+    "https://github.com/agiprogrammerch/osint-center"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
