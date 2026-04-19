@@ -1,27 +1,14 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://appleinsider.com/articles/26/04/18/ice-monitoring-app-takedowns-violated-the-first-amendment"
-  ],
-  "Background Check": [
-    "https://www.computerworld.com/article/4160511/world-id-expands-its-proof-of-human-vision-for-the-ai-era.html",
-    "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/"
-  ],
+  "Parental Control": [],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/04/18/judge-lets-state-auditors-investigation-into-data-breach-affecting-blue-cross-blue-shield-members-move-forward/?pk_campaign=feed&pk_kwd=judge-lets-state-auditors-investigation-into-data-breach-affecting-blue-cross-blue-shield-members-move-forward",
-    "https://www.slashgear.com/2150900/fbi-powerschool-hacker-arrest-matthew-lane/",
-    "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-    "https://securityboulevard.com/2026/04/ignoring-dpdp-compliance-heres-the-risk-to-your-organization/",
-    "https://securityboulevard.com/2026/04/booking-com-breach-shows-exactly-how-smishing-attacks-get-made/"
-  ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/agiprogrammerch/osint-center"
-  ],
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
