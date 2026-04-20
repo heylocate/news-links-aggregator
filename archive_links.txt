@@ -3775,3 +3775,5 @@ https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-m
 https://www.computerworld.com/article/4160511/world-id-expands-its-proof-of-human-vision-for-the-ai-era.html
 https://www.slashgear.com/2150900/fbi-powerschool-hacker-arrest-matthew-lane/
 https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/
+https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer
+https://github.com/ampremgacor10-cyber/my-osint-bot

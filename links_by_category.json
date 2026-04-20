@@ -8,7 +8,10 @@
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer",
+    "https://github.com/ampremgacor10-cyber/my-osint-bot"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
