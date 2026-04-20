@@ -1,3 +1,16 @@
+## Phone Lookup
+https://www.prnewswire.com/news-releases/truecaller-nomination-committee-proposes-meta--samsung-veteran-sandeep-bhushan-as-a-board-member-302747406.html
+https://www.prnewswire.com/news-releases/notice-of-annual-general-meeting-in-truecaller-ab-302747382.html
+
+## Parental Control
+https://www.cnet.com/health/best-apps-to-help-manage-screen-time/
+
+## Security & Anti-Abuse
+https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/
+https://securityboulevard.com/2026/04/vercel-data-breach-linked-to-earlier-context-ai-compromise/
+
 ## OSINT & Open Source Intelligence
-https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer
-https://github.com/ampremgacor10-cyber/my-osint-bot
+https://github.com/Souvik-Ghost/imagetrace-osint
+
+## Uncategorized
+https://www.pcworld.com/article/2545435/windows-11s-ads-are-way-too-pushy-these-9-settings-fix-the-worst-of-it.html
