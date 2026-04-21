@@ -1,16 +1,11 @@
-## Number / Device Tracking
-https://github.com/aman-53/traxify
-
 ## Parental Control
-https://www.socialmediatoday.com/news/youtube-adds-enhanced-parental-controls-offers-tips-to-families/818020/
+https://www.engadget.com/home/smart-home/samsung-brings-smartthings-integration-to-ikeas-matter-devices-151819629.html?src=rss
+https://www.pcworld.com/article/3120244/microsoft-officially-says-you-dont-need-extra-antivirus-on-windows-11.html
 
 ## Background Check
-https://www.techradar.com/pro/veremark-background-check-review
-https://www.techradar.com/pro/accurate-background-review
-https://hackernoon.com/mixin-launches-u-margined-perpetual-contracts-bringing-derivatives-trading-into-chat?source=rss
+https://www.techradar.com/pro/hireright-review
 
-## Security & Anti-Abuse
-https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach
-
-## OSINT & Open Source Intelligence
-https://github.com/kishansaiyallanuru/OSINT-Modules
+## Address Lookup
+https://www.androidpolice.com/i-finally-get-the-hype-about-gemini-in-google-maps/
+https://www.cnet.com/tech/services-and-software/the-secret-google-maps-setting-that-blurs-your-home-from-creeps/
+https://www.tomsguide.com/ai/i-prompted-gemini-in-google-maps-to-find-local-hidden-gems-and-now-i-have-loads-of-new-places-to-check-out
