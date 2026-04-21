@@ -1,16 +1,16 @@
-## Phone Lookup
-https://www.prnewswire.com/news-releases/truecaller-nomination-committee-proposes-meta--samsung-veteran-sandeep-bhushan-as-a-board-member-302747406.html
-https://www.prnewswire.com/news-releases/notice-of-annual-general-meeting-in-truecaller-ab-302747382.html
+## Number / Device Tracking
+https://github.com/aman-53/traxify
 
 ## Parental Control
-https://www.cnet.com/health/best-apps-to-help-manage-screen-time/
+https://www.socialmediatoday.com/news/youtube-adds-enhanced-parental-controls-offers-tips-to-families/818020/
+
+## Background Check
+https://www.techradar.com/pro/veremark-background-check-review
+https://www.techradar.com/pro/accurate-background-review
+https://hackernoon.com/mixin-launches-u-margined-perpetual-contracts-bringing-derivatives-trading-into-chat?source=rss
 
 ## Security & Anti-Abuse
-https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/
-https://securityboulevard.com/2026/04/vercel-data-breach-linked-to-earlier-context-ai-compromise/
+https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach
 
 ## OSINT & Open Source Intelligence
-https://github.com/Souvik-Ghost/imagetrace-osint
-
-## Uncategorized
-https://www.pcworld.com/article/2545435/windows-11s-ads-are-way-too-pushy-these-9-settings-fix-the-worst-of-it.html
+https://github.com/kishansaiyallanuru/OSINT-Modules
