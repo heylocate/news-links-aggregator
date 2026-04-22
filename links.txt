@@ -1,11 +1,9 @@
 ## Parental Control
-https://www.engadget.com/home/smart-home/samsung-brings-smartthings-integration-to-ikeas-matter-devices-151819629.html?src=rss
-https://www.pcworld.com/article/3120244/microsoft-officially-says-you-dont-need-extra-antivirus-on-windows-11.html
+https://therecord.media/uk-regulator-to-probe-telegram-over-csam-allegations
 
 ## Background Check
-https://www.techradar.com/pro/hireright-review
+https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/
 
-## Address Lookup
-https://www.androidpolice.com/i-finally-get-the-hype-about-gemini-in-google-maps/
-https://www.cnet.com/tech/services-and-software/the-secret-google-maps-setting-that-blurs-your-home-from-creeps/
-https://www.tomsguide.com/ai/i-prompted-gemini-in-google-maps-to-find-local-hidden-gems-and-now-i-have-loads-of-new-places-to-check-out
+## Image Search
+https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss
+https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/

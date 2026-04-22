@@ -3797,3 +3797,7 @@ https://www.engadget.com/home/smart-home/samsung-brings-smartthings-integration-
 https://www.pcworld.com/article/3120244/microsoft-officially-says-you-dont-need-extra-antivirus-on-windows-11.html
 https://www.techradar.com/pro/hireright-review
 https://www.tomsguide.com/ai/i-prompted-gemini-in-google-maps-to-find-local-hidden-gems-and-now-i-have-loads-of-new-places-to-check-out
+https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/
+https://therecord.media/uk-regulator-to-probe-telegram-over-csam-allegations
+https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss
+https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/
