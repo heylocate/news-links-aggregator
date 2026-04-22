@@ -3801,3 +3801,14 @@ https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-set
 https://therecord.media/uk-regulator-to-probe-telegram-over-csam-allegations
 https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss
 https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/
+http://www.businesswire.com/news/home/20260422082375/en/Vodafone-Warns-Customers-About-Scam-Calls-Before-They-Answer-Powered-by-Hiya/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+https://developer.vonage.com/en/blog/forward-a-call-via-voice-proxy-with-php-dr
+https://github.com/V1n1v131r4/OSINT-Agentic-Framework
+https://saferinternet.org.uk/blog/roblox-updates-parental-controls-and-introduces-age-appropriate-experiences
+https://techcrunch.com/2026/04/22/cosmetics-giant-rituals-confirms-data-breach-of-customer-membership-records/
+https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/
+https://therecord.media/french-hacker-cyberattacks-arrest
+https://www.androidpolice.com/this-google-maps-feature-my-secret-weapon-planning-date-nights/
+https://www.eff.org/press/releases/eff-sues-dhs-and-ice-records-subpoenas-seeking-unmask-online-critics-0
+https://www.pcworld.com/article/2379676/is-windows-11s-built-in-antivirus-security-enough-for-normal-people.html
+https://www.techradar.com/pro/security/french-government-agency-admits-data-breach-as-hacker-alleges-up-to-19-million-sensitive-records-stolen-breach-may-have-exposed-data-from-individual-and-professional-accounts
