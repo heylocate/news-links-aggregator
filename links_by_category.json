@@ -1,25 +1,37 @@
 {
   "Phone Lookup": [
-    "https://blog.hiya.com/vodafone-adds-hiya-powered-spam-protection-in-the-uk"
+    "https://www.cnet.com/tech/services-and-software/say-goodbye-spam-calls-with-this-iphone-trick/"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
+  "Parental Control": [
+    "https://go.theregister.com/feed/www.theregister.com/2026/04/23/proton_ceo_age_checks_id_checkpoint/",
+    "https://www.techradar.com/vpn/vpn-privacy-security/uk-governments-child-safety-plans-could-expose-kids-to-greater-harms-warns-vpn-industry-group",
+    "https://www.pcworld.com/article/3120244/you-dont-need-extra-antivirus-on-windows-11-microsoft-officially-says.html",
+    "https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds"
+  ],
+  "Background Check": [
+    "http://www.businesswire.com/news/home/20260423651478/en/AU10TIX-Selects-Camunda-to-Orchestrate-High-Volume-KYC-and-KYB-Identity-Verification/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
+  ],
   "People Search": [],
   "Address Lookup": [
-    "https://www.pcworld.com/article/3121835/look-out-otter-google-meet-is-adding-in-person-transcription.html"
+    "https://www.macrumors.com/2026/04/23/tim-cook-apple-maps-launch-his-really-big-mistake/"
   ],
-  "Image Search": [],
-  "Email Lookup": [],
+  "Image Search": [
+    "https://blog.tineye.com/how-to-use-tineye-search/"
+  ],
+  "Email Lookup": [
+    "https://www.howtogeek.com/androids-new-instant-email-verification-gets-rid-of-annoying-otp-codes-entirely/"
+  ],
   "Security & Anti-Abuse": [
-    "https://www.engadget.com/cybersecurity/frances-national-agency-for-managing-ids-and-passports-suffered-a-data-breach-last-week-201432189.html?src=rss",
-    "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/"
+    "https://readwrite.com/caesars-new-lawsuit-second-data-security-breach-claims/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/hacker-ferdous/hacker-ferdous.github.io",
-    "https://github.com/DKVOXdev/Kernel-Tool"
+    "https://github.com/Alice1nRootland/Hacking_Lab"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+    "https://about.fb.com/news/2026/04/helping-parents-understand-conversations-their-teens-are-having-with-ai/"
+  ]
 }
