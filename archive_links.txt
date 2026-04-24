@@ -3836,3 +3836,6 @@ https://github.com/cloposcom/caller-id-release
 https://github.com/productionsaiinc-lgtm/osint-scanner-platform
 https://www.socialmediatoday.com/news/meta-accounts-center-includes-more-apps-and-devices/818375/
 https://www.techradar.com/pro/security/identity-is-the-new-battleground-why-your-it-helpdesk-is-suddenly-getting-a-lot-of-bizarre-calls
+https://github.com/jesscybersec/OSINT-AI-Agent
+https://github.com/kennvangelis/Raccoon
+https://www.socialmediatoday.com/news/meta-accounts-center-now-includes-more-apps-and-devices/818375/
