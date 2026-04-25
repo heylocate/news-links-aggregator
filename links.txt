@@ -1,21 +1,5 @@
-## Phone Lookup
-https://blog.hiya.com/mobile-network-operators-with-strong-spam-protection-have-a-huge-competitive-advantage
-
-## Parental Control
-https://thenextweb.com/news/eu-child-safety-privacy-law-csa-regulation
-https://www.qustodio.com/en/blog/my-child-broke-screen-time-rules/
-
-## Background Check
-https://www.techradar.com/pro/cisive-background-checker-review
-https://www.techradar.com/pro/certn-background-checker-review
-https://www.techradar.com/pro/first-advantage-review
-
 ## Address Lookup
-https://www.androidpolice.com/google-maps-for-android-auto-gets-a-subtle-update-that-drivers-will-love/
-https://9to5google.com/2026/04/24/google-maps-android-auto-street-labels/
-
-## Email Lookup
-https://www.techspot.com/news/112180-android-new-verified-email-feature-simplifies-authentication-workflows.html
+https://www.androidpolice.com/stopped-relying-google-maps-android-auto-use-sygic/
 
 ## OSINT & Open Source Intelligence
-https://github.com/XVX-016/Aether-eye
+https://github.com/meli21cv-debug/osint-pipeline

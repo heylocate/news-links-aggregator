@@ -3849,3 +3849,5 @@ https://www.techradar.com/pro/certn-background-checker-review
 https://www.techradar.com/pro/cisive-background-checker-review
 https://www.techradar.com/pro/first-advantage-review
 https://www.techspot.com/news/112180-android-new-verified-email-feature-simplifies-authentication-workflows.html
+https://github.com/meli21cv-debug/osint-pipeline
+https://www.androidpolice.com/stopped-relying-google-maps-android-auto-use-sygic/
