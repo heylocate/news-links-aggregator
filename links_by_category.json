@@ -1,20 +1,31 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.hiya.com/mobile-network-operators-with-strong-spam-protection-have-a-huge-competitive-advantage"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
+  "Parental Control": [
+    "https://thenextweb.com/news/eu-child-safety-privacy-law-csa-regulation",
+    "https://www.qustodio.com/en/blog/my-child-broke-screen-time-rules/"
+  ],
+  "Background Check": [
+    "https://www.techradar.com/pro/cisive-background-checker-review",
+    "https://www.techradar.com/pro/certn-background-checker-review",
+    "https://www.techradar.com/pro/first-advantage-review"
+  ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidpolice.com/google-maps-for-android-auto-gets-a-subtle-update-that-drivers-will-love/",
+    "https://9to5google.com/2026/04/24/google-maps-android-auto-street-labels/"
+  ],
   "Image Search": [],
-  "Email Lookup": [],
+  "Email Lookup": [
+    "https://www.techspot.com/news/112180-android-new-verified-email-feature-simplifies-authentication-workflows.html"
+  ],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/kennvangelis/Raccoon",
-    "https://github.com/jesscybersec/OSINT-AI-Agent"
+    "https://github.com/XVX-016/Aether-eye"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.socialmediatoday.com/news/meta-accounts-center-now-includes-more-apps-and-devices/818375/"
-  ]
+  "Uncategorized": []
 }
