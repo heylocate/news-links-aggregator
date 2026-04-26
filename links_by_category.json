@@ -2,15 +2,16 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://hackernoon.com/$206-trillion-liquidity-migrationwhy-zoomex-is-redefining-the-crypto-derivatives-landscape-in-2026?source=rss"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/dalhunter/Threat-Intel-Reports",
-    "https://github.com/Kodjocares/OSINT"
+    "https://github.com/tigertomas-design/iran-narrative-osint"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

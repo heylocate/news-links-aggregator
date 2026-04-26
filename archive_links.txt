@@ -3853,3 +3853,5 @@ https://github.com/meli21cv-debug/osint-pipeline
 https://www.androidpolice.com/stopped-relying-google-maps-android-auto-use-sygic/
 https://github.com/Kodjocares/OSINT
 https://github.com/dalhunter/Threat-Intel-Reports
+https://github.com/tigertomas-design/iran-narrative-osint
+https://hackernoon.com/$206-trillion-liquidity-migrationwhy-zoomex-is-redefining-the-crypto-derivatives-landscape-in-2026?source=rss
