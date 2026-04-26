@@ -1,5 +1,3 @@
-## Address Lookup
-https://www.androidpolice.com/stopped-relying-google-maps-android-auto-use-sygic/
-
 ## OSINT & Open Source Intelligence
-https://github.com/meli21cv-debug/osint-pipeline
+https://github.com/dalhunter/Threat-Intel-Reports
+https://github.com/Kodjocares/OSINT

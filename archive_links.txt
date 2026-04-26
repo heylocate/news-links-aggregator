@@ -3851,3 +3851,5 @@ https://www.techradar.com/pro/first-advantage-review
 https://www.techspot.com/news/112180-android-new-verified-email-feature-simplifies-authentication-workflows.html
 https://github.com/meli21cv-debug/osint-pipeline
 https://www.androidpolice.com/stopped-relying-google-maps-android-auto-use-sygic/
+https://github.com/Kodjocares/OSINT
+https://github.com/dalhunter/Threat-Intel-Reports
