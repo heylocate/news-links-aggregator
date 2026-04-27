@@ -3855,3 +3855,12 @@ https://github.com/Kodjocares/OSINT
 https://github.com/dalhunter/Threat-Intel-Reports
 https://github.com/tigertomas-design/iran-narrative-osint
 https://hackernoon.com/$206-trillion-liquidity-migrationwhy-zoomex-is-redefining-the-crypto-derivatives-landscape-in-2026?source=rss
+https://github.com/arcallen/project-geosentinel
+https://github.com/cidshow/Callerid_Delphi
+https://github.com/cidshow/Callerid_DevCPP_64bit
+https://github.com/cidshow/Callerid_Python
+https://github.com/cidshow/Callerid_msVC-64bit
+https://github.com/sahil20noi/fliplog
+https://github.com/say217/Geo-Artemis
+https://medium.com/@vndee.huynh/build-your-own-voice-assistant-and-run-it-locally-whisper-ollama-bark-c80e6f815cba
+https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/
