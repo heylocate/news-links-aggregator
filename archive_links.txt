@@ -3876,3 +3876,5 @@ https://securityboulevard.com/2026/04/adt-breach-exposes-data-of-5-5-million-cus
 https://therecord.media/supreme-court-signals-location-data-searches-require-warrant
 https://www.globenewswire.com/news-release/2026/04/28/3282250/0/en/Obtaining-US-MSB-License-Anmrex-Exchange-Accelerates-Global-Compliance-Deployment.html
 https://www.tomsguide.com/computing/online-security/5-5-million-hit-in-latest-adt-data-breach-with-hackers-already-leaking-stolen-personal-info-online-how-to-stay-safe
+https://databreaches.net/2026/04/28/the-blueleaks-2-0-breach-will-there-be-any-accountability-senators-start-with-transparency/?pk_campaign=feed&pk_kwd=the-blueleaks-2-0-breach-will-there-be-any-accountability-senators-start-with-transparency
+https://github.com/amrlipes/OSINT
