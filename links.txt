@@ -1,12 +1,12 @@
 ## Parental Control
-https://www.qustodio.com/en/blog/disappearing-messages-parent-guide/
-
-## Background Check
-https://www.pr.com/press-release/967041
+https://therecord.media/european-commission-accuses-meta-of-breaching-digital-child-safety-laws
 
 ## Security & Anti-Abuse
-https://securityboulevard.com/2026/04/betting-on-cybercrime-prediction-markets-and-hacking/
+https://www.cnet.com/home/security/morning-home-safety-checks-everyone-forgets/
+https://databreaches.net/2026/04/29/almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack/?pk_campaign=feed&pk_kwd=almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack
 
 ## OSINT & Open Source Intelligence
-https://github.com/Salmonfourierseries203/Crucix
-https://github.com/amakaluamusic-spec/ZorkSeeker
+https://github.com/Prestonbalconied467/CoSINT
+
+## Uncategorized
+https://9to5mac.com/2026/04/29/supreme-court-considering-legality-of-smartphone-location-dragnets/
