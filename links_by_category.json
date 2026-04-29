@@ -1,17 +1,22 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
+  "Parental Control": [
+    "https://www.qustodio.com/en/blog/disappearing-messages-parent-guide/"
+  ],
+  "Background Check": [
+    "https://www.pr.com/press-release/967041"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/04/28/the-blueleaks-2-0-breach-will-there-be-any-accountability-senators-start-with-transparency/?pk_campaign=feed&pk_kwd=the-blueleaks-2-0-breach-will-there-be-any-accountability-senators-start-with-transparency"
+    "https://securityboulevard.com/2026/04/betting-on-cybercrime-prediction-markets-and-hacking/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/amrlipes/OSINT"
+    "https://github.com/Salmonfourierseries203/Crucix",
+    "https://github.com/amakaluamusic-spec/ZorkSeeker"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
