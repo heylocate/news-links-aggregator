@@ -1,12 +1,13 @@
-## Parental Control
-https://therecord.media/european-commission-accuses-meta-of-breaching-digital-child-safety-laws
+## Address Lookup
+https://www.howtogeek.com/google-maps-secretly-lets-you-rewind-to-any-year-and-see-how-places-changed/
 
 ## Security & Anti-Abuse
-https://www.cnet.com/home/security/morning-home-safety-checks-everyone-forgets/
-https://databreaches.net/2026/04/29/almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack/?pk_campaign=feed&pk_kwd=almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack
+https://securityboulevard.com/2026/04/the-real-cost-of-a-data-breach-for-small-businesses-how-to-prevent/
 
 ## OSINT & Open Source Intelligence
-https://github.com/Prestonbalconied467/CoSINT
+https://github.com/yepisyeniturkiye/yepisyeniturkiye.github.io
+https://github.com/AlbertiJ/Plantillas-de-bots
+https://github.com/subhamsarangi/goghost
 
 ## Uncategorized
-https://9to5mac.com/2026/04/29/supreme-court-considering-legality-of-smartphone-location-dragnets/
+https://github.com/SuyogP25/Phone-Number-Tracker
