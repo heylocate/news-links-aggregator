@@ -1,12 +1,16 @@
-## Phone Lookup
-https://www.macworld.com/article/3123124/facetime-like-a-pro-with-these-7-lesser-known-features.html
+## Number / Device Tracking
+https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week
 
-## Address Lookup
-https://blog.google/products-and-platforms/products/maps/route-66/
+## Background Check
+https://www.computerworld.com/article/4165733/ai-chatbots-need-deception-mode.html
+https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what
+
+## Image Search
+https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it
 
 ## Security & Anti-Abuse
-https://securityboulevard.com/2026/04/fbi-and-international-agencies-shut-down-scam-centers-arrest-276-people/
+https://therecord.media/france-investigates-teen-over-national-id-agency-hack
 
 ## OSINT & Open Source Intelligence
-https://github.com/theosintvault/theosintvault-content
-https://github.com/Akxan/SpyEyes
+https://github.com/teddiadhominem237/google-dorking
+https://github.com/ragavpn/AEGIS
