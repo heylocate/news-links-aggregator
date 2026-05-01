@@ -1,25 +1,22 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [
-    "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week"
+    "https://www.macworld.com/article/3125537/lost-your-wallet-again-this-24-fix-connects-to-your-phone-so-you-can-keep-tabs-on-it.html",
+    "https://hackernoon.com/how-to-reduce-interface-localization-time-with-figma-variables?source=rss"
   ],
   "Parental Control": [],
-  "Background Check": [
-    "https://www.computerworld.com/article/4165733/ai-chatbots-need-deception-mode.html",
-    "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
-  "Image Search": [
-    "https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it"
-  ],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://therecord.media/france-investigates-teen-over-national-id-agency-hack"
+    "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
+    "https://www.pcworld.com/article/696828/its-world-password-day-4-free-easy-ways-to-improve-your-security.html",
+    "https://databreaches.net/2026/05/01/unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach/?pk_campaign=feed&pk_kwd=unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/teddiadhominem237/google-dorking",
-    "https://github.com/ragavpn/AEGIS"
+    "https://github.com/MATHEUSFELIX/maigret-llm"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
