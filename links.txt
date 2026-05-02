@@ -1,11 +1,10 @@
-## Number / Device Tracking
-https://www.macworld.com/article/3125537/lost-your-wallet-again-this-24-fix-connects-to-your-phone-so-you-can-keep-tabs-on-it.html
-https://hackernoon.com/how-to-reduce-interface-localization-time-with-figma-variables?source=rss
+## Phone Lookup
+https://www.computerworld.com/article/4166162/ai-agents-can-bypass-guardrails-and-put-credentials-at-risk-okta-study-finds-2.html
 
-## Security & Anti-Abuse
-https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html
-https://www.pcworld.com/article/696828/its-world-password-day-4-free-easy-ways-to-improve-your-security.html
-https://databreaches.net/2026/05/01/unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach/?pk_campaign=feed&pk_kwd=unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach
+## Background Check
+https://hackernoon.com/5-1-2026-techbeat?source=rss
 
 ## OSINT & Open Source Intelligence
-https://github.com/MATHEUSFELIX/maigret-llm
+https://github.com/ExploitCraft/ReconNinja
+https://github.com/Suriyakumarvijayanayagam/Infradetective-v1.0.0
+https://github.com/h1kibi/Rcon-OSINT-Assistant
