@@ -1,5 +1,6 @@
 ## Phone Lookup
-https://github.com/mstfalan/syncresto-caller-id
+https://github.com/olivier-leblanc997/VoIP-Spoofing-Research
 
-## Parental Control
-https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety
+## OSINT & Open Source Intelligence
+https://github.com/Krisparenthetic284/osint-mcp-server
+https://github.com/data2391/omni-reco

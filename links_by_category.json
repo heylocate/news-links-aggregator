@@ -1,18 +1,19 @@
 {
   "Phone Lookup": [
-    "https://github.com/mstfalan/syncresto-caller-id"
+    "https://github.com/olivier-leblanc997/VoIP-Spoofing-Research"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Krisparenthetic284/osint-mcp-server",
+    "https://github.com/data2391/omni-reco"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
