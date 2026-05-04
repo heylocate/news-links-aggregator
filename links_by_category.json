@@ -1,23 +1,25 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.bgr.com/2148621/danger-with-retrieving-phone-from-between-plane-seats/"
+  "Phone Lookup": [
+    "https://github.com/olivier-leblanc997/VoIP-Security-Research-SIP-Trunking-Caller-ID-Mechanics-SIP24.PW-SIP24.CC-SIP24",
+    "https://github.com/telegram-probiv-bots/probit-nomer-besplatno",
+    "https://business-resources.truecaller.com/psts/introducing-inbound-calling-never-miss-a-high-intent-customer-connection-again"
   ],
-  "Parental Control": [],
+  "Number / Device Tracking": [],
+  "Parental Control": [
+    "https://www.bgr.com/2158718/what-is-20-20-20-rule-screen-time-explained/"
+  ],
   "Background Check": [
-    "https://hackernoon.com/5-3-2026-techbeat?source=rss"
+    "https://www.pr.com/press-release/967258"
   ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.techradar.com/phones/im-a-google-maps-power-user-here-are-10-tips-and-features-i-cant-live-without",
+    "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/05/03/instructure-discloses-second-data-breach-in-less-than-a-year/?pk_campaign=feed&pk_kwd=instructure-discloses-second-data-breach-in-less-than-a-year"
-  ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/Cali042008/helpforctf",
-    "https://github.com/perchfuruncle656/huntkit"
-  ],
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
