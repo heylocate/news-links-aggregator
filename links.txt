@@ -1,14 +1,8 @@
 ## Phone Lookup
-https://github.com/olivier-leblanc997/VoIP-Security-Research-SIP-Trunking-Caller-ID-Mechanics-SIP24.PW-SIP24.CC-SIP24
-https://github.com/telegram-probiv-bots/probit-nomer-besplatno
-https://business-resources.truecaller.com/psts/introducing-inbound-calling-never-miss-a-high-intent-customer-connection-again
-
-## Parental Control
-https://www.bgr.com/2158718/what-is-20-20-20-rule-screen-time-explained/
-
-## Background Check
-https://www.pr.com/press-release/967258
+https://www.prnewswire.com/news-releases/the-machine-era-of-spam-calls-the-ten-most-spammed-countries-in-the-world-302762263.html
 
 ## Address Lookup
-https://www.techradar.com/phones/im-a-google-maps-power-user-here-are-10-tips-and-features-i-cant-live-without
-https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/
+https://www.zdnet.com/article/google-maps-vs-apple-maps/
+
+## OSINT & Open Source Intelligence
+https://github.com/Bn5PS/OSINT-AGENT
