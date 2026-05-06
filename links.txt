@@ -1,6 +1,13 @@
 ## Phone Lookup
-https://www.androidheadlines.com/2026/05/how-to-block-spam-calls-on-android-proven-methods-that-actually-work.html
-https://github.com/CampusTech/zp2fo
+https://www.prnewswire.com/news-releases/nomorobo-and-aarp-collaborate-to-protect-americans-from-scam-calls-and-texts-302764122.html
 
-## Address Lookup
-https://www.bgr.com/2160656/features-google-maps-youve-missed/
+## Number / Device Tracking
+https://github.com/Pedurabo/GOU-Phone-Tracking-App
+
+## People Search
+https://www.eff.org/deeplinks/2026/05/secure-data-act-not-serious-piece-privacy-legislation
+
+## Security & Anti-Abuse
+https://www.techradar.com/pro/security/the-vimeo-data-breach-exposed-personal-information-of-119-000-people
+https://databreaches.net/2026/05/06/vimeo-data-breach-exposes-personal-information-of-119000-people/?pk_campaign=feed&pk_kwd=vimeo-data-breach-exposes-personal-information-of-119000-people
+https://haveibeenpwned.com/Breach/LegionProxy
