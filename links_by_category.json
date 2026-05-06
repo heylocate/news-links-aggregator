@@ -1,36 +1,20 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://github.com/ChinnaBabu81/Screen-Time-Control",
-    "https://www.macrumors.com/2026/05/05/psa-instagram-encrypted-messaging-ends-may-8/",
-    "https://www.pcworld.com/article/3131513/get-a-year-of-mcafees-antivirus-for-16-85-percent-off-for-5-devices.html",
-    "http://www.businesswire.com/news/home/20260505463355/en/Ooma-Launches-MyPhone-a-Modern-Landline-for-Kids-as-Parents-Delay-Smartphones/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D",
-    "https://www.androidheadlines.com/2026/05/google-family-link-bug-blocks-outgoing-calls-leaving-families-frustrated.html"
+  "Phone Lookup": [
+    "https://www.androidheadlines.com/2026/05/how-to-block-spam-calls-on-android-proven-methods-that-actually-work.html",
+    "https://github.com/CampusTech/zp2fo"
   ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
-  "Image Search": [
-    "https://blog.tineye.com/find-copyright-owner-using-tineye/",
-    "https://blog.tineye.com/how-to-find-high-resolution-images-with-tineye/"
+  "Address Lookup": [
+    "https://www.bgr.com/2160656/features-google-maps-youve-missed/"
   ],
+  "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.techradar.com/pro/security/canvas-maker-instructure-reveals-data-breach-confirms-user-personal-information-leaked",
-    "https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/",
-    "https://go.theregister.com/feed/www.theregister.com/2026/05/05/cushman_wakefield/",
-    "https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online",
-    "https://www.techradar.com/pro/security/trellix-confirms-data-breach-after-hack-of-a-portion-of-its-source-code"
-  ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/0xCD4/csint-osint-archive",
-    "https://github.com/bee-root/Threat-Extraction",
-    "https://github.com/mwakidenis/WebCheck-OSINT"
-  ],
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.engadget.com/2164981/meta-is-using-ai-bone-structure-analysis-to-detect-and-remove-underaged-users/"
-  ]
+  "Uncategorized": []
 }
