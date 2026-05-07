@@ -1,13 +1,6 @@
 ## Phone Lookup
-https://www.prnewswire.com/news-releases/nomorobo-and-aarp-collaborate-to-protect-americans-from-scam-calls-and-texts-302764122.html
-
-## Number / Device Tracking
-https://github.com/Pedurabo/GOU-Phone-Tracking-App
-
-## People Search
-https://www.eff.org/deeplinks/2026/05/secure-data-act-not-serious-piece-privacy-legislation
+https://www.prnewswire.com/news-releases/user-and-premium-growth-continue-while-we-strengthen-the-platform-for-the-future-302765145.html
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/the-vimeo-data-breach-exposed-personal-information-of-119-000-people
-https://databreaches.net/2026/05/06/vimeo-data-breach-exposes-personal-information-of-119000-people/?pk_campaign=feed&pk_kwd=vimeo-data-breach-exposes-personal-information-of-119000-people
-https://haveibeenpwned.com/Breach/LegionProxy
+https://databreaches.net/2026/05/06/missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions/?pk_campaign=feed&pk_kwd=missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions
+https://databreaches.net/2026/05/06/when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation/?pk_campaign=feed&pk_kwd=when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation
