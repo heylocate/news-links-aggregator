@@ -1,6 +1,12 @@
 ## Phone Lookup
-https://www.prnewswire.com/news-releases/user-and-premium-growth-continue-while-we-strengthen-the-platform-for-the-future-302765145.html
+https://github.com/wuwu0102/scam-call-android
+https://github.com/stramanu/telecom-identity-layer
+
+## Address Lookup
+https://www.tomsguide.com/phones/how-to-enable-google-maps-accurate-ev-battery-prediction
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/05/06/missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions/?pk_campaign=feed&pk_kwd=missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions
-https://databreaches.net/2026/05/06/when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation/?pk_campaign=feed&pk_kwd=when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation
+https://www.techradar.com/pro/security/top-universities-among-victims-named-in-canvas-data-breach-mit-oxford-and-more-all-hit
+https://thenextweb.com/news/the-largest-education-data-breach-in-history-was-not-an-attack-on-a-school-it-was-an-attack-on-a-vendor
+https://www.mobileworldlive.com/asia-pacific/skt-remains-in-choppy-waters/
+https://www.pcworld.com/article/696828/world-password-day-fix-these-4-security-mistakes-before-hackers-find-them.html
