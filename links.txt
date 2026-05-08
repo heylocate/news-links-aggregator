@@ -1,12 +1,12 @@
-## Phone Lookup
-https://github.com/wuwu0102/scam-call-android
-https://github.com/stramanu/telecom-identity-layer
+## Number / Device Tracking
+https://www.tomsguide.com/phones/android-phones/how-to-turn-on-androids-anti-theft-protection-features-and-secure-your-phone
 
 ## Address Lookup
-https://www.tomsguide.com/phones/how-to-enable-google-maps-accurate-ev-battery-prediction
+https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/top-universities-among-victims-named-in-canvas-data-breach-mit-oxford-and-more-all-hit
-https://thenextweb.com/news/the-largest-education-data-breach-in-history-was-not-an-attack-on-a-school-it-was-an-attack-on-a-vendor
-https://www.mobileworldlive.com/asia-pacific/skt-remains-in-choppy-waters/
-https://www.pcworld.com/article/696828/world-password-day-fix-these-4-security-mistakes-before-hackers-find-them.html
+https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
+
+## OSINT & Open Source Intelligence
+https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim
+https://github.com/dublen5269/Sicry
