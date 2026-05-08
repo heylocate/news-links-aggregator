@@ -1,22 +1,24 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.tomsguide.com/phones/android-phones/how-to-turn-on-androids-anti-theft-protection-features-and-secure-your-phone"
+  "Phone Lookup": [
+    "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
+    "https://www.computerworld.com/article/4168535/ai-clones-the-good-the-bad-and-the-ugly.html",
+    "https://www.androidheadlines.com/2026/05/how-to-stop-spam-calls-texts-emails-on-any-phone-2026-complete-guide.html"
   ],
-  "Parental Control": [],
+  "Number / Device Tracking": [
+    "https://hackernoon.com/5-8-2026-techbeat?source=rss"
+  ],
+  "Parental Control": [
+    "https://www.prnewswire.com/news-releases/in-hellonation-optometry-expert-dr-spencer-franz-of-carlsbad-nm-warns-about-digital-eye-strain-302767081.html"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim",
-    "https://github.com/dublen5269/Sicry"
+    "https://github.com/razan-alhishan/OSINT-CTF-Challenges.",
+    "https://github.com/White-familymimosaceae584/WebRecon"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
