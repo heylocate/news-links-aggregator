@@ -3994,3 +3994,9 @@ https://www.macrumors.com/2026/05/08/instagram-end-to-end-encryption/
 https://www.prnewswire.com/news-releases/us-consumers-received-just-over-4-2-billion-robocalls-in-april-according-to-youmail-robocall-index-302767146.html
 https://www.techradar.com/health-fitness/smartwatches/huawei-has-unveiled-two-new-kids-wearables-to-add-to-its-lineup-of-smartwatches-the-watch-kids-x1-series-and-they-could-prove-to-be-serious-competition-for-the-garmin-bounce-2-and-fitbit-ace-lte
 https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/
+https://github.com/cascioli/osintriskmapper
+https://github.com/osint-builders/osint
+https://github.com/strawberry-09/CLI-osint-tool
+https://www.androidpolice.com/gemini-and-google-maps-talk-to-each-other-vacation-photos-make-sense/
+https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/
+https://www.howtogeek.com/i-dont-use-google-maps-in-android-auto-anymorethis-navigation-app-took-its-place/

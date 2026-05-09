@@ -1,25 +1,22 @@
 {
-  "Phone Lookup": [
-    "https://www.prnewswire.com/news-releases/us-consumers-received-just-over-4-2-billion-robocalls-in-april-according-to-youmail-robocall-index-302767146.html"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.macrumors.com/2026/05/08/instagram-end-to-end-encryption/",
-    "https://www.techradar.com/health-fitness/smartwatches/huawei-has-unveiled-two-new-kids-wearables-to-add-to-its-lineup-of-smartwatches-the-watch-kids-x1-series-and-they-could-prove-to-be-serious-competition-for-the-garmin-bounce-2-and-fitbit-ace-lte"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.howtogeek.com/google-maps-power-saving-mode-extends-battery-life-by-4-hours/"
+    "https://www.howtogeek.com/i-dont-use-google-maps-in-android-auto-anymorethis-navigation-app-took-its-place/",
+    "https://www.androidpolice.com/gemini-and-google-maps-talk-to-each-other-vacation-photos-make-sense/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework",
-    "https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/"
+    "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/acuestamd/project-geosentinel"
+    "https://github.com/osint-builders/osint",
+    "https://github.com/cascioli/osintriskmapper",
+    "https://github.com/strawberry-09/CLI-osint-tool"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
