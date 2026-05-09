@@ -1,14 +1,16 @@
 ## Phone Lookup
-https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/
-https://www.computerworld.com/article/4168535/ai-clones-the-good-the-bad-and-the-ugly.html
-https://www.androidheadlines.com/2026/05/how-to-stop-spam-calls-texts-emails-on-any-phone-2026-complete-guide.html
-
-## Number / Device Tracking
-https://hackernoon.com/5-8-2026-techbeat?source=rss
+https://www.prnewswire.com/news-releases/us-consumers-received-just-over-4-2-billion-robocalls-in-april-according-to-youmail-robocall-index-302767146.html
 
 ## Parental Control
-https://www.prnewswire.com/news-releases/in-hellonation-optometry-expert-dr-spencer-franz-of-carlsbad-nm-warns-about-digital-eye-strain-302767081.html
+https://www.macrumors.com/2026/05/08/instagram-end-to-end-encryption/
+https://www.techradar.com/health-fitness/smartwatches/huawei-has-unveiled-two-new-kids-wearables-to-add-to-its-lineup-of-smartwatches-the-watch-kids-x1-series-and-they-could-prove-to-be-serious-competition-for-the-garmin-bounce-2-and-fitbit-ace-lte
+
+## Address Lookup
+https://www.howtogeek.com/google-maps-power-saving-mode-extends-battery-life-by-4-hours/
+
+## Security & Anti-Abuse
+https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework
+https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/
 
 ## OSINT & Open Source Intelligence
-https://github.com/razan-alhishan/OSINT-CTF-Challenges.
-https://github.com/White-familymimosaceae584/WebRecon
+https://github.com/acuestamd/project-geosentinel
