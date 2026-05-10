@@ -1,22 +1,19 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [
-    "https://www.howtogeek.com/i-dont-use-google-maps-in-android-auto-anymorethis-navigation-app-took-its-place/",
-    "https://www.androidpolice.com/gemini-and-google-maps-talk-to-each-other-vacation-photos-make-sense/"
+  "Parental Control": [
+    "https://9to5mac.com/2026/05/09/indie-app-spotlight-the-before-you-bundle-offers-four-effective-screen-time-apps/"
   ],
+  "Background Check": [
+    "https://hackernoon.com/zoomex-launches-the-worlds-first-zero-cost-trading-competition-let-skill-be-your-only-asset?source=rss"
+  ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/osint-builders/osint",
-    "https://github.com/cascioli/osintriskmapper",
-    "https://github.com/strawberry-09/CLI-osint-tool"
+    "https://github.com/Nicholas-Kloster/AI-LLM-Infrastructure-OSINT"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

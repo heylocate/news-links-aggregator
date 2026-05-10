@@ -4000,3 +4000,6 @@ https://github.com/strawberry-09/CLI-osint-tool
 https://www.androidpolice.com/gemini-and-google-maps-talk-to-each-other-vacation-photos-make-sense/
 https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/
 https://www.howtogeek.com/i-dont-use-google-maps-in-android-auto-anymorethis-navigation-app-took-its-place/
+https://9to5mac.com/2026/05/09/indie-app-spotlight-the-before-you-bundle-offers-four-effective-screen-time-apps/
+https://github.com/Nicholas-Kloster/AI-LLM-Infrastructure-OSINT
+https://hackernoon.com/zoomex-launches-the-worlds-first-zero-cost-trading-competition-let-skill-be-your-only-asset?source=rss
