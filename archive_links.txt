@@ -4003,3 +4003,6 @@ https://www.howtogeek.com/i-dont-use-google-maps-in-android-auto-anymorethis-nav
 https://9to5mac.com/2026/05/09/indie-app-spotlight-the-before-you-bundle-offers-four-effective-screen-time-apps/
 https://github.com/Nicholas-Kloster/AI-LLM-Infrastructure-OSINT
 https://hackernoon.com/zoomex-launches-the-worlds-first-zero-cost-trading-competition-let-skill-be-your-only-asset?source=rss
+https://github.com/merrykepuspita-boop/Test-Osint-
+https://github.com/ocsav12345/us-iran-osint-tracker
+https://www.howtogeek.com/i-stopped-using-google-maps-search-bar-after-trying-ask-maps/

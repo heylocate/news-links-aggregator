@@ -1,8 +1,6 @@
-## Parental Control
-https://9to5mac.com/2026/05/09/indie-app-spotlight-the-before-you-bundle-offers-four-effective-screen-time-apps/
-
-## Background Check
-https://hackernoon.com/zoomex-launches-the-worlds-first-zero-cost-trading-competition-let-skill-be-your-only-asset?source=rss
+## Address Lookup
+https://www.howtogeek.com/i-stopped-using-google-maps-search-bar-after-trying-ask-maps/
 
 ## OSINT & Open Source Intelligence
-https://github.com/Nicholas-Kloster/AI-LLM-Infrastructure-OSINT
+https://github.com/merrykepuspita-boop/Test-Osint-
+https://github.com/ocsav12345/us-iran-osint-tracker
