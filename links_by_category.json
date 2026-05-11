@@ -1,20 +1,28 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/aquariusinfotech/caller-sdk-android",
+    "https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-19-2026-302768007.html"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://www.engadget.com/2169135/gm-agrees-to-pay-12-75-million-to-settle-california-lawsuit-over-misuse-of-customers-driving-data/"
+  ],
   "Address Lookup": [
-    "https://www.howtogeek.com/i-stopped-using-google-maps-search-bar-after-trying-ask-maps/"
+    "https://www.xda-developers.com/google-maps-stopped-being-just-a-map-the-moment-gemini-showed-up/",
+    "https://www.androidpolice.com/google-maps-features-still-surprised-me/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/merrykepuspita-boop/Test-Osint-",
-    "https://github.com/ocsav12345/us-iran-osint-tracker"
+    "https://github.com/OpenOSINT/OpenOSINT",
+    "https://github.com/dhairya1official-code/Kashf-"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://github.com/connectionboaster123-ops/Bash-Bash"
+  ]
 }
