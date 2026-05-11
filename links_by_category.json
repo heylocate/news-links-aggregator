@@ -1,28 +1,29 @@
 {
   "Phone Lookup": [
-    "https://github.com/aquariusinfotech/caller-sdk-android",
-    "https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-19-2026-302768007.html"
+    "https://www.computerworld.com/article/4169447/apple-needs-to-fix-admin-authentication-in-abm.html"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.macworld.com/article/3135170/block-ads-everywhere-you-browse-on-9-devices-adguard-is-a-flat-16-with-no-recurring-fees.html"
+  ],
   "Background Check": [],
   "People Search": [
-    "https://www.engadget.com/2169135/gm-agrees-to-pay-12-75-million-to-settle-california-lawsuit-over-misuse-of-customers-driving-data/"
+    "https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies"
   ],
-  "Address Lookup": [
-    "https://www.xda-developers.com/google-maps-stopped-being-just-a-map-the-moment-gemini-showed-up/",
-    "https://www.androidpolice.com/google-maps-features-still-surprised-me/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/",
+    "https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info",
+    "https://www.techradar.com/pro/security/zara-data-breach-saw-197-000-people-have-information-exposed-but-luckily-hackers-may-not-have-accessed-private-info"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/OpenOSINT/OpenOSINT",
-    "https://github.com/dhairya1official-code/Kashf-"
+    "https://github.com/w4sif404/xophy",
+    "https://github.com/ar005/osint-toolbox",
+    "https://github.com/AnweshanGoswami/west-asia-war-2026"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://github.com/connectionboaster123-ops/Bash-Bash"
-  ]
+  "Uncategorized": []
 }
