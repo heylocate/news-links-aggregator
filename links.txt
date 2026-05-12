@@ -1,18 +1,11 @@
 ## Phone Lookup
-https://www.computerworld.com/article/4169447/apple-needs-to-fix-admin-authentication-in-abm.html
-
-## Parental Control
-https://www.macworld.com/article/3135170/block-ads-everywhere-you-browse-on-9-devices-adguard-is-a-flat-16-with-no-recurring-fees.html
-
-## People Search
-https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies
+https://github.com/petrlgtm/Trucaller-Android
 
 ## Security & Anti-Abuse
-https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/
-https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info
-https://www.techradar.com/pro/security/zara-data-breach-saw-197-000-people-have-information-exposed-but-luckily-hackers-may-not-have-accessed-private-info
+https://www.techradar.com/pro/security/nvidia-geforce-now-data-breach-confirmed-but-luckily-most-of-us-will-be-safe-heres-why
+https://databreaches.net/2026/05/11/the-gentlemen-ransomware-group-becomes-a-victim/?pk_campaign=feed&pk_kwd=the-gentlemen-ransomware-group-becomes-a-victim
+https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare
 
 ## OSINT & Open Source Intelligence
-https://github.com/w4sif404/xophy
-https://github.com/ar005/osint-toolbox
-https://github.com/AnweshanGoswami/west-asia-war-2026
+https://github.com/whitakerunsaturated400/osint-feed
+https://github.com/labinnah1933/CLS-Painel
