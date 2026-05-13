@@ -1,28 +1,23 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.slashgear.com/2167784/things-you-didnt-know-life360-app-can-do/"
+  "Phone Lookup": [
+    "https://github.com/Kernell-Comm/sip-trunk-security-assets"
   ],
+  "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidcentral.com/apps-software/android-auto/android-auto-preps-a-fresh-take-on-google-maps-navigation-teases-more-gemini-at-the-android-show",
-    "https://www.tomsguide.com/phones/android-auto-is-about-to-change-the-way-you-drive-3d-google-maps-redesigned-interface-video-support-gemini-and-more",
-    "https://9to5mac.com/2026/05/12/one-of-carplays-most-popular-apps-is-about-to-get-a-big-upgrade-per-leak/",
-    "https://www.bgr.com/2166121/best-new-features-added-google-maps-2026/"
+  "Address Lookup": [],
+  "Image Search": [
+    "https://hackernoon.com/i-built-a-3-prompt-seo-system-that-finally-turned-impressions-into-clicks?source=rss"
   ],
-  "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.cnet.com/home/internet/xfinity-customer-you-may-be-owed-money-from-a-117-5-million-data-breach-settlement/",
-    "https://haveibeenpwned.com/Breach/CushmanWakefield"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/jollncoelho/Zhetikal_OSINT_tracker",
-    "https://github.com/bryanppa5478/-Discord-OSINT-Transform-for-Maltego"
+    "https://github.com/SHIFTER333/sh1fter-tool-with-ai-OSINT-"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls"
+  ]
 }

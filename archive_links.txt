@@ -4038,3 +4038,7 @@ https://www.bgr.com/2166121/best-new-features-added-google-maps-2026/
 https://www.cnet.com/home/internet/xfinity-customer-you-may-be-owed-money-from-a-117-5-million-data-breach-settlement/
 https://www.slashgear.com/2167784/things-you-didnt-know-life360-app-can-do/
 https://www.tomsguide.com/phones/android-auto-is-about-to-change-the-way-you-drive-3d-google-maps-redesigned-interface-video-support-gemini-and-more
+https://github.com/Kernell-Comm/sip-trunk-security-assets
+https://github.com/SHIFTER333/sh1fter-tool-with-ai-OSINT-
+https://hackernoon.com/i-built-a-3-prompt-seo-system-that-finally-turned-impressions-into-clicks?source=rss
+https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls
