@@ -1,19 +1,11 @@
-## Number / Device Tracking
-https://www.macworld.com/article/3135185/if-your-keys-and-wallet-live-in-chaos-this-23-99-slim-tracker-can-help-and-it-works-with-apple-find-my.html
+## Phone Lookup
+https://github.com/Zunair/ContactMesh
 
-## People Search
-https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous
+## Parental Control
+https://www.techspot.com/news/112400-european-union-moves-crack-down-addictive-social-media.html
 
 ## Address Lookup
-https://www.pcworld.com/article/3138080/google-wants-gemini-to-reinvent-the-mouse-im-skeptical.html
-
-## Security & Anti-Abuse
-https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/
-https://www.theregister.com/public-sector/2026/05/13/civil-servants-to-protest-outside-capita-agm-over-pension-shambles/5238985
+https://www.bgr.com/2172337/android-auto-update-change-how-use-dashboard-video/
 
 ## OSINT & Open Source Intelligence
-https://github.com/mufon609/UAP_OSINT-v0.1
-https://github.com/PurpleHaze2320/arizona-ai-infrastructure-tracker
-
-## Monitoring / Spy Apps
-https://www.engadget.com/2172080/several-overwatch-heroes-are-about-to-hit-fortnite/
+https://github.com/shinchxn/VOIP-OAINT
