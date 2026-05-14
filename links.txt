@@ -1,11 +1,18 @@
 ## Phone Lookup
-https://github.com/Zunair/ContactMesh
+https://blog.hiya.com/hiya-powers-frances-first-network-level-branded-calling-deployment-with-bouygues-telecom
+http://www.businesswire.com/news/home/20260514818673/en/Hiya-Powers-Frances-First-Network-Level-Branded-Calling-Deployment-with-Bouygues-Telecom/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+https://github.com/dark-z-666/truecaller-telegram-bot
 
 ## Parental Control
-https://www.techspot.com/news/112400-european-union-moves-crack-down-addictive-social-media.html
+https://www.prnewswire.com/news-releases/an-inventhelp-123invent-client-develops-phone-case-to-prevent-screen-time-temptations-lbt-9802-302767825.html
 
 ## Address Lookup
-https://www.bgr.com/2172337/android-auto-update-change-how-use-dashboard-video/
+https://www.bgr.com/2172920/google-maps-apple-carplay-gemini-feature-update/
+https://www.zdnet.com/article/google-maps-settings-i-immediately-change-on-new-phone/
+
+## Email Lookup
+https://hackernoon.com/how-to-add-ai-scoring-and-email-verification-to-your-e2e-suite?source=rss
 
 ## OSINT & Open Source Intelligence
-https://github.com/shinchxn/VOIP-OAINT
+https://github.com/ruwgxo/osint
+https://hackernoon.com/why-every-aisecurity-tool-i-tried-was-lying-to-me-and-what-i-built-instead?source=rss
