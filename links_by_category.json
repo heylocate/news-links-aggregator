@@ -1,18 +1,17 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Phone Lookup": [
+    "https://github.com/yuandao2021/callshield"
+  ],
+  "Number / Device Tracking": [
+    "https://www.macrumors.com/2026/05/15/switchbot-matter-smart-locks/"
+  ],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
-  "Email Lookup": [
-    "https://hackernoon.com/5-15-2026-techbeat?source=rss"
-  ],
-  "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/05/15/uk-hospital-workers-inappropriately-accessed-details-of-southport-victims-investigation-finds/?pk_campaign=feed&pk_kwd=uk-hospital-workers-inappropriately-accessed-details-of-southport-victims-investigation-finds",
-    "https://github.com/TanushPradhan/Vishing-Attack-Screener"
-  ],
+  "Email Lookup": [],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
