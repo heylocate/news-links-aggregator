@@ -1,11 +1,6 @@
-## Security & Anti-Abuse
-https://databreaches.net/2026/05/16/welcome-to-blackfile-inside-a-vishing-extortion-operation/?pk_campaign=feed&pk_kwd=welcome-to-blackfile-inside-a-vishing-extortion-operation
-https://databreaches.net/2026/05/16/illuminate-wins-another-round-in-court-but-it-may-not-all-be-over/?pk_campaign=feed&pk_kwd=illuminate-wins-another-round-in-court-but-it-may-not-all-be-over
+## People Search
+https://9to5mac.com/2026/05/16/how-to-remove-personal-data-from-internet/
 
 ## OSINT & Open Source Intelligence
-https://github.com/illwang/osint
-https://github.com/sudharshinimurugesan/D4rk_Intel-OSINT-Investigative-Toolkit
-https://github.com/williammarin0212/Analisis-Multimodal-Conflictos
-
-## Uncategorized
-https://github.com/ShubhamK-0904/Phno_Detailtracker
+https://github.com/Senku002/ObuscatedBOT
+https://github.com/Amar2502/Vision
