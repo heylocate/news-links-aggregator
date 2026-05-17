@@ -1,6 +1,2 @@
-## People Search
-https://9to5mac.com/2026/05/16/how-to-remove-personal-data-from-internet/
-
-## OSINT & Open Source Intelligence
-https://github.com/Senku002/ObuscatedBOT
-https://github.com/Amar2502/Vision
+## Parental Control
+https://www.androidpolice.com/created-widget-only-setup-cut-screen-time/
