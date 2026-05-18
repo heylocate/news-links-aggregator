@@ -1,17 +1,8 @@
-## Background Check
-https://hackernoon.com/fake-degrees-are-a-billion-dollar-industry-the-fix-isnt-better-background-checks?source=rss
-
-## Address Lookup
-https://www.reddit.com/r/pasadena/s/94BHlkE84r
-
-## Email Lookup
-https://hackernoon.com/5-17-2026-techbeat?source=rss
+## Phone Lookup
+https://github.com/malik843/callify
 
 ## Security & Anti-Abuse
-https://www.tomsguide.com/computing/fidelity-to-pay-out-usd2-5m-in-new-settlement-check-now-if-you-qualify-for-a-payout-of-up-to-usd5-000
+https://databreaches.net/2026/05/18/extant-aerospace-data-breach-exposed-ssns-for-more-than-3000-people/?pk_campaign=feed&pk_kwd=extant-aerospace-data-breach-exposed-ssns-for-more-than-3000-people
 
 ## OSINT & Open Source Intelligence
-https://github.com/marioklaudesign/osint-dashboard
-https://github.com/muhammadryga936/Momoy-AI
-https://github.com/lerakowalewska-lang/osint
-https://torrentfreak.com/lithuania-pitches-pirate-site-blocking-as-defense-against-hybrid-warfare-including-russian-disinformation/
+https://github.com/svenneawolf-coder/nationfiles-public-docs
