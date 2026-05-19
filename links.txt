@@ -1,8 +1,2 @@
-## Phone Lookup
-https://github.com/malik843/callify
-
-## Security & Anti-Abuse
-https://databreaches.net/2026/05/18/extant-aerospace-data-breach-exposed-ssns-for-more-than-3000-people/?pk_campaign=feed&pk_kwd=extant-aerospace-data-breach-exposed-ssns-for-more-than-3000-people
-
 ## OSINT & Open Source Intelligence
-https://github.com/svenneawolf-coder/nationfiles-public-docs
+https://github.com/OSINTAnalyst/osintanalyst.github.io
