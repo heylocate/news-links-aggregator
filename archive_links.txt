@@ -4090,3 +4090,8 @@ https://databreaches.net/2026/05/18/extant-aerospace-data-breach-exposed-ssns-fo
 https://github.com/malik843/callify
 https://github.com/svenneawolf-coder/nationfiles-public-docs
 https://github.com/OSINTAnalyst/osintanalyst.github.io
+https://github.com/SatriaBagusNurhadianto/osint-metadata-extractor
+https://github.com/thunderstornX/forenix-oss
+https://hackernoon.com/5-19-2026-techbeat?source=rss
+https://www.techradar.com/pro/security/avast-unveils-revolutionary-new-modular-antivirus-platform-industry-leading-device-protection-and-scam-detection-with-optional-no-log-vpn-data-breach-monitoring-and-device-cleanup
+https://www.techradar.com/pro/security/nyc-health-hospitals-says-mega-data-breach-allowed-hackers-to-steal-personal-data-medical-records-and-fingerprints-scans-of-around-1-8-million-people
