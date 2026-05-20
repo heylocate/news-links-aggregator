@@ -4100,3 +4100,8 @@ https://hackernoon.com/zoomex-launches-global-pizza-week-campaign-honoring-bitco
 https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you
 https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut
 https://www.mobileworldlive.com/verizon/verizon-issues-ai-cyberattack-warning/
+https://9to5mac.com/2026/05/20/ai-companies-and-data-brokers-even-resort-to-fake-forms-to-keep-selling-our-data/
+https://github.com/simplifaisoul/osiris
+https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk
+https://www.theguardian.com/games/2026/may/20/online-child-safety-campaigners-call-for-us-inquiry-into-roblox
+https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/
