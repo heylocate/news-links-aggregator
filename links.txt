@@ -1,10 +1,10 @@
-## Email Lookup
-https://hackernoon.com/5-19-2026-techbeat?source=rss
+## Number / Device Tracking
+https://hackernoon.com/zoomex-launches-global-pizza-week-campaign-honoring-bitcoins-first-real-world-trade?source=rss
+
+## People Search
+https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/nyc-health-hospitals-says-mega-data-breach-allowed-hackers-to-steal-personal-data-medical-records-and-fingerprints-scans-of-around-1-8-million-people
-https://www.techradar.com/pro/security/avast-unveils-revolutionary-new-modular-antivirus-platform-industry-leading-device-protection-and-scam-detection-with-optional-no-log-vpn-data-breach-monitoring-and-device-cleanup
-
-## OSINT & Open Source Intelligence
-https://github.com/SatriaBagusNurhadianto/osint-metadata-extractor
-https://github.com/thunderstornX/forenix-oss
+https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you
+https://www.mobileworldlive.com/verizon/verizon-issues-ai-cyberattack-warning/
+https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut
