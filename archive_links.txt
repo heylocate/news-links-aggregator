@@ -4105,3 +4105,11 @@ https://github.com/simplifaisoul/osiris
 https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk
 https://www.theguardian.com/games/2026/may/20/online-child-safety-campaigners-call-for-us-inquiry-into-roblox
 https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/
+http://www.businesswire.com/news/home/20260520906699/en/Truecaller-Travel-eSIM-Launch-Powered-by-Telness-Tech%E2%80%99s-Seamless-OS/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+https://github.com/benjaminboyer00-cmyk/osint-ultimate
+https://github.com/windmountain/mayo
+https://haveibeenpwned.com/Breach/Dragonica
+https://haveibeenpwned.com/Breach/Windows93
+https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/
+https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen
+https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches
