@@ -1,21 +1,17 @@
-## Phone Lookup
-http://www.businesswire.com/news/home/20260520110932/it/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-http://www.businesswire.com/news/home/20260520298636/es/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-http://www.businesswire.com/news/home/20260520715022/nl/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-http://www.businesswire.com/news/home/20260520099215/de/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-http://www.businesswire.com/news/home/20260520158529/fr/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-
 ## Number / Device Tracking
-https://www.pcworld.com/article/3146076/ugreens-find-my-trackers-are-5-each-get-4-for-less-than-one-airtag.html
-https://www.pcworld.com/article/2899235/lose-your-laptop-not-your-data-7-windows-settings-to-turn-on-right-now.html
+https://9to5google.com/2026/05/22/google-pixel-watch-find-my-phone-ecg-app-issues/
 
 ## Parental Control
-https://hackernoon.com/53-blog-posts-to-learn-about-chrome?source=rss
-https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/
-https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety
+https://www.slashgear.com/2176529/reasons-you-might-need-minimalist-phone/
 
-## Background Check
-https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next
+## Security & Anti-Abuse
+https://databreaches.net/2026/05/22/radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected/?pk_campaign=feed&pk_kwd=radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected
+https://databreaches.net/2026/05/22/hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider/?pk_campaign=feed&pk_kwd=hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider
+https://databreaches.net/2026/05/22/hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack/?pk_campaign=feed&pk_kwd=hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack
+https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks
+https://thenextweb.com/news/most-data-breaches-start-with-a-stolen-password
+https://www.cnet.com/home/internet/xfinity-data-breach-settlement-what-to-know-how-to-claim-117-million/
+https://therecord.media/hackers-steal-patient-billing-data-german-hospitals
 
-## Email Lookup
-https://hackernoon.com/5-21-2026-techbeat?source=rss
+## OSINT & Open Source Intelligence
+https://github.com/paulo-cesar-security/cybersecurity-portfolio

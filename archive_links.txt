@@ -4125,3 +4125,13 @@ https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-
 https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety
 https://www.pcworld.com/article/2899235/lose-your-laptop-not-your-data-7-windows-settings-to-turn-on-right-now.html
 https://www.pcworld.com/article/3146076/ugreens-find-my-trackers-are-5-each-get-4-for-less-than-one-airtag.html
+https://9to5google.com/2026/05/22/google-pixel-watch-find-my-phone-ecg-app-issues/
+https://databreaches.net/2026/05/22/hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack/?pk_campaign=feed&pk_kwd=hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack
+https://databreaches.net/2026/05/22/hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider/?pk_campaign=feed&pk_kwd=hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider
+https://databreaches.net/2026/05/22/radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected/?pk_campaign=feed&pk_kwd=radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected
+https://github.com/paulo-cesar-security/cybersecurity-portfolio
+https://thenextweb.com/news/most-data-breaches-start-with-a-stolen-password
+https://therecord.media/hackers-steal-patient-billing-data-german-hospitals
+https://www.cnet.com/home/internet/xfinity-data-breach-settlement-what-to-know-how-to-claim-117-million/
+https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks
+https://www.slashgear.com/2176529/reasons-you-might-need-minimalist-phone/
