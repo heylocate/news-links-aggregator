@@ -1,13 +1,21 @@
 ## Phone Lookup
-http://www.businesswire.com/news/home/20260520906699/en/Truecaller-Travel-eSIM-Launch-Powered-by-Telness-Tech%E2%80%99s-Seamless-OS/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/
-https://github.com/windmountain/mayo
+http://www.businesswire.com/news/home/20260520110932/it/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+http://www.businesswire.com/news/home/20260520298636/es/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+http://www.businesswire.com/news/home/20260520715022/nl/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+http://www.businesswire.com/news/home/20260520099215/de/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+http://www.businesswire.com/news/home/20260520158529/fr/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
 
-## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/Dragonica
-https://haveibeenpwned.com/Breach/Windows93
-https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen
-https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches
+## Number / Device Tracking
+https://www.pcworld.com/article/3146076/ugreens-find-my-trackers-are-5-each-get-4-for-less-than-one-airtag.html
+https://www.pcworld.com/article/2899235/lose-your-laptop-not-your-data-7-windows-settings-to-turn-on-right-now.html
 
-## OSINT & Open Source Intelligence
-https://github.com/benjaminboyer00-cmyk/osint-ultimate
+## Parental Control
+https://hackernoon.com/53-blog-posts-to-learn-about-chrome?source=rss
+https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/
+https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety
+
+## Background Check
+https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next
+
+## Email Lookup
+https://hackernoon.com/5-21-2026-techbeat?source=rss
