@@ -1,20 +1,19 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://github.com/adityamullapudi05-cloud/i_am_here_android_app"
-  ],
-  "Parental Control": [
-    "https://www.macrumors.com/review/aqara-camera-hub-g350/"
-  ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.tomsguide.com/ai/gemini-in-google-maps-recommended-this-popular-tourist-pizza-spot-and-it-was-better-than-expected"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://databreaches.net/2026/05/23/uk-victims-feel-violated-after-water-firms-data-breach/?pk_campaign=feed&pk_kwd=uk-victims-feel-violated-after-water-firms-data-breach"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/futurestackintel/phantomstack",
+    "https://github.com/mangod12/skydash"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
