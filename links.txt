@@ -1,17 +1,8 @@
 ## Number / Device Tracking
-https://9to5google.com/2026/05/22/google-pixel-watch-find-my-phone-ecg-app-issues/
+https://github.com/adityamullapudi05-cloud/i_am_here_android_app
 
 ## Parental Control
-https://www.slashgear.com/2176529/reasons-you-might-need-minimalist-phone/
+https://www.macrumors.com/review/aqara-camera-hub-g350/
 
-## Security & Anti-Abuse
-https://databreaches.net/2026/05/22/radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected/?pk_campaign=feed&pk_kwd=radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected
-https://databreaches.net/2026/05/22/hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider/?pk_campaign=feed&pk_kwd=hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider
-https://databreaches.net/2026/05/22/hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack/?pk_campaign=feed&pk_kwd=hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack
-https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks
-https://thenextweb.com/news/most-data-breaches-start-with-a-stolen-password
-https://www.cnet.com/home/internet/xfinity-data-breach-settlement-what-to-know-how-to-claim-117-million/
-https://therecord.media/hackers-steal-patient-billing-data-german-hospitals
-
-## OSINT & Open Source Intelligence
-https://github.com/paulo-cesar-security/cybersecurity-portfolio
+## Address Lookup
+https://www.tomsguide.com/ai/gemini-in-google-maps-recommended-this-popular-tourist-pizza-spot-and-it-was-better-than-expected
