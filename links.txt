@@ -1,8 +1,5 @@
-## Parental Control
-https://www.cnet.com/tech/services-and-software/your-phone-has-built-in-tools-to-help-you-use-it-less-heres-how-to-find-them/
-https://www.xda-developers.com/routers-parental-controls-security-theater-heres-firewall-rule-that-works/
-https://www.macworld.com/article/3145806/this-45-montessori-style-app-rethinks-screen-time-for-kids.html
+## Phone Lookup
+https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-21-2026-302780992.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/lordbuffcloud/stingersearch
-https://github.com/CabinDioxide/geopolitical-observatory-dashboard
+https://github.com/VolkanYildirim/VY-OSINTFramework
