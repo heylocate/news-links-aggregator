@@ -1,6 +1,15 @@
 ## Number / Device Tracking
-https://www.androidheadlines.com/2026/05/pixel-watch-bug-is-crashing-find-my-phone-and-ecg-apps-for-some-users.html
+https://9to5google.com/2026/05/26/mercedes-benz-key-tracker-android-find-hub-iphone/
+
+## Parental Control
+https://www.prnewswire.com/news-releases/proxy-impact-shareholders-move-to-link-meta-executive-pay-to-child-safety-as-landmark-lawsuit-losses-mount-302782161.html
+https://hackernoon.com/how-i-built-an-iphone-theft-detection-system-using-motion-sensors-and-screen-time-apis?source=rss
+
+## Security & Anti-Abuse
+https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/
+https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/
 
 ## OSINT & Open Source Intelligence
-https://github.com/brevitech/sosint
-https://github.com/Amay-XD/Reconmind
+https://github.com/mail2jack/osint-dashboard
+https://github.com/commit3296/adler
+https://github.com/ryhdph8g7w-tech/osint-project
