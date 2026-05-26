@@ -1,18 +1,19 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.engadget.com/2180436/pope-leo-calls-for-ai-to-serve-humanity-and-not-concentrate-power/"
+  "Number / Device Tracking": [
+    "https://www.androidheadlines.com/2026/05/pixel-watch-bug-is-crashing-find-my-phone-and-ecg-apps-for-some-users.html"
   ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.pcworld.com/article/2405341/10-free-ways-to-make-your-windows-pc-harder-to-hack.html"
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/brevitech/sosint",
+    "https://github.com/Amay-XD/Reconmind"
   ],
-  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
