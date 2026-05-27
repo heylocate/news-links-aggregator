@@ -1,15 +1,10 @@
-## Number / Device Tracking
-https://9to5google.com/2026/05/26/mercedes-benz-key-tracker-android-find-hub-iphone/
-
-## Parental Control
-https://www.prnewswire.com/news-releases/proxy-impact-shareholders-move-to-link-meta-executive-pay-to-child-safety-as-landmark-lawsuit-losses-mount-302782161.html
-https://hackernoon.com/how-i-built-an-iphone-theft-detection-system-using-motion-sensors-and-screen-time-apis?source=rss
+## Background Check
+https://haveibeenpwned.com/Breach/Ameriprise
+https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background
 
 ## Security & Anti-Abuse
-https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/
-https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/
+https://www.tomsguide.com/computing/online-security/hackers-allegedly-stole-40-million-records-from-charter-communications-everything-you-need-to-know
 
 ## OSINT & Open Source Intelligence
-https://github.com/mail2jack/osint-dashboard
-https://github.com/commit3296/adler
-https://github.com/ryhdph8g7w-tech/osint-project
+https://github.com/HyperSecurityLabs/oxide-communityedtion-v8.5.0
+https://github.com/Gokul-Eswar/Spectre

@@ -4162,3 +4162,8 @@ https://hackernoon.com/how-i-built-an-iphone-theft-detection-system-using-motion
 https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/
 https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/
 https://www.prnewswire.com/news-releases/proxy-impact-shareholders-move-to-link-meta-executive-pay-to-child-safety-as-landmark-lawsuit-losses-mount-302782161.html
+https://github.com/Gokul-Eswar/Spectre
+https://github.com/HyperSecurityLabs/oxide-communityedtion-v8.5.0
+https://haveibeenpwned.com/Breach/Ameriprise
+https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background
+https://www.tomsguide.com/computing/online-security/hackers-allegedly-stole-40-million-records-from-charter-communications-everything-you-need-to-know
