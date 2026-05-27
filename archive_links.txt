@@ -4167,3 +4167,8 @@ https://github.com/HyperSecurityLabs/oxide-communityedtion-v8.5.0
 https://haveibeenpwned.com/Breach/Ameriprise
 https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background
 https://www.tomsguide.com/computing/online-security/hackers-allegedly-stole-40-million-records-from-charter-communications-everything-you-need-to-know
+https://appleinsider.com/articles/26/05/27/rumored-anti-snatch-feature-will-automatically-lock-iphones-yanked-out-of-a-users-hand
+https://hackernoon.com/5-27-2026-techbeat?source=rss
+https://www.macrumors.com/2026/05/27/apple-wallet-ids-14th-state/
+https://www.techradar.com/pro/security/charter-communications-confirms-data-breach-shinyhunters-blamed-after-threat-to-leak-user-info-online
+https://www.techspot.com/news/112550-smartphone-shipments-face-worst-decline-ever-memory-crisis.html
