@@ -1,23 +1,28 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/",
-    "https://9to5mac.com/2026/05/27/this-find-my-wallet-tracker-has-two-features-that-make-it-stand-out/"
+  "Phone Lookup": [
+    "https://github.com/Jakkxbt/whonum",
+    "https://blog.hiya.com/telenor-sweden-deploys-hiyas-ai-powered-call-protection",
+    "http://www.businesswire.com/news/home/20260528415100/en/Hiyas-Call-Protection-Technology-Powers-Telenor-Swedens-New-Nummerkoll-Service/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
   ],
+  "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [
-    "https://www.computerworld.com/article/4177933/another-it-governance-headache-ai-enabled-sanction-evasion-2.html"
+    "https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare",
+    "https://www.techradar.com/vpn/vpn-privacy-security/polymarket-blocks-vpns-and-tightens-identity-verification-as-over-30-countries-ban-the-betting-platform"
   ],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/immersive-view-to-scout-hike-before-left-house/"
+    "https://blog.google/products-and-platforms/products/maps/dua-lipa/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://therecord.media/cruise-giant-carnival-confirms-data-breach-affecting-6-million",
+    "https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Falconmx1/Framework-Tool-Mx",
-    "https://github.com/ToasterRooter/ai-recon-osint-agent"
+    "https://github.com/oyi77/1ai-osint",
+    "https://github.com/Ayushmishra112/Sentinel-OSINT-Monitoring-Platform"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
