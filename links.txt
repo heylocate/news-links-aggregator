@@ -1,12 +1,13 @@
 ## Number / Device Tracking
-https://appleinsider.com/articles/26/05/27/rumored-anti-snatch-feature-will-automatically-lock-iphones-yanked-out-of-a-users-hand
+https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/
+https://9to5mac.com/2026/05/27/this-find-my-wallet-tracker-has-two-features-that-make-it-stand-out/
 
 ## Background Check
-https://www.macrumors.com/2026/05/27/apple-wallet-ids-14th-state/
+https://www.computerworld.com/article/4177933/another-it-governance-headache-ai-enabled-sanction-evasion-2.html
 
-## Security & Anti-Abuse
-https://www.techradar.com/pro/security/charter-communications-confirms-data-breach-shinyhunters-blamed-after-threat-to-leak-user-info-online
-https://hackernoon.com/5-27-2026-techbeat?source=rss
+## Address Lookup
+https://www.androidpolice.com/immersive-view-to-scout-hike-before-left-house/
 
-## Uncategorized
-https://www.techspot.com/news/112550-smartphone-shipments-face-worst-decline-ever-memory-crisis.html
+## OSINT & Open Source Intelligence
+https://github.com/Falconmx1/Framework-Tool-Mx
+https://github.com/ToasterRooter/ai-recon-osint-agent
