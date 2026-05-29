@@ -1,28 +1,19 @@
 {
-  "Phone Lookup": [
-    "https://github.com/Jakkxbt/whonum",
-    "https://blog.hiya.com/telenor-sweden-deploys-hiyas-ai-powered-call-protection",
-    "http://www.businesswire.com/news/home/20260528415100/en/Hiyas-Call-Protection-Technology-Powers-Telenor-Swedens-New-Nummerkoll-Service/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [
-    "https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare",
-    "https://www.techradar.com/vpn/vpn-privacy-security/polymarket-blocks-vpns-and-tightens-identity-verification-as-over-30-countries-ban-the-betting-platform"
-  ],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://blog.google/products-and-platforms/products/maps/dua-lipa/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://therecord.media/cruise-giant-carnival-confirms-data-breach-affecting-6-million",
-    "https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million"
+    "https://www.engadget.com/2183454/california-ag-sues-23andme-data-breach/",
+    "https://www.cnet.com/tech/services-and-software/23andme-sued-by-california-over-massive-2023-data-breach/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/oyi77/1ai-osint",
-    "https://github.com/Ayushmishra112/Sentinel-OSINT-Monitoring-Platform"
+    "https://github.com/portfolioDesacratio/memorialDesacratio",
+    "https://github.com/sendmefile77-eng/OSINT"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
