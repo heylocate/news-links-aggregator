@@ -1,21 +1,33 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Phone Lookup": [
+    "https://www.prnewswire.com/news-releases/shareholding-notification-due-to-cancellation-of-own-shares-and-announcement-of-change-in-the-number-of-shares-and-votes-in-truecaller-ab-302785745.html"
+  ],
+  "Number / Device Tracking": [
+    "https://www.bgr.com/2180661/how-find-my-phone-works-battery-dead/"
+  ],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.macrumors.com/2026/05/29/apple-wallet-ids-coming-to-15th-state/"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.engadget.com/2183454/california-ag-sues-23andme-data-breach/",
-    "https://www.cnet.com/tech/services-and-software/23andme-sued-by-california-over-massive-2023-data-breach/"
+    "https://www.theregister.com/legal/2026/05/29/rob-bonta-sues-23andmes-new-owners-over-2023-breach/5248565",
+    "https://www.techradar.com/pro/security/carnival-cruise-operator-confirms-nearly-6-million-people-affected-in-data-breach",
+    "https://hackernoon.com/5-29-2026-techbeat?source=rss",
+    "https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/portfolioDesacratio/memorialDesacratio",
-    "https://github.com/sendmefile77-eng/OSINT"
+    "https://github.com/elm1nst3r/GHOST-osint-crm",
+    "https://github.com/Redrock453/strategic-intelligence-ai"
   ],
-  "Number Utilities & International": [],
-  "Monitoring / Spy Apps": [],
+  "Number Utilities & International": [
+    "https://www.computerworld.com/article/4178764/certifiably-random-swiss-researchers-claim-perfect-random-number-source-3.html"
+  ],
+  "Monitoring / Spy Apps": [
+    "https://www.cnet.com/tech/gaming/overwatch-10-year-anniversary-changed-me/"
+  ],
   "Uncategorized": []
 }
