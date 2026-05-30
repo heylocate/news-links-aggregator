@@ -1,2 +1,6 @@
-## Security & Anti-Abuse
-https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker
+## Number / Device Tracking
+https://9to5google.com/2026/05/30/google-pixel-watch-find-my-phone-ecg-app-issues/
+
+## OSINT & Open Source Intelligence
+https://github.com/Quintex-exe/sportline
+https://github.com/Hamulda/hledac-universal
