@@ -1,6 +1,0 @@
-## Number / Device Tracking
-https://9to5google.com/2026/05/30/google-pixel-watch-find-my-phone-ecg-app-issues/
-
-## OSINT & Open Source Intelligence
-https://github.com/Quintex-exe/sportline
-https://github.com/Hamulda/hledac-universal
