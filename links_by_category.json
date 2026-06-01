@@ -1,23 +1,25 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/kingsrule50/soulinspire-m365-teams-rollout"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/google-maps-helped-me-discover-neighborhood-was-lying/"
+    "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://hackernoon.com/5-31-2026-techbeat?source=rss"
+    "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/kawsar1533/clawdwatch"
+    "https://github.com/Csolanascript/Skyfall-CTI",
+    "https://github.com/KiranKurbet/cyart-red-teaming",
+    "https://github.com/miahouvanta/MiahouVanta"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://github.com/Freedom00000000/GpsTracker"
-  ]
+  "Uncategorized": []
 }
