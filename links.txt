@@ -1,13 +1,16 @@
 ## Phone Lookup
-https://github.com/kingsrule50/soulinspire-m365-teams-rollout
+https://blog.youmail.com/2026/06/may-2026-robocall-breakdown-the-top-5-hardest-hit-states-and-the-biggest-risers/
+
+## Parental Control
+https://www.pcworld.com/article/2323370/your-antivirus-could-replace-your-vpn-password-manager-and-backup-app.html
 
 ## Address Lookup
-https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html
+https://www.bgr.com/2180839/reasons-waze-better-worse-google-maps/
 
 ## Security & Anti-Abuse
-https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/
+https://www.globenewswire.com/news-release/2026/06/01/3304683/0/en/Industrial-Acceptance-Corporation-d-b-a-IAC-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html
+https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/
 
 ## OSINT & Open Source Intelligence
-https://github.com/Csolanascript/Skyfall-CTI
-https://github.com/KiranKurbet/cyart-red-teaming
-https://github.com/miahouvanta/MiahouVanta
+https://github.com/thunderstornX/docker-osint-stack
+https://github.com/sxu9512/SakuraOsintTryhackme-completed

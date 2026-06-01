@@ -4217,3 +4217,10 @@ https://github.com/kingsrule50/soulinspire-m365-teams-rollout
 https://github.com/miahouvanta/MiahouVanta
 https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html
 https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/
+https://blog.youmail.com/2026/06/may-2026-robocall-breakdown-the-top-5-hardest-hit-states-and-the-biggest-risers/
+https://github.com/sxu9512/SakuraOsintTryhackme-completed
+https://github.com/thunderstornX/docker-osint-stack
+https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/
+https://www.bgr.com/2180839/reasons-waze-better-worse-google-maps/
+https://www.globenewswire.com/news-release/2026/06/01/3304683/0/en/Industrial-Acceptance-Corporation-d-b-a-IAC-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html
+https://www.pcworld.com/article/2323370/your-antivirus-could-replace-your-vpn-password-manager-and-backup-app.html
