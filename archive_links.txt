@@ -4224,3 +4224,8 @@ https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/
 https://www.bgr.com/2180839/reasons-waze-better-worse-google-maps/
 https://www.globenewswire.com/news-release/2026/06/01/3304683/0/en/Industrial-Acceptance-Corporation-d-b-a-IAC-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html
 https://www.pcworld.com/article/2323370/your-antivirus-could-replace-your-vpn-password-manager-and-backup-app.html
+https://github.com/Jafste/GeoExplorer
+https://github.com/LeucoByte/mcpscrk
+https://github.com/Samir4142/ThreatScope
+https://www.macrumors.com/2026/06/01/meta-ai-instagram-attack/
+https://www.macworld.com/article/3151746/spend-35-to-block-ads-hide-your-browsing-and-quiet-the-online-chaos-with-this-adguard-suite.html

@@ -1,25 +1,21 @@
 {
-  "Phone Lookup": [
-    "https://blog.youmail.com/2026/06/may-2026-robocall-breakdown-the-top-5-hardest-hit-states-and-the-biggest-risers/"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.pcworld.com/article/2323370/your-antivirus-could-replace-your-vpn-password-manager-and-backup-app.html"
+    "https://www.macworld.com/article/3151746/spend-35-to-block-ads-hide-your-browsing-and-quiet-the-online-chaos-with-this-adguard-suite.html"
   ],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.macrumors.com/2026/06/01/meta-ai-instagram-attack/"
+  ],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.bgr.com/2180839/reasons-waze-better-worse-google-maps/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.globenewswire.com/news-release/2026/06/01/3304683/0/en/Industrial-Acceptance-Corporation-d-b-a-IAC-Data-Breach-Exposes-Personal-Information-Murphy-Law-Firm-Investigates-Legal-Claims.html",
-    "https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/thunderstornX/docker-osint-stack",
-    "https://github.com/sxu9512/SakuraOsintTryhackme-completed"
+    "https://github.com/Samir4142/ThreatScope",
+    "https://github.com/LeucoByte/mcpscrk",
+    "https://github.com/Jafste/GeoExplorer"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
