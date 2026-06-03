@@ -1,25 +1,26 @@
 {
   "Phone Lookup": [
-    "https://github.com/mandarrkamat/callerID"
+    "https://www.wired.com/story/how-to-block-calls-and-spam-messages/"
   ],
   "Number / Device Tracking": [
-    "https://www.androidcentral.com/apps-software/android-os/android-advanced-protection-anti-theft"
+    "https://readwrite.com/prediction-markets-geolocation-blocking/",
+    "https://www.androidpolice.com/the-security-features-on-my-android-phone-are-broken-apple-is-already-doing-them-better/"
   ],
-  "Parental Control": [],
-  "Background Check": [
-    "https://hackernoon.com/zoomex-prediction-market-officially-launches-participate-in-global-trending-events-with-crypto?source=rss",
-    "https://hackernoon.com/the-ciso-whisperers-watch-list-for-the-gartner-security-and-risk-management-summit-2026?source=rss"
+  "Parental Control": [
+    "https://github.com/Fool-of-Scholar/FocusFlow"
   ],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.xda-developers.com/ditched-claude-for-gemini-google-maps-planing-get-togethers-less-risky/"
+  "Address Lookup": [],
+  "Image Search": [
+    "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/"
   ],
-  "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/Cracker-csh/hacking-tools"
+  "Security & Anti-Abuse": [
+    "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "https://www.pcworld.com/article/3152706/firefoxs-free-email-mask-service-got-a-massive-update.html"
   ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
