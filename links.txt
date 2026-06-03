@@ -1,10 +1,15 @@
 ## Phone Lookup
-http://www.businesswire.com/news/home/20260602993182/en/Hiya-and-DNA-Launch-Network-Level-Call-Protection-for-Consumers-and-Businesses/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-https://blog.hiya.com/hiya-and-dna-finland-launch-network-level-call-protection
+https://github.com/mandarrkamat/callerID
+
+## Number / Device Tracking
+https://www.androidcentral.com/apps-software/android-os/android-advanced-protection-anti-theft
+
+## Background Check
+https://hackernoon.com/zoomex-prediction-market-officially-launches-participate-in-global-trending-events-with-crypto?source=rss
+https://hackernoon.com/the-ciso-whisperers-watch-list-for-the-gartner-security-and-risk-management-summit-2026?source=rss
+
+## Address Lookup
+https://www.xda-developers.com/ditched-claude-for-gemini-google-maps-planing-get-togethers-less-risky/
 
 ## OSINT & Open Source Intelligence
-https://github.com/Winter-Cream/HelixOsint
-
-## Uncategorized
-https://thenextweb.com/news/meta-13-plus-teen-accounts-global
-https://about.fb.com/news/2026/06/new-13-plus-content-settings-for-teen-accounts-expanding-globally-on-instagram-facebook-messenger/
+https://github.com/Cracker-csh/hacking-tools
