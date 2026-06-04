@@ -4255,3 +4255,7 @@ https://github.com/vil/H4X-Tools
 https://thenextweb.com/news/hackers-asked-metas-ai-chatbot-to-hand-over-instagram-accounts-and-it-did
 https://www.macrumors.com/2026/06/03/apple-app-store-texas-sb-2420/
 https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/
+https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/
+https://github.com/gahitchi/osint-recon
+https://www.androidcentral.com/streaming-tv/amazon/its-hard-to-make-sense-of-amazons-ai-generated-images-while-you-search
+https://www.tomsguide.com/wellness/smart-rings/ultrahuman-data-breach-i-was-affected-and-here-is-exactly-what-hackers-stole-from-my-account
