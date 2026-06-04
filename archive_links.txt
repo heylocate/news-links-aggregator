@@ -4247,3 +4247,11 @@ https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/
 https://www.androidpolice.com/the-security-features-on-my-android-phone-are-broken-apple-is-already-doing-them-better/
 https://www.pcworld.com/article/3152706/firefoxs-free-email-mask-service-got-a-massive-update.html
 https://www.wired.com/story/how-to-block-calls-and-spam-messages/
+https://github.com/osint-and-search/OSINT_i_deanon_Telegram
+https://github.com/osint-and-search/OSINT_i_probiv_Telegram
+https://github.com/osint-and-search/osint-v-telegram-boty-poisk-i-instrumenty
+https://github.com/osint-and-search/proverka_na_izmenu
+https://github.com/vil/H4X-Tools
+https://thenextweb.com/news/hackers-asked-metas-ai-chatbot-to-hand-over-instagram-accounts-and-it-did
+https://www.macrumors.com/2026/06/03/apple-app-store-texas-sb-2420/
+https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/
