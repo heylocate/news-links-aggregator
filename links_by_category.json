@@ -4,18 +4,16 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
-  "Image Search": [
-    "https://www.androidcentral.com/streaming-tv/amazon/its-hard-to-make-sense-of-amazons-ai-generated-images-while-you-search"
+  "Address Lookup": [
+    "https://www.androidpolice.com/morning-commute-less-stressful-thanks-to-google-maps-feature/"
   ],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.tomsguide.com/wellness/smart-rings/ultrahuman-data-breach-i-was-affected-and-here-is-exactly-what-hackers-stole-from-my-account",
-    "https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/"
+    "https://www.computerworld.com/article/4180891/compliance-chaos-ny-regulators-see-a-data-breach-then-focus-on-it-errors.html",
+    "https://www.androidpolice.com/ultrahumans-data-breach-exposes-customer-details-but-passwords-stay-safe/"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/gahitchi/osint-recon"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

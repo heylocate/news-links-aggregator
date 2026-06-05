@@ -4259,3 +4259,6 @@ https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-co
 https://github.com/gahitchi/osint-recon
 https://www.androidcentral.com/streaming-tv/amazon/its-hard-to-make-sense-of-amazons-ai-generated-images-while-you-search
 https://www.tomsguide.com/wellness/smart-rings/ultrahuman-data-breach-i-was-affected-and-here-is-exactly-what-hackers-stole-from-my-account
+https://www.androidpolice.com/morning-commute-less-stressful-thanks-to-google-maps-feature/
+https://www.androidpolice.com/ultrahumans-data-breach-exposes-customer-details-but-passwords-stay-safe/
+https://www.computerworld.com/article/4180891/compliance-chaos-ny-regulators-see-a-data-breach-then-focus-on-it-errors.html
