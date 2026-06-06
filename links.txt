@@ -1,10 +1,2 @@
-## Parental Control
-https://www.bgr.com/2184870/best-android-launchers-reduce-screen-time/
-
-## Address Lookup
-https://9to5google.com/2026/06/05/android-auto-google-maps-alerts-redesign/
-
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/06/05/3307664/0/en/DentaQuest-Data-Breach-Edelson-Lechtzin-LLP-Launches-Investigation-Into-Exposure-of-Personal-Information.html
-https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/
-https://www.techradar.com/pro/security/2-6-million-dentaquest-accounts-exposed-by-data-breach-shinyhunters-claim-234gb-of-data-stolen
+https://thenextweb.com/news/ibm-whistleblower-data-breach-cover-up
