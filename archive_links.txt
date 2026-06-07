@@ -4272,3 +4272,6 @@ https://www.bgr.com/2184870/best-android-launchers-reduce-screen-time/
 https://www.globenewswire.com/news-release/2026/06/05/3307664/0/en/DentaQuest-Data-Breach-Edelson-Lechtzin-LLP-Launches-Investigation-Into-Exposure-of-Personal-Information.html
 https://www.techradar.com/pro/security/2-6-million-dentaquest-accounts-exposed-by-data-breach-shinyhunters-claim-234gb-of-data-stolen
 https://thenextweb.com/news/ibm-whistleblower-data-breach-cover-up
+https://github.com/isaiasrb77/DeepScanner-OSINT
+https://github.com/yuennix/weyn-tools
+https://www.xda-developers.com/organic-maps-open-source-google-maps-alternative-delivers/

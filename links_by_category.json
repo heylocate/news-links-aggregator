@@ -4,13 +4,16 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.xda-developers.com/organic-maps-open-source-google-maps-alternative-delivers/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://thenextweb.com/news/ibm-whistleblower-data-breach-cover-up"
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/isaiasrb77/DeepScanner-OSINT",
+    "https://github.com/yuennix/weyn-tools"
   ],
-  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
