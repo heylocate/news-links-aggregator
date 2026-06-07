@@ -4275,3 +4275,6 @@ https://thenextweb.com/news/ibm-whistleblower-data-breach-cover-up
 https://github.com/isaiasrb77/DeepScanner-OSINT
 https://github.com/yuennix/weyn-tools
 https://www.xda-developers.com/organic-maps-open-source-google-maps-alternative-delivers/
+https://github.com/helioskozak-cloud/iran-watch
+https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/
+https://www.slashgear.com/2187659/why-manual-transmission-often-called-anti-theft-device/
