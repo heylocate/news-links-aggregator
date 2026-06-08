@@ -1,5 +1,19 @@
+## Parental Control
+https://appleinsider.com/articles/26/06/08/revamped-parental-controls-are-coming-to-iphone-mac-and-more
+https://www.tomsguide.com/phones/iphones/apple-adds-more-parental-controls-to-its-devices-in-ios-27-heres-whats-new
+https://www.engadget.com/2189728/apple-expands-parental-controls-to-include-automatic-image-filtering/
+https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features
+https://www.mobileworldlive.com/big-tech/big-tech-faces-uk-child-safety-ultimatum/
+https://newsroom.ee.co.uk/growing-up-online-if-we-want-safer-social-platforms-we-need-to-listen-to-young-people/
+https://appleinsider.com/articles/26/06/08/uk-demands-apple-makes-a-child-protecting-nudity-detector-that-already-exists
+
+## Address Lookup
+https://9to5google.com/2026/06/08/android-auto-google-maps-day-night-bug/
+
 ## Security & Anti-Abuse
-https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html
+https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/
+https://databreaches.net/2026/06/08/essex-nhs-hospitals-records-compromised-in-cyber-attack/?pk_campaign=feed&pk_kwd=essex-nhs-hospitals-records-compromised-in-cyber-attack
+https://databreaches.net/2026/06/08/instagram-recovery-tool-bug-exposed-20225-accounts-to-password-reset-abuse/?pk_campaign=feed&pk_kwd=instagram-recovery-tool-bug-exposed-20225-accounts-to-password-reset-abuse
 
 ## OSINT & Open Source Intelligence
-https://github.com/Mar8x/cybersleuth
+https://github.com/Kinetictheoryofheatshipbreaker23/IRONSIGHT
