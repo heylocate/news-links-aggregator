@@ -1,19 +1,25 @@
-## Parental Control
-https://appleinsider.com/articles/26/06/08/revamped-parental-controls-are-coming-to-iphone-mac-and-more
-https://www.tomsguide.com/phones/iphones/apple-adds-more-parental-controls-to-its-devices-in-ios-27-heres-whats-new
-https://www.engadget.com/2189728/apple-expands-parental-controls-to-include-automatic-image-filtering/
-https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features
-https://www.mobileworldlive.com/big-tech/big-tech-faces-uk-child-safety-ultimatum/
-https://newsroom.ee.co.uk/growing-up-online-if-we-want-safer-social-platforms-we-need-to-listen-to-young-people/
-https://appleinsider.com/articles/26/06/08/uk-demands-apple-makes-a-child-protecting-nudity-detector-that-already-exists
+## Phone Lookup
+https://blog.youmail.com/2026/06/how-to-secure-your-business-phone-line-from-spam-calls-for-small-businesses/
 
-## Address Lookup
-https://9to5google.com/2026/06/08/android-auto-google-maps-day-night-bug/
+## Parental Control
+https://www.pcworld.com/article/3156763/cut-out-ads-trackers-and-phishing-links-on-9-devices-for-life-15-97-with-no-subscription-fees.html
+https://www.computerworld.com/article/4182531/trumps-new-ai-order-hallucinations-arent-just-for-llms.html
+https://www.zdnet.com/article/apple-ios-27-ipados-macos-wwdc-2026-parental-controls/
+https://www.phonearena.com/news/apple-is-bringing-big-parental-control-upgrades-to-your-iphone-this-fall_id180955
+https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc
+https://www.computerworld.com/article/4182558/wwdc-did-apple-make-the-ai-grade-this-year.html
+https://thenextweb.com/news/apple-child-safety-parental-controls-ios-27-wwdc-2026
+https://www.androidheadlines.com/ios-27-announced
+https://www.apple.com/newsroom/2026/06/apple-previews-new-child-safety-features/
+http://www.businesswire.com/news/home/20260608304595/en/WWDC26-Apple-unveils-next-generation-of-Apple-Intelligence-Siri-AI-powerful-parental-controls-and-an-expansive-set-of-software-improvements/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/
+https://www.phonearena.com/news/ios-27-official-all-the-new-features_id180942
+
+## Background Check
+https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/
 
 ## Security & Anti-Abuse
-https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/
-https://databreaches.net/2026/06/08/essex-nhs-hospitals-records-compromised-in-cyber-attack/?pk_campaign=feed&pk_kwd=essex-nhs-hospitals-records-compromised-in-cyber-attack
-https://databreaches.net/2026/06/08/instagram-recovery-tool-bug-exposed-20225-accounts-to-password-reset-abuse/?pk_campaign=feed&pk_kwd=instagram-recovery-tool-bug-exposed-20225-accounts-to-password-reset-abuse
+https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks
 
 ## OSINT & Open Source Intelligence
-https://github.com/Kinetictheoryofheatshipbreaker23/IRONSIGHT
+https://github.com/buddhsen-tripathi/OSINT-Kit
