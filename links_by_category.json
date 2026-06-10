@@ -1,21 +1,25 @@
 {
-  "Phone Lookup": [
-    "https://blog.hiya.com/how-to-check-phone-numbers-for-spam-labels"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.computerworld.com/article/4183245/uk-move-to-filter-photos-and-messages-triggers-encryption-worries-for-cisos-2.html",
-    "https://www.techradar.com/phones/ios/im-a-big-screen-time-user-and-apples-shiny-new-ios-27-features-wont-matter-without-a-major-bug-fix"
+    "https://www.cnet.com/tech/mobile/apple-please-dont-enter-middle-age-with-me-wwdc-left-aspiration-behind/",
+    "https://9to5mac.com/2026/06/10/apple-is-giving-screen-time-and-parental-controls-a-long-overdue-upgrade-in-ios-27/",
+    "https://www.phonearena.com/news/After-nearly-20-Years-Apple-lets-you-separate-alarm-and-ringer-volumes-with-iOS-27_id180996"
   ],
   "Background Check": [
-    "https://www.pr.com/press-release/970635"
+    "https://www.pcworld.com/article/3141697/google-search-knows-where-you-live-heres-how-to-claw-back-some-privacy.html"
   ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://databreaches.net/2026/06/10/power-company-in-japan-fears-data-breach-after-losing-storage-drive-containing-customer-details/?pk_campaign=feed&pk_kwd=power-company-in-japan-fears-data-breach-after-losing-storage-drive-containing-customer-details",
+    "https://www.techradar.com/pro/security/french-government-internal-messaging-tool-tchap-hit-by-data-breach-but-it-doesnt-know-if-any-data-was-compromised"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
