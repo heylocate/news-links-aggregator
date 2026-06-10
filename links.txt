@@ -1,14 +1,9 @@
+## Phone Lookup
+https://blog.hiya.com/how-to-check-phone-numbers-for-spam-labels
+
 ## Parental Control
-https://www.prnewswire.com/news-releases/grogo-wins-second-consecutive-national-parenting-products-award-this-time-for-best-app-for-kids-302795106.html
-https://blog.youtube/news-and-events/summer-screen-time-practical-tips-families/
-https://www.technewsworld.com/story/ai-integration-child-safety-touted-by-apple-at-wwdc26-180376.html?rss=1
+https://www.computerworld.com/article/4183245/uk-move-to-filter-photos-and-messages-triggers-encryption-worries-for-cisos-2.html
+https://www.techradar.com/phones/ios/im-a-big-screen-time-user-and-apples-shiny-new-ios-27-features-wont-matter-without-a-major-bug-fix
 
-## Address Lookup
-https://www.slashgear.com/2189289/apple-vs-google-maps-which-better-use-2026/
-https://www.androidheadlines.com/2026/06/android-auto-bug-is-leaving-google-maps-blinding-bright-at-night.html
-
-## Security & Anti-Abuse
-https://www.macworld.com/article/3160935/apple-finally-got-rid-of-my-biggest-password-headache.html
-
-## OSINT & Open Source Intelligence
-https://github.com/0xvanguard/University-Cybersecurity-Free
+## Background Check
+https://www.pr.com/press-release/970635
