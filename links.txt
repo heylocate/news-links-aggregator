@@ -1,18 +1,13 @@
+## Number / Device Tracking
+https://9to5mac.com/2026/06/11/apple-working-with-british-police-to-tackle-iphone-theft/
+
 ## Parental Control
-https://www.theverge.com/transportation/948244/ryanair-cma-probe-parents-child-seating-fee
-https://9to5google.com/2026/06/10/heypolo-family-location-sharing-app-surfshark/
-https://appleinsider.com/articles/26/06/10/apples-expanded-child-safety-features-arent-going-to-protect-kids-from-everything
-
-## Background Check
-https://www.globenewswire.com/news-release/2026/06/11/3310240/0/en/Identity-Verification-Market-to-Reach-USD-62-11-Billion-by-2035-Driven-by-Rising-Fraud-Risks-AI-Based-Authentication-and-Global-KYC-Compliance-Demand-Report-by-SNS-Insider.html
-
-## People Search
-https://www.pcworld.com/article/3160025/this-75-privacy-bundle-closes-both-doors-scammers-usually-use.html
+https://www.techradar.com/phones/ios/heres-the-real-reason-apple-made-such-a-big-deal-of-screen-time-and-child-safety-at-wwdc-2026-and-why-it-may-be-a-very-good-thing
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/06/10/67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe/?pk_campaign=feed&pk_kwd=67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe
+https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/
+https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-raids-nottingham-uni-for-student-alumni-data/5253961
 
 ## OSINT & Open Source Intelligence
-https://github.com/vredin/osint
-https://github.com/ethicalprofessionalism-sudo/Automated-Web-Reconnaissance-and-Attack-Surface-Mapping-Framework
-https://github.com/nishu2402/HEAVEN-GeoIntel
+https://github.com/I102R/sentinel-osint-ui
+https://github.com/Kallak-hub/Osint-IP-Domain-Py

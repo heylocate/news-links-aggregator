@@ -4335,3 +4335,9 @@ https://github.com/vredin/osint
 https://www.globenewswire.com/news-release/2026/06/11/3310240/0/en/Identity-Verification-Market-to-Reach-USD-62-11-Billion-by-2035-Driven-by-Rising-Fraud-Risks-AI-Based-Authentication-and-Global-KYC-Compliance-Demand-Report-by-SNS-Insider.html
 https://www.pcworld.com/article/3160025/this-75-privacy-bundle-closes-both-doors-scammers-usually-use.html
 https://www.theverge.com/transportation/948244/ryanair-cma-probe-parents-child-seating-fee
+https://9to5mac.com/2026/06/11/apple-working-with-british-police-to-tackle-iphone-theft/
+https://github.com/I102R/sentinel-osint-ui
+https://github.com/Kallak-hub/Osint-IP-Domain-Py
+https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/
+https://www.techradar.com/phones/ios/heres-the-real-reason-apple-made-such-a-big-deal-of-screen-time-and-child-safety-at-wwdc-2026-and-why-it-may-be-a-very-good-thing
+https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-raids-nottingham-uni-for-student-alumni-data/5253961
