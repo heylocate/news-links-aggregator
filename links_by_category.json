@@ -1,23 +1,19 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/iamdavid-vaughan/verirouteintel-python",
+    "https://github.com/iamdavid-vaughan/verirouteintel-node"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.techspot.com/news/112743-chatgpt-becomes-fastest-app-reach-1-billion-monthly.html"
-  ],
-  "Image Search": [
-    "https://venturebeat.com/data/pixelrag-beats-text-parsers-on-accuracy-and-cuts-ai-agent-token-costs-10x"
-  ],
+  "Address Lookup": [],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://therecord.media/bankruptcy-admin-approves-settlement-for-23andme-breach-victims",
-    "https://therecord.media/south-korea-data-breach-record-fine-coupang"
+    "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/hacker250408/OSINT"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

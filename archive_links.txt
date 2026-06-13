@@ -4350,3 +4350,6 @@ https://therecord.media/bankruptcy-admin-approves-settlement-for-23andme-breach-
 https://therecord.media/south-korea-data-breach-record-fine-coupang
 https://venturebeat.com/data/pixelrag-beats-text-parsers-on-accuracy-and-cuts-ai-agent-token-costs-10x
 https://www.techspot.com/news/112743-chatgpt-becomes-fastest-app-reach-1-billion-monthly.html
+https://github.com/iamdavid-vaughan/verirouteintel-node
+https://github.com/iamdavid-vaughan/verirouteintel-python
+https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html
