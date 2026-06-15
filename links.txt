@@ -1,6 +1,12 @@
-## Security & Anti-Abuse
-https://databreaches.net/2026/06/14/uk-hotel-guests-issued-urgent-check-alert-as-personal-details-stolen-from-major-chain/?pk_campaign=feed&pk_kwd=uk-hotel-guests-issued-urgent-check-alert-as-personal-details-stolen-from-major-chain
-https://databreaches.net/2026/06/14/novo-nordisk-reports-data-breach-tells-clinical-trial-patients-to-remain-vigilant/?pk_campaign=feed&pk_kwd=novo-nordisk-reports-data-breach-tells-clinical-trial-patients-to-remain-vigilant
+## Phone Lookup
+https://www.prnewswire.com/news-releases/truecallers-board-of-directors-has-resolved-to-resume-the-repurchase-of-shares-302800098.html
+
+## Address Lookup
+https://www.tomsguide.com/computing/mobile-apps/this-hidden-google-maps-feature-is-a-great-way-to-learn-about-your-local-area-heres-how-it-works
+
+## Image Search
+https://www.androidpolice.com/i-used-gemini-image-analysis-on-my-phone-it-ruined-google-lens-for-me/
 
 ## OSINT & Open Source Intelligence
-https://github.com/stephzebay/GhostTrack
+https://github.com/Parin070/osint-tool
+https://github.com/Jieyab89/OSINT-Cheat-sheet
