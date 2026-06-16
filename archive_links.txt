@@ -4377,3 +4377,6 @@ https://www.androidpolice.com/ignored-google-maps-feature-for-years-and-now-use-
 https://www.howtogeek.com/gestures-every-driver-should-know-google-maps/
 https://www.macworld.com/article/3164257/how-macos-27-is-going-to-help-apple-sell-a-ton-more-macbook-neos.html
 https://www.techradar.com/pro/security/novo-nordisk-reveals-cyberattack-ozempic-and-wegovy-maker-says-clinical-trials-data-breached
+https://github.com/Provereno-Media/OSINT-for-countries-V2.0
+https://hackernoon.com/tapbit-announces-partnership-with-shufti-pro-to-enhance-web3-security-and-compliance-infrastructure?source=rss
+https://www.prnewswire.com/news-releases/truecaller-provides-an-update-on-recent-developments-in-its-advertising-business-302801293.html

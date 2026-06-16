@@ -1,22 +1,8 @@
 ## Phone Lookup
-https://blog.youmail.com/2026/06/4-1-billion-robocalls-reached-americans-in-may-heres-why-you-still-need-protection/
-
-## Parental Control
-https://www.macworld.com/article/3164257/how-macos-27-is-going-to-help-apple-sell-a-ton-more-macbook-neos.html
+https://www.prnewswire.com/news-releases/truecaller-provides-an-update-on-recent-developments-in-its-advertising-business-302801293.html
 
 ## Background Check
-https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them
-
-## Address Lookup
-https://www.howtogeek.com/gestures-every-driver-should-know-google-maps/
-https://www.androidpolice.com/ignored-google-maps-feature-for-years-and-now-use-it-every-morning/
-
-## Security & Anti-Abuse
-https://therecord.media/maine-turns-off-breach-portal-fake-reports
-https://www.techradar.com/pro/security/novo-nordisk-reveals-cyberattack-ozempic-and-wegovy-maker-says-clinical-trials-data-breached
-https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/
-https://www.androidheadlines.com/2026/06/android-apps-browser-access-and-safety-checks-explained.html
+https://hackernoon.com/tapbit-announces-partnership-with-shufti-pro-to-enhance-web3-security-and-compliance-infrastructure?source=rss
 
 ## OSINT & Open Source Intelligence
-https://github.com/SulimanAbdulrazzaq/maltego-mcp
-https://github.com/ajaakevin/HACKME
+https://github.com/Provereno-Media/OSINT-for-countries-V2.0
