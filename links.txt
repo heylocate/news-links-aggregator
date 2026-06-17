@@ -1,21 +1,25 @@
+## Phone Lookup
+https://github.com/strexp/tel42verifier
+
+## Number / Device Tracking
+https://www.wired.com/story/cvs-is-switching-to-aluminum-pill-bottles/
+https://www.macworld.com/article/3166111/this-credit-card-sized-tracker-fits-in-your-wallet-and-costs-20-during-deal-days.html
+
 ## Parental Control
-https://www.cnet.com/tech/mobile/google-expands-parental-controls-all-devices-android-17-news/
-https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/
-https://blog.google/innovation-and-ai/technology/families/summer-screen-time-family-fun/
-https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/
-https://www.androidcentral.com/phones/google-pixel/schools-out-android-preps-updated-parental-controls-for-kids-alongside-android-17
+https://www.techradar.com/gaming/roblox-needs-to-protect-children-so-its-rollout-of-roblox-kids-and-roblox-select-accounts-is-welcome
+https://www.engadget.com/2195862/snap-specs-ceo-evan-spiegel-interview-at-awe-2026/
 
 ## Address Lookup
-https://www.xda-developers.com/google-maps-settings-morning-commute/
-https://www.technewsworld.com/story/study-finds-most-restaurants-missing-from-ai-recommendations-180396.html?rss=1
+https://www.bgr.com/2196167/waze-useful-new-feature-traffic-lights/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/maine-takes-down-its-data-breach-notification-portal-after-it-is-flooded-by-fake-claims
+https://www.pcworld.com/article/3168200/124-million-stolen-passwords-discovered-check-your-accounts-now.html
+https://databreaches.net/2026/06/17/cybercriminals-are-targeting-edtech-data-breaches-and-ransomware-attacks-on-the-rise/?pk_campaign=feed&pk_kwd=cybercriminals-are-targeting-edtech-data-breaches-and-ransomware-attacks-on-the-rise
+https://databreaches.net/2026/06/17/ie-hse-fined-e300000-after-tullamore-hospital-data-breach/?pk_campaign=feed&pk_kwd=ie-hse-fined-e300000-after-tullamore-hospital-data-breach
 
 ## OSINT & Open Source Intelligence
-https://github.com/Emgenius/OSINT-name-checklist
-https://github.com/Zhigoloo/CyberSecurity-Lab-Portofolio
-https://github.com/TrackerWanga/megan-apis
+https://github.com/ftgamer2/falconxpaidbot
+https://github.com/prmartinow/web-osint-platform
 
-## Monitoring / Spy Apps
-https://www.cnet.com/tech/gaming/overwatch-season-3-shion-neon-junction/
+## Uncategorized
+https://www.pcworld.com/article/3156895/lymow-one-plus-review.html
