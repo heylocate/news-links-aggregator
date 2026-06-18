@@ -4404,3 +4404,9 @@ https://www.pcworld.com/article/3156895/lymow-one-plus-review.html
 https://www.pcworld.com/article/3168200/124-million-stolen-passwords-discovered-check-your-accounts-now.html
 https://www.techradar.com/gaming/roblox-needs-to-protect-children-so-its-rollout-of-roblox-kids-and-roblox-select-accounts-is-welcome
 https://www.wired.com/story/cvs-is-switching-to-aluminum-pill-bottles/
+https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook/
+https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html
+https://github.com/asav-mx/asav-osint
+https://github.com/crimsonpistil/reveille-web
+https://github.com/sergeyramas/npz-tactical-map
+https://hackernoon.com/as-capital-rotates-from-crypto-to-ai-zoomex-traders-already-have-access-to-both?source=rss
