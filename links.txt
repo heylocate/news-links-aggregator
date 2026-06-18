@@ -1,13 +1,21 @@
-## Background Check
-https://hackernoon.com/as-capital-rotates-from-crypto-to-ai-zoomex-traders-already-have-access-to-both?source=rss
+## Number / Device Tracking
+https://thenextweb.com/news/life360-uber-teen-rides-family-integration
+https://www.prnewswire.com/news-releases/life360-and-uber-partner-to-help-parents-coordinate-rides-from-anywhere-302804255.html
 
-## Address Lookup
-https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html
+## Parental Control
+https://www.techradar.com/pro/norton-360-deluxe-is-perfect-if-you-are-looking-for-family-protection-especially-in-this-major-sale-and-performs-with-near-perfect-score-in-testing
+
+## Background Check
+https://android-developers.googleblog.com/2026/06/android-developer-verification.html
+
+## Security & Anti-Abuse
+https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/
+https://databreaches.net/2026/06/18/data-analysis-of-the-global-schools-group-breach-part-2/?pk_campaign=feed&pk_kwd=data-analysis-of-the-global-schools-group-breach-part-2
+https://databreaches.net/2026/06/18/cybersecurity-breach-includes-crime-stoppers-of-hamilton-data/?pk_campaign=feed&pk_kwd=cybersecurity-breach-includes-crime-stoppers-of-hamilton-data
+https://databreaches.net/2026/06/18/data-analysis-of-the-global-schools-group-breach-part-1/?pk_campaign=feed&pk_kwd=data-analysis-of-the-global-schools-group-breach-part-1
+https://www.theverge.com/policy/952167/voter-rolls-privacy-election-save-program
+https://databreaches.net/2026/06/18/we-didnt-have-a-data-breach-the-internet-disagreed/?pk_campaign=feed&pk_kwd=we-didnt-have-a-data-breach-the-internet-disagreed
+https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline
 
 ## OSINT & Open Source Intelligence
-https://github.com/sergeyramas/npz-tactical-map
-https://github.com/crimsonpistil/reveille-web
-https://github.com/asav-mx/asav-osint
-
-## Uncategorized
-https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook/
+https://github.com/0xgetz/VortexOSINT
