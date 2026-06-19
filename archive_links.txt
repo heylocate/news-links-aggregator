@@ -4422,3 +4422,12 @@ https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhun
 https://www.prnewswire.com/news-releases/life360-and-uber-partner-to-help-parents-coordinate-rides-from-anywhere-302804255.html
 https://www.techradar.com/pro/norton-360-deluxe-is-perfect-if-you-are-looking-for-family-protection-especially-in-this-major-sale-and-performs-with-near-perfect-score-in-testing
 https://www.theverge.com/policy/952167/voter-rolls-privacy-election-save-program
+https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/
+https://databreaches.net/2026/06/18/amazon-owned-one-medical-faces-alleged-8-8tb-data-breach/?pk_campaign=feed&pk_kwd=amazon-owned-one-medical-faces-alleged-8-8tb-data-breach
+https://databreaches.net/2026/06/18/blue-fish-pediatrics-notifies-41485-texans-about-data-breach-last-year/?pk_campaign=feed&pk_kwd=blue-fish-pediatrics-notifies-41485-texans-about-data-breach-last-year
+https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports
+https://github.com/OSINT-for-countries/OSINT_in_Seychelles
+https://github.com/RiccardoDAndrea/armoredeye-osint-scraper
+https://github.com/skyphusion-labs/common-thread
+https://hackernoon.com/indias-7-most-secure-crypto-exchanges-after-the-latest-regulatory-changes?source=rss
+https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/
