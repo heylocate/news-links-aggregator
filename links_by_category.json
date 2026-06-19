@@ -2,25 +2,26 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/"
+    "https://www.techradar.com/vpn/vpn-privacy-security/australias-social-media-ban-shows-uk-child-safety-measures-are-bound-to-fail-and-its-not-because-of-vpns",
+    "https://www.techspot.com/news/112824-meta-wants-child-safety-bill-rewritten-shield-lawsuits.html"
   ],
-  "Background Check": [
-    "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-    "https://hackernoon.com/indias-7-most-secure-crypto-exchanges-after-the-latest-regulatory-changes?source=rss"
-  ],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.bgr.com/2194172/what-does-leaf-symbol-on-google-maps-mean/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/06/18/blue-fish-pediatrics-notifies-41485-texans-about-data-breach-last-year/?pk_campaign=feed&pk_kwd=blue-fish-pediatrics-notifies-41485-texans-about-data-breach-last-year",
-    "https://databreaches.net/2026/06/18/amazon-owned-one-medical-faces-alleged-8-8tb-data-breach/?pk_campaign=feed&pk_kwd=amazon-owned-one-medical-faces-alleged-8-8tb-data-breach",
-    "https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports"
+    "https://www.globenewswire.com/news-release/2026/06/19/3314861/0/en/SunSource-Borrower-LLC-Data-Breach-Edelson-Lechtzin-LLP-Launches-Investigation-Into-Exposure-of-Personal-Information.html",
+    "https://www.globenewswire.com/news-release/2026/06/19/3314857/0/en/AssetMark-Inc-LLC-Data-Breach-Alert-Edelson-Lechtzin-LLP-Launches-Investigation-Into-Exposure-of-Personal-Information.html",
+    "https://www.theregister.com/security/2026/06/19/texas-gov-vendor-breach-exposes-data-of-3m-hunters-anglers/5258815"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/OSINT-for-countries/OSINT_in_Seychelles",
-    "https://github.com/RiccardoDAndrea/armoredeye-osint-scraper",
-    "https://github.com/skyphusion-labs/common-thread"
+    "https://github.com/yokedotlol/yoke",
+    "https://github.com/Ivan-qa-rgb/cybersecurity-resume",
+    "https://github.com/malobr/Moriarty-OSINT-Py",
+    "https://github.com/tomkidron/DigitalFootprintInvestigator"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
