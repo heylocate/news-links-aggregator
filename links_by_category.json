@@ -1,27 +1,16 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.techradar.com/vpn/vpn-privacy-security/australias-social-media-ban-shows-uk-child-safety-measures-are-bound-to-fail-and-its-not-because-of-vpns",
-    "https://www.techspot.com/news/112824-meta-wants-child-safety-bill-rewritten-shield-lawsuits.html"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.bgr.com/2194172/what-does-leaf-symbol-on-google-maps-mean/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.globenewswire.com/news-release/2026/06/19/3314861/0/en/SunSource-Borrower-LLC-Data-Breach-Edelson-Lechtzin-LLP-Launches-Investigation-Into-Exposure-of-Personal-Information.html",
-    "https://www.globenewswire.com/news-release/2026/06/19/3314857/0/en/AssetMark-Inc-LLC-Data-Breach-Alert-Edelson-Lechtzin-LLP-Launches-Investigation-Into-Exposure-of-Personal-Information.html",
-    "https://www.theregister.com/security/2026/06/19/texas-gov-vendor-breach-exposes-data-of-3m-hunters-anglers/5258815"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/yokedotlol/yoke",
-    "https://github.com/Ivan-qa-rgb/cybersecurity-resume",
-    "https://github.com/malobr/Moriarty-OSINT-Py",
-    "https://github.com/tomkidron/DigitalFootprintInvestigator"
+    "https://github.com/Pragya1602/Operation-ShadowBook",
+    "https://github.com/RLC80/EZ-OSINT-Tool"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

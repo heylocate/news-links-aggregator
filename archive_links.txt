@@ -4441,3 +4441,5 @@ https://www.globenewswire.com/news-release/2026/06/19/3314861/0/en/SunSource-Bor
 https://www.techradar.com/vpn/vpn-privacy-security/australias-social-media-ban-shows-uk-child-safety-measures-are-bound-to-fail-and-its-not-because-of-vpns
 https://www.techspot.com/news/112824-meta-wants-child-safety-bill-rewritten-shield-lawsuits.html
 https://www.theregister.com/security/2026/06/19/texas-gov-vendor-breach-exposes-data-of-3m-hunters-anglers/5258815
+https://github.com/Pragya1602/Operation-ShadowBook
+https://github.com/RLC80/EZ-OSINT-Tool
