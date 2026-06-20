@@ -1,3 +1,8 @@
+## Parental Control
+https://www.techradar.com/phones/ios/apples-new-child-safety-features-dont-get-to-where-the-harm-is-happening-online-safety-expert-says-pushing-responsibility-to-iphone-app-developers-poses-a-huge-risk-to-kids-despite-genuine-progress
+
+## Security & Anti-Abuse
+https://www.androidheadlines.com/2026/06/texas-government-vendor-data-breach-stolen-ids.html
+
 ## OSINT & Open Source Intelligence
-https://github.com/Pragya1602/Operation-ShadowBook
-https://github.com/RLC80/EZ-OSINT-Tool
+https://github.com/comradedemafia/ghost-router-v13-admin

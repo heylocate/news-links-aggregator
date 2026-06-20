@@ -4443,3 +4443,6 @@ https://www.techspot.com/news/112824-meta-wants-child-safety-bill-rewritten-shie
 https://www.theregister.com/security/2026/06/19/texas-gov-vendor-breach-exposes-data-of-3m-hunters-anglers/5258815
 https://github.com/Pragya1602/Operation-ShadowBook
 https://github.com/RLC80/EZ-OSINT-Tool
+https://github.com/comradedemafia/ghost-router-v13-admin
+https://www.androidheadlines.com/2026/06/texas-government-vendor-data-breach-stolen-ids.html
+https://www.techradar.com/phones/ios/apples-new-child-safety-features-dont-get-to-where-the-harm-is-happening-online-safety-expert-says-pushing-responsibility-to-iphone-app-developers-poses-a-huge-risk-to-kids-despite-genuine-progress
