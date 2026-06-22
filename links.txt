@@ -1,2 +1,12 @@
-## Security & Anti-Abuse
-https://databreaches.net/2026/06/21/two-data-breaches-didnt-sink-novo-nordisks-stock-why-not/?pk_campaign=feed&pk_kwd=two-data-breaches-didnt-sink-novo-nordisks-stock-why-not
+## Phone Lookup
+https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-25-2026-302806160.html
+https://github.com/hakanalbayrak/kalkan-datasets
+
+## Background Check
+https://9to5mac.com/2026/06/21/apple-wallets-digital-id-feature-could-potentially-have-a-major-new-use-case-soon/
+
+## OSINT & Open Source Intelligence
+https://github.com/Othman-Benbrahim/IRIS-OSINT-Intel
+
+## Number Utilities & International
+https://www.techradar.com/pro/it-looks-like-an-old-pc-but-this-bleeding-edge-server-may-well-save-us-from-hackers-causing-chaos-in-a-post-quantum-computing-world-4-1gb-s-rackable-quantum-random-number-generator-brings-entropy-to-the-data-center

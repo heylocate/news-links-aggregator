@@ -1,17 +1,24 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-25-2026-302806160.html",
+    "https://github.com/hakanalbayrak/kalkan-datasets"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://9to5mac.com/2026/06/21/apple-wallets-digital-id-feature-could-potentially-have-a-major-new-use-case-soon/"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/06/21/two-data-breaches-didnt-sink-novo-nordisks-stock-why-not/?pk_campaign=feed&pk_kwd=two-data-breaches-didnt-sink-novo-nordisks-stock-why-not"
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Othman-Benbrahim/IRIS-OSINT-Intel"
   ],
-  "OSINT & Open Source Intelligence": [],
-  "Number Utilities & International": [],
+  "Number Utilities & International": [
+    "https://www.techradar.com/pro/it-looks-like-an-old-pc-but-this-bleeding-edge-server-may-well-save-us-from-hackers-causing-chaos-in-a-post-quantum-computing-world-4-1gb-s-rackable-quantum-random-number-generator-brings-entropy-to-the-data-center"
+  ],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
 }
