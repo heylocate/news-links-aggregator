@@ -1,24 +1,23 @@
 {
-  "Phone Lookup": [
-    "https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-25-2026-302806160.html",
-    "https://github.com/hakanalbayrak/kalkan-datasets"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [
-    "https://9to5mac.com/2026/06/21/apple-wallets-digital-id-feature-could-potentially-have-a-major-new-use-case-soon/"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+    "https://www.techradar.com/pro/security/tata-electronics-confirm-data-breach-with-hackers-claiming-200-000-apple-tesla-files-stolen",
+    "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Othman-Benbrahim/IRIS-OSINT-Intel"
+    "https://github.com/osn369group-creator/kinodvizh-vk-osint-core"
   ],
-  "Number Utilities & International": [
-    "https://www.techradar.com/pro/it-looks-like-an-old-pc-but-this-bleeding-edge-server-may-well-save-us-from-hackers-causing-chaos-in-a-post-quantum-computing-world-4-1gb-s-rackable-quantum-random-number-generator-brings-entropy-to-the-data-center"
-  ],
+  "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.pcworld.com/article/3168068/the-sunseeker-elite-x7-gen-2-review.html"
+  ]
 }

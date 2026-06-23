@@ -4453,3 +4453,8 @@ https://github.com/Othman-Benbrahim/IRIS-OSINT-Intel
 https://github.com/hakanalbayrak/kalkan-datasets
 https://www.prnewswire.com/news-releases/repurchase-of-truecaller-b-shares-in-week-25-2026-302806160.html
 https://www.techradar.com/pro/it-looks-like-an-old-pc-but-this-bleeding-edge-server-may-well-save-us-from-hackers-causing-chaos-in-a-post-quantum-computing-world-4-1gb-s-rackable-quantum-random-number-generator-brings-entropy-to-the-data-center
+https://github.com/osn369group-creator/kinodvizh-vk-osint-core
+https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/
+https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/
+https://www.pcworld.com/article/3168068/the-sunseeker-elite-x7-gen-2-review.html
+https://www.techradar.com/pro/security/tata-electronics-confirm-data-breach-with-hackers-claiming-200-000-apple-tesla-files-stolen
