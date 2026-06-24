@@ -1,6 +1,8 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license"
+  ],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
@@ -8,16 +10,13 @@
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
-    "https://www.techradar.com/pro/security/tata-electronics-confirm-data-breach-with-hackers-claiming-200-000-apple-tesla-files-stolen",
-    "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
+    "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+    "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/osn369group-creator/kinodvizh-vk-osint-core"
+    "https://github.com/shadowbipnode/tracelens"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.pcworld.com/article/3168068/the-sunseeker-elite-x7-gen-2-review.html"
-  ]
+  "Uncategorized": []
 }

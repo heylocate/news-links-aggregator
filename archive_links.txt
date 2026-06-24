@@ -4458,3 +4458,7 @@ https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-appl
 https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/
 https://www.pcworld.com/article/3168068/the-sunseeker-elite-x7-gen-2-review.html
 https://www.techradar.com/pro/security/tata-electronics-confirm-data-breach-with-hackers-claiming-200-000-apple-tesla-files-stolen
+https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/
+https://github.com/shadowbipnode/tracelens
+https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/
+https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license
