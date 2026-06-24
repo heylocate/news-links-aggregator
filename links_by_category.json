@@ -1,22 +1,26 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license"
+  "Number / Device Tracking": [],
+  "Parental Control": [
+    "https://www.techradar.com/pro/norton-360-advanced-gets-77-percent-discount-drops-price-to-gbp2-92-mo-top-rated-antivirus-200gb-cloud-backup-vpn-parental-controls-and-more",
+    "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/"
   ],
-  "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.pcworld.com/article/3175242/claude-may-start-asking-for-your-id-heres-what-anthropic-says-about-it.html"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-    "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/"
+    "https://databreaches.net/2026/06/24/lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/?pk_campaign=feed&pk_kwd=lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/shadowbipnode/tracelens"
+    "https://github.com/solh8229/osint-recon-hub"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://github.com/lembris/phone-tracker-app"
+  ]
 }
