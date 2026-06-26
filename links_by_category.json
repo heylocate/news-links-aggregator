@@ -1,21 +1,32 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.hiya.com/how-canada-is-leading-the-fight-to-stop-bank-scams",
+    "https://www.eff.org/deeplinks/2026/06/fccs-spam-call-proposal-just-data-collection-scheme"
+  ],
   "Number / Device Tracking": [
-    "https://www.zdnet.com/article/heypolo-vs-life360-location-sharing-apps/"
+    "https://www.techradar.com/tech/need-a-new-work-bag-the-anti-theft-scapade-airpack-is-the-safest-rucksack-ive-ever-owned-and-its-on-sale-now"
   ],
   "Parental Control": [
-    "https://www.androidpolice.com/i-fixed-my-kids-screen-time-by-switching-to-dedicated-launcher/"
+    "https://www.macworld.com/article/3172424/turn-screen-time-into-creative-play-with-this-ad-free-lifetime-app-on-sale-for-59-99-during-deal-days.html",
+    "https://www.prnewswire.com/news-releases/global-tech-shift-tune-talk-launches-worlds-first-network-enforced-child-safety-mobile-plan-bypassing-app-level-limitations-302811640.html",
+    "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+    "https://www.macworld.com/article/3176893/avoid-macbook-surge-pricing-with-these-still-low-amazon-prime-day-deals.html"
   ],
   "Background Check": [
-    "https://www.computerworld.com/article/4189369/new-linux-foundation-project-aims-to-bring-dns-style-trust-to-ai-agents-2.html"
+    "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html"
   ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidpolice.com/buried-google-maps-location-option-fixed-frustrating-power-issue/",
+    "https://www.androidpolice.com/googles-hidden-tip-section-just-became-my-secret-weapon-for-finding-great-places/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/g4m3m4g/Valence"
+    "https://github.com/rickey963/osint"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
