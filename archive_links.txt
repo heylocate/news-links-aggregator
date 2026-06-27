@@ -4498,3 +4498,7 @@ https://github.com/osint-and-search/OSINT_i_probiv_po_adresu
 https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov
 https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits
 https://www.techradar.com/pro/security/naic-confirms-data-breach-with-shinyhunters-claiming-3-1tb-of-data-stolen-in-oracle-zero-day-attack
+https://github.com/Blxckxyz101/hydra-consultoria-private
+https://github.com/evildevill/RavenOSINT
+https://www.engadget.com/2203130/uber-expands-us-driver-background-checks/
+https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/

@@ -1,15 +1,9 @@
 ## Phone Lookup
-https://github.com/cceccc/caller-ID-program
+https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/
 
-## People Search
-https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits
-
-## Security & Anti-Abuse
-https://9to5mac.com/2026/06/26/apple-works-with-supplier-tata-after-sensitive-files-leak-online/
-https://databreaches.net/2026/06/26/first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury/?pk_campaign=feed&pk_kwd=first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury
-https://www.techradar.com/pro/security/naic-confirms-data-breach-with-shinyhunters-claiming-3-1tb-of-data-stolen-in-oracle-zero-day-attack
-https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov
+## Background Check
+https://www.engadget.com/2203130/uber-expands-us-driver-background-checks/
 
 ## OSINT & Open Source Intelligence
-https://github.com/osint-and-search/OSINT_i_probiv_po_adresu
-https://github.com/osint-and-search/OSINT_i_probiv_nedvigimosti
+https://github.com/Blxckxyz101/hydra-consultoria-private
+https://github.com/evildevill/RavenOSINT
