@@ -1,9 +1,6 @@
-## Phone Lookup
-https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/
-
 ## Background Check
-https://www.engadget.com/2203130/uber-expands-us-driver-background-checks/
+https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search
 
 ## OSINT & Open Source Intelligence
-https://github.com/Blxckxyz101/hydra-consultoria-private
-https://github.com/evildevill/RavenOSINT
+https://github.com/MAXZL1/hackingtool-plugin
+https://github.com/Nek1yZakhar/mib-osint

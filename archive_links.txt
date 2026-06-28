@@ -4502,3 +4502,6 @@ https://github.com/Blxckxyz101/hydra-consultoria-private
 https://github.com/evildevill/RavenOSINT
 https://www.engadget.com/2203130/uber-expands-us-driver-background-checks/
 https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/
+https://github.com/MAXZL1/hackingtool-plugin
+https://github.com/Nek1yZakhar/mib-osint
+https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search
