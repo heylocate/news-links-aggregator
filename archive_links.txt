@@ -4505,3 +4505,8 @@ https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-se
 https://github.com/MAXZL1/hackingtool-plugin
 https://github.com/Nek1yZakhar/mib-osint
 https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search
+https://databreaches.net/2026/06/28/assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states/?pk_campaign=feed&pk_kwd=assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states
+https://github.com/0xk212/ghost0xk
+https://github.com/r00thex/Telegram-osint
+https://github.com/remyhawk/numtrace
+https://www.androidpolice.com/google-maps-feature-made-pixel-always-on-useful/
