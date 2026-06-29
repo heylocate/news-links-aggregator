@@ -1,22 +1,21 @@
 {
-  "Phone Lookup": [
-    "https://github.com/remyhawk/numtrace"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/google-maps-feature-made-pixel-always-on-useful/"
+    "https://www.howtogeek.com/open-source-google-maps-rival-better-than-google/",
+    "https://www.slashgear.com/2201303/speed-limit-not-showing-up-on-google-maps-reason-why/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/06/28/assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states/?pk_campaign=feed&pk_kwd=assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states"
+    "https://databreaches.net/2026/06/28/a-kddi-data-breach-has-put-up-to-14-2-million-isp-email-logins-at-risk-across-japan/?pk_campaign=feed&pk_kwd=a-kddi-data-breach-has-put-up-to-14-2-million-isp-email-logins-at-risk-across-japan"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/r00thex/Telegram-osint",
-    "https://github.com/0xk212/ghost0xk"
+    "https://github.com/osint-and-search/poisk_po_socsetam_i_messengeram",
+    "https://github.com/osint-and-search/boti_dlia_proverki_informacii"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

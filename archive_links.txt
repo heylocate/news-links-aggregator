@@ -4510,3 +4510,8 @@ https://github.com/0xk212/ghost0xk
 https://github.com/r00thex/Telegram-osint
 https://github.com/remyhawk/numtrace
 https://www.androidpolice.com/google-maps-feature-made-pixel-always-on-useful/
+https://databreaches.net/2026/06/28/a-kddi-data-breach-has-put-up-to-14-2-million-isp-email-logins-at-risk-across-japan/?pk_campaign=feed&pk_kwd=a-kddi-data-breach-has-put-up-to-14-2-million-isp-email-logins-at-risk-across-japan
+https://github.com/osint-and-search/boti_dlia_proverki_informacii
+https://github.com/osint-and-search/poisk_po_socsetam_i_messengeram
+https://www.howtogeek.com/open-source-google-maps-rival-better-than-google/
+https://www.slashgear.com/2201303/speed-limit-not-showing-up-on-google-maps-reason-why/
