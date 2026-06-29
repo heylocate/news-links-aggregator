@@ -1,10 +1,13 @@
+## Parental Control
+https://www.engadget.com/2203983/half-of-social-media-child-safety-features-dont-work-report-claims/
+
+## People Search
+https://www.eff.org/deeplinks/2026/06/victory-supreme-court-says-constitution-protects-peoples-location-data
+https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
+
 ## Address Lookup
-https://www.howtogeek.com/open-source-google-maps-rival-better-than-google/
-https://www.slashgear.com/2201303/speed-limit-not-showing-up-on-google-maps-reason-why/
+https://www.techspot.com/news/112928-developer-brings-modern-mapping-mac-os-9-complete.html
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/06/28/a-kddi-data-breach-has-put-up-to-14-2-million-isp-email-logins-at-risk-across-japan/?pk_campaign=feed&pk_kwd=a-kddi-data-breach-has-put-up-to-14-2-million-isp-email-logins-at-risk-across-japan
-
-## OSINT & Open Source Intelligence
-https://github.com/osint-and-search/poisk_po_socsetam_i_messengeram
-https://github.com/osint-and-search/boti_dlia_proverki_informacii
+https://www.techradar.com/pro/security/over-14-million-login-credentials-leaked-from-six-isps-in-major-data-breach-heres-what-we-know
+https://databreaches.net/2026/06/29/za-copying-the-wrong-person-on-an-email-could-be-considered-a-data-breach-in-south-africa/?pk_campaign=feed&pk_kwd=za-copying-the-wrong-person-on-an-email-could-be-considered-a-data-breach-in-south-africa
