@@ -1,33 +1,24 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.cnet.com/news/privacy/supreme-court-ruling-geofencing-warrants-phone-location-data-privacy/"
+  "Number / Device Tracking": [],
+  "Parental Control": [
+    "https://www.macrumors.com/2026/06/30/uk-apple-loosen-app-store-payment-rules/",
+    "https://www.macworld.com/article/351897/how-to-check-mac-temperature-cool.html"
   ],
-  "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html"
+  "People Search": [],
+  "Address Lookup": [
+    "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/"
   ],
-  "Address Lookup": [],
   "Image Search": [],
-  "Email Lookup": [
-    "https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age"
-  ],
+  "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/06/29/exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group",
-    "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-    "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/",
-    "https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims"
+    "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+    "https://databreaches.net/2026/06/30/insurance-giant-aflac-discloses-data-breach-at-japan-subsidiary/?pk_campaign=feed&pk_kwd=insurance-giant-aflac-discloses-data-breach-at-japan-subsidiary",
+    "https://www.tomsguide.com/phones/iphones/easily-the-biggest-leak-in-apples-history-iphone-18-pro-final-design-may-have-just-been-revealed-in-a-stolen-drop-test-video"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/OSINT-for-countries/OSINT_in_South_Sudan"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.androidpolice.com/supreme-court-protects-your-cell-phone-location-data-after-googles-role-in-a-conviction/",
-    "https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/",
-    "https://www.theregister.com/legal/2026/06/29/supreme-court-rules-cops-need-a-warrant-to-vacuum-up-phone-location-data/5263950",
-    "https://therecord.media/supreme-court-geofencing-ruling-fourth-amendment"
-  ]
+  "Uncategorized": []
 }
