@@ -4521,3 +4521,15 @@ https://www.engadget.com/2203983/half-of-social-media-child-safety-features-dont
 https://www.techradar.com/pro/security/over-14-million-login-credentials-leaked-from-six-isps-in-major-data-breach-heres-what-we-know
 https://www.techspot.com/news/112928-developer-brings-modern-mapping-mac-os-9-complete.html
 https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
+https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/
+https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/
+https://databreaches.net/2026/06/29/exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group
+https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims
+https://github.com/OSINT-for-countries/OSINT_in_South_Sudan
+https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html
+https://therecord.media/supreme-court-geofencing-ruling-fourth-amendment
+https://www.androidpolice.com/supreme-court-protects-your-cell-phone-location-data-after-googles-role-in-a-conviction/
+https://www.cnet.com/news/privacy/supreme-court-ruling-geofencing-warrants-phone-location-data-privacy/
+https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age
+https://www.theregister.com/legal/2026/06/29/supreme-court-rules-cops-need-a-warrant-to-vacuum-up-phone-location-data/5263950
+https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web

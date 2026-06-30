@@ -1,25 +1,33 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.engadget.com/2203983/half-of-social-media-child-safety-features-dont-work-report-claims/"
+  "Number / Device Tracking": [
+    "https://www.cnet.com/news/privacy/supreme-court-ruling-geofencing-warrants-phone-location-data-privacy/"
   ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [
-    "https://www.eff.org/deeplinks/2026/06/victory-supreme-court-says-constitution-protects-peoples-location-data",
-    "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
+    "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html"
   ],
-  "Address Lookup": [
-    "https://www.techspot.com/news/112928-developer-brings-modern-mapping-mac-os-9-complete.html"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
-  "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.techradar.com/pro/security/over-14-million-login-credentials-leaked-from-six-isps-in-major-data-breach-heres-what-we-know",
-    "https://databreaches.net/2026/06/29/za-copying-the-wrong-person-on-an-email-could-be-considered-a-data-breach-in-south-africa/?pk_campaign=feed&pk_kwd=za-copying-the-wrong-person-on-an-email-could-be-considered-a-data-breach-in-south-africa"
+  "Email Lookup": [
+    "https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://databreaches.net/2026/06/29/exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group",
+    "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+    "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/",
+    "https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/OSINT-for-countries/OSINT_in_South_Sudan"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.androidpolice.com/supreme-court-protects-your-cell-phone-location-data-after-googles-role-in-a-conviction/",
+    "https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/",
+    "https://www.theregister.com/legal/2026/06/29/supreme-court-rules-cops-need-a-warrant-to-vacuum-up-phone-location-data/5263950",
+    "https://therecord.media/supreme-court-geofencing-ruling-fourth-amendment"
+  ]
 }
