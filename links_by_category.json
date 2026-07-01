@@ -1,19 +1,27 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Phone Lookup": [
+    "https://github.com/Ahmed-Emad02/adding-contacts-to-issabel4"
+  ],
+  "Number / Device Tracking": [
+    "https://github.com/Harsh22188/Phone-Number-Tracking-System"
+  ],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.tomsguide.com/computing/why-google-maps-keeps-sending-you-the-long-way-and-how-to-stop-it",
-    "https://www.slashgear.com/2203356/what-the-leaf-symbol-on-google-maps-means/"
+    "https://www.androidpolice.com/i-gave-google-maps-timeline-another-chance-and-it-totally-won-me-over/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://hackernoon.com/149-blog-posts-to-learn-about-password-security?source=rss"
+    "https://www.techradar.com/phones/iphone/forget-the-dull-iphone-18-pro-leak-hackers-took-181-files-from-apples-india-assembly-partner-and-we-should-brace-for-more",
+    "https://www.macrumors.com/2026/07/01/hide-my-email-vulnerability-exposes-real-addresses/",
+    "https://therecord.media/japan-cyber-breaches-aflac-sapporo-nidec-kddi",
+    "https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Despairing-australiancrawl83/OSINT-Profiler"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
