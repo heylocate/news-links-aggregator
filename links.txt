@@ -1,11 +1,18 @@
-## Number / Device Tracking
-https://thenextweb.com/news/ousaban-banking-trojan-spain-portugal-fake-pdf
+## Phone Lookup
+https://github.com/bangke1212/GhostTrack-FS
 
 ## Parental Control
-https://www.androidheadlines.com/2026/07/us-judge-rejects-meta-bid-social-media-case-children.html
+https://www.xda-developers.com/phone-link-windows-pointless-until-i-used-it/
+
+## People Search
+https://www.eff.org/deeplinks/2026/07/lgbt-qa-how-can-i-wipe-online-data-points-my-queer-identity
+https://www.cnet.com/tech/services-and-software/best-data-removal-services/
 
 ## Address Lookup
-https://www.bgr.com/2202825/who-owns-waze-how-does-app-make-money/
+https://www.slashgear.com/2205645/waze-app-added-useful-stop-light-feature/
+
+## Security & Anti-Abuse
+https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected
 
 ## OSINT & Open Source Intelligence
-https://github.com/artificialintelligence3070-oss/osint-num
+https://github.com/denniskeefe/job-search
