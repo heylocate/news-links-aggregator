@@ -4571,3 +4571,7 @@ https://www.androidpolice.com/tried-hidden-google-maps-trick-in-android-auto-eve
 https://www.globenewswire.com/news-release/2026/07/04/3322032/0/en/Winfix-Announces-Enhanced-Identity-Verification-Framework-to-Strengthen-User-Account-Security.html
 https://www.macworld.com/article/3183548/block-ads-more-on-9-devices-for-life-adguards-family-plan-is-a-one-time-28-through-7-5.html
 https://www.techradar.com/computing/websites-apps/google-maps-may-soon-be-able-to-replace-uber-eats-and-doordash-by-letting-you-order-food-from-restaurants-right-in-the-app
+https://github.com/icemellow-me/sip-trunk-arbitrary-us-cid
+https://github.com/parsasedghi90/LSP-OSINT-
+https://www.androidheadlines.com/2026/07/google-maps-gemini-ai-food-ordering-feature.html
+https://www.bgr.com/2205211/what-do-the-icons-emojis-on-waze-mean/
