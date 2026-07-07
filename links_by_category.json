@@ -1,31 +1,29 @@
 {
-  "Phone Lookup": [
-    "https://github.com/HamidYaraliOfficial/Caller-ID-Finder",
-    "https://github.com/1renwart1-byte/Next-Call"
+  "Phone Lookup": [],
+  "Number / Device Tracking": [
+    "https://github.com/JonesKapedo/lost-phone-tracker"
   ],
-  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.pcworld.com/article/3181095/sick-of-ads-everywhere-this-16-lifetime-adguard-deal-helps-fix-that-on-up-to-9-devices.html",
-    "https://www.macworld.com/article/3172166/apple-releases-the-second-ios-27-developer-beta-for-testers.html",
-    "https://9to5mac.com/2026/07/06/heres-how-to-turn-any-iphone-into-a-dumb-phone-for-you-or-your-kids/"
+    "https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/"
   ],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://www.globenewswire.com/news-release/2026/07/07/3323534/0/en/New-Crypto-Ethereum-Based-Pepeto-Days-From-Binance-Debut-While-the-Cardano-Price-Targets-20.html"
+  ],
   "Address Lookup": [
-    "https://www.androidcentral.com/apps-software/google-maps-is-about-to-start-ordering-your-takeout-for-you",
-    "https://9to5google.com/2026/07/06/google-maps-poland-location-rename/"
+    "https://www.bgr.com/2207179/why-google-maps-doesnt-work-south-korea/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/07/06/alberta-centurion-project-sued-over-alleged-data-breach-that-affected-millions-of-voters/?pk_campaign=feed&pk_kwd=alberta-centurion-project-sued-over-alleged-data-breach-that-affected-millions-of-voters"
+    "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "https://databreaches.net/2026/07/07/bojangles-sued-again-by-workers-over-russian-hacker-data-breach-nc-judge-weighs-in/?pk_campaign=feed&pk_kwd=bojangles-sued-again-by-workers-over-russian-hacker-data-breach-nc-judge-weighs-in"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/chefroger/smart-trade-ai"
+    "https://github.com/bilgehan0345/dynamic-recon-bot",
+    "https://github.com/hkaraduman22/cognitive-osint-engine"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.techspot.com/news/113004-supreme-court-limits-police-use-geofence-warrants-phone.html"
-  ]
+  "Uncategorized": []
 }
