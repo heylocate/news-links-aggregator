@@ -1,19 +1,31 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/HamidYaraliOfficial/Caller-ID-Finder",
+    "https://github.com/1renwart1-byte/Next-Call"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.pcworld.com/article/3181095/sick-of-ads-everywhere-this-16-lifetime-adguard-deal-helps-fix-that-on-up-to-9-devices.html",
+    "https://www.macworld.com/article/3172166/apple-releases-the-second-ios-27-developer-beta-for-testers.html",
+    "https://9to5mac.com/2026/07/06/heres-how-to-turn-any-iphone-into-a-dumb-phone-for-you-or-your-kids/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.bgr.com/2205952/why-blue-dot-google-maps-changes-size/"
+    "https://www.androidcentral.com/apps-software/google-maps-is-about-to-start-ordering-your-takeout-for-you",
+    "https://9to5google.com/2026/07/06/google-maps-poland-location-rename/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://databreaches.net/2026/07/06/alberta-centurion-project-sued-over-alleged-data-breach-that-affected-millions-of-voters/?pk_campaign=feed&pk_kwd=alberta-centurion-project-sued-over-alleged-data-breach-that-affected-millions-of-voters"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/JimmyXi-forever/pakistan-osint-visualization"
+    "https://github.com/chefroger/smart-trade-ai"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.techspot.com/news/113004-supreme-court-limits-police-use-geofence-warrants-phone.html"
+  ]
 }
