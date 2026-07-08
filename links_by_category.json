@@ -1,28 +1,21 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://github.com/JonesKapedo/lost-phone-tracker"
-  ],
+  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/"
+    "https://www.socialmediatoday.com/news/meta-faces-potential-14-trillion-in-penalties/824655/",
+    "https://www.howtogeek.com/android-automation-reduce-screen-time/"
   ],
-  "Background Check": [],
-  "People Search": [
-    "https://www.globenewswire.com/news-release/2026/07/07/3323534/0/en/New-Crypto-Ethereum-Based-Pepeto-Days-From-Binance-Debut-While-the-Cardano-Price-Targets-20.html"
+  "Background Check": [
+    "https://hackernoon.com/zoomex-debuts-at-wimbledon-2026-connecting-users-to-elite-sporting-moments-via-predict-market?source=rss"
   ],
-  "Address Lookup": [
-    "https://www.bgr.com/2207179/why-google-maps-doesnt-work-south-korea/"
-  ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-    "https://databreaches.net/2026/07/07/bojangles-sued-again-by-workers-over-russian-hacker-data-breach-nc-judge-weighs-in/?pk_campaign=feed&pk_kwd=bojangles-sued-again-by-workers-over-russian-hacker-data-breach-nc-judge-weighs-in"
+    "https://databreaches.net/2026/07/07/washington-dept-of-social-and-health-services-announces-massive-data-breach/?pk_campaign=feed&pk_kwd=washington-dept-of-social-and-health-services-announces-massive-data-breach"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/bilgehan0345/dynamic-recon-bot",
-    "https://github.com/hkaraduman22/cognitive-osint-engine"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
