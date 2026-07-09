@@ -1,9 +1,11 @@
-## Parental Control
-https://www.prnewswire.com/news-releases/weward-launches-walking-mode-feature-to-help-users-move-more-and-scroll-less-302820113.html
+## Phone Lookup
+https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/
+
+## Background Check
+https://www.prnewswire.com/news-releases/zetrix-to-power-public-blockchain-for-the-philippines-government-302820022.html
 
 ## Security & Anti-Abuse
-https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/
-https://www.troyhunt.com/weekly-update-511/
+https://databreaches.net/2026/07/08/patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information/?pk_campaign=feed&pk_kwd=patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information
 
 ## OSINT & Open Source Intelligence
-https://github.com/volobuevaleksand7-hue/npz-tactical-map
+https://github.com/aiila-team/ILA-OSINT-v2
