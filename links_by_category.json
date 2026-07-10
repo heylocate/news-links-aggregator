@@ -1,19 +1,23 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Phone Lookup": [
+    "https://github.com/deftonesfan930/FreePBX-17-Restricted-Paging-Access-Control"
+  ],
+  "Number / Device Tracking": [
+    "https://www.pcworld.com/article/3167123/you-should-never-sell-these-old-appliances-without-having-them-checked-first.html"
+  ],
   "Parental Control": [
-    "https://hackernoon.com/how-to-reduce-digital-fatigue-in-interfaces?source=rss"
+    "https://www.macrumors.com/2026/07/10/eu-facebook-instagram-break-digital-rules/"
   ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.bgr.com/2208592/why-google-maps-says-preview-instead-of-start-how-to-fix/"
+    "https://www.wired.com/story/how-to-share-your-location-android-ios/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/InitialJawa/kasus-investigator"
+    "https://github.com/kdr/overcast"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
