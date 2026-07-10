@@ -1,20 +1,8 @@
-## Phone Lookup
-https://www.prnewswire.com/news-releases/us-consumers-received-just-over-4-25-billion-robocalls-in-june-according-to-youmail-robocall-index-302822123.html
-https://blog.hiya.com/hiya-awarded-16-g2-summer-2026-badges-for-branded-caller-id
-
 ## Parental Control
-https://www.howtogeek.com/how-i-made-my-phone-bully-me-into-being-productive/
-
-## Background Check
-https://hackernoon.com/is-bitbanker-a-scam-a-fact-based-review-after-testing-the-platform?source=rss
+https://hackernoon.com/how-to-reduce-digital-fatigue-in-interfaces?source=rss
 
 ## Address Lookup
-https://www.xda-developers.com/google-maps-alternatives-that-made-me-rethink-my-default-navigation-app/
-https://www.xda-developers.com/hidden-google-maps-feature-finally-made-my-pixels-always-on-display-useful/
-
-## Security & Anti-Abuse
-https://www.techradar.com/pro/security/insurance-company-assuranceamerica-exposes-6-9-million-drivers-following-major-data-breach-heres-what-we-know
+https://www.bgr.com/2208592/why-google-maps-says-preview-instead-of-start-how-to-fix/
 
 ## OSINT & Open Source Intelligence
-https://github.com/kzyxx11/Global-Footprints
-https://github.com/panchaldhruvin/vehicle-osint
+https://github.com/InitialJawa/kasus-investigator

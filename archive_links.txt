@@ -4619,3 +4619,6 @@ https://www.prnewswire.com/news-releases/us-consumers-received-just-over-4-25-bi
 https://www.techradar.com/pro/security/insurance-company-assuranceamerica-exposes-6-9-million-drivers-following-major-data-breach-heres-what-we-know
 https://www.xda-developers.com/google-maps-alternatives-that-made-me-rethink-my-default-navigation-app/
 https://www.xda-developers.com/hidden-google-maps-feature-finally-made-my-pixels-always-on-display-useful/
+https://github.com/InitialJawa/kasus-investigator
+https://hackernoon.com/how-to-reduce-digital-fatigue-in-interfaces?source=rss
+https://www.bgr.com/2208592/why-google-maps-says-preview-instead-of-start-how-to-fix/
