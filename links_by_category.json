@@ -1,7 +1,12 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://www.androidpolice.com/i-finally-fixed-my-pixels-missed-call-problem-with-these-simple-settings-tweaks/",
+    "https://github.com/yusufkaygin/KaiConnect-Caller-ID-Discovery"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.wired.com/story/apple-child-safety-ios-27/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
@@ -9,8 +14,7 @@
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/HACK-LEGEND-HAMID/Osint-Owl-discord-bot",
-    "https://github.com/mcysync/osint"
+    "https://github.com/telebotshub/telebotshub.github.io"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
