@@ -4631,3 +4631,5 @@ https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affe
 https://github.com/Epic2509N/robin
 https://github.com/idorenyinbassey/Ethical-OSINT-Tracker
 https://www.tomsguide.com/phones/how-to-fix-the-maddening-google-maps-issue-where-preview-replaces-the-start-button
+https://github.com/HACK-LEGEND-HAMID/Osint-Owl-discord-bot
+https://github.com/mcysync/osint
