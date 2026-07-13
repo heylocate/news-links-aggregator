@@ -1,9 +1,6 @@
-## Phone Lookup
-https://www.androidpolice.com/i-finally-fixed-my-pixels-missed-call-problem-with-these-simple-settings-tweaks/
-https://github.com/yusufkaygin/KaiConnect-Caller-ID-Discovery
-
-## Parental Control
-https://www.wired.com/story/apple-child-safety-ios-27/
+## Address Lookup
+https://www.howtogeek.com/google-maps-best-feature-for-commuters-isnt-on-every-phone/
 
 ## OSINT & Open Source Intelligence
-https://github.com/telebotshub/telebotshub.github.io
+https://github.com/osint-and-search/OSINT_i_poisk_po_nedvigimosti
+https://github.com/zmz1019/osint-news

@@ -4637,3 +4637,6 @@ https://github.com/telebotshub/telebotshub.github.io
 https://github.com/yusufkaygin/KaiConnect-Caller-ID-Discovery
 https://www.androidpolice.com/i-finally-fixed-my-pixels-missed-call-problem-with-these-simple-settings-tweaks/
 https://www.wired.com/story/apple-child-safety-ios-27/
+https://github.com/osint-and-search/OSINT_i_poisk_po_nedvigimosti
+https://github.com/zmz1019/osint-news
+https://www.howtogeek.com/google-maps-best-feature-for-commuters-isnt-on-every-phone/
