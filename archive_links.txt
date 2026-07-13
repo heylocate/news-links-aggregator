@@ -4640,3 +4640,13 @@ https://www.wired.com/story/apple-child-safety-ios-27/
 https://github.com/osint-and-search/OSINT_i_poisk_po_nedvigimosti
 https://github.com/zmz1019/osint-news
 https://www.howtogeek.com/google-maps-best-feature-for-commuters-isnt-on-every-phone/
+https://9to5google.com/2026/07/13/waze-is-adding-a-dedicated-mode-for-motorcycles-and-a-less-chatty-voice-setting/
+https://appleinsider.com/articles/26/07/13/siglens-acquired-by-apple-for-debugging-massive-apps-and-services
+https://github.com/Cryostic/OSINT-CTI
+https://hackernoon.com/jobverify-earns-a-64-proof-of-usefulness-score-by-building-an-automated-ai-background-check-system-to-detect-scam-job-offers?source=rss
+https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/
+https://www.androidpolice.com/huge-google-maps-upgrade-rolling-out-on-android-auto/
+https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/
+https://www.globenewswire.com/news-release/2026/07/13/3326381/6819/en/First-National-Holdings-Data-Breach-Alert-Issued-By-Wolf-Haldenstein.html
+https://www.howtogeek.com/i-tested-google-maps-alternativesthis-is-the-one-im-sticking-with/
+https://www.tomsguide.com/computing/mobile-apps/waze-is-adding-a-bunch-of-ai-powered-features-including-motorcycle-mode-personalized-navigation-and-more
