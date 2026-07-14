@@ -1,19 +1,14 @@
 ## Parental Control
-https://appleinsider.com/articles/26/07/13/siglens-acquired-by-apple-for-debugging-massive-apps-and-services
-
-## Background Check
-https://hackernoon.com/jobverify-earns-a-64-proof-of-usefulness-score-by-building-an-automated-ai-background-check-system-to-detect-scam-job-offers?source=rss
+https://9to5mac.com/2026/07/13/ios-27-public-beta/
 
 ## Address Lookup
-https://www.tomsguide.com/computing/mobile-apps/waze-is-adding-a-bunch-of-ai-powered-features-including-motorcycle-mode-personalized-navigation-and-more
-https://www.howtogeek.com/i-tested-google-maps-alternativesthis-is-the-one-im-sticking-with/
-https://www.androidpolice.com/huge-google-maps-upgrade-rolling-out-on-android-auto/
-https://9to5google.com/2026/07/13/waze-is-adding-a-dedicated-mode-for-motorcycles-and-a-less-chatty-voice-setting/
-https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/
+https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/
 
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/07/13/3326381/6819/en/First-National-Holdings-Data-Breach-Alert-Issued-By-Wolf-Haldenstein.html
-https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/
+https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/
+https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach
 
 ## OSINT & Open Source Intelligence
-https://github.com/Cryostic/OSINT-CTI
+https://github.com/osint-and-search/luchie_boti_OSINT_i_poiska_etogo_goda
+https://github.com/osint-and-search/kak_udalit_dannie_iz_botov_i_baz
+https://github.com/osint-and-search/glaz_boga_besplatno
