@@ -1,37 +1,22 @@
-## Phone Lookup
-https://blog.youmail.com/2026/07/vacation-mode-how-to-stop-spam-calls-while-traveling/
-
-## Parental Control
-https://blog.youtube/creator-and-artist-stories/dr-ali-mattu-youtube-parent-kids-screen-time-tips/
-https://appleinsider.com/articles/26/07/14/these-are-the-things-you-should-do-first-after-updating-to-ios-27
-https://www.qustodio.com/en/blog/is-zepeto-safe/
-
-## Background Check
-https://www.pr.com/press-release/973553
-https://www.wired.com/story/doge-deployed-ai-housing-policy/
+## Number / Device Tracking
+https://www.macworld.com/article/3190929/finally-a-find-my-compatible-tracker-designed-for-wallets-passports-and-more-now-24.html
 
 ## People Search
-https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/
+https://www.computerworld.com/article/4197338/what-problems-would-an-ai-speaker-from-openai-actually-solve.html
 
 ## Address Lookup
-https://www.bgr.com/2208305/what-does-blue-line-mean-google-maps/
-https://www.howtogeek.com/i-stopped-using-google-maps-in-android-auto-and-switched-to-an-open-source-navigator-that-respects-my-privacy/
-https://9to5google.com/2026/07/14/google-maps-immersive-navigation-rollout-poll/
-
-## Image Search
-https://www.socialmediatoday.com/news/google-images-introduces-pinterest-style-ui/825254/
-https://www.androidpolice.com/google-images-gets-a-pinterest-style-redesign-for-its-25th-birthday/
-https://www.androidcentral.com/apps-software/google-images-turns-25-celebrate-with-a-dynamic-gallery-nano-banana-in-ai-overviews
-https://www.cnet.com/tech/services-and-software/google-new-features-25-years-of-google-images/
-https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/
-https://www.androidheadlines.com/2026/07/google-images-25-anniversary-nano-banana-ai-generation.html
-https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/
-https://9to5google.com/2026/07/14/google-images-redesign/
-https://www.engadget.com/2214477/google-images-25th-anniversary-makeover/
+https://www.bgr.com/2215628/google-maps-android-auto-new-updare-immersive-navigation/
+https://www.engadget.com/2209466/what-the-little-leaf-symbol-on-google-maps-means/
+https://www.zdnet.com/article/google-maps-vs-waze-2026/
 
 ## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/GooseCreek
-https://databreaches.net/2026/07/14/synopsys-finds-no-evidence-of-data-breach-amid-bosch-hack-claims/?pk_campaign=feed&pk_kwd=synopsys-finds-no-evidence-of-data-breach-amid-bosch-hack-claims
-https://databreaches.net/2026/07/14/finland-issues-wanted-notice-for-hacker-behind-massive-psychotherapy-data-breach/?pk_campaign=feed&pk_kwd=finland-issues-wanted-notice-for-hacker-behind-massive-psychotherapy-data-breach
-https://databreaches.net/2026/07/14/defending-saas-based-applications-against-shinyhunters-oauth-abuse/?pk_campaign=feed&pk_kwd=defending-saas-based-applications-against-shinyhunters-oauth-abuse
-https://therecord.media/finland-issues-wanted-notice-for-hacker-vastaamo-breach
+https://databreaches.net/2026/07/15/au-partnered-health-data-breach-exposes-patient-records-at-family-clinics/?pk_campaign=feed&pk_kwd=au-partnered-health-data-breach-exposes-patient-records-at-family-clinics
+
+## OSINT & Open Source Intelligence
+https://github.com/m0ro23/TargetForge-AI-Powered-Red-Team-Dossier-Engine
+https://github.com/Dorukefty112/pc-manager
+https://github.com/EmmmmDeee/Huntsman-Search-Engine-HSE-Termux-Android-Aarch64-Rust-
+https://github.com/mriconic295-gif/sybarscope
+
+## Uncategorized
+https://www.pcworld.com/article/3188114/navimow-i215-review.html
