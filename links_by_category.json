@@ -1,25 +1,45 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://blog.youmail.com/2026/07/vacation-mode-how-to-stop-spam-calls-while-traveling/"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://9to5mac.com/2026/07/13/ios-27-public-beta/"
+    "https://blog.youtube/creator-and-artist-stories/dr-ali-mattu-youtube-parent-kids-screen-time-tips/",
+    "https://appleinsider.com/articles/26/07/14/these-are-the-things-you-should-do-first-after-updating-to-ios-27",
+    "https://www.qustodio.com/en/blog/is-zepeto-safe/"
   ],
-  "Background Check": [],
-  "People Search": [],
+  "Background Check": [
+    "https://www.pr.com/press-release/973553",
+    "https://www.wired.com/story/doge-deployed-ai-housing-policy/"
+  ],
+  "People Search": [
+    "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/"
+  ],
   "Address Lookup": [
-    "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/"
+    "https://www.bgr.com/2208305/what-does-blue-line-mean-google-maps/",
+    "https://www.howtogeek.com/i-stopped-using-google-maps-in-android-auto-and-switched-to-an-open-source-navigator-that-respects-my-privacy/",
+    "https://9to5google.com/2026/07/14/google-maps-immersive-navigation-rollout-poll/"
   ],
-  "Image Search": [],
+  "Image Search": [
+    "https://www.socialmediatoday.com/news/google-images-introduces-pinterest-style-ui/825254/",
+    "https://www.androidpolice.com/google-images-gets-a-pinterest-style-redesign-for-its-25th-birthday/",
+    "https://www.androidcentral.com/apps-software/google-images-turns-25-celebrate-with-a-dynamic-gallery-nano-banana-in-ai-overviews",
+    "https://www.cnet.com/tech/services-and-software/google-new-features-25-years-of-google-images/",
+    "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+    "https://www.androidheadlines.com/2026/07/google-images-25-anniversary-nano-banana-ai-generation.html",
+    "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+    "https://9to5google.com/2026/07/14/google-images-redesign/",
+    "https://www.engadget.com/2214477/google-images-25th-anniversary-makeover/"
+  ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
-    "https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach"
+    "https://haveibeenpwned.com/Breach/GooseCreek",
+    "https://databreaches.net/2026/07/14/synopsys-finds-no-evidence-of-data-breach-amid-bosch-hack-claims/?pk_campaign=feed&pk_kwd=synopsys-finds-no-evidence-of-data-breach-amid-bosch-hack-claims",
+    "https://databreaches.net/2026/07/14/finland-issues-wanted-notice-for-hacker-behind-massive-psychotherapy-data-breach/?pk_campaign=feed&pk_kwd=finland-issues-wanted-notice-for-hacker-behind-massive-psychotherapy-data-breach",
+    "https://databreaches.net/2026/07/14/defending-saas-based-applications-against-shinyhunters-oauth-abuse/?pk_campaign=feed&pk_kwd=defending-saas-based-applications-against-shinyhunters-oauth-abuse",
+    "https://therecord.media/finland-issues-wanted-notice-for-hacker-vastaamo-breach"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/osint-and-search/luchie_boti_OSINT_i_poiska_etogo_goda",
-    "https://github.com/osint-and-search/kak_udalit_dannie_iz_botov_i_baz",
-    "https://github.com/osint-and-search/glaz_boga_besplatno"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
