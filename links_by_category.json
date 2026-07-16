@@ -1,29 +1,25 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
+  "Parental Control": [
+    "https://www.engadget.com/2216550/ofcom-uk-communications-regulator-investigating-tiktok-child-safety-measures/",
+    "https://www.mobileworldlive.com/europe/tiktok-in-ofcom-crosshairs-over-child-safety/"
+  ],
+  "Background Check": [
+    "https://www.pcworld.com/article/3188311/how-data-brokers-get-your-information-even-if-youre-careful.html",
+    "http://www.businesswire.com/news/home/20260629494028/en/Fourthline-and-Veridas-Join-Forces-to-Fight-Identity-Fraud-with-a-Global-Identity-Platform/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
+  ],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.pr.com/press-release/973721",
-    "https://www.howtogeek.com/quick-fixes-to-make-your-google-maps-saved-places-more-private/",
-    "https://www.androidheadlines.com/2026/07/google-could-give-ask-maps-a-bigger-presence-in-google-maps.html"
-  ],
-  "Image Search": [
-    "https://www.prnewswire.com/news-releases/uspto-launches-ai-image-search-in-trademark-search-system-powered-by-clarivate-302826692.html",
-    "https://www.tomsguide.com/ai/google-search-will-let-you-create-ai-images-for-free-soon-heres-how-it-works"
-  ],
+  "Address Lookup": [],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267",
-    "https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach",
-    "https://therecord.media/genetic-testing-settlement-data-breach",
-    "https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach"
+    "https://www.techradar.com/pro/security/thousands-of-us-military-beneficiaries-have-data-breached-following-tricare-cyberattack-dod-benefits-numbers-and-some-social-security-numbers-leaked",
+    "https://databreaches.net/2026/07/16/au-regulators-preliminary-findings-did-not-indicate-qantas-breached-privacy-obligations/?pk_campaign=feed&pk_kwd=au-regulators-preliminary-findings-did-not-indicate-qantas-breached-privacy-obligations"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/n4vierst0kes/Dark-Web-OSINT-LLM-Benchmark",
-    "https://github.com/foovoof/moon",
-    "https://github.com/DoksBin228/osint-bot"
+    "https://github.com/lalitkishorepanwar/mrgadget",
+    "https://github.com/WiLL75G/soc-day14-threat-intelligence-osint"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

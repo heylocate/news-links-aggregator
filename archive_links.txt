@@ -4704,3 +4704,11 @@ https://www.pr.com/press-release/973721
 https://www.prnewswire.com/news-releases/uspto-launches-ai-image-search-in-trademark-search-system-powered-by-clarivate-302826692.html
 https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267
 https://www.tomsguide.com/ai/google-search-will-let-you-create-ai-images-for-free-soon-heres-how-it-works
+http://www.businesswire.com/news/home/20260629494028/en/Fourthline-and-Veridas-Join-Forces-to-Fight-Identity-Fraud-with-a-Global-Identity-Platform/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+https://databreaches.net/2026/07/16/au-regulators-preliminary-findings-did-not-indicate-qantas-breached-privacy-obligations/?pk_campaign=feed&pk_kwd=au-regulators-preliminary-findings-did-not-indicate-qantas-breached-privacy-obligations
+https://github.com/WiLL75G/soc-day14-threat-intelligence-osint
+https://github.com/lalitkishorepanwar/mrgadget
+https://www.engadget.com/2216550/ofcom-uk-communications-regulator-investigating-tiktok-child-safety-measures/
+https://www.mobileworldlive.com/europe/tiktok-in-ofcom-crosshairs-over-child-safety/
+https://www.pcworld.com/article/3188311/how-data-brokers-get-your-information-even-if-youre-careful.html
+https://www.techradar.com/pro/security/thousands-of-us-military-beneficiaries-have-data-breached-following-tricare-cyberattack-dod-benefits-numbers-and-some-social-security-numbers-leaked
