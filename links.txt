@@ -1,22 +1,19 @@
-## Number / Device Tracking
-https://www.macworld.com/article/3190929/finally-a-find-my-compatible-tracker-designed-for-wallets-passports-and-more-now-24.html
-
-## People Search
-https://www.computerworld.com/article/4197338/what-problems-would-an-ai-speaker-from-openai-actually-solve.html
-
 ## Address Lookup
-https://www.bgr.com/2215628/google-maps-android-auto-new-updare-immersive-navigation/
-https://www.engadget.com/2209466/what-the-little-leaf-symbol-on-google-maps-means/
-https://www.zdnet.com/article/google-maps-vs-waze-2026/
+https://www.pr.com/press-release/973721
+https://www.howtogeek.com/quick-fixes-to-make-your-google-maps-saved-places-more-private/
+https://www.androidheadlines.com/2026/07/google-could-give-ask-maps-a-bigger-presence-in-google-maps.html
+
+## Image Search
+https://www.prnewswire.com/news-releases/uspto-launches-ai-image-search-in-trademark-search-system-powered-by-clarivate-302826692.html
+https://www.tomsguide.com/ai/google-search-will-let-you-create-ai-images-for-free-soon-heres-how-it-works
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/07/15/au-partnered-health-data-breach-exposes-patient-records-at-family-clinics/?pk_campaign=feed&pk_kwd=au-partnered-health-data-breach-exposes-patient-records-at-family-clinics
+https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267
+https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach
+https://therecord.media/genetic-testing-settlement-data-breach
+https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach
 
 ## OSINT & Open Source Intelligence
-https://github.com/m0ro23/TargetForge-AI-Powered-Red-Team-Dossier-Engine
-https://github.com/Dorukefty112/pc-manager
-https://github.com/EmmmmDeee/Huntsman-Search-Engine-HSE-Termux-Android-Aarch64-Rust-
-https://github.com/mriconic295-gif/sybarscope
-
-## Uncategorized
-https://www.pcworld.com/article/3188114/navimow-i215-review.html
+https://github.com/n4vierst0kes/Dark-Web-OSINT-LLM-Benchmark
+https://github.com/foovoof/moon
+https://github.com/DoksBin228/osint-bot
