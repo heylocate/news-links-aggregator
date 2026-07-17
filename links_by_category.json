@@ -1,25 +1,27 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://www.prnewswire.com/news-releases/sequential-growth-across-all-revenue-streams-302828319.html",
+    "https://www.prnewswire.com/news-releases/truecaller-enters-into-an-agreement-to-acquire-us-based-textplus-inc-302828274.html"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.engadget.com/2216550/ofcom-uk-communications-regulator-investigating-tiktok-child-safety-measures/",
-    "https://www.mobileworldlive.com/europe/tiktok-in-ofcom-crosshairs-over-child-safety/"
+    "https://www.bgr.com/2213931/useful-computer-screen-settings-reduce-eye-strain/"
   ],
-  "Background Check": [
-    "https://www.pcworld.com/article/3188311/how-data-brokers-get-your-information-even-if-youre-careful.html",
-    "http://www.businesswire.com/news/home/20260629494028/en/Fourthline-and-Veridas-Join-Forces-to-Fight-Identity-Fraud-with-a-Global-Identity-Platform/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
-  ],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
-  "Image Search": [],
+  "Address Lookup": [
+    "https://www.bgr.com/2203821/does-google-maps-work-in-china-explained/"
+  ],
+  "Image Search": [
+    "https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/"
+  ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.techradar.com/pro/security/thousands-of-us-military-beneficiaries-have-data-breached-following-tricare-cyberattack-dod-benefits-numbers-and-some-social-security-numbers-leaked",
-    "https://databreaches.net/2026/07/16/au-regulators-preliminary-findings-did-not-indicate-qantas-breached-privacy-obligations/?pk_campaign=feed&pk_kwd=au-regulators-preliminary-findings-did-not-indicate-qantas-breached-privacy-obligations"
+    "https://databreaches.net/2026/07/16/italy-fines-windtre-e1-7-million-over-data-breaches/?pk_campaign=feed&pk_kwd=italy-fines-windtre-e1-7-million-over-data-breaches"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/lalitkishorepanwar/mrgadget",
-    "https://github.com/WiLL75G/soc-day14-threat-intelligence-osint"
+    "https://github.com/UIngarsoe/Myanmar-OSINT-Ritual",
+    "https://github.com/prutxvi/trace-osint"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
