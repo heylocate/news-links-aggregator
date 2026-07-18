@@ -1,9 +1,5 @@
-## Address Lookup
-https://www.tomsguide.com/phones/my-favorite-google-maps-feature-is-the-one-that-lets-me-visit-a-world-that-doesnt-exist-anymore
+## Phone Lookup
+https://github.com/Floor-Logixx/tcallout
 
-## Security & Anti-Abuse
-https://www.tomsguide.com/phones/iphones/iphone-18-pro-maxs-biggest-upgrade-may-have-just-been-confirmed-and-its-a-photography-game-changer
-
-## OSINT & Open Source Intelligence
-https://github.com/gl1tch0x1/kaal-bhairav
-https://github.com/Albinbasiljacob/O_S_I_N_T
+## Parental Control
+https://appleinsider.com/articles/26/07/17/apple-music-gets-first-us-price-hike-in-four-years
