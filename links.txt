@@ -1,5 +1,13 @@
-## Phone Lookup
-https://github.com/Floor-Logixx/tcallout
+## Address Lookup
+https://www.bgr.com/2214585/common-problems-google-maps/
 
-## Parental Control
-https://appleinsider.com/articles/26/07/17/apple-music-gets-first-us-price-hike-in-four-years
+## Security & Anti-Abuse
+https://www.prnewswire.com/news-releases/first-national-holdings-data-breach-alert-issued-by-wolf-haldenstein-302826375.html
+https://www.prnewswire.com/news-releases/frontier-airlines-data-breach-alert-issued-by-wolf-haldenstein-302826504.html
+https://www.prnewswire.com/news-releases/pillsbury-notice-of-data-breach-302828892.html
+
+## OSINT & Open Source Intelligence
+https://github.com/sahedalways/ID-Trace-AI---Digital-Identity-Intelligence-Platform
+
+## Uncategorized
+https://www.engadget.com/2218076/openai-notify-parents-teen-banned-chatgpt-violence/
