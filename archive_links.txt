@@ -4732,3 +4732,7 @@ https://www.engadget.com/2218076/openai-notify-parents-teen-banned-chatgpt-viole
 https://www.prnewswire.com/news-releases/first-national-holdings-data-breach-alert-issued-by-wolf-haldenstein-302826375.html
 https://www.prnewswire.com/news-releases/frontier-airlines-data-breach-alert-issued-by-wolf-haldenstein-302826504.html
 https://www.prnewswire.com/news-releases/pillsbury-notice-of-data-breach-302828892.html
+https://9to5mac.com/2026/07/18/your-personal-data-is-for-sale-here-is-how-to-take-it-off-the-internet/
+https://github.com/Cyber-Siva-Sankar/Hackers-Checklist
+https://github.com/TrimBallanca/Telnyx-CallerId-PushService
+https://github.com/arvened/openosint-pro

@@ -1,25 +1,22 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/TrimBallanca/Telnyx-CallerId-PushService"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [
-    "https://www.bgr.com/2214585/common-problems-google-maps/"
+  "People Search": [
+    "https://9to5mac.com/2026/07/18/your-personal-data-is-for-sale-here-is-how-to-take-it-off-the-internet/"
   ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.prnewswire.com/news-releases/first-national-holdings-data-breach-alert-issued-by-wolf-haldenstein-302826375.html",
-    "https://www.prnewswire.com/news-releases/frontier-airlines-data-breach-alert-issued-by-wolf-haldenstein-302826504.html",
-    "https://www.prnewswire.com/news-releases/pillsbury-notice-of-data-breach-302828892.html"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/sahedalways/ID-Trace-AI---Digital-Identity-Intelligence-Platform"
+    "https://github.com/arvened/openosint-pro",
+    "https://github.com/Cyber-Siva-Sankar/Hackers-Checklist"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.engadget.com/2218076/openai-notify-parents-teen-banned-chatgpt-violence/"
-  ]
+  "Uncategorized": []
 }
