@@ -1,9 +1,9 @@
 ## Phone Lookup
-https://github.com/TrimBallanca/Telnyx-CallerId-PushService
+https://www.cnet.com/tech/services-and-software/this-iphone-trick-can-eliminate-spam-calls-for-good/
 
-## People Search
-https://9to5mac.com/2026/07/18/your-personal-data-is-for-sale-here-is-how-to-take-it-off-the-internet/
+## Parental Control
+https://thenextweb.com/news/google-ai-search-unsafe-schools-common-sense-media
 
 ## OSINT & Open Source Intelligence
-https://github.com/arvened/openosint-pro
-https://github.com/Cyber-Siva-Sankar/Hackers-Checklist
+https://github.com/jivoi/awesome-osint
+https://github.com/data-landscapers/OSINT
