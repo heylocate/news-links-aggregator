@@ -1,9 +1,9 @@
 ## Address Lookup
-https://www.bgr.com/2215773/waze-vs-google-maps-which-app-best-older-drivers/
-https://www.cnet.com/tech/services-and-software/how-to-stop-google-maps-from-displaying-your-home-to-strangers/
-https://9to5google.com/2026/07/19/android-auto-finally-starts-rolling-out-a-speedometer-in-google-maps/
+https://www.androidcentral.com/apps-software/android-auto/android-auto-is-finally-getting-the-google-maps-feature-drivers-have-wanted
+https://www.tomsguide.com/computing/mobile-apps/google-maps-is-finally-getting-a-speedometer-on-android-auto-and-its-about-time-my-ancient-gps-system-could-do-this-20-years-ago
+
+## Security & Anti-Abuse
+https://www.techradar.com/pro/security/ernst-and-young-reveals-data-breach-following-hack-on-support-system
 
 ## OSINT & Open Source Intelligence
-https://github.com/vwvb1b-lpm/LPM-111
-https://github.com/ddc9000/Lokerse-Status
-https://github.com/captainx-dcode/advanced-recon-framework
+https://github.com/SiLiN-ua/SiLiN-ua.github.io
