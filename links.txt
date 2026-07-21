@@ -1,17 +1,24 @@
-## Number / Device Tracking
-https://www.tomsguide.com/ai/i-asked-chatgpt-to-make-my-iphone-more-private-it-found-7-settings-i-wish-id-turned-on-years-ago
+## Parental Control
+https://www.androidpolice.com/reduced-screen-time-for-nothing-discovered-stops-headaches/
 
 ## Background Check
-https://seclists.org/fulldisclosure/2026/Jul/23
+https://www.eff.org/deeplinks/2026/07/explosion-surveillance-towers-coming-us-borders-costing-over-1-billion
 
 ## People Search
-https://www.eff.org/deeplinks/2026/07/what-you-need-know-about-californias-drop-tool
+https://www.pcworld.com/article/3194085/a-hotel-leaked-my-data-to-hackers-you-could-be-next.html
 
 ## Address Lookup
-https://www.bgr.com/2216334/why-uber-drivers-use-google-maps/
-https://appleinsider.com/articles/26/07/20/apple-adds-another-office-to-its-sunnyvale-collection
-https://www.androidheadlines.com/2026/07/android-auto-google-maps-speedometer-rollout.html
-https://www.androidpolice.com/android-auto-finally-exits-the-slow-lane-adds-google-maps-speedometer/
+https://www.bgr.com/2219591/google-maps-android-auto-getting-speedometer-feature/
+https://www.bgr.com/2213937/google-maps-features-for-ev-owners/
+
+## Image Search
+https://www.pcworld.com/article/3195832/microsoft-fixes-the-windows-11-bug-slowing-down-some-dell-pcs.html
 
 ## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/Suno
+https://www.techradar.com/pro/security/estee-lauder-says-it-was-hit-by-data-breach-caused-by-oracle-e-business-issue
+https://databreaches.net/2026/07/21/suno-data-breach-had-a-breach-in-2025-why-is-it-first-being-known-now/?pk_campaign=feed&pk_kwd=suno-data-breach-had-a-breach-in-2025-why-is-it-first-being-known-now
+https://databreaches.net/2026/07/21/seoul-notifies-4-62-million-of-ttareungyi-data-breach-offers-free-passes/?pk_campaign=feed&pk_kwd=seoul-notifies-4-62-million-of-ttareungyi-data-breach-offers-free-passes
+
+## OSINT & Open Source Intelligence
+https://github.com/rajanexe/Telegram-Bots
+https://github.com/KillaMeep/waypoint-osint
