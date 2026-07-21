@@ -1,9 +1,17 @@
+## Number / Device Tracking
+https://www.tomsguide.com/ai/i-asked-chatgpt-to-make-my-iphone-more-private-it-found-7-settings-i-wish-id-turned-on-years-ago
+
+## Background Check
+https://seclists.org/fulldisclosure/2026/Jul/23
+
+## People Search
+https://www.eff.org/deeplinks/2026/07/what-you-need-know-about-californias-drop-tool
+
 ## Address Lookup
-https://www.androidcentral.com/apps-software/android-auto/android-auto-is-finally-getting-the-google-maps-feature-drivers-have-wanted
-https://www.tomsguide.com/computing/mobile-apps/google-maps-is-finally-getting-a-speedometer-on-android-auto-and-its-about-time-my-ancient-gps-system-could-do-this-20-years-ago
+https://www.bgr.com/2216334/why-uber-drivers-use-google-maps/
+https://appleinsider.com/articles/26/07/20/apple-adds-another-office-to-its-sunnyvale-collection
+https://www.androidheadlines.com/2026/07/android-auto-google-maps-speedometer-rollout.html
+https://www.androidpolice.com/android-auto-finally-exits-the-slow-lane-adds-google-maps-speedometer/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/ernst-and-young-reveals-data-breach-following-hack-on-support-system
-
-## OSINT & Open Source Intelligence
-https://github.com/SiLiN-ua/SiLiN-ua.github.io
+https://haveibeenpwned.com/Breach/Suno
