@@ -4777,3 +4777,7 @@ https://www.engadget.com/2219977/threads-is-getting-new-parental-control-feature
 https://www.howtogeek.com/google-maps-isnt-just-gps-features-you-should-start-using/
 https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514
 https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms
+https://github.com/labfytools/labfy-investigation
+https://github.com/vamsikrishna7-afk/SIGNAL-STRENGTH-CHECKER-
+https://www.techradar.com/computing/websites-apps/an-intrepid-hiker-just-found-something-unbelievable-on-google-maps-and-its-been-hiding-in-plain-sight-for-390-million-years
+https://www.techradar.com/pro/security/chick-fil-a-reveals-data-breach-customers-warned-hackers-may-have-accessed-their-account-info

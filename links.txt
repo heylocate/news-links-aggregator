@@ -1,13 +1,11 @@
-## Parental Control
-https://www.engadget.com/2219977/threads-is-getting-new-parental-control-features/
-https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms
+## Number / Device Tracking
+https://github.com/vamsikrishna7-afk/SIGNAL-STRENGTH-CHECKER-
 
 ## Address Lookup
-https://www.bgr.com/2211550/disadvantages-using-waze-navigation/
-https://www.howtogeek.com/google-maps-isnt-just-gps-features-you-should-start-using/
-https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-appfunctions.html
-https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-introduction-jetpack.html
-https://android-developers.googleblog.com/2026/07/android-on-device-inference.html
+https://www.techradar.com/computing/websites-apps/an-intrepid-hiker-just-found-something-unbelievable-on-google-maps-and-its-been-hiding-in-plain-sight-for-390-million-years
 
 ## Security & Anti-Abuse
-https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514
+https://www.techradar.com/pro/security/chick-fil-a-reveals-data-breach-customers-warned-hackers-may-have-accessed-their-account-info
+
+## OSINT & Open Source Intelligence
+https://github.com/labfytools/labfy-investigation
