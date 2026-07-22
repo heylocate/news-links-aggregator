@@ -4769,3 +4769,11 @@ https://www.eff.org/deeplinks/2026/07/explosion-surveillance-towers-coming-us-bo
 https://www.pcworld.com/article/3194085/a-hotel-leaked-my-data-to-hackers-you-could-be-next.html
 https://www.pcworld.com/article/3195832/microsoft-fixes-the-windows-11-bug-slowing-down-some-dell-pcs.html
 https://www.techradar.com/pro/security/estee-lauder-says-it-was-hit-by-data-breach-caused-by-oracle-e-business-issue
+https://android-developers.googleblog.com/2026/07/android-on-device-inference.html
+https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-appfunctions.html
+https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-introduction-jetpack.html
+https://www.bgr.com/2211550/disadvantages-using-waze-navigation/
+https://www.engadget.com/2219977/threads-is-getting-new-parental-control-features/
+https://www.howtogeek.com/google-maps-isnt-just-gps-features-you-should-start-using/
+https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514
+https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms
