@@ -1,11 +1,14 @@
 ## Number / Device Tracking
-https://github.com/vamsikrishna7-afk/SIGNAL-STRENGTH-CHECKER-
+https://www.bgr.com/2217233/hidden-features-apple-find-my/
 
-## Address Lookup
-https://www.techradar.com/computing/websites-apps/an-intrepid-hiker-just-found-something-unbelievable-on-google-maps-and-its-been-hiding-in-plain-sight-for-390-million-years
+## Parental Control
+https://9to5mac.com/2026/07/22/ios-27-public-beta-2-is-here-with-siri-ai-iphone-speed-upgrades-and-more/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/chick-fil-a-reveals-data-breach-customers-warned-hackers-may-have-accessed-their-account-info
+https://databreaches.net/2026/07/22/id-kootenai-county-notifies-residents-of-data-breach/?pk_campaign=feed&pk_kwd=id-kootenai-county-notifies-residents-of-data-breach
+https://databreaches.net/2026/07/22/tn-data-breach-delays-start-of-sumner-county-school-year/?pk_campaign=feed&pk_kwd=tn-data-breach-delays-start-of-sumner-county-school-year
+https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now
 
 ## OSINT & Open Source Intelligence
-https://github.com/labfytools/labfy-investigation
+https://github.com/Sarathzzzss/cti-ioc-enrichment-engine
+https://github.com/furryredball/signal-monitor
