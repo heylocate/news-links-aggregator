@@ -1,14 +1,8 @@
-## Number / Device Tracking
-https://www.bgr.com/2217233/hidden-features-apple-find-my/
+## Address Lookup
+https://www.androidpolice.com/always-change-these-google-maps-android-auto-settings-before-long-road-trip/
 
-## Parental Control
-https://9to5mac.com/2026/07/22/ios-27-public-beta-2-is-here-with-siri-ai-iphone-speed-upgrades-and-more/
+## Image Search
+https://www.macrumors.com/2026/07/23/opera-one-adds-vertical-tabs-chrome-firefox/
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/07/22/id-kootenai-county-notifies-residents-of-data-breach/?pk_campaign=feed&pk_kwd=id-kootenai-county-notifies-residents-of-data-breach
-https://databreaches.net/2026/07/22/tn-data-breach-delays-start-of-sumner-county-school-year/?pk_campaign=feed&pk_kwd=tn-data-breach-delays-start-of-sumner-county-school-year
-https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now
-
-## OSINT & Open Source Intelligence
-https://github.com/Sarathzzzss/cti-ioc-enrichment-engine
-https://github.com/furryredball/signal-monitor
+https://therecord.media/australia-origin-energy-data-breach

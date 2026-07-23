@@ -4788,3 +4788,6 @@ https://github.com/Sarathzzzss/cti-ioc-enrichment-engine
 https://github.com/furryredball/signal-monitor
 https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now
 https://www.bgr.com/2217233/hidden-features-apple-find-my/
+https://therecord.media/australia-origin-energy-data-breach
+https://www.androidpolice.com/always-change-these-google-maps-android-auto-settings-before-long-road-trip/
+https://www.macrumors.com/2026/07/23/opera-one-adds-vertical-tabs-chrome-firefox/
