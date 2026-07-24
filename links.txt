@@ -1,8 +1,15 @@
-## Address Lookup
-https://www.androidpolice.com/always-change-these-google-maps-android-auto-settings-before-long-road-trip/
+## Phone Lookup
+https://github.com/andrey-tut/n8n-nodes-nummeropslag
 
-## Image Search
-https://www.macrumors.com/2026/07/23/opera-one-adds-vertical-tabs-chrome-firefox/
+## Parental Control
+https://www.macworld.com/article/3198270/ford-steers-away-from-google-picks-apple-maps-for-new-electric-cars.html
+
+## Address Lookup
+https://www.eff.org/deeplinks/2026/07/hundreds-drone-first-responder-programs-could-soon-be-launched-across-country
 
 ## Security & Anti-Abuse
-https://therecord.media/australia-origin-energy-data-breach
+https://www.prnewswire.com/news-releases/privacy-alert-centers-lab-nj-llc-under-investigation-for-data-breach-of-over-542-000-patient-records-302833808.html
+
+## OSINT & Open Source Intelligence
+https://github.com/GiTaDi-CrEaTe/synth-guard
+https://github.com/D3v4nshPat3l/ReconTitan
