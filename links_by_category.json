@@ -1,24 +1,23 @@
 {
-  "Phone Lookup": [
-    "https://github.com/andrey-tut/n8n-nodes-nummeropslag"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.macworld.com/article/3198270/ford-steers-away-from-google-picks-apple-maps-for-new-electric-cars.html"
+    "https://www.mobileworldlive.com/regulation/ec-warns-tiktok-over-child-protection-breaches/"
   ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.eff.org/deeplinks/2026/07/hundreds-drone-first-responder-programs-could-soon-be-launched-across-country"
+  "Address Lookup": [],
+  "Image Search": [
+    "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
   ],
-  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.prnewswire.com/news-releases/privacy-alert-centers-lab-nj-llc-under-investigation-for-data-breach-of-over-542-000-patient-records-302833808.html"
+    "https://databreaches.net/2026/07/24/t-mobile-violated-wa-data-breach-notification-law-judge-rules/?pk_campaign=feed&pk_kwd=t-mobile-violated-wa-data-breach-notification-law-judge-rules",
+    "https://www.pcworld.com/article/3198460/hackers-didnt-break-into-chick-fil-a-they-just-logged-in.html"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/GiTaDi-CrEaTe/synth-guard",
-    "https://github.com/D3v4nshPat3l/ReconTitan"
+    "https://github.com/S4T4N/osint-god",
+    "https://github.com/Webfooted-cupule499/LeakRecon"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
