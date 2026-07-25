@@ -4803,3 +4803,4 @@ https://github.com/Webfooted-cupule499/LeakRecon
 https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html
 https://www.mobileworldlive.com/regulation/ec-warns-tiktok-over-child-protection-breaches/
 https://www.pcworld.com/article/3198460/hackers-didnt-break-into-chick-fil-a-they-just-logged-in.html
+https://9to5google.com/2026/07/24/pebblebee-launches-bag-tags-and-pet-collar-ids-to-go-with-your-find-hub-trackers/
