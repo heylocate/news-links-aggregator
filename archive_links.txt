@@ -4804,3 +4804,15 @@ https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html
 https://www.mobileworldlive.com/regulation/ec-warns-tiktok-over-child-protection-breaches/
 https://www.pcworld.com/article/3198460/hackers-didnt-break-into-chick-fil-a-they-just-logged-in.html
 https://9to5google.com/2026/07/24/pebblebee-launches-bag-tags-and-pet-collar-ids-to-go-with-your-find-hub-trackers/
+https://9to5google.com/2026/07/25/google-maps-immersive-navigation-android-auto-speedometer-rollout-more/
+https://github.com/FaiellaFrancesco/VoIP-lab
+https://github.com/njjholland-dot/pstn2
+https://github.com/osint-and-search/OSINT_i_poisk_po_FIO
+https://github.com/osint-and-search/OSINT_i_poisk_po_INN
+https://github.com/osint-and-search/OSINT_i_poisk_po_IP
+https://github.com/osint-and-search/OSINT_i_poisk_po_foto
+https://www.bgr.com/2219037/how-does-google-maps-predict-traffic/
+https://www.bgr.com/2219087/how-to-find-your-reviews-on-google-maps-guide/
+https://www.pcworld.com/article/3196844/turn-off-ads-across-your-familys-devices-with-one-11-purchase.html
+https://www.tomsguide.com/phones/how-to-stop-google-maps-from-displaying-your-home-to-strangers
+https://www.xda-developers.com/unlikely-windows-app-stopped-my-phone-ruining-my-workday/

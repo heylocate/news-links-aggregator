@@ -1,16 +1,31 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://9to5google.com/2026/07/24/pebblebee-launches-bag-tags-and-pet-collar-ids-to-go-with-your-find-hub-trackers/"
+  "Phone Lookup": [
+    "https://github.com/FaiellaFrancesco/VoIP-lab"
   ],
-  "Parental Control": [],
-  "Background Check": [],
+  "Number / Device Tracking": [],
+  "Parental Control": [
+    "https://www.xda-developers.com/unlikely-windows-app-stopped-my-phone-ruining-my-workday/",
+    "https://www.pcworld.com/article/3196844/turn-off-ads-across-your-familys-devices-with-one-11-purchase.html"
+  ],
+  "Background Check": [
+    "https://github.com/njjholland-dot/pstn2"
+  ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.bgr.com/2219087/how-to-find-your-reviews-on-google-maps-guide/",
+    "https://www.bgr.com/2219037/how-does-google-maps-predict-traffic/",
+    "https://9to5google.com/2026/07/25/google-maps-immersive-navigation-android-auto-speedometer-rollout-more/",
+    "https://www.tomsguide.com/phones/how-to-stop-google-maps-from-displaying-your-home-to-strangers"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/osint-and-search/OSINT_i_poisk_po_foto",
+    "https://github.com/osint-and-search/OSINT_i_poisk_po_FIO",
+    "https://github.com/osint-and-search/OSINT_i_poisk_po_INN",
+    "https://github.com/osint-and-search/OSINT_i_poisk_po_IP"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
