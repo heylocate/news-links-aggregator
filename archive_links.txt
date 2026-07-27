@@ -4820,3 +4820,13 @@ https://www.androidpolice.com/stopped-trusting-star-ratings-how-i-judge-place-on
 https://www.bgr.com/2216851/why-google-maps-night-mode-during-day/
 https://www.troyhunt.com/weekly-update-514/
 https://github.com/rafaeltondin/pentest-confirm-mcp
+http://www.businesswire.com/news/home/20260727892997/en/Smith-Micro-Expands-SafePath%C2%AE-Platform-with-New-SDK-and-API-Deployment-Options/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html
+https://github.com/Bargaisl/telegram-nickname-search-bot
+https://github.com/ItsAmyWebb/truecaller-caller-id-poc
+https://github.com/maheeniftikhar24/OSINT-Writeups
+https://readwrite.com/nevada-kalshi-suspend-contempt-hearing-geofencing-rollout/
+https://www.bgr.com/2220755/how-to-fix-google-maps-not-talking/
+https://www.bgr.com/2220896/how-to-personalize-route-suggestions-google-maps-guide/
+https://www.howtogeek.com/i-stopped-typing-addresses-into-google-maps-now-i-just-say-my-friends-name/
+https://www.prnewswire.com/news-releases/repurchase-truecaller-b-shares-in-week-30-2026-and-exceeding-threshold-for-holding-of-own-shares-302835225.html
