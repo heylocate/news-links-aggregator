@@ -1,6 +1,2 @@
-## Address Lookup
-https://www.bgr.com/2216851/why-google-maps-night-mode-during-day/
-https://www.androidpolice.com/stopped-trusting-star-ratings-how-i-judge-place-on-google-maps/
-
-## Security & Anti-Abuse
-https://www.troyhunt.com/weekly-update-514/
+## OSINT & Open Source Intelligence
+https://github.com/rafaeltondin/pentest-confirm-mcp

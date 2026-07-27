@@ -4819,3 +4819,4 @@ https://www.xda-developers.com/unlikely-windows-app-stopped-my-phone-ruining-my-
 https://www.androidpolice.com/stopped-trusting-star-ratings-how-i-judge-place-on-google-maps/
 https://www.bgr.com/2216851/why-google-maps-night-mode-during-day/
 https://www.troyhunt.com/weekly-update-514/
+https://github.com/rafaeltondin/pentest-confirm-mcp
