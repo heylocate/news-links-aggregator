@@ -1,12 +1,9 @@
 ## Parental Control
-https://www.androidpolice.com/video/halving-my-screen-time-transformed-my-life-video/
+https://thenextweb.com/news/x-money-account-suspension-posting-stored-value-fdic-sweep
 
 ## Address Lookup
-https://www.bgr.com/2221441/google-maps-taking-more-data-alternatives/
-https://www.bgr.com/2221513/google-maps-edits-arent-always-private/
-https://www.bgr.com/2221370/how-google-maps-different-ios/
-https://www.bgr.com/2220917/how-to-clear-google-maps-storage-cache/
+https://www.bgr.com/2221772/how-to-use-google-maps-labels-feature-guide/
 
 ## OSINT & Open Source Intelligence
-https://github.com/alfaggodoy/phishing-eml-analyzer
-https://github.com/HahaAhhDev/fghost
+https://github.com/lrafael696/OSINT-Tools
+https://github.com/JMarchiori13/csintroberto-cdn
