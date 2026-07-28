@@ -1,29 +1,23 @@
 {
-  "Phone Lookup": [
-    "https://www.prnewswire.com/news-releases/repurchase-truecaller-b-shares-in-week-30-2026-and-exceeding-threshold-for-holding-of-own-shares-302835225.html",
-    "https://github.com/ItsAmyWebb/truecaller-caller-id-poc"
-  ],
-  "Number / Device Tracking": [
-    "https://readwrite.com/nevada-kalshi-suspend-contempt-hearing-geofencing-rollout/"
-  ],
+  "Phone Lookup": [],
+  "Number / Device Tracking": [],
   "Parental Control": [
-    "http://www.businesswire.com/news/home/20260727892997/en/Smith-Micro-Expands-SafePath%C2%AE-Platform-with-New-SDK-and-API-Deployment-Options/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
+    "https://www.androidpolice.com/video/halving-my-screen-time-transformed-my-life-video/"
   ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.bgr.com/2220896/how-to-personalize-route-suggestions-google-maps-guide/",
-    "https://www.bgr.com/2220755/how-to-fix-google-maps-not-talking/",
-    "https://www.howtogeek.com/i-stopped-typing-addresses-into-google-maps-now-i-just-say-my-friends-name/"
+    "https://www.bgr.com/2221441/google-maps-taking-more-data-alternatives/",
+    "https://www.bgr.com/2221513/google-maps-edits-arent-always-private/",
+    "https://www.bgr.com/2221370/how-google-maps-different-ios/",
+    "https://www.bgr.com/2220917/how-to-clear-google-maps-storage-cache/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/maheeniftikhar24/OSINT-Writeups",
-    "https://github.com/Bargaisl/telegram-nickname-search-bot"
+    "https://github.com/alfaggodoy/phishing-eml-analyzer",
+    "https://github.com/HahaAhhDev/fghost"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
