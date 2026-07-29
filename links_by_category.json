@@ -1,20 +1,24 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://thenextweb.com/news/x-money-account-suspension-posting-stored-value-fdic-sweep"
+  "Phone Lookup": [
+    "https://github.com/anbuinfosec/CallerIQ-App"
   ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.bgr.com/2221772/how-to-use-google-maps-labels-feature-guide/"
+    "https://www.howtogeek.com/reasons-i-dont-trust-google-maps-anymore/"
   ],
-  "Image Search": [],
+  "Image Search": [
+    "https://www.socialmediatoday.com/news/6-tips-for-building-a-brand-on-pinterest/824788/"
+  ],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.cnet.com/personal-finance/identity-theft/data-breaches-getting-bigger-companies-are-telling-us-less/"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/lrafael696/OSINT-Tools",
-    "https://github.com/JMarchiori13/csintroberto-cdn"
+    "https://github.com/wenger5582/condor-repo",
+    "https://github.com/abeeraisabeera/Pakistan_Public_Corruption_Atlas"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
