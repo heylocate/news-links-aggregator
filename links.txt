@@ -1,18 +1,10 @@
-## Phone Lookup
-https://www.malwarebytes.com/blog/news/2026/07/ai-robocalls-why-caller-id-is-still-lying-to-you
-https://business-resources.truecaller.com/psts/truecaller-verified-campaigns-is-now-natively-available-on-clevertap
-
 ## Parental Control
-https://blog.youtube/creator-and-artist-stories/media-literacy-tips-parents-georgia-dow/
-https://www.prnewswire.com/news-releases/heypolo-challenges-traditional-family-tracking-with-new-privacy-first-safety-features-302837857.html
-
-## Background Check
-https://www.macrumors.com/2026/07/29/iphone-drivers-license-another-state-soon/
-https://www.techradar.com/pro/why-proving-personhood-is-the-new-standard-for-identity-verification
+https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/
+https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html
 
 ## Address Lookup
-https://www.xda-developers.com/useful-google-maps-features-i-wish-i-started-using-years-ago/
+https://www.androidheadlines.com/2026/07/google-custom-satellite-embeddings-alphaearth-preview.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/candesemccalla4/osint-threat-intelligence-research
-https://github.com/sskeen/civilian-trauma
+https://github.com/Delma029/osint-attack-surface-recon
+https://github.com/sylhetyhackvenger/METAONEX
