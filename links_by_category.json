@@ -1,19 +1,26 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/oreotamish/idemp-caller"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [],
+  "Background Check": [
+    "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports"
+  ],
+  "People Search": [
+    "https://www.pr.com/press-release/974878"
+  ],
+  "Address Lookup": [
+    "https://www.bgr.com/2222643/google-maps-eta-time-color-meaning-explained/",
+    "https://www.tomsguide.com/phones/how-i-use-google-maps-to-time-travel-avoid-bad-air-and-survive-zero-service"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://therecord.media/analog-devices-semiconductor-company-data-breach",
-    "https://databreaches.net/2026/07/30/kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations/"
+    "https://databreaches.net/2026/07/31/consumer-dispute-panel-orders-coupang-to-pay-affected-consumers-100000-won-each-for-data-breach/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/kevinwalker46/wiretapper-osint-signal-hub",
-    "https://github.com/Benjamin-dotnet/DedSec"
+    "https://github.com/ggg6r34t/osiris"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
