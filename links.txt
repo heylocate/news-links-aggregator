@@ -1,23 +1,7 @@
-## Phone Lookup
-https://github.com/CelalYaman/AloSiparis-Desktop
-https://www.computerworld.com/article/1627659/google-voice-business-users-guide.html
-
-## Parental Control
-https://www.pcworld.com/article/3201333/protect-your-whole-household-with-lifetime-adguard-for-15-97.html
-
-## Background Check
-https://www.globenewswire.com/news-release/2026/07/30/3336300/0/en/Regula-Recognized-in-the-2026-Gartner-Magic-Quadrant-for-Identity-Verification.html
-
-## People Search
-https://www.pcworld.com/article/3199829/secure-your-digital-life-across-multiple-devices.html
-
-## Address Lookup
-https://www.bgr.com/2222211/why-does-google-maps-struggle-rural-areas/
-
 ## Security & Anti-Abuse
-http://www.businesswire.com/news/home/20260730765898/en/KnowBe4-Combats-Voice-Based-Threats-With-Advanced-Simulated-Vishing-Capabilities/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-https://databreaches.net/2026/07/30/kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations/?pk_campaign=feed&pk_kwd=kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations
+https://therecord.media/analog-devices-semiconductor-company-data-breach
+https://databreaches.net/2026/07/30/kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations/
 
 ## OSINT & Open Source Intelligence
-https://github.com/JMarchiori13/discord-recon
-https://github.com/mehedi6158/BKASH--OSINT--INVESTIGATION-REPORT
+https://github.com/kevinwalker46/wiretapper-osint-signal-hub
+https://github.com/Benjamin-dotnet/DedSec

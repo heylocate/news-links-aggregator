@@ -4871,3 +4871,7 @@ https://www.computerworld.com/article/1627659/google-voice-business-users-guide.
 https://www.globenewswire.com/news-release/2026/07/30/3336300/0/en/Regula-Recognized-in-the-2026-Gartner-Magic-Quadrant-for-Identity-Verification.html
 https://www.pcworld.com/article/3199829/secure-your-digital-life-across-multiple-devices.html
 https://www.pcworld.com/article/3201333/protect-your-whole-household-with-lifetime-adguard-for-15-97.html
+https://databreaches.net/2026/07/30/kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations/
+https://github.com/Benjamin-dotnet/DedSec
+https://github.com/kevinwalker46/wiretapper-osint-signal-hub
+https://therecord.media/analog-devices-semiconductor-company-data-breach
