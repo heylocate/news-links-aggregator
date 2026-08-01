@@ -1,18 +1,8 @@
-## Phone Lookup
-https://github.com/oreotamish/idemp-caller
-
-## Background Check
-https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports
-
-## People Search
-https://www.pr.com/press-release/974878
-
-## Address Lookup
-https://www.bgr.com/2222643/google-maps-eta-time-color-meaning-explained/
-https://www.tomsguide.com/phones/how-i-use-google-maps-to-time-travel-avoid-bad-air-and-survive-zero-service
+## Parental Control
+https://www.pcworld.com/article/3203975/windows-11s-next-big-priority-making-8gb-pcs-less-painful-to-use.html
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/07/31/consumer-dispute-panel-orders-coupang-to-pay-affected-consumers-100000-won-each-for-data-breach/
+https://haveibeenpwned.com/Breach/SplitVPN
 
 ## OSINT & Open Source Intelligence
-https://github.com/ggg6r34t/osiris
+https://github.com/mtalha27709-coder/Red-Team-Operation-Practicals
