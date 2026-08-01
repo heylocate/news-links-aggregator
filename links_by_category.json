@@ -1,19 +1,17 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.pcworld.com/article/3203975/windows-11s-next-big-priority-making-8gb-pcs-less-painful-to-use.html"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/SplitVPN"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/mtalha27709-coder/Red-Team-Operation-Practicals"
+    "https://github.com/Blackleets/aegis",
+    "https://github.com/Mohitparmar21/30-Days-OSINT-Challenge",
+    "https://github.com/Irizatto/nordic-baltic-grayzone-monitor"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

@@ -4885,3 +4885,6 @@ https://www.tomsguide.com/phones/how-i-use-google-maps-to-time-travel-avoid-bad-
 https://github.com/mtalha27709-coder/Red-Team-Operation-Practicals
 https://haveibeenpwned.com/Breach/SplitVPN
 https://www.pcworld.com/article/3203975/windows-11s-next-big-priority-making-8gb-pcs-less-painful-to-use.html
+https://github.com/Blackleets/aegis
+https://github.com/Irizatto/nordic-baltic-grayzone-monitor
+https://github.com/Mohitparmar21/30-Days-OSINT-Challenge
