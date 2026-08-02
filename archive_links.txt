@@ -4888,3 +4888,10 @@ https://www.pcworld.com/article/3203975/windows-11s-next-big-priority-making-8gb
 https://github.com/Blackleets/aegis
 https://github.com/Irizatto/nordic-baltic-grayzone-monitor
 https://github.com/Mohitparmar21/30-Days-OSINT-Challenge
+https://databreaches.net/2026/08/01/au-go2-health-medical-clinic-in-brisbane-waited-almost-three-months-to-alert-patients-it-was-hacked/
+https://databreaches.net/2026/08/01/carecloud-data-breach-impacts-over-350000/
+https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/
+https://github.com/Ayriin26/Osint-Toolkit
+https://github.com/hanialmuhammed-sys/live-phone-tracker-
+https://github.com/yousefalhwety/Sentinel-OSINT-Pipeline
+https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html

@@ -1,4 +1,14 @@
+## Security & Anti-Abuse
+https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/
+https://databreaches.net/2026/08/01/carecloud-data-breach-impacts-over-350000/
+https://databreaches.net/2026/08/01/au-go2-health-medical-clinic-in-brisbane-waited-almost-three-months-to-alert-patients-it-was-hacked/
+
 ## OSINT & Open Source Intelligence
-https://github.com/Blackleets/aegis
-https://github.com/Mohitparmar21/30-Days-OSINT-Challenge
-https://github.com/Irizatto/nordic-baltic-grayzone-monitor
+https://github.com/yousefalhwety/Sentinel-OSINT-Pipeline
+https://github.com/Ayriin26/Osint-Toolkit
+
+## Number Utilities & International
+https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html
+
+## Uncategorized
+https://github.com/hanialmuhammed-sys/live-phone-tracker-
