@@ -1,8 +1,12 @@
-## Parental Control
-https://appleinsider.com/articles/26/08/03/iphones-and-home-hardware-what-to-expect-from-apple-for-the-rest-of-2026
+## Phone Lookup
+https://github.com/api-evangelist/truecaller
+https://github.com/api-evangelist/hiya
 
-## Background Check
-https://hackernoon.com/ai-shopping-agents-are-flooding-retail-most-security-systems-still-cannot-tell-which-ones-to-trust?source=rss
+## People Search
+https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information
+
+## Address Lookup
+https://www.howtogeek.com/i-ditched-google-maps-for-my-privacy-and-got-better-navigation-as-a-bonus/
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/08/03/kr-seoul-lawmaker-criticizes-5000-won-compensation-for-4-62-million-person-data-breach/
+https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles
