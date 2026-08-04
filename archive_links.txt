@@ -4908,3 +4908,5 @@ https://github.com/api-evangelist/truecaller
 https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles
 https://www.howtogeek.com/i-ditched-google-maps-for-my-privacy-and-got-better-navigation-as-a-bonus/
 https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information
+https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/
+https://github.com/prabudhap/intelligence-engine

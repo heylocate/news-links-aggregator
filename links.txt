@@ -1,12 +1,5 @@
-## Phone Lookup
-https://github.com/api-evangelist/truecaller
-https://github.com/api-evangelist/hiya
-
-## People Search
-https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information
-
-## Address Lookup
-https://www.howtogeek.com/i-ditched-google-maps-for-my-privacy-and-got-better-navigation-as-a-bonus/
-
 ## Security & Anti-Abuse
-https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles
+https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/
+
+## OSINT & Open Source Intelligence
+https://github.com/prabudhap/intelligence-engine
