@@ -1,21 +1,26 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [
-    "https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds",
-    "https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy"
+  "Phone Lookup": [
+    "https://blog.hiya.com/canadian-businesses-losing-revenue"
   ],
-  "Address Lookup": [],
+  "Number / Device Tracking": [
+    "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html"
+  ],
+  "Parental Control": [
+    "https://appleinsider.com/articles/26/08/05/teen-died-because-tiktok-just-turned-off-safety-controls-to-see-what-happened"
+  ],
+  "Background Check": [
+    "https://www.pcworld.com/article/3132996/optery-review.html"
+  ],
+  "People Search": [],
+  "Address Lookup": [
+    "https://www.bgr.com/2227252/how-accurate-google-maps-walking-time/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/lacrimae0rerum/exdataveritas-com",
-    "https://github.com/VilmaXavier/sndoif",
-    "https://github.com/mcasrom/migrationflow-osint"
+  "Security & Anti-Abuse": [
+    "https://www.theregister.com/security/2026/08/05/london-cops-handed-victims-new-address-and-number-to-her-stalker-watchdog-says/5283382"
   ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
