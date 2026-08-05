@@ -4910,3 +4910,8 @@ https://www.howtogeek.com/i-ditched-google-maps-for-my-privacy-and-got-better-na
 https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information
 https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/
 https://github.com/prabudhap/intelligence-engine
+https://github.com/VilmaXavier/sndoif
+https://github.com/lacrimae0rerum/exdataveritas-com
+https://github.com/mcasrom/migrationflow-osint
+https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy
+https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds

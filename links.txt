@@ -1,5 +1,8 @@
-## Security & Anti-Abuse
-https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/
+## People Search
+https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds
+https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy
 
 ## OSINT & Open Source Intelligence
-https://github.com/prabudhap/intelligence-engine
+https://github.com/lacrimae0rerum/exdataveritas-com
+https://github.com/VilmaXavier/sndoif
+https://github.com/mcasrom/migrationflow-osint
