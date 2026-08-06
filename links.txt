@@ -1,17 +1,12 @@
 ## Phone Lookup
-https://blog.hiya.com/canadian-businesses-losing-revenue
+https://github.com/u-osamu-coder/CallerIDFSK
+https://github.com/allgasklima-crm/AllGasKlima-CRM
+https://github.com/tridevmaurya3/CallSecurePro
 
 ## Number / Device Tracking
-https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html
+https://www.techradar.com/pro/security/are-your-android-apps-secretly-sharing-your-location-with-advertisers-some-developers-are-accidentally-leaving-on-this-critical-data-invading-setting-when-using-third-party-sdks
 
-## Parental Control
-https://appleinsider.com/articles/26/08/05/teen-died-because-tiktok-just-turned-off-safety-controls-to-see-what-happened
-
-## Background Check
-https://www.pcworld.com/article/3132996/optery-review.html
-
-## Address Lookup
-https://www.bgr.com/2227252/how-accurate-google-maps-walking-time/
-
-## Security & Anti-Abuse
-https://www.theregister.com/security/2026/08/05/london-cops-handed-victims-new-address-and-number-to-her-stalker-watchdog-says/5283382
+## OSINT & Open Source Intelligence
+https://github.com/rabeea-global/osint-market-intel
+https://github.com/muhammadhawaii689-droid/Rocket-Osint
+https://github.com/kurillos/source-sure
