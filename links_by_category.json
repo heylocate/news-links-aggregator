@@ -1,25 +1,34 @@
 {
-  "Phone Lookup": [
-    "https://github.com/u-osamu-coder/CallerIDFSK",
-    "https://github.com/allgasklima-crm/AllGasKlima-CRM",
-    "https://github.com/tridevmaurya3/CallSecurePro"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [
-    "https://www.techradar.com/pro/security/are-your-android-apps-secretly-sharing-your-location-with-advertisers-some-developers-are-accidentally-leaving-on-this-critical-data-invading-setting-when-using-third-party-sdks"
+    "https://www.macworld.com/article/3205341/apple-and-android-users-skip-the-bulky-trackers-this-slim-smartcard-is-just-32.html"
   ],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.engadget.com/2232202/meta-additional-567-million-fine-new-mexico-child-safety-case/",
+    "https://www.androidpolice.com/google-wallet-gives-kids-tap-to-pay-freedom-with-new-parental-controls/"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
+    "https://www.androidpolice.com/google-maps-can-now-order-takeout-choose-hotels-and-plan-events-for-you/",
+    "https://www.tomsguide.com/ai/google-maps-just-got-a-major-ai-upgrade-these-7-ask-maps-prompts-let-you-order-food-find-events-and-more",
+    "https://9to5google.com/2026/08/06/google-ask-maps-global/",
+    "https://www.tomsguide.com/phones/google-maps-is-using-more-storage-than-you-realize-heres-how-to-free-up-space"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/rabeea-global/osint-market-intel",
-    "https://github.com/muhammadhawaii689-droid/Rocket-Osint",
-    "https://github.com/kurillos/source-sure"
+  "Security & Anti-Abuse": [
+    "https://www.globenewswire.com/news-release/2026/08/07/3340909/0/en/edelson-lechtzin-llp-investigates-everside-health-aesto-llc-data-breach.html",
+    "https://www.techspot.com/news/113383-ai-slop-privacy-fears-endless-scrolling-making-people.html",
+    "https://databreaches.net/2026/08/06/dutch-retailer-bol-follows-de-bijenkorf-in-warning-of-data-breach-as-leaked-data-appears-on-dark-web/"
   ],
-  "Number Utilities & International": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/ABBYCRM/Duck-Master-Site"
+  ],
+  "Number Utilities & International": [
+    "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html"
+  ],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
 }
