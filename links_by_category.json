@@ -1,34 +1,36 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.macworld.com/article/3205341/apple-and-android-users-skip-the-bulky-trackers-this-slim-smartcard-is-just-32.html"
+  "Phone Lookup": [
+    "https://www.zdnet.com/article/your-phone-doesnt-block-sim-swapping-attacks-turn-on-carrier-settings/"
   ],
+  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.engadget.com/2232202/meta-additional-567-million-fine-new-mexico-child-safety-case/",
-    "https://www.androidpolice.com/google-wallet-gives-kids-tap-to-pay-freedom-with-new-parental-controls/"
+    "https://www.androidheadlines.com/2026/08/judge-orders-meta-pay-567-million-child-safety-ruling.html",
+    "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+    "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
+    "https://www.pcworld.com/article/3206141/your-next-screen-time-habit-could-actually-make-you-smarter-for-a-one-time-49-97.html"
   ],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html"
+  ],
   "Address Lookup": [
-    "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
-    "https://www.androidpolice.com/google-maps-can-now-order-takeout-choose-hotels-and-plan-events-for-you/",
-    "https://www.tomsguide.com/ai/google-maps-just-got-a-major-ai-upgrade-these-7-ask-maps-prompts-let-you-order-food-find-events-and-more",
-    "https://9to5google.com/2026/08/06/google-ask-maps-global/",
-    "https://www.tomsguide.com/phones/google-maps-is-using-more-storage-than-you-realize-heres-how-to-free-up-space"
+    "https://www.howtogeek.com/google-maps-tiny-tweak-saved-hours-of-driving/",
+    "https://www.androidpolice.com/google-maps-waze-keep-borrowing-from-each-other-neither-gets-it-right/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.globenewswire.com/news-release/2026/08/07/3340909/0/en/edelson-lechtzin-llp-investigates-everside-health-aesto-llc-data-breach.html",
-    "https://www.techspot.com/news/113383-ai-slop-privacy-fears-endless-scrolling-making-people.html",
-    "https://databreaches.net/2026/08/06/dutch-retailer-bol-follows-de-bijenkorf-in-warning-of-data-breach-as-leaked-data-appears-on-dark-web/"
+    "https://www.techradar.com/pro/security/top-us-hedge-funds-targeted-by-major-vishing-campaign-blackstone-kkr-and-cme-among-those-under-fire",
+    "https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/",
+    "https://databreaches.net/2026/08/07/unlimited-technology-systems-data-breach-affects-3-8-million-patients/",
+    "https://www.techradar.com/pro/security/swiss-government-says-sharepoint-linked-data-breach-affected-hundreds-of-accounts"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/ABBYCRM/Duck-Master-Site"
+    "https://github.com/hahwul/urx",
+    "https://github.com/JIMIT-PARIKH-01/osint-toolkit",
+    "https://github.com/jeanfbraga/Poligrafo"
   ],
-  "Number Utilities & International": [
-    "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html"
-  ],
+  "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
 }
