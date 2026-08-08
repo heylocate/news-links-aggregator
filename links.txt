@@ -1,26 +1,14 @@
-## Phone Lookup
-https://www.zdnet.com/article/your-phone-doesnt-block-sim-swapping-attacks-turn-on-carrier-settings/
-
 ## Parental Control
-https://www.androidheadlines.com/2026/08/judge-orders-meta-pay-567-million-child-safety-ruling.html
-https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/
-https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance
-https://www.pcworld.com/article/3206141/your-next-screen-time-habit-could-actually-make-you-smarter-for-a-one-time-49-97.html
-
-## People Search
-https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html
-
-## Address Lookup
-https://www.howtogeek.com/google-maps-tiny-tweak-saved-hours-of-driving/
-https://www.androidpolice.com/google-maps-waze-keep-borrowing-from-each-other-neither-gets-it-right/
+https://9to5mac.com/2026/08/07/whatsapp-makes-parent-managed-accounts-easier-to-set-up-on-iphone/
 
 ## Security & Anti-Abuse
-https://www.techradar.com/pro/security/top-us-hedge-funds-targeted-by-major-vishing-campaign-blackstone-kkr-and-cme-among-those-under-fire
-https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/
-https://databreaches.net/2026/08/07/unlimited-technology-systems-data-breach-affects-3-8-million-patients/
-https://www.techradar.com/pro/security/swiss-government-says-sharepoint-linked-data-breach-affected-hundreds-of-accounts
+https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/
+https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html
+https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/
 
 ## OSINT & Open Source Intelligence
-https://github.com/hahwul/urx
-https://github.com/JIMIT-PARIKH-01/osint-toolkit
-https://github.com/jeanfbraga/Poligrafo
+https://github.com/erkanrzgc/open-source-intelligence
+
+## Monitoring / Spy Apps
+https://www.engadget.com/2232670/we-thought-we-wouldnt-write-about-overwatch-characters-anymore-but-dmon-looks-too-sick-not-to/
+https://www.cnet.com/tech/gaming/ive-waited-8-years-for-overwatchs-d-mon-her-gameplay-didnt-disappoint-2/
