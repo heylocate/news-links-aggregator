@@ -4963,3 +4963,5 @@ https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html
 https://www.cnet.com/tech/gaming/ive-waited-8-years-for-overwatchs-d-mon-her-gameplay-didnt-disappoint-2/
 https://www.engadget.com/2232670/we-thought-we-wouldnt-write-about-overwatch-characters-anymore-but-dmon-looks-too-sick-not-to/
 https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/
+https://github.com/HipstaKoda/CallerApp
+https://github.com/kklasmeier/andriod-PhoneLocator
