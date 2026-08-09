@@ -1,5 +1,5 @@
-## Phone Lookup
-https://github.com/HipstaKoda/CallerApp
+## Number / Device Tracking
+https://github.com/Madhav2611/phone-tracking-system
 
-## Uncategorized
-https://github.com/kklasmeier/andriod-PhoneLocator
+## Security & Anti-Abuse
+https://databreaches.net/2026/08/09/kr-3pro-tv-data-breach-exposes-460000-records-including-2979-bank-accounts/

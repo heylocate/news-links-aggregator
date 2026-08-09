@@ -4965,3 +4965,5 @@ https://www.engadget.com/2232670/we-thought-we-wouldnt-write-about-overwatch-cha
 https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/
 https://github.com/HipstaKoda/CallerApp
 https://github.com/kklasmeier/andriod-PhoneLocator
+https://databreaches.net/2026/08/09/kr-3pro-tv-data-breach-exposes-460000-records-including-2979-bank-accounts/
+https://github.com/Madhav2611/phone-tracking-system
