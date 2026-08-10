@@ -1,8 +1,10 @@
-## Background Check
-https://github.com/iqbalmantam/Osint-Pro
-
-## Address Lookup
-https://www.androidpolice.com/i-thought-i-knew-my-commute-until-google-maps-proved-me-wrong/
+## Parental Control
+https://hackernoon.com/how-social-media-engineers-addiction-and-how-tech-can-harness-it-for-good?source=rss
 
 ## Security & Anti-Abuse
-https://www.cnet.com/tech/computing/frameworks-data-breach-revealed-customer-data-heres-what-to-know/
+https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/
+https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach
+
+## OSINT & Open Source Intelligence
+https://github.com/itsme188/Shabbos-Situation-Monitor
+https://github.com/mohammedbentabet/news-tracker
