@@ -1,5 +1,8 @@
-## Number / Device Tracking
-https://github.com/Madhav2611/phone-tracking-system
+## Background Check
+https://github.com/iqbalmantam/Osint-Pro
+
+## Address Lookup
+https://www.androidpolice.com/i-thought-i-knew-my-commute-until-google-maps-proved-me-wrong/
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/08/09/kr-3pro-tv-data-breach-exposes-460000-records-including-2979-bank-accounts/
+https://www.cnet.com/tech/computing/frameworks-data-breach-revealed-customer-data-heres-what-to-know/
