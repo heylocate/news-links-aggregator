@@ -1,10 +1,6 @@
 ## Parental Control
-https://hackernoon.com/how-social-media-engineers-addiction-and-how-tech-can-harness-it-for-good?source=rss
-
-## Security & Anti-Abuse
-https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/
-https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach
+https://www.zdnet.com/article/brick-back-to-school-deal/
+https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/itsme188/Shabbos-Situation-Monitor
-https://github.com/mohammedbentabet/news-tracker
+https://github.com/TheFirstPierre/agentic-osint-portfolio
