@@ -4992,3 +4992,5 @@ https://www.bgr.com/2230743/google-maps-user-accidentally-discovered-giant-meteo
 https://9to5mac.com/2026/08/12/parents-urged-to-revisit-screen-time-limits-as-kids-head-back-to-school/
 https://therecord.media/uk-criminal-records-office-acro-data-breaches
 https://www.theregister.com/security/2026/08/12/exposed-woeful-security-at-uk-criminal-records-office-that-led-to-sensitive-data-leak/5286736
+https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/
+https://thenextweb.com/news/uber-tween-rides-children-10-12-app-code
