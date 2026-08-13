@@ -1,5 +1,13 @@
-## Number / Device Tracking
-https://thenextweb.com/news/uber-tween-rides-children-10-12-app-code
+## Phone Lookup
+http://www.businesswire.com/news/home/20260813359759/en/TNS-Rebuilding-Trust-in-Voice-Requires-Protecting-Both-Caller-Identity-and-the-Numbers-Behind-It/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+
+## Address Lookup
+https://www.slashgear.com/2232315/google-maps-on-android-auto-biggest-update-in-years-new-3d-navigation-ui/
 
 ## Security & Anti-Abuse
-https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/
+https://www.techradar.com/vpn/vpn-services/surfshark-takes-aim-at-the-smishing-epidemic-with-new-real-time-scam-text-protection
+
+## OSINT & Open Source Intelligence
+https://github.com/TeddyBadBoy/Google-Navigator-
+https://github.com/pricewill1995/totalosint-v15-osint-tool
+https://github.com/prajwal-dn/osint
