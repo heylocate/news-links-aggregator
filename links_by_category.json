@@ -1,25 +1,17 @@
 {
-  "Phone Lookup": [
-    "http://www.businesswire.com/news/home/20260813359759/en/TNS-Rebuilding-Trust-in-Voice-Requires-Protecting-Both-Caller-Identity-and-the-Numbers-Behind-It/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.slashgear.com/2232315/google-maps-on-android-auto-biggest-update-in-years-new-3d-navigation-ui/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.techradar.com/vpn/vpn-services/surfshark-takes-aim-at-the-smishing-epidemic-with-new-real-time-scam-text-protection"
-  ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/TeddyBadBoy/Google-Navigator-",
-    "https://github.com/pricewill1995/totalosint-v15-osint-tool",
-    "https://github.com/prajwal-dn/osint"
-  ],
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.socialmediatoday.com/news/meta-removed-more-than-750000-teen-accounts-in-australia/827865/"
+  ]
 }
