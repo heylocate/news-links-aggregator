@@ -1,2 +1,12 @@
-## Uncategorized
-https://www.socialmediatoday.com/news/meta-removed-more-than-750000-teen-accounts-in-australia/827865/
+## Phone Lookup
+https://github.com/Kernell-Comm/caller-id-spoofing-sip-trunk-no-kyc
+https://www.prnewswire.com/news-releases/the-board-of-directors-of-truecaller-ab-proposes-reduction-of-the-share-capital-through-cancellation-of-repurchased-shares-302851792.html
+
+## Address Lookup
+https://www.xda-developers.com/i-compared-google-maps-and-waze-on-android-auto-for-a-month-theres-clear-winner/
+
+## Security & Anti-Abuse
+https://databreaches.net/2026/08/14/nhs-admits-data-breach-by-sending-patient-data-via-pagers/
+
+## OSINT & Open Source Intelligence
+https://github.com/AverageCC/OSINT-Gathering-Tool
