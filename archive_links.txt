@@ -5011,3 +5011,10 @@ https://www.androidpolice.com/simple-google-maps-tool-changed-how-i-navigate/
 https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office
 https://www.globenewswire.com/news-release/2026/08/14/3345677/0/en/lennar-corporation-data-breach-alert-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html
 https://www.globenewswire.com/news-release/2026/08/14/3345680/0/en/adapthealth-corp-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html
+https://databreaches.net/2026/08/15/kr-sogang-university-data-breach-exposes-180000-student-staff-accounts/
+https://databreaches.net/2026/08/15/uk-ico-reprimands-acro-criminal-records-office-after-data-breach/
+https://github.com/JMR825/threat_vector_analysis
+https://github.com/NovaCode37/Prism-platform
+https://github.com/Shinianess/CIVonAsterisk
+https://github.com/sookoothaii/IntelShed
+https://www.howtogeek.com/google-maps-integrations-save-jumping-between-apps/
