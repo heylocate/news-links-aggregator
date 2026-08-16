@@ -1,5 +1,10 @@
+## Background Check
+https://databreaches.net/2026/08/16/new-jersey-federal-judge-dismisses-data-breach-class-action-against-background-check-company/
+
 ## Address Lookup
-https://www.howtogeek.com/i-stopped-planning-trips-on-my-phone-and-started-using-google-maps-on-desktopits-way-faster/
+https://www.howtogeek.com/every-memorable-stop-on-my-last-vacation-came-from-two-google-maps-features/
+https://www.androidpolice.com/stopped-trusting-fastest-route-google-maps-heres-why/
 
 ## OSINT & Open Source Intelligence
-https://github.com/ethanx01-H/ThreatLens
+https://github.com/Alex28727227/Osint-Bot-Alex
+https://github.com/sudesh3107/cybersleuth-ultra
