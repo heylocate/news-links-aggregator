@@ -1,25 +1,17 @@
 {
-  "Phone Lookup": [
-    "https://github.com/Shinianess/CIVonAsterisk"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [
-    "https://databreaches.net/2026/08/15/uk-ico-reprimands-acro-criminal-records-office-after-data-breach/"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.howtogeek.com/google-maps-integrations-save-jumping-between-apps/"
+    "https://www.howtogeek.com/i-stopped-planning-trips-on-my-phone-and-started-using-google-maps-on-desktopits-way-faster/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/08/15/kr-sogang-university-data-breach-exposes-180000-student-staff-accounts/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/sookoothaii/IntelShed",
-    "https://github.com/JMR825/threat_vector_analysis",
-    "https://github.com/NovaCode37/Prism-platform"
+    "https://github.com/ethanx01-H/ThreatLens"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

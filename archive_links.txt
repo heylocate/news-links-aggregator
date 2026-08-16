@@ -5018,3 +5018,5 @@ https://github.com/NovaCode37/Prism-platform
 https://github.com/Shinianess/CIVonAsterisk
 https://github.com/sookoothaii/IntelShed
 https://www.howtogeek.com/google-maps-integrations-save-jumping-between-apps/
+https://github.com/ethanx01-H/ThreatLens
+https://www.howtogeek.com/i-stopped-planning-trips-on-my-phone-and-started-using-google-maps-on-desktopits-way-faster/
