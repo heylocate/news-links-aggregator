@@ -5025,3 +5025,4 @@ https://github.com/Alex28727227/Osint-Bot-Alex
 https://github.com/sudesh3107/cybersleuth-ultra
 https://www.androidpolice.com/stopped-trusting-fastest-route-google-maps-heres-why/
 https://www.howtogeek.com/every-memorable-stop-on-my-last-vacation-came-from-two-google-maps-features/
+https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-is-a-better-bug-finder-than-anthropic-openai/5288203
