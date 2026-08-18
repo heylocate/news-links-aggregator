@@ -1,18 +1,13 @@
-## Number / Device Tracking
-https://readwrite.com/kalshi-battles-regulators-novig-sues-wisconsin-polymarket-banking-prediction-market-news-live/
+## Parental Control
+https://www.androidcentral.com/tablets/amazon-fire-tablet/does-your-kid-need-a-new-tablet-the-top-rated-amazon-fire-7-kids-edition-just-crashed-to-usd69-99-for-a-limited-time
 
-## Address Lookup
-https://www.androidpolice.com/tested-3-android-auto-navigation-apps-to-replace-google-maps-one-was-clear-winner/
-https://www.tomsguide.com/ai/gemini-in-google-maps-is-better-than-ever-use-these-7-ask-maps-prompts-to-plan-better-trips-and-discover-new-foods
-https://www.androidheadlines.com/2026/08/google-maps-bug-hotel-pins-disappear.html
+## People Search
+https://www.macrumors.com/2026/08/17/apple-app-tracking-transparency-changes-germany/
 
 ## Security & Anti-Abuse
-https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany
-https://9to5mac.com/2026/08/17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-eu/
-https://www.prnewswire.com/news-releases/surfshark-fights-back-against-the-rise-in-scam-texts-with-a-new-protection-feature-302852885.html
-https://databreaches.net/2026/08/17/israels-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200000-customers/
-https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency
-https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203
+https://www.globenewswire.com/news-release/2026/08/18/3346563/0/en/corporation-service-company-csc-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html
+https://www.globenewswire.com/news-release/2026/08/18/3346560/0/en/paylogix-llc-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html
+https://therecord.media/safepal-crypto-hardware-breach
 
 ## OSINT & Open Source Intelligence
-https://github.com/Slkahn/Centinela
+https://github.com/K4bain/Seraph
