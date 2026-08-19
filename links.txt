@@ -1,21 +1,10 @@
-## Phone Lookup
-https://blog.youmail.com/2026/08/are-robocalls-increasing-again-what-the-latest-youmail-robocall-index-shows/
-
 ## Parental Control
-https://www.macrumors.com/2026/08/18/openai-announces-chatgpt-for-teens/
-https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/
-https://www.bgr.com/2235562/one-hour-rule-morning-screen-time-explained/
+https://www.jyu.fi/en/news/more-screen-time-since-childhood-associated-with-better-cognitive-processing-in-adolescence
+https://www.mobileworldlive.com/ai-cloud/openai-tightens-chatgpt-safeguards-for-teens/
+https://www.pcworld.com/article/3214953/chatgpt-for-teens-gets-one-thing-right-and-more-ai-models-should-follow.html
 
-## Background Check
-https://www.globenewswire.com/news-release/2026/08/18/3347088/0/en/identity-verification-market-surges-to-29-32-billion-at-a-cagr-15-4-by-2030-report-by-marketsandmarkets.html
-
-## People Search
-https://www.zdnet.com/article/incogni-deal-exclusive-58-percent-off/
+## Address Lookup
+https://www.androidpolice.com/google-maps-travel-notebook-custom-lists/
 
 ## Security & Anti-Abuse
-https://9to5mac.com/2026/08/18/the-eight-changes-apple-is-making-to-app-tracking-transparency-in-europe/
-https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know
-https://www.techradar.com/pro/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders
-
-## OSINT & Open Source Intelligence
-https://github.com/osint-and-search/analogi_Glaza_Boga
+https://9to5mac.com/2026/08/18/apple-overhauls-app-store-fees-in-the-eu-with-new-unified-terms/
