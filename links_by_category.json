@@ -2,21 +2,24 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.jyu.fi/en/news/more-screen-time-since-childhood-associated-with-better-cognitive-processing-in-adolescence",
-    "https://www.mobileworldlive.com/ai-cloud/openai-tightens-chatgpt-safeguards-for-teens/",
-    "https://www.pcworld.com/article/3214953/chatgpt-for-teens-gets-one-thing-right-and-more-ai-models-should-follow.html"
+    "https://www.prnewswire.com/news-releases/new-national-survey-of-educators-finds-screen-time-conversation-more-complex-than-headlines-suggest-indicating-that-not-all-classroom-tech-is-created-equal-302855320.html"
   ],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets"
+  ],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/google-maps-travel-notebook-custom-lists/"
+  "Address Lookup": [],
+  "Image Search": [
+    "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/"
   ],
-  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://9to5mac.com/2026/08/18/apple-overhauls-app-store-fees-in-the-eu-with-new-unified-terms/"
+    "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Aditya1791/PhoneNoInfo",
+    "https://github.com/royrazi/cti-feed-aggregator"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
