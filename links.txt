@@ -1,15 +1,16 @@
-## Parental Control
-https://www.prnewswire.com/news-releases/new-national-survey-of-educators-finds-screen-time-conversation-more-complex-than-headlines-suggest-indicating-that-not-all-classroom-tech-is-created-equal-302855320.html
+## Phone Lookup
+https://github.com/zubyna-yoshi/call_service
+https://github.com/imranislam7221-commits/Caller-Id-Pro-Website
 
-## Background Check
-https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets
-
-## Image Search
-https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/
+## Address Lookup
+https://www.howtogeek.com/google-maps-kept-changing-shared-route-simple-trick-keeps-it-on-track/
+https://www.androidpolice.com/google-maps-ridiculous-list-actually-found-places/
 
 ## Security & Anti-Abuse
-https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/
+https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else
+https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/
 
 ## OSINT & Open Source Intelligence
-https://github.com/Aditya1791/PhoneNoInfo
-https://github.com/royrazi/cti-feed-aggregator
+https://github.com/salmanjey-hash/osint-discover
+https://github.com/Rojad09/CTI-MirrorFace-Analysis
+https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns
