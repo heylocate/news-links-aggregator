@@ -1,16 +1,25 @@
-## Phone Lookup
-https://github.com/zubyna-yoshi/call_service
-https://github.com/imranislam7221-commits/Caller-Id-Pro-Website
+## Parental Control
+https://www.androidheadlines.com/2026/08/meta-is-paying-influencers-to-fight-growing-child-safety-concerns.html
+https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety
+https://www.malwarebytes.com/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts
+https://www.engadget.com/2240638/roblox-pledges-change-after-australia-finds-yet-more-child-safety-lapses/
+
+## Background Check
+https://thenextweb.com/news/bilibili-global-expansion-english-site-dsa
+
+## People Search
+https://www.malwarebytes.com/blog/privacy/2026/08/9-million-images-of-peoples-faces-exposed-by-reverse-lookup-service
 
 ## Address Lookup
-https://www.howtogeek.com/google-maps-kept-changing-shared-route-simple-trick-keeps-it-on-track/
-https://www.androidpolice.com/google-maps-ridiculous-list-actually-found-places/
+https://www.androidheadlines.com/2026/08/google-maps-is-stuck-in-an-endless-rerouting-loop-for-some-android-automotive-users.html
 
 ## Security & Anti-Abuse
-https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else
-https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/
+https://github.com/XposedOrNot/XposedOrNot-API
+https://www.prnewswire.com/news-releases/apple-american-group-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302857029.html
+https://www.globenewswire.com/news-release/2026/08/21/3348874/0/en/nebraska-orthopaedic-center-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-and-health-information.html
+https://www.globenewswire.com/news-release/2026/08/21/3348873/0/en/alphanumeric-systems-data-breach-edelson-lechtzin-llp-launches-investigation-into-reported-exposure-of-personal-information.html
+https://www.techradar.com/pro/security/healthtech-firm-carecloud-reveals-march-2026-data-breach-impacted-3-7-million-patients
+https://databreaches.net/2026/08/20/largest-applebees-franchisee-says-hackers-stole-sensitive-data/
 
 ## OSINT & Open Source Intelligence
-https://github.com/salmanjey-hash/osint-discover
-https://github.com/Rojad09/CTI-MirrorFace-Analysis
-https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns
+https://github.com/shadow12805/portfolio-soc
