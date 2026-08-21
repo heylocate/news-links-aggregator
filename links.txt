@@ -1,25 +1,22 @@
+## Phone Lookup
+https://databreaches.net/2026/08/21/scammers-pose-as-nypd-officers-in-well-done-video-call-impersonation-scam/
+https://github.com/pcdeni/ai-caller-id
+
 ## Parental Control
-https://www.androidheadlines.com/2026/08/meta-is-paying-influencers-to-fight-growing-child-safety-concerns.html
-https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety
-https://www.malwarebytes.com/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts
-https://www.engadget.com/2240638/roblox-pledges-change-after-australia-finds-yet-more-child-safety-lapses/
-
-## Background Check
-https://thenextweb.com/news/bilibili-global-expansion-english-site-dsa
-
-## People Search
-https://www.malwarebytes.com/blog/privacy/2026/08/9-million-images-of-peoples-faces-exposed-by-reverse-lookup-service
+https://www.wired.com/story/metas-big-reckoning-is-here/
+https://www.engadget.com/2241179/child-safety-experts-skeptical-of-openai-chatgpt-for-teens/
+https://www.cnet.com/videos/this-iphone-trick-helped-stop-my-mindless-scrolling/
 
 ## Address Lookup
-https://www.androidheadlines.com/2026/08/google-maps-is-stuck-in-an-endless-rerouting-loop-for-some-android-automotive-users.html
+https://www.androidpolice.com/i-let-google-maps-pick-fuel-efficient-routes-i-stopped-overpaying-on-gas/
 
 ## Security & Anti-Abuse
-https://github.com/XposedOrNot/XposedOrNot-API
-https://www.prnewswire.com/news-releases/apple-american-group-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302857029.html
-https://www.globenewswire.com/news-release/2026/08/21/3348874/0/en/nebraska-orthopaedic-center-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-and-health-information.html
-https://www.globenewswire.com/news-release/2026/08/21/3348873/0/en/alphanumeric-systems-data-breach-edelson-lechtzin-llp-launches-investigation-into-reported-exposure-of-personal-information.html
-https://www.techradar.com/pro/security/healthtech-firm-carecloud-reveals-march-2026-data-breach-impacted-3-7-million-patients
-https://databreaches.net/2026/08/20/largest-applebees-franchisee-says-hackers-stole-sensitive-data/
+https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/
+https://databreaches.net/2026/08/21/ai-data-breaches-and-an-old-lesson-from-the-law-of-bailment/
 
 ## OSINT & Open Source Intelligence
-https://github.com/shadow12805/portfolio-soc
+https://github.com/declinker/OSINT-
+https://github.com/ZerionSec/phone-number-intelligence-analyzer
+
+## Number Utilities & International
+https://www.androidheadlines.com/2026/08/how-random-number-generators-actually-work-in-your-phones-games.html
