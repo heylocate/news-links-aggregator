@@ -1,22 +1,12 @@
 ## Phone Lookup
-https://databreaches.net/2026/08/21/scammers-pose-as-nypd-officers-in-well-done-video-call-impersonation-scam/
-https://github.com/pcdeni/ai-caller-id
-
-## Parental Control
-https://www.wired.com/story/metas-big-reckoning-is-here/
-https://www.engadget.com/2241179/child-safety-experts-skeptical-of-openai-chatgpt-for-teens/
-https://www.cnet.com/videos/this-iphone-trick-helped-stop-my-mindless-scrolling/
+https://github.com/ghulamumar490-sys/Caller-id-
 
 ## Address Lookup
-https://www.androidpolice.com/i-let-google-maps-pick-fuel-efficient-routes-i-stopped-overpaying-on-gas/
+https://www.xda-developers.com/features-that-makes-it-heard-to-replace-google-maps/
+https://www.androidpolice.com/google-maps-setting-battery-life/
+
+## Image Search
+https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/
 
 ## Security & Anti-Abuse
-https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/
-https://databreaches.net/2026/08/21/ai-data-breaches-and-an-old-lesson-from-the-law-of-bailment/
-
-## OSINT & Open Source Intelligence
-https://github.com/declinker/OSINT-
-https://github.com/ZerionSec/phone-number-intelligence-analyzer
-
-## Number Utilities & International
-https://www.androidheadlines.com/2026/08/how-random-number-generators-actually-work-in-your-phones-games.html
+https://www.malwarebytes.com/blog/news/2026/08/medical-records-ssns-and-bank-details-exposed-in-carecloud-data-breach
