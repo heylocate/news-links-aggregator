@@ -1,2 +1,8 @@
+## Phone Lookup
+https://github.com/frnAlt/truecall-check-web-caller
+
+## Security & Anti-Abuse
+https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/
+
 ## OSINT & Open Source Intelligence
-https://github.com/7onez/cti-expert
+https://github.com/Logir78/Ultra-OSINT-Intelligence-Pro

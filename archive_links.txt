@@ -5110,3 +5110,6 @@ https://www.pcworld.com/article/3217217/block-ads-on-nine-devices-for-life-for-1
 https://www.tomsguide.com/phones/stuck-in-a-dead-zone-3-free-google-maps-alternatives-that-work-with-zero-signal
 https://www.xda-developers.com/ive-used-google-maps-for-years-i-cant-believe-i-missed-this-useful-feature/
 https://github.com/7onez/cti-expert
+https://github.com/Logir78/Ultra-OSINT-Intelligence-Pro
+https://github.com/frnAlt/truecall-check-web-caller
+https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/
