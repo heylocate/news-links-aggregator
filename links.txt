@@ -1,13 +1,2 @@
-## Parental Control
-https://www.pcworld.com/article/3217217/block-ads-on-nine-devices-for-life-for-11-reg-169-99.html
-
-## Address Lookup
-https://www.tomsguide.com/phones/stuck-in-a-dead-zone-3-free-google-maps-alternatives-that-work-with-zero-signal
-https://www.xda-developers.com/ive-used-google-maps-for-years-i-cant-believe-i-missed-this-useful-feature/
-
-## Security & Anti-Abuse
-https://databreaches.net/2026/08/22/connecticut-says-data-from-41000-medicaid-members-exposed-in-portal-breach-the-second-portal-incident-this-year/
-
 ## OSINT & Open Source Intelligence
-https://github.com/laramies/theHarvester
-https://github.com/b36510980-bot/osint-projesi-
+https://github.com/7onez/cti-expert
