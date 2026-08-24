@@ -5113,3 +5113,6 @@ https://github.com/7onez/cti-expert
 https://github.com/Logir78/Ultra-OSINT-Intelligence-Pro
 https://github.com/frnAlt/truecall-check-web-caller
 https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/
+https://haveibeenpwned.com/Breach/NIUS
+https://www.androidpolice.com/google-maps-offline-download-navigation-features/
+https://www.globenewswire.com/news-release/2026/08/24/3349433/0/en/apollo-global-management-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html

@@ -1,8 +1,6 @@
-## Phone Lookup
-https://github.com/frnAlt/truecall-check-web-caller
+## Address Lookup
+https://www.androidpolice.com/google-maps-offline-download-navigation-features/
 
 ## Security & Anti-Abuse
-https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/
-
-## OSINT & Open Source Intelligence
-https://github.com/Logir78/Ultra-OSINT-Intelligence-Pro
+https://www.globenewswire.com/news-release/2026/08/24/3349433/0/en/apollo-global-management-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html
+https://haveibeenpwned.com/Breach/NIUS
