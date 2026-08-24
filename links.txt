@@ -1,6 +1,18 @@
+## Phone Lookup
+https://blog.hiya.com/hiya-expands-voice-trust-in-ireland-with-branded-calling-on-vodafone
+http://www.businesswire.com/news/home/20260820992463/en/Hiya-Expands-Voice-Trust-in-Ireland-with-Branded-Calling-on-Vodafone/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+
 ## Address Lookup
-https://www.androidpolice.com/google-maps-offline-download-navigation-features/
+https://www.slashgear.com/2238861/how-does-google-know-when-business-is-busy/
+https://9to5google.com/2026/08/24/google-maps-traffic-data-broken-android-auto/
 
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/08/24/3349433/0/en/apollo-global-management-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html
-https://haveibeenpwned.com/Breach/NIUS
+https://www.globenewswire.com/news-release/2026/08/24/3349966/884/en/clayton-properties-group-d-b-a-mungo-homes-data-breach-ademi-llp-investigates-claims-for-damages.html
+https://www.globenewswire.com/news-release/2026/08/24/3349960/884/en/advanced-power-services-data-breach-ademi-llp-investigates-claims-for-damages.html
+https://www.globenewswire.com/news-release/2026/08/24/3349950/884/en/paylogix-llc-data-breach-ademi-llp-investigates-claims-for-damages.html
+https://www.globenewswire.com/news-release/2026/08/24/3349948/884/en/alta-orthopaedic-data-breach-ademi-llp-investigates-claims-for-damages.html
+https://www.techradar.com/pro/security/private-equity-giant-apollo-confirms-data-breach-saw-personal-info-stolen
+https://databreaches.net/2026/08/24/personal-information-exposed-in-apollo-global-data-breach/
+
+## OSINT & Open Source Intelligence
+https://github.com/Mavchris/Agent_Security_Framework
