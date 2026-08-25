@@ -1,17 +1,15 @@
-## Phone Lookup
-https://blog.youmail.com/2026/08/july-2026-robocall-breakdown-and-the-hardest-hit-states/
-
-## Background Check
-https://appleinsider.com/articles/26/08/24/ambient-sensing-and-cameras-to-power-apple-home-hub-personalization
-https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html
+## Parental Control
+https://www.prnewswire.com/news-releases/on-your-mark-get-set-bark-the-iams-brand-and-strava-team-up-for-the-ultimate-dog-run-marathon-302858912.html
 
 ## Address Lookup
-https://www.androidheadlines.com/2026/08/google-maps-traffic-data-goes-missing-on-android-auto.html
-https://www.androidpolice.com/stopped-worrying-about-parking-after-google-maps/
+https://www.howtogeek.com/using-google-maps-like-2006/
 
 ## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/surgeons-choice-medical-center-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302858856.html
-https://databreaches.net/2026/08/24/cognizable-damage-required-for-data-breach-claims-ma-appeals-court-says-in-a-first/
+https://hackernoon.com/saas-breach-risk-visionet-shows-how-to-approach-saas-security-risk-to-prevent-a-data-breach?source=rss
 
 ## OSINT & Open Source Intelligence
-https://github.com/Pranay7030/PRO-PHONE-OSINT-
+https://github.com/OPENIGMA/dashboard-osint
+
+## Uncategorized
+https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/
+https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera
