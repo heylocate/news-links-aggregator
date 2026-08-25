@@ -5127,3 +5127,11 @@ https://www.globenewswire.com/news-release/2026/08/24/3349960/884/en/advanced-po
 https://www.globenewswire.com/news-release/2026/08/24/3349966/884/en/clayton-properties-group-d-b-a-mungo-homes-data-breach-ademi-llp-investigates-claims-for-damages.html
 https://www.slashgear.com/2238861/how-does-google-know-when-business-is-busy/
 https://www.techradar.com/pro/security/private-equity-giant-apollo-confirms-data-breach-saw-personal-info-stolen
+https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html
+https://appleinsider.com/articles/26/08/24/ambient-sensing-and-cameras-to-power-apple-home-hub-personalization
+https://blog.youmail.com/2026/08/july-2026-robocall-breakdown-and-the-hardest-hit-states/
+https://databreaches.net/2026/08/24/cognizable-damage-required-for-data-breach-claims-ma-appeals-court-says-in-a-first/
+https://github.com/Pranay7030/PRO-PHONE-OSINT-
+https://www.androidheadlines.com/2026/08/google-maps-traffic-data-goes-missing-on-android-auto.html
+https://www.androidpolice.com/stopped-worrying-about-parking-after-google-maps/
+https://www.prnewswire.com/news-releases/surgeons-choice-medical-center-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302858856.html
