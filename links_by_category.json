@@ -1,22 +1,26 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
-    "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/"
+  "Number / Device Tracking": [],
+  "Parental Control": [
+    "https://www.mobileworldlive.com/regulation/meta-strikes-18b-child-safety-settlement/"
   ],
-  "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/",
+    "https://www.pr.com/press-release/973582"
+  ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.xda-developers.com/this-overlooked-google-maps-feature-has-become-my-secret-weapon-for-staying-organized/",
+    "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
+    "https://www.techradar.com/phones/iphone/ill-just-use-google-maps-apple-maps-users-rebel-against-new-ads-that-you-cant-turn-off-even-with-an-icloud-subscription"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/",
-    "https://databreaches.net/2026/08/25/close-enough-data-breach-notifications-create-exposure/"
+    "https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626",
+    "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/Edi-San24/OSINT-Pivot-Engine"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
