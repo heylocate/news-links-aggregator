@@ -1,26 +1,23 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.prnewswire.com/news-releases/on-your-mark-get-set-bark-the-iams-brand-and-strava-team-up-for-the-ultimate-dog-run-marathon-302858912.html"
+  "Number / Device Tracking": [
+    "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
+    "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/"
   ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.howtogeek.com/using-google-maps-like-2006/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://hackernoon.com/saas-breach-risk-visionet-shows-how-to-approach-saas-security-risk-to-prevent-a-data-breach?source=rss"
+    "https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/",
+    "https://databreaches.net/2026/08/25/close-enough-data-breach-notifications-create-exposure/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/OPENIGMA/dashboard-osint"
+    "https://github.com/Edi-San24/OSINT-Pivot-Engine"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
-    "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera"
-  ]
+  "Uncategorized": []
 }
