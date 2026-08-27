@@ -1,26 +1,34 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/Phone-Amego-Mac/Phone-Amego",
+    "https://github.com/Phone-Amego-Mac/.github"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.mobileworldlive.com/regulation/meta-strikes-18b-child-safety-settlement/"
+    "https://www.malwarebytes.com/blog/news/2026/08/new-instagram-and-facebook-rules-will-set-a-default-two-hour-daily-limit-for-teens",
+    "https://www.macrumors.com/2026/08/26/meta-teen-time-limit/",
+    "https://www.androidheadlines.com/2026/08/meta-settles-child-safety-case-with-massive-payout-tougher-rules.html",
+    "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/"
   ],
   "Background Check": [
-    "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/",
-    "https://www.pr.com/press-release/973582"
+    "https://www.eff.org/deeplinks/2026/08/effs-policy-position-alpr-surveillance-eliminate-it-and-reduce-its-harms"
   ],
   "People Search": [],
   "Address Lookup": [
-    "https://www.xda-developers.com/this-overlooked-google-maps-feature-has-become-my-secret-weapon-for-staying-organized/",
-    "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
-    "https://www.techradar.com/phones/iphone/ill-just-use-google-maps-apple-maps-users-rebel-against-new-ads-that-you-cant-turn-off-even-with-an-icloud-subscription"
+    "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+    "https://www.xda-developers.com/tried-hidden-time-saving-google-maps-feature-i-never-start-drive-without-it/",
+    "https://www.bgr.com/2244906/google-maps-bug-breaking-critical-feature-android-auto/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626",
-    "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/"
+    "https://www.eff.org/deeplinks/2026/08/eff-statement-meta-settlement"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/AbhyasKathuria/Gods-Eye-OMNIVISION",
+    "https://github.com/BIGCHEF01/Birdwatch",
+    "https://github.com/svk-vasanthkumar/OSINT---Open-Source-Intelligence"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
