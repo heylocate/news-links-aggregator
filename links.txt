@@ -1,13 +1,14 @@
-## Number / Device Tracking
-https://hackernoon.com/translation-is-not-international-seo-fix-the-architecture-before-you-localize?source=rss
-
 ## Parental Control
-https://www.pewresearch.org/newsletter/the-briefing/meta-and-tiktok-settle-child-safety-lawsuits/
+https://www.mobileworldlive.com/big-tech/the-friday-file-meta-hp-spain/
 
 ## Address Lookup
-https://www.androidpolice.com/waze-google-maps-navigation-features/
-https://9to5google.com/2026/08/27/google-maps-turn-by-turn-navigation-south-korea/
+https://www.bgr.com/2242473/google-maps-settings-drivers-should-enable/
+https://www.androidpolice.com/finally-giving-up-on-google-maps-on-android-what-i-am-replacing-it-with/
+
+## Security & Anti-Abuse
+https://databreaches.net/2026/08/28/uk-hiv-charity-has-sensitive-health-data-stolen/
 
 ## OSINT & Open Source Intelligence
-https://github.com/qsmia/IntelGraph
-https://github.com/deepwoodssec/FollowTheLeek
+https://github.com/Broskigx/OIHK-Basic
+https://github.com/anonymous-beta/Ekuke
+https://github.com/Tomar-Jii/osint-media-cache-analyzer
