@@ -1,25 +1,13 @@
-## Phone Lookup
-https://github.com/Phone-Amego-Mac/Phone-Amego
-https://github.com/Phone-Amego-Mac/.github
+## Number / Device Tracking
+https://hackernoon.com/translation-is-not-international-seo-fix-the-architecture-before-you-localize?source=rss
 
 ## Parental Control
-https://www.malwarebytes.com/blog/news/2026/08/new-instagram-and-facebook-rules-will-set-a-default-two-hour-daily-limit-for-teens
-https://www.macrumors.com/2026/08/26/meta-teen-time-limit/
-https://www.androidheadlines.com/2026/08/meta-settles-child-safety-case-with-massive-payout-tougher-rules.html
-https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/
-
-## Background Check
-https://www.eff.org/deeplinks/2026/08/effs-policy-position-alpr-surveillance-eliminate-it-and-reduce-its-harms
+https://www.pewresearch.org/newsletter/the-briefing/meta-and-tiktok-settle-child-safety-lawsuits/
 
 ## Address Lookup
-https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/
-https://www.xda-developers.com/tried-hidden-time-saving-google-maps-feature-i-never-start-drive-without-it/
-https://www.bgr.com/2244906/google-maps-bug-breaking-critical-feature-android-auto/
-
-## Security & Anti-Abuse
-https://www.eff.org/deeplinks/2026/08/eff-statement-meta-settlement
+https://www.androidpolice.com/waze-google-maps-navigation-features/
+https://9to5google.com/2026/08/27/google-maps-turn-by-turn-navigation-south-korea/
 
 ## OSINT & Open Source Intelligence
-https://github.com/AbhyasKathuria/Gods-Eye-OMNIVISION
-https://github.com/BIGCHEF01/Birdwatch
-https://github.com/svk-vasanthkumar/OSINT---Open-Source-Intelligence
+https://github.com/qsmia/IntelGraph
+https://github.com/deepwoodssec/FollowTheLeek
