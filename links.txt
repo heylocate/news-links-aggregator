@@ -1,7 +1,7 @@
 ## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/08/29/3352918/884/en/mckesson-corporation-ademi-llp-investigates-claims-for-damages.html
+https://databreaches.net/2026/08/29/de-hackers-demand-30-bitcoin-from-berlin-as-sensitive-data-breach-widens/
+https://www.techradar.com/pro/security/carhartt-data-breach-exposed-information-from-12-9-million-user-accounts
+https://databreaches.net/2026/08/29/star-healths-public-record-a-data-breach-a-%e2%82%b93-39-crore-fine-13000-ombudsman-complaints-and-still-no-accounting-for-the-policyholder/
 
 ## OSINT & Open Source Intelligence
-https://github.com/harsupscale/osint-toolkit
-https://github.com/ol4p4/osint
-https://github.com/ByteTrekker/business-osint
+https://github.com/lastdayone87-del/trading-discovery-engine
