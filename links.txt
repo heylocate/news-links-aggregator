@@ -1,0 +1,7 @@
+## Security & Anti-Abuse
+https://www.globenewswire.com/news-release/2026/08/29/3352918/884/en/mckesson-corporation-ademi-llp-investigates-claims-for-damages.html
+
+## OSINT & Open Source Intelligence
+https://github.com/harsupscale/osint-toolkit
+https://github.com/ol4p4/osint
+https://github.com/ByteTrekker/business-osint

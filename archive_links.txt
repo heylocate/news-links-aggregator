@@ -5181,3 +5181,7 @@ https://github.com/anonymous-beta/Ekuke
 https://www.androidpolice.com/finally-giving-up-on-google-maps-on-android-what-i-am-replacing-it-with/
 https://www.bgr.com/2242473/google-maps-settings-drivers-should-enable/
 https://www.mobileworldlive.com/big-tech/the-friday-file-meta-hp-spain/
+https://github.com/ByteTrekker/business-osint
+https://github.com/harsupscale/osint-toolkit
+https://github.com/ol4p4/osint
+https://www.globenewswire.com/news-release/2026/08/29/3352918/884/en/mckesson-corporation-ademi-llp-investigates-claims-for-damages.html
