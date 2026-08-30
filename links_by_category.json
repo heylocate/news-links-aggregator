@@ -1,19 +1,20 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://newsroom.ee.co.uk/ee-invites-families-to-free-in-store-parents-evening-sessions-ahead-of-new-school-year-with-36000-hours-of-online-safety-appointments-available-throughout-september/"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.slashgear.com/2243446/common-problems-with-waze-how-to-fix-them/",
+    "https://www.bgr.com/2243553/android-auto-navigation-apps-try-google-maps-alternatives/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/08/29/de-hackers-demand-30-bitcoin-from-berlin-as-sensitive-data-breach-widens/",
-    "https://www.techradar.com/pro/security/carhartt-data-breach-exposed-information-from-12-9-million-user-accounts",
-    "https://databreaches.net/2026/08/29/star-healths-public-record-a-data-breach-a-%e2%82%b93-39-crore-fine-13000-ombudsman-complaints-and-still-no-accounting-for-the-policyholder/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/lastdayone87-del/trading-discovery-engine"
+    "https://github.com/suezcanalxyz/seacommons"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
