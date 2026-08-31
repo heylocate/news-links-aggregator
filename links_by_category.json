@@ -1,23 +1,35 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Phone Lookup": [
+    "https://github.com/NemBestil/release-pos-caller-id-android",
+    "https://www.engadget.com/2240359/how-to-use-call-screening-feature-while-using-android-auto/"
+  ],
+  "Number / Device Tracking": [
+    "https://www.eff.org/deeplinks/2026/08/privacy-map-part-2-progress-pitfalls-and-fight-enforceable-location-data"
+  ],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.eff.org/deeplinks/2026/08/doxxing-safety-part-ii-incident-response",
+    "https://www.eff.org/deeplinks/2026/08/doxxing-safety-pt-i-prevention-and-footprint-management",
+    "https://www.bellingcat.com/news/us-canada/2026/08/31/investigating-a-murder-public-records-uncover-new-clues-in-chinatown-cold-case/"
+  ],
   "People Search": [],
   "Address Lookup": [
-    "https://www.techradar.com/computing/internet/beyond-ridiculous-if-youre-seeing-lake-ontario-renamed-as-lake-america-on-google-maps-heres-why",
-    "https://www.xda-developers.com/google-maps-has-list-feature-almost-nobody-uses-replaced-three-apps-on-my-last-trip/",
-    "https://www.howtogeek.com/google-maps-features-that-will-save-you-time-on-your-busiest-days/",
-    "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
-    "https://www.engadget.com/2247074/google-maps-has-changed-lake-ontario-to-lake-america-for-us-users/",
-    "https://9to5google.com/2026/08/30/google-maps-has-renamed-lake-america-for-users-in-the-us/"
+    "https://www.androidheadlines.com/2026/08/google-maps-renames-lake-ontario-lake-america.html",
+    "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+    "https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/",
+    "https://www.macrumors.com/2026/08/31/google-maps-lake-america/",
+    "https://9to5mac.com/2026/08/31/apple-maps-still-shows-lake-ontario-as-google-maps-changes-name/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/08/30/vt-local-va-warns-of-possible-data-breach/"
+    "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Ankit-ku-panda/ALL-IN-OSINT",
+    "https://github.com/barmanmokhtari28-cell/strait-hormuz-osint-bot",
+    "https://github.com/genie85/engineer-osint"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
