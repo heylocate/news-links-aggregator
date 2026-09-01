@@ -1,26 +1,7 @@
-## Phone Lookup
-https://github.com/NemBestil/release-pos-caller-id-android
-https://www.engadget.com/2240359/how-to-use-call-screening-feature-while-using-android-auto/
-
-## Number / Device Tracking
-https://www.eff.org/deeplinks/2026/08/privacy-map-part-2-progress-pitfalls-and-fight-enforceable-location-data
-
-## Background Check
-https://www.eff.org/deeplinks/2026/08/doxxing-safety-part-ii-incident-response
-https://www.eff.org/deeplinks/2026/08/doxxing-safety-pt-i-prevention-and-footprint-management
-https://www.bellingcat.com/news/us-canada/2026/08/31/investigating-a-murder-public-records-uncover-new-clues-in-chinatown-cold-case/
-
-## Address Lookup
-https://www.androidheadlines.com/2026/08/google-maps-renames-lake-ontario-lake-america.html
-https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/
-https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/
-https://www.macrumors.com/2026/08/31/google-maps-lake-america/
-https://9to5mac.com/2026/08/31/apple-maps-still-shows-lake-ontario-as-google-maps-changes-name/
-
 ## Security & Anti-Abuse
-https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/
+https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709
+https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft
 
 ## OSINT & Open Source Intelligence
-https://github.com/Ankit-ku-panda/ALL-IN-OSINT
-https://github.com/barmanmokhtari28-cell/strait-hormuz-osint-bot
-https://github.com/genie85/engineer-osint
+https://github.com/fayaaz01/Dark-Shark
+https://github.com/ihelfrich/worldscope

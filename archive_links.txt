@@ -5215,3 +5215,7 @@ https://www.eff.org/deeplinks/2026/08/privacy-map-part-2-progress-pitfalls-and-f
 https://www.engadget.com/2240359/how-to-use-call-screening-feature-while-using-android-auto/
 https://www.macrumors.com/2026/08/31/google-maps-lake-america/
 https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/
+https://github.com/fayaaz01/Dark-Shark
+https://github.com/ihelfrich/worldscope
+https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709
+https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft
