@@ -2,18 +2,23 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.globenewswire.com/news-release/2026/09/01/3354520/0/en/shufti-ranks-1-in-g2-fall-2026-grid-report-for-identity-verification-and-aml-earns-40-badges-across-12-categories.html"
+  ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.slashgear.com/2240257/google-maps-red-dotted-line-what-it-means/",
+    "https://www.bgr.com/2245397/disadvantages-apple-maps-instead-of-google-maps/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
-    "https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft"
+    "https://databreaches.net/2026/09/01/ie-hse-fined-e645000-over-data-breach-affecting-westmeath-hospital/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/fayaaz01/Dark-Shark",
-    "https://github.com/ihelfrich/worldscope"
+    "https://github.com/Glimfiger-Aerd/osint-ukraine-map",
+    "https://github.com/AliAkrami1375/Social-Leaker",
+    "https://github.com/twelfthlabor/MAAT"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
