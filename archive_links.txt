@@ -5226,3 +5226,6 @@ https://github.com/twelfthlabor/MAAT
 https://www.bgr.com/2245397/disadvantages-apple-maps-instead-of-google-maps/
 https://www.globenewswire.com/news-release/2026/09/01/3354520/0/en/shufti-ranks-1-in-g2-fall-2026-grid-report-for-identity-verification-and-aml-earns-40-badges-across-12-categories.html
 https://www.slashgear.com/2240257/google-maps-red-dotted-line-what-it-means/
+https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
+https://www.eff.org/deeplinks/2026/09/metas-17-billion-settlement-bad-deal-teens-and-all-social-media-users
+https://www.techradar.com/pro/security/multiple-healthcare-giants-hit-by-data-breaches-affecting-patient-records-social-security-numbers-and-even-implanted-cardiac-devices
