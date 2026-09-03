@@ -5240,3 +5240,15 @@ https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishi
 https://www.engadget.com/2249522/digital-scans-of-153-million-drivers-licenses-leaked-to-the-dark-web/
 https://www.technewsworld.com/story/techlash-lands-school-district-in-federal-court-180529.html?rss=1
 https://www.techradar.com/pro/security/over-5-000-dropbox-accounts-have-been-hacked-and-the-attackers-only-needed-an-email-address
+https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/
+https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/
+https://github.com/hamburg-eng11/nokycvoip
+https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/
+https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities
+https://www.androidheadlines.com/2026/09/google-maps-in-android-auto-could-soon-be-easier-on-the-eyes.html
+https://www.pcworld.com/article/3224772/get-lifetime-ad-blocking-for-your-whole-family-for-11-sale-ends-today.html
+https://www.pr.com/press-release/978115
+https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html
+https://www.techradar.com/computing/software/mapquest-refused-to-rename-lake-ontario-to-appease-one-person-but-i-still-cant-leave-google-maps-and-apple-maps-behind-for-this-one-reason
+https://www.tomsguide.com/computing/online-security/more-than-9-5-million-patient-records-affected-by-aesto-health-data-breach-what-you-need-to-know
+https://www.tomsguide.com/computing/online-security/over-150-million-drivers-licenses-stolen-in-massive-data-breach-after-hackers-reportedly-hit-major-identity-verification-company-what-to-do-now
