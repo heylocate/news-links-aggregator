@@ -1,21 +1,24 @@
 ## Phone Lookup
-https://github.com/hamburg-eng11/nokycvoip
-https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/
+https://developer.vonage.com/en/blog/silent-network-authentication-build-a-fraud-proof-login-with-fastapi-kotlin
 
 ## Parental Control
-https://www.pcworld.com/article/3224772/get-lifetime-ad-blocking-for-your-whole-family-for-11-sale-ends-today.html
-
-## Background Check
-https://www.pr.com/press-release/978115
-https://www.tomsguide.com/computing/online-security/over-150-million-drivers-licenses-stolen-in-massive-data-breach-after-hackers-reportedly-hit-major-identity-verification-company-what-to-do-now
-https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/
-https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html
+https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra
 
 ## Address Lookup
-https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities
-https://www.androidheadlines.com/2026/09/google-maps-in-android-auto-could-soon-be-easier-on-the-eyes.html
-https://www.techradar.com/computing/software/mapquest-refused-to-rename-lake-ontario-to-appease-one-person-but-i-still-cant-leave-google-maps-and-apple-maps-behind-for-this-one-reason
+https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/
 
 ## Security & Anti-Abuse
-https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/
-https://www.tomsguide.com/computing/online-security/more-than-9-5-million-patient-records-affected-by-aesto-health-data-breach-what-you-need-to-know
+https://www.engadget.com/2250555/apple-sued-for-2-billion-over-app-tracking-transparency-rules/
+https://appleinsider.com/articles/26/09/03/apple-sued-over-app-tracking-transparency-in-27-billion-class-action
+https://9to5mac.com/2026/09/03/apple-faces-yet-another-lawsuit-over-app-tracking-transparency-with-a-twist/
+https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/
+https://www.techradar.com/pro/security/2-8-million-people-affected-by-data-breach-at-baylor-genetics-testing-and-diagnostic-firm
+https://thenextweb.com/news/apple-uk-app-tracking-transparency-2bn-claim
+https://hackernoon.com/my-safety-checks-were-monuments-to-bugs-i-had-already-fixed?source=rss
+
+## OSINT & Open Source Intelligence
+https://github.com/CryptoToolsDirectory/Awesome-Crypto-Tools-Directory
+https://github.com/supportkvantai-sketch/osint
+
+## Monitoring / Spy Apps
+https://www.techspot.com/news/113719-blizzard-nears-deal-nexon-new-starcraft-games-blizzcon.html
