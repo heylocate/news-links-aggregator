@@ -1,24 +1,18 @@
 ## Phone Lookup
-https://developer.vonage.com/en/blog/silent-network-authentication-build-a-fraud-proof-login-with-fastapi-kotlin
+https://github.com/hoshack/mozahemyab
+https://github.com/hamburg-eng11/voip
+https://www.geekwire.com/2026/tech-moves-microsoft-names-execs-dat-oracle-and-hiya-departures-new-zillow-policy-lead/
 
 ## Parental Control
-https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra
+https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety
 
 ## Address Lookup
-https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/
+https://www.bgr.com/2250229/google-maps-dethroned-alternative-app-mapquest-rankings/
 
 ## Security & Anti-Abuse
-https://www.engadget.com/2250555/apple-sued-for-2-billion-over-app-tracking-transparency-rules/
-https://appleinsider.com/articles/26/09/03/apple-sued-over-app-tracking-transparency-in-27-billion-class-action
-https://9to5mac.com/2026/09/03/apple-faces-yet-another-lawsuit-over-app-tracking-transparency-with-a-twist/
-https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/
-https://www.techradar.com/pro/security/2-8-million-people-affected-by-data-breach-at-baylor-genetics-testing-and-diagnostic-firm
-https://thenextweb.com/news/apple-uk-app-tracking-transparency-2bn-claim
-https://hackernoon.com/my-safety-checks-were-monuments-to-bugs-i-had-already-fixed?source=rss
+https://databreaches.net/2026/09/03/cnil-health-data-breach-e500000-fine-imposed-on-the-loire-private-hospital/
+https://databreaches.net/2026/09/03/the-new-school-safety-perimeter-where-cybersecurity-meets-physical-security/
+https://www.macrumors.com/2026/09/03/apple-hit-with-lawsuit-over-app-tracking/
 
 ## OSINT & Open Source Intelligence
-https://github.com/CryptoToolsDirectory/Awesome-Crypto-Tools-Directory
-https://github.com/supportkvantai-sketch/osint
-
-## Monitoring / Spy Apps
-https://www.techspot.com/news/113719-blizzard-nears-deal-nexon-new-starcraft-games-blizzcon.html
+https://github.com/mikloshetzer-sketch/Migration-OSINT-Monitor
