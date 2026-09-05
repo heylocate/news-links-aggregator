@@ -1,18 +1,21 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/Highwaylaburst/osint-phone-lookup-suite-2026",
+    "https://github.com/Asim75772/caller-id-app"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.bgr.com/2248381/minimalist-android-phones-worth-buying/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.slashgear.com/2250947/google-maps-vs-mapquest-app-store-rankings/"
+    "https://www.androidpolice.com/one-small-change-google-maps-now-i-never-forget-a-restaurant/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/mcasrom/hybrid-fimi-radar"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

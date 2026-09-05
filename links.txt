@@ -1,5 +1,9 @@
-## Address Lookup
-https://www.slashgear.com/2250947/google-maps-vs-mapquest-app-store-rankings/
+## Phone Lookup
+https://github.com/Highwaylaburst/osint-phone-lookup-suite-2026
+https://github.com/Asim75772/caller-id-app
 
-## OSINT & Open Source Intelligence
-https://github.com/mcasrom/hybrid-fimi-radar
+## Parental Control
+https://www.bgr.com/2248381/minimalist-android-phones-worth-buying/
+
+## Address Lookup
+https://www.androidpolice.com/one-small-change-google-maps-now-i-never-forget-a-restaurant/
