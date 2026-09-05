@@ -1,10 +1,5 @@
-## Parental Control
-https://www.androidheadlines.com/2026/09/tiktok-dodges-congress-questions-child-protection.html
-
 ## Address Lookup
-https://www.pcworld.com/article/3222343/japan-esim-checklist-everything-you-need-to-know-before-you-fly-to-japan.html
+https://www.slashgear.com/2250947/google-maps-vs-mapquest-app-store-rankings/
 
-## Security & Anti-Abuse
-https://www.androidheadlines.com/2026/09/apple-sued-for-2-7-billion-over-app-tracking-transparency-rules-in-the-uk.html
-https://databreaches.net/2026/09/04/ledger-faces-500-million-class-action-over-data-breaches/
-https://databreaches.net/2026/09/04/tr-fine-for-famous-kebab-chain-that-allowed-theft-of-500-thousand-customers-data/
+## OSINT & Open Source Intelligence
+https://github.com/mcasrom/hybrid-fimi-radar
