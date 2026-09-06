@@ -1,21 +1,20 @@
 {
-  "Phone Lookup": [
-    "https://github.com/Highwaylaburst/osint-phone-lookup-suite-2026",
-    "https://github.com/Asim75772/caller-id-app"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.bgr.com/2248381/minimalist-android-phones-worth-buying/"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/one-small-change-google-maps-now-i-never-forget-a-restaurant/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://www.globenewswire.com/news-release/2026/09/06/3356898/0/en/humanedge-inc-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers.html",
+    "https://www.globenewswire.com/news-release/2026/09/06/3356897/0/en/gale-credit-union-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html",
+    "https://www.globenewswire.com/news-release/2026/09/06/3356896/0/en/youlend-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/swingpling23-hub/OSINT-dashboard"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

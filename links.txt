@@ -1,9 +1,7 @@
-## Phone Lookup
-https://github.com/Highwaylaburst/osint-phone-lookup-suite-2026
-https://github.com/Asim75772/caller-id-app
+## Security & Anti-Abuse
+https://www.globenewswire.com/news-release/2026/09/06/3356898/0/en/humanedge-inc-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers.html
+https://www.globenewswire.com/news-release/2026/09/06/3356897/0/en/gale-credit-union-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html
+https://www.globenewswire.com/news-release/2026/09/06/3356896/0/en/youlend-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html
 
-## Parental Control
-https://www.bgr.com/2248381/minimalist-android-phones-worth-buying/
-
-## Address Lookup
-https://www.androidpolice.com/one-small-change-google-maps-now-i-never-forget-a-restaurant/
+## OSINT & Open Source Intelligence
+https://github.com/swingpling23-hub/OSINT-dashboard
