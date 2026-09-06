@@ -2,18 +2,21 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
+  "Background Check": [
+    "https://www.techspot.com/news/113753-miami-dade-wants-turn-parts-city-real-life.html"
+  ],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.globenewswire.com/news-release/2026/09/06/3356898/0/en/humanedge-inc-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers.html",
-    "https://www.globenewswire.com/news-release/2026/09/06/3356897/0/en/gale-credit-union-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html",
-    "https://www.globenewswire.com/news-release/2026/09/06/3356896/0/en/youlend-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information.html"
+    "https://www.globenewswire.com/news-release/2026/09/06/3356904/6819/en/berkeley-research-group-data-breach-alert-issued-by-wolf-haldenstein.html",
+    "https://databreaches.net/2026/09/06/natural-resources-wales-confirms-data-breach-due-to-human-error/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/swingpling23-hub/OSINT-dashboard"
+    "https://github.com/Pomtoto/Spectre",
+    "https://github.com/arinchatterg/madsta",
+    "https://github.com/Talnz007/osintapp"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
