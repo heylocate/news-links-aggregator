@@ -1,11 +1,5 @@
-## Background Check
-https://www.techspot.com/news/113753-miami-dade-wants-turn-parts-city-real-life.html
-
-## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/09/06/3356904/6819/en/berkeley-research-group-data-breach-alert-issued-by-wolf-haldenstein.html
-https://databreaches.net/2026/09/06/natural-resources-wales-confirms-data-breach-due-to-human-error/
+## Parental Control
+https://www.engadget.com/2247843/how-to-set-up-chatgpt-parental-controls/
 
 ## OSINT & Open Source Intelligence
-https://github.com/Pomtoto/Spectre
-https://github.com/arinchatterg/madsta
-https://github.com/Talnz007/osintapp
+https://github.com/toradesourav/Bugbounty

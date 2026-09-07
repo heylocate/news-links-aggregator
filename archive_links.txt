@@ -5295,3 +5295,5 @@ https://github.com/Talnz007/osintapp
 https://github.com/arinchatterg/madsta
 https://www.globenewswire.com/news-release/2026/09/06/3356904/6819/en/berkeley-research-group-data-breach-alert-issued-by-wolf-haldenstein.html
 https://www.techspot.com/news/113753-miami-dade-wants-turn-parts-city-real-life.html
+https://github.com/toradesourav/Bugbounty
+https://www.engadget.com/2247843/how-to-set-up-chatgpt-parental-controls/
