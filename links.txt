@@ -1,5 +1,2 @@
-## Security & Anti-Abuse
-https://github.com/davidsangouard/imessage-bulk-sender
-
-## OSINT & Open Source Intelligence
-https://github.com/sameerkhan1803/vapt-tools-guidelist
+## Parental Control
+https://thenextweb.com/news/ireland-investigates-x-age-checks

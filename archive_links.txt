@@ -5304,3 +5304,4 @@ https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html
 https://www.prnewswire.com/news-releases/truecaller-expands-enterprise-suite-allows-consumers-to-communicate-with-businesses-in-a-tap-302871336.html
 https://github.com/davidsangouard/imessage-bulk-sender
 https://github.com/sameerkhan1803/vapt-tools-guidelist
+https://thenextweb.com/news/ireland-investigates-x-age-checks
