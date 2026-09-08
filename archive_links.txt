@@ -5302,3 +5302,5 @@ https://github.com/docxology/CogSecSkills
 https://github.com/mitchell5584dm-tech/arcana-suite
 https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html
 https://www.prnewswire.com/news-releases/truecaller-expands-enterprise-suite-allows-consumers-to-communicate-with-businesses-in-a-tap-302871336.html
+https://github.com/davidsangouard/imessage-bulk-sender
+https://github.com/sameerkhan1803/vapt-tools-guidelist

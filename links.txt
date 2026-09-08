@@ -1,10 +1,5 @@
-## Phone Lookup
-https://www.prnewswire.com/news-releases/truecaller-expands-enterprise-suite-allows-consumers-to-communicate-with-businesses-in-a-tap-302871336.html
-
 ## Security & Anti-Abuse
-https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html
-https://databreaches.net/2026/09/07/mathspace-breach-impacts-more-than-1-million-users-in-australia-nz/
+https://github.com/davidsangouard/imessage-bulk-sender
 
 ## OSINT & Open Source Intelligence
-https://github.com/mitchell5584dm-tech/arcana-suite
-https://github.com/docxology/CogSecSkills
+https://github.com/sameerkhan1803/vapt-tools-guidelist
