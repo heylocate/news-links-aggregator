@@ -1,7 +1,21 @@
-## OSINT & Open Source Intelligence
-https://github.com/Tonypost949/OsintNeoAi
-https://github.com/chopus/osint-tools
-https://github.com/Aaditya-dhan-raj-saini/Osintinfo-
+## Parental Control
+https://appleinsider.com/inside/apple-services/vs/applecare-one-family-vs-individual-which-plan-makes-more-sense
+https://www.techradar.com/pro/software-services/heypolo-parental-control-software-review
+https://www.techradar.com/pro/software-services/bitdefender-family-parental-control-review
+https://www.techradar.com/pro/software-services/parentaler-parental-control-software-review
+https://www.techradar.com/pro/software-services/familytime-parental-control-software-review
+http://www.businesswire.com/news/home/20260910196107/en/Smith-Micro-Announces-Expanded-Multi-Year-Agreement-with-U.S.-Tier-1-Mobile-Operator-to-Advance-Family-Safety-Innovation/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
 
-## Uncategorized
-https://www.cnet.com/paid-content/how-do-you-set-up-cash-app-families-parent-teen-accounts-explained/
+## Background Check
+https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/
+
+## Address Lookup
+https://www.howtogeek.com/osmand-maps-offline-maps-put-google-maps-to-shame/
+https://www.androidpolice.com/leaving-google-maps-for-simpler-android-app-fixed-daily-driving-routine/
+https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/
+
+## Security & Anti-Abuse
+https://databreaches.net/2026/09/10/korea-raises-data-breach-fines-to-10-of-revenue/
+
+## OSINT & Open Source Intelligence
+https://github.com/vidithq/vidit
