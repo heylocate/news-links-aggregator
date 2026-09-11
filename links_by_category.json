@@ -1,29 +1,22 @@
 {
-  "Phone Lookup": [
-    "https://www.prnewswire.com/news-releases/truecaller-completes-the-acquisition-of-textplus-inc-302876181.html",
-    "http://www.businesswire.com/news/home/20260910205779/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D",
-    "http://www.businesswire.com/news/home/20260910454596/zh-HK/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
-  ],
-  "Number / Device Tracking": [
-    "https://www.macworld.com/article/3232359/we-found-an-airtag-dupe-shaped-like-a-credit-card-with-a-rechargeable-battery.html"
-  ],
+  "Phone Lookup": [],
+  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.tomsguide.com/phones/iphones/the-hidden-ios-27-iphone-setting-every-parent-needs-to-turn-on-right-now",
-    "https://www.cnet.com/health/parenting/tin-can-landline-phone-no-screen-time/"
+    "https://thenextweb.com/news/texas-judge-tiktok-liable-restricted-mode-child-safety",
+    "https://www.techspot.com/news/113820-california-bans-addictive-social-media-features-children-under.html"
   ],
-  "Background Check": [
-    "https://www.techradar.com/pro/security/fbi-launches-investigation-after-153-million-drivers-licenses-apparently-leaked-on-russian-cybercrime-forum"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://therecord.media/idscan-data-breach-notice-drivers-licenses"
+    "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/hanul442/Black-oracle",
-    "https://github.com/deisign/open-source-signal"
+    "https://github.com/al-fashola/portfolio-osint-dashboard",
+    "https://github.com/punit1234208/Test-osint-",
+    "https://github.com/simonfaiattila/cyberwatchclub"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
