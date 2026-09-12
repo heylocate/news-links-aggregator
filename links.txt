@@ -1,11 +1,8 @@
 ## Parental Control
-https://thenextweb.com/news/texas-judge-tiktok-liable-restricted-mode-child-safety
-https://www.techspot.com/news/113820-california-bans-addictive-social-media-features-children-under.html
+https://www.macworld.com/article/3233448/pay-11-once-block-annoying-ads-on-up-to-9-devices-for-life.html
+https://www.macworld.com/article/3233461/replace-overstimulating-screen-time-with-montessori-inspired-pok-pok-for-just-60.html
+https://appleinsider.com/articles/26/09/11/new-standalone-roblox-games-will-spread-safety-risks-beyond-the-main-app
 
 ## Security & Anti-Abuse
-https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/
-
-## OSINT & Open Source Intelligence
-https://github.com/al-fashola/portfolio-osint-dashboard
-https://github.com/punit1234208/Test-osint-
-https://github.com/simonfaiattila/cyberwatchclub
+https://www.globenewswire.com/news-release/2026/09/11/3360558/0/en/costa-solutions-data-breach-exposes-personal-information-murphy-law-firm-investigates-legal-claims.html
+https://therecord.media/florida-shiny-hunters-motor-vehicle
