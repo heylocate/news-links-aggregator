@@ -1,19 +1,22 @@
 {
   "Phone Lookup": [
-    "https://github.com/BenAttanasio/phone-caller"
+    "https://databreaches.net/2026/09/13/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/"
   ],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [
-    "https://www.slashgear.com/2252697/how-gps-apps-google-maps-know-police-ahead/"
+  "Background Check": [
+    "https://hackernoon.com/the-ai-slop-economy-runs-on-unpaid-verification?source=rss"
   ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://haveibeenpwned.com/Breach/Chess2026"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/succinylcholinefrenchleave974/FIXTT"
+    "https://github.com/amoghbalapurepy-cmd/Omen-Osint",
+    "https://github.com/chanchaldas71/OSINTTOOLS"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
