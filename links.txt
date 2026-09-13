@@ -1,10 +1,8 @@
-## Address Lookup
-https://www.engadget.com/2252763/how-google-maps-knows-businesses-packed/
+## Phone Lookup
+https://github.com/BenAttanasio/phone-caller
 
-## Security & Anti-Abuse
-https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
+## Address Lookup
+https://www.slashgear.com/2252697/how-gps-apps-google-maps-know-police-ahead/
 
 ## OSINT & Open Source Intelligence
-https://github.com/floriancse/osint-observer-server
-https://github.com/danielonakoya19-cloud/oracool
-https://github.com/SK-CERT/Taranis-NG
+https://github.com/succinylcholinefrenchleave974/FIXTT

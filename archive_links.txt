@@ -5365,3 +5365,6 @@ https://github.com/danielonakoya19-cloud/oracool
 https://github.com/floriancse/osint-observer-server
 https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
 https://www.engadget.com/2252763/how-google-maps-knows-businesses-packed/
+https://github.com/BenAttanasio/phone-caller
+https://github.com/succinylcholinefrenchleave974/FIXTT
+https://www.slashgear.com/2252697/how-gps-apps-google-maps-know-police-ahead/
