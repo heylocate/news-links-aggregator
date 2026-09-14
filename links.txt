@@ -1,12 +1,6 @@
-## Phone Lookup
-https://databreaches.net/2026/09/13/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/
-
-## Background Check
-https://hackernoon.com/the-ai-slop-economy-runs-on-unpaid-verification?source=rss
-
-## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/Chess2026
-
 ## OSINT & Open Source Intelligence
-https://github.com/amoghbalapurepy-cmd/Omen-Osint
-https://github.com/chanchaldas71/OSINTTOOLS
+https://github.com/genoxid13/osint-catalog
+https://github.com/Kritantasasanroy/agentic-osint-harness
+
+## Monitoring / Spy Apps
+https://www.cnet.com/tech/gaming/overwatch-season-5-doctrine-sombra-roadhog-reworks-2/

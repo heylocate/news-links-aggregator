@@ -5373,3 +5373,6 @@ https://github.com/amoghbalapurepy-cmd/Omen-Osint
 https://github.com/chanchaldas71/OSINTTOOLS
 https://hackernoon.com/the-ai-slop-economy-runs-on-unpaid-verification?source=rss
 https://haveibeenpwned.com/Breach/Chess2026
+https://github.com/Kritantasasanroy/agentic-osint-harness
+https://github.com/genoxid13/osint-catalog
+https://www.cnet.com/tech/gaming/overwatch-season-5-doctrine-sombra-roadhog-reworks-2/
