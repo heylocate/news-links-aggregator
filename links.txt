@@ -1,12 +1,11 @@
-## Parental Control
-https://www.prnewswire.com/news-releases/inculab-plus-kidstopia-earns-kidsafe-safe-certified-global-child-online-safety-seal-302877101.html
-https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/
+## Phone Lookup
+https://github.com/mattmerritt215/SIPGhost_Bot
+https://github.com/sskmy1024y/expo-call-screening
 
-## Address Lookup
-https://www.bgr.com/2251938/apple-maps-features-google-maps-doesnt-have/
-https://www.androidheadlines.com/2026/09/google-maps-brings-always-on-speedometer-and-speed-limits-to-android-auto.html
-https://www.androidpolice.com/google-maps-on-android-auto-is-finally-getting-a-speedometer-thats-always-on/
+## Security & Anti-Abuse
+https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/
+https://therecord.media/centerpoint-energy-data-breach
+https://databreaches.net/2026/09/15/hackers-demand-10000-bitcoin-from-revolut-following-data-breach/
 
 ## OSINT & Open Source Intelligence
-https://github.com/ofek11335577-collab/israel-media-osint
-https://github.com/mklover07/MKCYBERHUB
+https://github.com/coderhema/scam-tracker
