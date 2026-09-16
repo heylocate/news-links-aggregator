@@ -1,22 +1,20 @@
 {
-  "Phone Lookup": [
-    "https://github.com/mattmerritt215/SIPGhost_Bot",
-    "https://github.com/sskmy1024y/expo-call-screening"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.tomsguide.com/ai/i-used-gemini-and-google-maps-ask-maps-to-find-the-weirdest-spots-in-my-city-and-these-7-oddities-didnt-disappoint",
+    "https://www.bgr.com/2259555/android-auto-google-maps-feature-speedometer-speed-limit/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-    "https://therecord.media/centerpoint-energy-data-breach",
-    "https://databreaches.net/2026/09/15/hackers-demand-10000-bitcoin-from-revolut-following-data-breach/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/coderhema/scam-tracker"
+    "https://github.com/ManishModhvadiya/threatlens-ai",
+    "https://github.com/dima1203oleg/dev25",
+    "https://github.com/ramro-keta/phone-osint-lookup"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

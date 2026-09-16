@@ -5398,3 +5398,8 @@ https://github.com/mattmerritt215/SIPGhost_Bot
 https://github.com/sskmy1024y/expo-call-screening
 https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/
 https://therecord.media/centerpoint-energy-data-breach
+https://github.com/ManishModhvadiya/threatlens-ai
+https://github.com/dima1203oleg/dev25
+https://github.com/ramro-keta/phone-osint-lookup
+https://www.bgr.com/2259555/android-auto-google-maps-feature-speedometer-speed-limit/
+https://www.tomsguide.com/ai/i-used-gemini-and-google-maps-ask-maps-to-find-the-weirdest-spots-in-my-city-and-these-7-oddities-didnt-disappoint
