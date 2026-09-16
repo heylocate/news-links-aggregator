@@ -5403,3 +5403,8 @@ https://github.com/dima1203oleg/dev25
 https://github.com/ramro-keta/phone-osint-lookup
 https://www.bgr.com/2259555/android-auto-google-maps-feature-speedometer-speed-limit/
 https://www.tomsguide.com/ai/i-used-gemini-and-google-maps-ask-maps-to-find-the-weirdest-spots-in-my-city-and-these-7-oddities-didnt-disappoint
+https://9to5google.com/2026/09/16/android-auto-google-maps-driving-avatar-update/
+https://blog.hiya.com/sotc-2026-spain
+https://github.com/SabinaOrudzhali/NLP-Text-Preprocessing-and-Visualization-Using-OSINT-Articles
+https://github.com/rsk934128-dot/Smart-Dialer-Caller-ID
+https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/
