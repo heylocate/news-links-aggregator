@@ -5408,3 +5408,4 @@ https://blog.hiya.com/sotc-2026-spain
 https://github.com/SabinaOrudzhali/NLP-Text-Preprocessing-and-Visualization-Using-OSINT-Articles
 https://github.com/rsk934128-dot/Smart-Dialer-Caller-ID
 https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/
+https://9to5mac.com/2026/09/16/ios-27-2-lets-developers-use-an-alternative-app-tracking-transparency-prompt-in-the-eu/

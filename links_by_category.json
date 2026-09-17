@@ -1,23 +1,16 @@
 {
-  "Phone Lookup": [
-    "https://blog.hiya.com/sotc-2026-spain",
-    "https://github.com/rsk934128-dot/Smart-Dialer-Caller-ID"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/"
-  ],
-  "Address Lookup": [
-    "https://9to5google.com/2026/09/16/android-auto-google-maps-driving-avatar-update/"
-  ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/SabinaOrudzhali/NLP-Text-Preprocessing-and-Visualization-Using-OSINT-Articles"
+  "Security & Anti-Abuse": [
+    "https://9to5mac.com/2026/09/16/ios-27-2-lets-developers-use-an-alternative-app-tracking-transparency-prompt-in-the-eu/"
   ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
