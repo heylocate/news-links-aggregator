@@ -3,14 +3,21 @@
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://www.pcworld.com/article/3222946/aura-data-removal-review.html"
+  ],
   "Address Lookup": [],
-  "Image Search": [],
+  "Image Search": [
+    "https://thenextweb.com/news/pinterest-visual-search-ads-performance-restyle"
+  ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://9to5mac.com/2026/09/16/ios-27-2-lets-developers-use-an-alternative-app-tracking-transparency-prompt-in-the-eu/"
+    "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+    "https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Jake-py/My_Kali..."
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
