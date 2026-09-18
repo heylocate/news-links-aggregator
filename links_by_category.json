@@ -1,22 +1,23 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://www.pcworld.com/article/3222946/aura-data-removal-review.html"
+  "People Search": [],
+  "Address Lookup": [
+    "https://www.slashgear.com/2256008/how-google-maps-knows-gas-prices-accuracy/"
   ],
-  "Address Lookup": [],
   "Image Search": [
-    "https://thenextweb.com/news/pinterest-visual-search-ads-performance-restyle"
+    "https://www.socialmediatoday.com/news/pinterest-announces-visual-search-ads-and-an-ai-restyle-feature/830737/"
   ],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
-    "https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach"
+    "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Jake-py/My_Kali..."
+    "https://github.com/pinking-jeong/yongbyon-kg-dashboard"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

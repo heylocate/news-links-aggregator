@@ -5414,3 +5414,8 @@ https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-track
 https://thenextweb.com/news/pinterest-visual-search-ads-performance-restyle
 https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach
 https://www.pcworld.com/article/3222946/aura-data-removal-review.html
+https://github.com/pinking-jeong/yongbyon-kg-dashboard
+https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html
+https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
+https://www.slashgear.com/2256008/how-google-maps-knows-gas-prices-accuracy/
+https://www.socialmediatoday.com/news/pinterest-announces-visual-search-ads-and-an-ai-restyle-feature/830737/
