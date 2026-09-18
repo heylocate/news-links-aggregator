@@ -5419,3 +5419,9 @@ https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html
 https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
 https://www.slashgear.com/2256008/how-google-maps-knows-gas-prices-accuracy/
 https://www.socialmediatoday.com/news/pinterest-announces-visual-search-ads-and-an-ai-restyle-feature/830737/
+https://appleinsider.com/articles/26/09/18/child-safety-protesters-target-apple-fifth-avenue-at-iphone-18-pro-release
+https://github.com/Mooncore-inc/demon-cry-base
+https://github.com/OlegDryahlov/ShiroGaze
+https://github.com/devpatel535/osint-app
+https://github.com/sanyahppj24-lang/Lucid
+https://www.androidpolice.com/tested-android-auto-navigation-apps-one-underrated-option-handles-heavy-traffic-better-than-google-maps/
