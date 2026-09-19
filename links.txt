@@ -1,11 +1,10 @@
-## Phone Lookup
-https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/
+## Address Lookup
+https://www.androidpolice.com/google-maps-missing-simple-navigation-features-that-make-commute-better/
+https://www.bgr.com/2257574/google-maps-setting-to-show-fastest-route/
 
-## Parental Control
-https://www.pcworld.com/article/3238089/block-every-ad-and-tracker-for-life-with-adguards-11-family-plan.html
-https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27
-https://www.qustodio.com/en/blog/introducing-chatgpt-alerts/
+## Security & Anti-Abuse
+https://github.com/Aaronmike481/BreachScanner
+https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/rath0darya/Telegram-OSINT
-https://github.com/Neka712/Neka712-NETWORKWALKS-b083-WK2-PMI-FOODPRINTING-AND-PENTESTING
+https://github.com/captnwalker/plainview
