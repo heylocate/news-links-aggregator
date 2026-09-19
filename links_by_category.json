@@ -1,22 +1,22 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://appleinsider.com/articles/26/09/18/child-safety-protesters-target-apple-fifth-avenue-at-iphone-18-pro-release"
+    "https://www.pcworld.com/article/3238089/block-every-ad-and-tracker-for-life-with-adguards-11-family-plan.html",
+    "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
+    "https://www.qustodio.com/en/blog/introducing-chatgpt-alerts/"
   ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/tested-android-auto-navigation-apps-one-underrated-option-handles-heavy-traffic-better-than-google-maps/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/sanyahppj24-lang/Lucid",
-    "https://github.com/devpatel535/osint-app",
-    "https://github.com/OlegDryahlov/ShiroGaze",
-    "https://github.com/Mooncore-inc/demon-cry-base"
+    "https://github.com/rath0darya/Telegram-OSINT",
+    "https://github.com/Neka712/Neka712-NETWORKWALKS-b083-WK2-PMI-FOODPRINTING-AND-PENTESTING"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
