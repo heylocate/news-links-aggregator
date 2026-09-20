@@ -5438,3 +5438,5 @@ https://www.androidpolice.com/google-maps-missing-simple-navigation-features-tha
 https://www.bgr.com/2257574/google-maps-setting-to-show-fastest-route/
 https://github.com/froelichwilliam77-design/umbra-osint
 https://www.androidauthority.com/google-maps-vs-apple-maps-2026-3708131/
+https://github.com/TeamsGod/NetMonGuru
+https://github.com/api-evangelist/numbers-online

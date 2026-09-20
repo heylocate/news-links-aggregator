@@ -1,17 +1,17 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/api-evangelist/numbers-online"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidauthority.com/google-maps-vs-apple-maps-2026-3708131/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/froelichwilliam77-design/umbra-osint"
+    "https://github.com/TeamsGod/NetMonGuru"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],

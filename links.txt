@@ -1,5 +1,5 @@
-## Address Lookup
-https://www.androidauthority.com/google-maps-vs-apple-maps-2026-3708131/
+## Phone Lookup
+https://github.com/api-evangelist/numbers-online
 
 ## OSINT & Open Source Intelligence
-https://github.com/froelichwilliam77-design/umbra-osint
+https://github.com/TeamsGod/NetMonGuru
