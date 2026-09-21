@@ -1,6 +1,6 @@
 {
   "Phone Lookup": [
-    "https://github.com/api-evangelist/numbers-online"
+    "https://github.com/mpsinghji/Call-Helper"
   ],
   "Number / Device Tracking": [],
   "Parental Control": [],
@@ -10,9 +10,7 @@
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/TeamsGod/NetMonGuru"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

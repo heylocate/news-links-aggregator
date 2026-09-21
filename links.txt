@@ -1,5 +1,2 @@
 ## Phone Lookup
-https://github.com/api-evangelist/numbers-online
-
-## OSINT & Open Source Intelligence
-https://github.com/TeamsGod/NetMonGuru
+https://github.com/mpsinghji/Call-Helper
