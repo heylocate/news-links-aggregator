@@ -1,30 +1,30 @@
 {
   "Phone Lookup": [
-    "https://github.com/squashberry/who",
-    "https://github.com/squashberry/who-app",
-    "https://github.com/albertolicea00/LlamaCon99-web"
+    "https://github.com/Ramonvdo/voip-setup"
   ],
   "Number / Device Tracking": [
-    "https://appleinsider.com/articles/26/09/21/apples-ios-272-beta-2-reveals-new-anti-snatching-protections"
+    "https://www.macrumors.com/2026/09/22/apple-still-working-on-iphone-anti-snatching/",
+    "https://www.techradar.com/phones/ios/ios-27-2-beta-2-includes-new-details-of-an-iphone-anti-snatching-feature-plus-a-first-look-at-more-changes-coming-to-apple-music-shortcuts-and-more"
   ],
   "Parental Control": [
-    "https://www.macworld.com/article/3240470/own-2tb-of-cloud-storage-for-just-75-instead-of-paying-rent-every-month.html"
+    "https://appleinsider.com/articles/26/09/22/apple-government-liaison-tim-cook-talked-child-safety-at-the-un-general-assembly",
+    "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/"
   ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.engadget.com/2261383/how-to-turn-off-google-location-history/"
+    "https://www.androidpolice.com/wazes-route-preview-does-what-google-maps-cant-show-me-traffic-before-i-leave/",
+    "https://www.slashgear.com/2260104/what-does-circle-z-icon-mean-google-maps/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://research.checkpoint.com/2026/21st-september-threat-intelligence-report/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Volodymyr4K/tgmine",
-    "https://github.com/Provereno-Media/OSINT-CSE"
+    "https://github.com/simonkoszu/liveuamap-osint-monitor"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://github.com/ajesien27/shoulder-tracker"
+  ]
 }
