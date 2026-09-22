@@ -5445,3 +5445,12 @@ https://github.com/memery33/watchfloor
 https://github.com/shresth03/signit-app
 https://haveibeenpwned.com/Breach/BurgerKingRussia
 https://www.macworld.com/article/3240287/iphone-18-pro-owners-report-two-serious-bugs-causing-freezes-and-restarts.html
+https://appleinsider.com/articles/26/09/21/apples-ios-272-beta-2-reveals-new-anti-snatching-protections
+https://github.com/Provereno-Media/OSINT-CSE
+https://github.com/Volodymyr4K/tgmine
+https://github.com/albertolicea00/LlamaCon99-web
+https://github.com/squashberry/who
+https://github.com/squashberry/who-app
+https://research.checkpoint.com/2026/21st-september-threat-intelligence-report/
+https://www.engadget.com/2261383/how-to-turn-off-google-location-history/
+https://www.macworld.com/article/3240470/own-2tb-of-cloud-storage-for-just-75-instead-of-paying-rent-every-month.html
