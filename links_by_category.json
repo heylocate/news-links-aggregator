@@ -1,30 +1,27 @@
 {
   "Phone Lookup": [
-    "https://github.com/Ramonvdo/voip-setup"
+    "https://www.howtogeek.com/3-samsung-galaxy-spam-call-settings-that-beat-any-app-and-cost-nothing/",
+    "https://blog.hiya.com/german-businesses-lose-because-they-cant-reach-their-customers"
   ],
-  "Number / Device Tracking": [
-    "https://www.macrumors.com/2026/09/22/apple-still-working-on-iphone-anti-snatching/",
-    "https://www.techradar.com/phones/ios/ios-27-2-beta-2-includes-new-details-of-an-iphone-anti-snatching-feature-plus-a-first-look-at-more-changes-coming-to-apple-music-shortcuts-and-more"
-  ],
+  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://appleinsider.com/articles/26/09/22/apple-government-liaison-tim-cook-talked-child-safety-at-the-un-general-assembly",
-    "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/"
+    "https://9to5mac.com/2026/09/22/tim-cook-meets-eu-chief-ursula-von-der-leyen-as-bloc-pushes-new-child-safety-rules/"
   ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/wazes-route-preview-does-what-google-maps-cant-show-me-traffic-before-i-leave/",
-    "https://www.slashgear.com/2260104/what-does-circle-z-icon-mean-google-maps/"
+    "https://www.slashgear.com/2260977/google-maps-business-phone-number-scam/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://www.mobileworldlive.com/ai-cloud/openai-sets-principles-for-ai-safety-checks/",
+    "https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/simonkoszu/liveuamap-osint-monitor"
+    "https://github.com/aaattr2005-lab/global-threat-radar"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://github.com/ajesien27/shoulder-tracker"
-  ]
+  "Uncategorized": []
 }
