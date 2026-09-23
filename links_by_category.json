@@ -1,25 +1,23 @@
 {
   "Phone Lookup": [
-    "https://www.howtogeek.com/3-samsung-galaxy-spam-call-settings-that-beat-any-app-and-cost-nothing/",
-    "https://blog.hiya.com/german-businesses-lose-because-they-cant-reach-their-customers"
+    "https://www.techradar.com/pro/getting-an-unusual-amount-of-spam-calls-and-messages-youre-not-alone-heres-what-we-know-and-what-you-can-do"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://9to5mac.com/2026/09/22/tim-cook-meets-eu-chief-ursula-von-der-leyen-as-bloc-pushes-new-child-safety-rules/"
-  ],
+  "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://hackernoon.com/sydney-sweeney-sent-novigs-search-interest-soaring-can-it-last?source=rss"
+  ],
   "Address Lookup": [
-    "https://www.slashgear.com/2260977/google-maps-business-phone-number-scam/"
+    "https://www.androidpolice.com/after-driving-400-miles-i-never-start-google-maps-without-enabling-7-hidden-settings/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.mobileworldlive.com/ai-cloud/openai-sets-principles-for-ai-safety-checks/",
-    "https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/aaattr2005-lab/global-threat-radar"
+    "https://github.com/BubuRR/sovereign-stress-monitor",
+    "https://github.com/xXLoneWolf589Xx/snoop-recon-suite",
+    "https://github.com/devsaivarshith-creator/Constellation"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
