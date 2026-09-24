@@ -5480,3 +5480,11 @@ https://9to5google.com/2026/09/23/google-maps-traffic-lights-stop-signs-update-a
 https://github.com/Hcmdz/Privnum
 https://www.androidauthority.com/android-auto-google-maps-speed-bug-3714762/
 https://www.androidauthority.com/google-maps-traffic-lights-stop-signs-android-auto-3714871/
+https://github.com/renkagod/osint-ctf-labs
+https://github.com/renkagod/osint-toolbox-mcp
+https://therecord.media/astrana-cyberattack-sec-ransomware
+https://www.androidauthority.com/google-maps-search-error-on-browser-3715210/
+https://www.androidheadlines.com/2026/09/google-maps-android-auto-traffic-lights-stop-signs-update.html
+https://www.androidpolice.com/google-maps-on-android-auto-rolls-out-real-time-stop-sign-and-traffic-light-alerts/
+https://www.pcworld.com/article/2941324/google-chrome-is-a-privacy-nightmare-by-default-fix-these-settings.html
+https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/
