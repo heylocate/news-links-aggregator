@@ -1,17 +1,8 @@
 ## Phone Lookup
-https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/
+https://blog.hiya.com/spains-400-prefix-law-will-make-it-harder-to-reach-customers
 
-## People Search
-https://www.pcworld.com/article/2941324/google-chrome-is-a-privacy-nightmare-by-default-fix-these-settings.html
+## Parental Control
+https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats
 
 ## Address Lookup
-https://www.androidheadlines.com/2026/09/google-maps-android-auto-traffic-lights-stop-signs-update.html
-https://www.androidauthority.com/google-maps-search-error-on-browser-3715210/
-https://www.androidpolice.com/google-maps-on-android-auto-rolls-out-real-time-stop-sign-and-traffic-light-alerts/
-
-## Security & Anti-Abuse
-https://therecord.media/astrana-cyberattack-sec-ransomware
-
-## OSINT & Open Source Intelligence
-https://github.com/renkagod/osint-ctf-labs
-https://github.com/renkagod/osint-toolbox-mcp
+https://www.socialmediatoday.com/news/google-provides-more-demand-gen-ad-features/831330/
