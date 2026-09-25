@@ -5491,3 +5491,9 @@ https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-p
 https://blog.hiya.com/spains-400-prefix-law-will-make-it-harder-to-reach-customers
 https://www.socialmediatoday.com/news/google-provides-more-demand-gen-ad-features/831330/
 https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats
+https://github.com/CallerAPI/caller-id-api
+https://github.com/ShabalalaWATP/AllSeeingEye
+https://github.com/cantgetalonggta-png/strand-osint-mesh
+https://hackernoon.com/google-maps-ads-are-not-a-campaign-the-technical-architecture-behind-local-advertising?source=rss
+https://www.androidauthority.com/fire-hd-8-kids-pro-deal-3715675/
+https://www.theregister.com/cyber-crime/2026/09/25/another-week-another-data-breach-for-revolut-customers/5299092
