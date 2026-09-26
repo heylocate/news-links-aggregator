@@ -1,24 +1,19 @@
 {
-  "Phone Lookup": [
-    "https://github.com/CallerAPI/caller-id-api"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.androidauthority.com/fire-hd-8-kids-pro-deal-3715675/"
+    "https://www.androidheadlines.com/2026/09/apple-shows-new-child-safety-features-across-iphone-ipad-and-mac.html"
   ],
-  "Background Check": [],
+  "Background Check": [
+    "https://github.com/ajamous/open-voice-shield-plugin"
+  ],
   "People Search": [],
-  "Address Lookup": [
-    "https://hackernoon.com/google-maps-ads-are-not-a-campaign-the-technical-architecture-behind-local-advertising?source=rss"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.theregister.com/cyber-crime/2026/09/25/another-week-another-data-breach-for-revolut-customers/5299092"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/ShabalalaWATP/AllSeeingEye",
-    "https://github.com/cantgetalonggta-png/strand-osint-mesh"
+    "https://github.com/TheSecuredAnalyst/security-suite"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
