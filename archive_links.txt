@@ -5500,3 +5500,14 @@ https://www.theregister.com/cyber-crime/2026/09/25/another-week-another-data-bre
 https://github.com/TheSecuredAnalyst/security-suite
 https://github.com/ajamous/open-voice-shield-plugin
 https://www.androidheadlines.com/2026/09/apple-shows-new-child-safety-features-across-iphone-ipad-and-mac.html
+https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/
+https://github.com/ShehataElsayed/osint-arabic-sources
+https://github.com/Shelunagori/ai-voice-calling-collections-agent
+https://github.com/falword/bybit-card-tracker
+https://github.com/freeosintmaper/osint-map
+https://github.com/souway1/souway1.github.io
+https://www.androidpolice.com/gemini-google-maps-vacation-comparison/
+https://www.androidpolice.com/google-maps-pwd-wheelchair-accessibility-walking-setting/
+https://www.bgr.com/2264196/which-cloud-service-has-best-value/
+https://www.bgr.com/2264437/man-tricked-google-maps-naming-road-after-him/
+https://www.bgr.com/2269416/google-maps-glitch-wreaks-havoc-scotland/
