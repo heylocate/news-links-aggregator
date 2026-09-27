@@ -1,22 +1,17 @@
 {
-  "Phone Lookup": [
-    "https://github.com/ThePrabhnoor/GlyphFlow"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/goolge-ask-maps-road-trip/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.prnewswire.com/news-releases/medimpact-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers-and-health-information-302890807.html"
+    "https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/",
+    "https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach/"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/porcumarcooo/THM-Threat-Intel-File-Hash"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

@@ -1,11 +1,3 @@
-## Phone Lookup
-https://github.com/ThePrabhnoor/GlyphFlow
-
-## Address Lookup
-https://www.androidpolice.com/goolge-ask-maps-road-trip/
-
 ## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/medimpact-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers-and-health-information-302890807.html
-
-## OSINT & Open Source Intelligence
-https://github.com/porcumarcooo/THM-Threat-Intel-File-Hash
+https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/
+https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach/
