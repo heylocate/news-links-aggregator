@@ -1,32 +1,23 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/ThePrabhnoor/GlyphFlow"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.bgr.com/2264196/which-cloud-service-has-best-value/"
-  ],
-  "Background Check": [
-    "https://github.com/Shelunagori/ai-voice-calling-collections-agent"
-  ],
+  "Parental Control": [],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.bgr.com/2264437/man-tricked-google-maps-naming-road-after-him/",
-    "https://www.androidpolice.com/gemini-google-maps-vacation-comparison/",
-    "https://www.androidpolice.com/google-maps-pwd-wheelchair-accessibility-walking-setting/",
-    "https://www.bgr.com/2269416/google-maps-glitch-wreaks-havoc-scotland/"
+    "https://www.androidpolice.com/goolge-ask-maps-road-trip/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/"
+    "https://www.prnewswire.com/news-releases/medimpact-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers-and-health-information-302890807.html"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/souway1/souway1.github.io",
-    "https://github.com/ShehataElsayed/osint-arabic-sources",
-    "https://github.com/freeosintmaper/osint-map"
+    "https://github.com/porcumarcooo/THM-Threat-Intel-File-Hash"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://github.com/falword/bybit-card-tracker"
-  ]
+  "Uncategorized": []
 }

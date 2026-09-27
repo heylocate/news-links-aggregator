@@ -5511,3 +5511,7 @@ https://www.androidpolice.com/google-maps-pwd-wheelchair-accessibility-walking-s
 https://www.bgr.com/2264196/which-cloud-service-has-best-value/
 https://www.bgr.com/2264437/man-tricked-google-maps-naming-road-after-him/
 https://www.bgr.com/2269416/google-maps-glitch-wreaks-havoc-scotland/
+https://github.com/ThePrabhnoor/GlyphFlow
+https://github.com/porcumarcooo/THM-Threat-Intel-File-Hash
+https://www.androidpolice.com/goolge-ask-maps-road-trip/
+https://www.prnewswire.com/news-releases/medimpact-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers-and-health-information-302890807.html
