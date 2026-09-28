@@ -5517,3 +5517,8 @@ https://www.androidpolice.com/goolge-ask-maps-road-trip/
 https://www.prnewswire.com/news-releases/medimpact-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers-and-health-information-302890807.html
 https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach/
 https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/
+https://github.com/HazEOskA/OSINT-AGENT-SHERLOCK-OSA
+https://github.com/noaRoblesLevy/QN-SENTRY
+https://github.com/ssoussana/CallVisor_Beta
+https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/
+https://www.engadget.com/2267714/how-to-improve-carplay-navigation-use-google-maps-not-apple-maps/

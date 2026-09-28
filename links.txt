@@ -1,3 +1,12 @@
-## Security & Anti-Abuse
-https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/
-https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach/
+## Phone Lookup
+https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/
+
+## Address Lookup
+https://www.engadget.com/2267714/how-to-improve-carplay-navigation-use-google-maps-not-apple-maps/
+
+## OSINT & Open Source Intelligence
+https://github.com/HazEOskA/OSINT-AGENT-SHERLOCK-OSA
+https://github.com/noaRoblesLevy/QN-SENTRY
+
+## Uncategorized
+https://github.com/ssoussana/CallVisor_Beta
