@@ -1,12 +1,10 @@
 ## Phone Lookup
-http://www.businesswire.com/news/home/20260928422454/en/Bouygues-Telecom-Becomes-First-Mobile-Network-Operator-in-France-to-Launch-App-Free-Nuisance-Call-Protection/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-
-## Parental Control
-https://www.androidheadlines.com/2026/09/tiktok-alabama-child-safety-settlement-100-million.html
-https://appleinsider.com/articles/26/09/28/why-ios-27-slows-down-even-the-new-iphone-18-pro-at-first
+https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/
 
 ## Address Lookup
-https://www.bgr.com/2266651/how-to-get-google-maps-contribution-rewards/
+https://www.tomsguide.com/vehicle-tech/i-tested-google-maps-immersive-navigation-for-2-weeks-and-it-makes-seeing-tricky-exits-a-breeze-on-apple-carplay-and-android-auto
 
 ## OSINT & Open Source Intelligence
-https://github.com/iiTONELOC/sigint
+https://github.com/International-Arctic/Arctic-Trade-Lanes
+https://github.com/ugisio/conflict-monitor
+https://github.com/International-Arctic/ArcticTradeLanes-Dataset
