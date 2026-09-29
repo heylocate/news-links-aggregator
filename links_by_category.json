@@ -1,23 +1,25 @@
 {
-  "Phone Lookup": [
-    "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://9to5mac.com/2026/09/29/apple-releases-guide-to-help-families-build-healthy-digital-habits/",
+    "https://www.androidcentral.com/apps-software/barks-parental-controls-are-the-best-use-of-ai-ive-ever-seen"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.tomsguide.com/vehicle-tech/i-tested-google-maps-immersive-navigation-for-2-weeks-and-it-makes-seeing-tricky-exits-a-breeze-on-apple-carplay-and-android-auto"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/International-Arctic/Arctic-Trade-Lanes",
-    "https://github.com/ugisio/conflict-monitor",
-    "https://github.com/International-Arctic/ArcticTradeLanes-Dataset"
+  "Security & Anti-Abuse": [
+    "https://github.com/b4mz79/digital-footprint-auditor",
+    "https://www.globenewswire.com/news-release/2026/09/29/3371302/0/en/harbisonwalker-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers-and-financial-information.html",
+    "https://www.globenewswire.com/news-release/2026/09/29/3371292/0/en/man-group-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers.html",
+    "https://www.globenewswire.com/news-release/2026/09/29/3371291/0/en/onemain-financial-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers.html"
   ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.pcworld.com/article/3245390/discords-age-verification-is-less-terrible-than-i-expected.html"
+  ]
 }
