@@ -1,26 +1,24 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://9to5google.com/2026/09/30/google-home-update-find-my-phone-improvements/"
+  ],
   "Parental Control": [
-    "https://www.techspot.com/downloads/6839-whatsapp-desktop.html",
-    "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/"
+    "https://9to5mac.com/2026/09/30/whatsapp-expands-parental-controls-to-teen-accounts-with-group-alerts-meta-ai-restrictions/",
+    "https://www.socialmediatoday.com/news/whatsapp-adds-new-parental-controls/831841/",
+    "https://www.androidheadlines.com/2026/09/whatsapp-adds-new-parental-controls-to-keep-tabs-on-teens.html",
+    "https://www.qustodio.com/en/blog/online-impersonation-kids/"
   ],
   "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [
-    "https://www.androidpolice.com/stop-tapping-through-google-maps-simple-tricks-improve-everyday-drive/",
-    "https://www.androidauthority.com/gemini-gems-phase-out-timeline-3717503/"
+  "People Search": [
+    "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html"
   ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-    "https://www.globenewswire.com/news-release/2026/09/30/3372346/6819/en/poppins-payroll-company-data-breach-alert-issued-by-wolf-haldenstein.html",
-    "https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/pamelazennaro87-creator/pixelleak-osint-public",
-    "https://github.com/argcyberskillhub/OCTOPUS"
+    "https://github.com/thegaruda30-cmd/garuda-OSINT-backend"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
