@@ -1,26 +1,23 @@
 {
   "Phone Lookup": [
-    "https://github.com/DhananiSneh/signet",
-    "https://github.com/Bhavik-APE/apeborn-dograh"
+    "https://blog.hiya.com/benefits-change-caller-id"
   ],
-  "Number / Device Tracking": [
-    "https://github.com/pruthwirajmohanty8-arch/malware-detector-tracker"
-  ],
-  "Parental Control": [
-    "https://www.macworld.com/article/3249606/for-2-days-a-lifetime-subscription-to-this-popular-ad-blocker-is-just-11.html"
-  ],
-  "Background Check": [
-    "https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data"
-  ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.pcworld.com/article/3241444/use-firefox-split-tab-view-to-browse-two-sites-at-once-heres-how.html"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://hackernoon.com/how-msps-can-vet-outsourced-technical-support-providers-for-iso-27001-soc-2-and-client-access?source=rss",
-    "https://www.slashgear.com/2275275/fbi-data-breach-shinyhunters-hacker-arrest-warning/"
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Pradeepthi-P01/STRATINT",
+    "https://github.com/mufon609/Claude_the_Genealogist-OSINT",
+    "https://github.com/yohaneseyohe/eyohe-osint",
+    "https://github.com/xojaahrorA/OSINT"
   ],
-  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
