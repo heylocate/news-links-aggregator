@@ -1,28 +1,27 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/DhananiSneh/signet",
+    "https://github.com/Bhavik-APE/apeborn-dograh"
+  ],
   "Number / Device Tracking": [
-    "https://crookcooked.github.io/crookcooked/"
+    "https://github.com/pruthwirajmohanty8-arch/malware-detector-tracker"
   ],
-  "Parental Control": [],
-  "Background Check": [],
+  "Parental Control": [
+    "https://www.macworld.com/article/3249606/for-2-days-a-lifetime-subscription-to-this-popular-ad-blocker-is-just-11.html"
+  ],
+  "Background Check": [
+    "https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data"
+  ],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/"
-  ],
-  "Image Search": [
-    "https://blog.cloudflare.com/ai-search-ga/"
-  ],
+  "Address Lookup": [],
+  "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.techradar.com/pro/security/massive-pentagon-hack-sees-records-of-2-7-million-us-military-personnel-leaked-during-months-long-data-breach-names-military-service-records-and-social-security-numbers-all-revealed",
-    "https://therecord.media/poland-cyberattack-invoice-software"
+    "https://hackernoon.com/how-msps-can-vet-outsourced-technical-support-providers-for-iso-27001-soc-2-and-client-access?source=rss",
+    "https://www.slashgear.com/2275275/fbi-data-breach-shinyhunters-hacker-arrest-warning/"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/voroneckijartur11-creator/my-osint-bot"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.pcworld.com/article/3236990/anthbot-n8-review.html"
-  ]
+  "Uncategorized": []
 }
