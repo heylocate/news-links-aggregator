@@ -1,14 +1,6 @@
 ## Parental Control
-https://www.pcworld.com/article/3249631/for-2-days-adguards-169-99-lifetime-subscription-is-just-11.html
+https://www.techradar.com/phones/i-wanted-to-lock-down-99-percent-of-my-childs-phone-and-with-google-family-link-that-was-easier-than-i-expected
 
-## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/millstone-medical-outsourcing-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897585.html
-https://www.prnewswire.com/news-releases/caz-investments-lp-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897584.html
-https://www.prnewswire.com/news-releases/poppins-payroll-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897583.html
-https://www.prnewswire.com/news-releases/atlantic-digestive-specialists-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897582.html
-https://www.globenewswire.com/news-release/2026/10/02/3374079/0/en/world-acceptance-corporation-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed.html
-https://www.globenewswire.com/news-release/2026/10/02/3374074/0/en/little-river-memorial-hospital-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed.html
-https://www.globenewswire.com/news-release/2026/10/02/3374072/0/en/world-acceptance-corporation-data-breach-exposes-personal-information-murphy-law-firm-investigates-legal-claims.html
-
-## OSINT & Open Source Intelligence
-https://github.com/maccabiglobal-bot/World-War-Monitor
+## Address Lookup
+https://www.howtogeek.com/4-brilliant-things-you-can-do-with-google-maps-aside-from-navigation/
+https://www.howtogeek.com/this-might-be-one-of-google-maps-most-overlooked-features/
