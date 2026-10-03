@@ -5580,3 +5580,12 @@ https://github.com/mufon609/Claude_the_Genealogist-OSINT
 https://github.com/xojaahrorA/OSINT
 https://github.com/yohaneseyohe/eyohe-osint
 https://www.pcworld.com/article/3241444/use-firefox-split-tab-view-to-browse-two-sites-at-once-heres-how.html
+https://github.com/maccabiglobal-bot/World-War-Monitor
+https://www.globenewswire.com/news-release/2026/10/02/3374072/0/en/world-acceptance-corporation-data-breach-exposes-personal-information-murphy-law-firm-investigates-legal-claims.html
+https://www.globenewswire.com/news-release/2026/10/02/3374074/0/en/little-river-memorial-hospital-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed.html
+https://www.globenewswire.com/news-release/2026/10/02/3374079/0/en/world-acceptance-corporation-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed.html
+https://www.pcworld.com/article/3249631/for-2-days-adguards-169-99-lifetime-subscription-is-just-11.html
+https://www.prnewswire.com/news-releases/atlantic-digestive-specialists-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897582.html
+https://www.prnewswire.com/news-releases/caz-investments-lp-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897584.html
+https://www.prnewswire.com/news-releases/millstone-medical-outsourcing-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897585.html
+https://www.prnewswire.com/news-releases/poppins-payroll-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897583.html
