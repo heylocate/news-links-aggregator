@@ -5592,3 +5592,8 @@ https://www.prnewswire.com/news-releases/poppins-payroll-data-breach-investigati
 https://www.howtogeek.com/4-brilliant-things-you-can-do-with-google-maps-aside-from-navigation/
 https://www.howtogeek.com/this-might-be-one-of-google-maps-most-overlooked-features/
 https://www.techradar.com/phones/i-wanted-to-lock-down-99-percent-of-my-childs-phone-and-with-google-family-link-that-was-easier-than-i-expected
+https://github.com/alban-hh/voipctl
+https://github.com/dimmanuelas/Personal-Cyber-Tool
+https://github.com/whoiskay404/OSINT-Correlation-Engine
+https://www.androidpolice.com/changed-these-google-maps-settings-android-auto-became-much-easier-to-use/
+https://www.globenewswire.com/news-release/2026/10/03/3374110/0/en/notice-to-disregard-edelson-lechtzin-llp-retracts-its-press-release-concerning-man-group.html
