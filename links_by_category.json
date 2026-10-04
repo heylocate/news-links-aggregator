@@ -1,24 +1,25 @@
 {
   "Phone Lookup": [
-    "https://github.com/alban-hh/voipctl"
+    "https://github.com/DGWWWWW/Telephone-Land-line-Call-Blocker-Arduino"
   ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/changed-these-google-maps-settings-android-auto-became-much-easier-to-use/"
+    "https://www.xda-developers.com/best-android-auto-apps-that-arent-google-maps-or-youtube-music/",
+    "https://www.androidpolice.com/google-maps-often-skips-the-best-routes-but-theres-a-simple-way-to-fix-it/",
+    "https://www.bgr.com/2271670/how-long-offline-google-maps-last/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.globenewswire.com/news-release/2026/10/03/3374110/0/en/notice-to-disregard-edelson-lechtzin-llp-retracts-its-press-release-concerning-man-group.html"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/whoiskay404/OSINT-Correlation-Engine",
-    "https://github.com/dimmanuelas/Personal-Cyber-Tool"
+    "https://github.com/careb36/osint-orchestrator-oss"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://github.com/eslutz/SpamHole"
+  ]
 }
