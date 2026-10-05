@@ -5603,3 +5603,9 @@ https://github.com/eslutz/SpamHole
 https://www.androidpolice.com/google-maps-often-skips-the-best-routes-but-theres-a-simple-way-to-fix-it/
 https://www.bgr.com/2271670/how-long-offline-google-maps-last/
 https://www.xda-developers.com/best-android-auto-apps-that-arent-google-maps-or-youtube-music/
+https://databreaches.net/2026/10/04/south-koreas-president-lee-jae-myung-orders-thorough-probe-into-data-breaches-at-local-banks/
+https://github.com/WildanDeveloper/argus
+https://github.com/shofakshafek/Sfixx-X-Osint
+https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
+https://www.androidauthority.com/pixel-11-google-maps-android-auto-bug-3718880/
+https://www.androidcentral.com/apps-software/google-maps/google-maps-mclaren-vehicle-icon

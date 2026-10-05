@@ -1,25 +1,25 @@
 {
-  "Phone Lookup": [
-    "https://github.com/DGWWWWW/Telephone-Land-line-Call-Blocker-Arduino"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.xda-developers.com/best-android-auto-apps-that-arent-google-maps-or-youtube-music/",
-    "https://www.androidpolice.com/google-maps-often-skips-the-best-routes-but-theres-a-simple-way-to-fix-it/",
-    "https://www.bgr.com/2271670/how-long-offline-google-maps-last/"
+    "https://www.androidcentral.com/apps-software/google-maps/google-maps-mclaren-vehicle-icon",
+    "https://www.androidauthority.com/pixel-11-google-maps-android-auto-bug-3718880/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/careb36/osint-orchestrator-oss"
+  "Security & Anti-Abuse": [
+    "https://databreaches.net/2026/10/04/south-koreas-president-lee-jae-myung-orders-thorough-probe-into-data-breaches-at-local-banks/"
   ],
-  "Number Utilities & International": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/shofakshafek/Sfixx-X-Osint",
+    "https://github.com/WildanDeveloper/argus"
+  ],
+  "Number Utilities & International": [
+    "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html"
+  ],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://github.com/eslutz/SpamHole"
-  ]
+  "Uncategorized": []
 }
