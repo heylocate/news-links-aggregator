@@ -5609,3 +5609,9 @@ https://github.com/shofakshafek/Sfixx-X-Osint
 https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
 https://www.androidauthority.com/pixel-11-google-maps-android-auto-bug-3718880/
 https://www.androidcentral.com/apps-software/google-maps/google-maps-mclaren-vehicle-icon
+https://9to5google.com/2026/10/05/google-maps-now-lets-you-turn-your-car-into-a-mclaren-f1/
+https://appleinsider.com/articles/26/10/05/identity-verification-to-be-required-when-reloading-apple-cash
+https://github.com/RiggerSurmount/claritycheck-download
+https://github.com/rzjy54n5sh-rgb/OSINT
+https://www.androidpolice.com/google-maps-tasker-automation/
+https://www.androidpolice.com/google-maps-unusable-on-pixel-11-devices/
