@@ -5620,3 +5620,10 @@ https://github.com/Emmycush/Repository-name-nexus-osint
 https://github.com/damwalrusenergize/claritycheck-download
 https://www.androidheadlines.com/2026/10/pixel-11-bugs-break-google-maps-on-android-auto.html
 https://www.bgr.com/2274523/google-maps-1-in-circle-meaning/
+https://databreaches.net/2026/10/06/denmark-central-person-register-cpr-breach-cyberattack-exposes-data-of-8-8-million/
+https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/
+https://github.com/OPENIGMA/veille-osint
+https://www.androidauthority.com/chrome-android-email-verification-3719745/
+https://www.bgr.com/2274631/google-maps-purple-icons-meaning/
+https://www.mobileworldlive.com/regulation/ofcom-questions-safety-checks-on-instagram-feature/
+https://www.xda-developers.com/pixel-11-users-reporting-google-maps-freezes-strange-visual-glitches-android-auto/
