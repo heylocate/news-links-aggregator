@@ -1,13 +1,12 @@
 ## Phone Lookup
-https://github.com/RiggerSurmount/claritycheck-download
+https://github.com/damwalrusenergize/claritycheck-download
 
 ## Background Check
-https://appleinsider.com/articles/26/10/05/identity-verification-to-be-required-when-reloading-apple-cash
+https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/
 
 ## Address Lookup
-https://www.androidpolice.com/google-maps-tasker-automation/
-https://9to5google.com/2026/10/05/google-maps-now-lets-you-turn-your-car-into-a-mclaren-f1/
-https://www.androidpolice.com/google-maps-unusable-on-pixel-11-devices/
+https://www.androidheadlines.com/2026/10/pixel-11-bugs-break-google-maps-on-android-auto.html
+https://www.bgr.com/2274523/google-maps-1-in-circle-meaning/
 
 ## OSINT & Open Source Intelligence
-https://github.com/rzjy54n5sh-rgb/OSINT
+https://github.com/Emmycush/Repository-name-nexus-osint
