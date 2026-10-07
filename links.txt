@@ -1,14 +1,15 @@
-## Address Lookup
-https://www.xda-developers.com/pixel-11-users-reporting-google-maps-freezes-strange-visual-glitches-android-auto/
-https://www.bgr.com/2274631/google-maps-purple-icons-meaning/
+## Phone Lookup
+https://github.com/GalaxyJammed/ShieldCall
+https://www.engadget.com/2277629/how-to-stop-spam-calls-iphone-android/
 
-## Email Lookup
-https://www.androidauthority.com/chrome-android-email-verification-3719745/
+## Address Lookup
+https://www.howtogeek.com/useful-google-maps-accessibility-features-overlook-they-help-everyone/
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/
-https://www.mobileworldlive.com/regulation/ofcom-questions-safety-checks-on-instagram-feature/
-https://databreaches.net/2026/10/06/denmark-central-person-register-cpr-breach-cyberattack-exposes-data-of-8-8-million/
+https://www.androidauthority.com/trump-mobile-subscriber-data-leak-3719958/
+https://haveibeenpwned.com/Breach/DoubleCounter
+https://www.androidheadlines.com/2026/10/trump-mobile-data-breach-exposes-personal-details-of-thousands-of-users.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/OPENIGMA/veille-osint
+https://github.com/MaenExists/Maven
+https://github.com/OsintMeThat/azimut
