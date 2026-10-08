@@ -5644,3 +5644,17 @@ https://blog.google/company-news/inside-google/around-the-globe/google-europe/un
 https://github.com/thuvinduM/cisco-outbound-caller-id-manager
 https://www.techradar.com/vehicle-tech/accuracy-is-very-important-uk-drivers-will-start-seeing-local-fuel-prices-in-google-maps-and-waze-as-the-cost-of-petrol-and-diesel-keeps-rising
 https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/
+https://9to5google.com/2026/10/08/google-ending-safety-signal-support-pixel-watch/
+https://appleinsider.com/articles/26/10/08/theres-a-hidden-upside-to-the-rampocalypse-for-apple
+https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/
+https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/
+https://github.com/jcharcenko/russian-cyber-threat-assessment-2025-2026
+https://github.com/thebristolsound/birdbrain
+https://www.androidauthority.com/fcc-ai-political-robocall-3720952/
+https://www.androidauthority.com/google-ask-maps-share-conversation-apk-teardown-3720761/
+https://www.androidauthority.com/google-maps-dining-list-2026-3720627/
+https://www.bgr.com/2275626/what-does-camera-symbols-mean-google-maps/
+https://www.bgr.com/2276065/things-ask-gemini-for-better-google-maps-results/
+https://www.slashgear.com/2275475/what-does-circled-1-icon-mean-google-maps/
+https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending
+https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/
