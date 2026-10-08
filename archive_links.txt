@@ -5640,3 +5640,7 @@ https://appleinsider.com/articles/26/10/07/apples-escalating-crackdown-on-ad-ven
 https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision
 https://www.howtogeek.com/new-google-maps-gestures-every-driver-should-know/
 https://www.xda-developers.com/i-switched-back-to-waze-for-one-feature-google-maps-still-refuses-to-get-right/
+https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/
+https://github.com/thuvinduM/cisco-outbound-caller-id-manager
+https://www.techradar.com/vehicle-tech/accuracy-is-very-important-uk-drivers-will-start-seeing-local-fuel-prices-in-google-maps-and-waze-as-the-cost-of-petrol-and-diesel-keeps-rising
+https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/
