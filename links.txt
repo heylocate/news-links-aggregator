@@ -1,23 +1,16 @@
 ## Phone Lookup
-https://www.androidauthority.com/fcc-ai-political-robocall-3720952/
+https://github.com/Alaaelfallah/smart-clinic-yeastar--original
+
+## Parental Control
+https://www.howtogeek.com/no-phone-after-6-pm-system-pixel-watch-changed-more-than-screen-time/
+https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/
 
 ## Address Lookup
-https://www.bgr.com/2276065/things-ask-gemini-for-better-google-maps-results/
-https://www.slashgear.com/2275475/what-does-circled-1-icon-mean-google-maps/
-https://www.androidauthority.com/google-ask-maps-share-conversation-apk-teardown-3720761/
-https://www.androidauthority.com/google-maps-dining-list-2026-3720627/
-https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/
-https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/
-https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/
-https://www.bgr.com/2275626/what-does-camera-symbols-mean-google-maps/
+https://www.xda-developers.com/drove-miles-with-google-maps-found-hidden-features-actually-worth-using/
 
 ## Security & Anti-Abuse
-https://9to5google.com/2026/10/08/google-ending-safety-signal-support-pixel-watch/
-https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending
+https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/
 
 ## OSINT & Open Source Intelligence
-https://github.com/jcharcenko/russian-cyber-threat-assessment-2025-2026
-https://github.com/thebristolsound/birdbrain
-
-## Uncategorized
-https://appleinsider.com/articles/26/10/08/theres-a-hidden-upside-to-the-rampocalypse-for-apple
+https://github.com/DanielBretschneider/SurfaceIntel
+https://github.com/KunalDharme/DFIS
