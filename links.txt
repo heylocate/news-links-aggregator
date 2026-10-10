@@ -1,8 +1,2 @@
-## Address Lookup
-https://www.howtogeek.com/every-driver-should-try-google-maps-new-immersive-navigation-reason-avoid/
-
-## Security & Anti-Abuse
-https://www.globenewswire.com/news-release/2026/10/09/3378339/0/en/southern-company-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed.html
-https://therecord.media/irhythm-data-breach-reports
-https://www.computerworld.com/article/4233223/ransomware-consultant-said-he-would-decrypt-data-is-accused-of-paying-ransoms-instead-2.html
-https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation
+## Parental Control
+https://www.eff.org/deeplinks/2026/10/turkish-crackdown-lgbtq-organizations-threatens-freedom-expression-and-association
