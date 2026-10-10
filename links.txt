@@ -1,2 +1,13 @@
-## Parental Control
-https://www.eff.org/deeplinks/2026/10/turkish-crackdown-lgbtq-organizations-threatens-freedom-expression-and-association
+## Phone Lookup
+https://github.com/Akshit0203/voip-callerid-spoofing-lab
+
+## Address Lookup
+https://www.engadget.com/2278953/how-to-change-home-address-google-maps/
+https://www.engadget.com/2278593/how-to-drop-pin-google-maps/
+https://www.androidpolice.com/google-maps-trending-section-waze/
+
+## Security & Anti-Abuse
+https://www.androidheadlines.com/2026/10/canadian-cybersecurity-executive-arrested-fbi-data-breach-shinyhunters.html
+
+## OSINT & Open Source Intelligence
+https://github.com/Dineth-Basura/meridian-transfer-ctf-platform
