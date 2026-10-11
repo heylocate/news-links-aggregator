@@ -1,17 +1,11 @@
 ## Phone Lookup
-https://github.com/SecretSC/spoofing
-https://github.com/ashwin555-b/CallTrace
+https://github.com/duniabvincent-cpu/verified-caller-id
 
-## Number / Device Tracking
-https://www.macworld.com/article/3256581/this-23-99-find-my-tracker-is-thin-enough-to-live-in-your-wallet.html
-
-## Parental Control
-https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/
-https://www.xda-developers.com/this-android-tv-launcher-gave-screen-time-controls-still-not-switching-monet/
-
-## Security & Anti-Abuse
-https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/
+## Address Lookup
+https://www.howtogeek.com/i-tried-a-de-googled-version-of-google-maps-and-its-the-most-impressive-foss-navigator-ive-tried-yet/
+https://www.bgr.com/2274345/google-maps-strangest-discoveries/
 
 ## OSINT & Open Source Intelligence
-https://github.com/xxxcess/argos-osint
-https://github.com/Kalyx1111/Maldives-Dashboard
+https://github.com/vashudevx1451-dotcom/Osint-fast-bot
+https://github.com/wisniabobo/osint-
+https://hackernoon.com/before-you-bid-an-osint-framework-for-spotting-fake-online-auctions?source=rss
