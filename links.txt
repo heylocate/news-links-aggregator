@@ -1,13 +1,17 @@
 ## Phone Lookup
-https://github.com/Akshit0203/voip-callerid-spoofing-lab
+https://github.com/SecretSC/spoofing
+https://github.com/ashwin555-b/CallTrace
 
-## Address Lookup
-https://www.engadget.com/2278953/how-to-change-home-address-google-maps/
-https://www.engadget.com/2278593/how-to-drop-pin-google-maps/
-https://www.androidpolice.com/google-maps-trending-section-waze/
+## Number / Device Tracking
+https://www.macworld.com/article/3256581/this-23-99-find-my-tracker-is-thin-enough-to-live-in-your-wallet.html
+
+## Parental Control
+https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/
+https://www.xda-developers.com/this-android-tv-launcher-gave-screen-time-controls-still-not-switching-monet/
 
 ## Security & Anti-Abuse
-https://www.androidheadlines.com/2026/10/canadian-cybersecurity-executive-arrested-fbi-data-breach-shinyhunters.html
+https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/
 
 ## OSINT & Open Source Intelligence
-https://github.com/Dineth-Basura/meridian-transfer-ctf-platform
+https://github.com/xxxcess/argos-osint
+https://github.com/Kalyx1111/Maldives-Dashboard
