@@ -5691,3 +5691,8 @@ https://github.com/wisniabobo/osint-
 https://hackernoon.com/before-you-bid-an-osint-framework-for-spotting-fake-online-auctions?source=rss
 https://www.bgr.com/2274345/google-maps-strangest-discoveries/
 https://www.howtogeek.com/i-tried-a-de-googled-version-of-google-maps-and-its-the-most-impressive-foss-navigator-ive-tried-yet/
+https://github.com/ProbivCC/OSINT-Guides
+https://github.com/Ridd1kulusC0d3r/python-para-osint-21-dias
+https://github.com/diyari-mussa/Caller-OSINT
+https://www.bgr.com/2279862/google-maps-gas-price-alternative-apps-save-money/
+https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/
