@@ -5704,3 +5704,7 @@ https://www.bgr.com/2283253/why-google-maps-gives-bad-routes/
 https://www.bgr.com/2283944/apple-parental-control-update-problems-for-users/
 https://www.techradar.com/vpn/vpn-services/nordvpn-brings-message-protection-to-iphone-alongside-new-free-scam-blocking-app
 https://www.xda-developers.com/google-maps-destroying-battery-on-long-drives-until-changed-these-settings/
+https://github.com/savecontentrestricted-pixel/osint
+https://hackernoon.com/ten-scandals-pushing-enterprises-toward-sovereign-ai?source=rss
+https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726
+https://www.troyhunt.com/weekly-update-525/
