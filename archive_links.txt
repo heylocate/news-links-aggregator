@@ -5708,3 +5708,6 @@ https://github.com/savecontentrestricted-pixel/osint
 https://hackernoon.com/ten-scandals-pushing-enterprises-toward-sovereign-ai?source=rss
 https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726
 https://www.troyhunt.com/weekly-update-525/
+https://www.howtogeek.com/replace-google-maps-timeline-with-self-hosted-app/
+https://www.techradar.com/pro/security/over-8-7-million-karaoke-fans-at-risk-after-major-data-breach-japanese-giant-nippon-columbia-says-malware-infection-was-to-blame-for-exposing-records
+https://www.techradar.com/vpn/vpn-privacy-security/vpn-dark-web-alerts-vs-free-tools-are-you-paying-extra-for-repackaged-data
