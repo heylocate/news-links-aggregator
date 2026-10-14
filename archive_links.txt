@@ -5711,3 +5711,8 @@ https://www.troyhunt.com/weekly-update-525/
 https://www.howtogeek.com/replace-google-maps-timeline-with-self-hosted-app/
 https://www.techradar.com/pro/security/over-8-7-million-karaoke-fans-at-risk-after-major-data-breach-japanese-giant-nippon-columbia-says-malware-infection-was-to-blame-for-exposing-records
 https://www.techradar.com/vpn/vpn-privacy-security/vpn-dark-web-alerts-vs-free-tools-are-you-paying-extra-for-repackaged-data
+https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/
+https://github.com/Falconmx1/mx_falconmx_security
+https://github.com/gfullsec/security-analysis-suite
+https://github.com/mughees08/mughees-ai-security-toolkit
+https://github.com/onoff404/Osint

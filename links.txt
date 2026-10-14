@@ -1,6 +1,8 @@
-## Address Lookup
-https://www.howtogeek.com/replace-google-maps-timeline-with-self-hosted-app/
-
 ## Security & Anti-Abuse
-https://www.techradar.com/vpn/vpn-privacy-security/vpn-dark-web-alerts-vs-free-tools-are-you-paying-extra-for-repackaged-data
-https://www.techradar.com/pro/security/over-8-7-million-karaoke-fans-at-risk-after-major-data-breach-japanese-giant-nippon-columbia-says-malware-infection-was-to-blame-for-exposing-records
+https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/
+
+## OSINT & Open Source Intelligence
+https://github.com/mughees08/mughees-ai-security-toolkit
+https://github.com/gfullsec/security-analysis-suite
+https://github.com/onoff404/Osint
+https://github.com/Falconmx1/mx_falconmx_security
