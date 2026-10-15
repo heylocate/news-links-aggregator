@@ -1,18 +1,17 @@
 ## Phone Lookup
-https://github.com/Xizicl/YellowPages
-
-## Number / Device Tracking
-https://www.globenewswire.com/news-release/2026/10/15/3381393/28124/en/saudi-arabia-soft-magnetic-materials-market-outlook-and-forecast-2026-2031-vision-2030-grid-modernization-and-renewable-energy-drive-usd-125-76-million-growth-opportunity.html
+https://blog.hiya.com/overcoming-the-nuisance-call-problem-in-france-with-bouygues-telecom
 
 ## Parental Control
-https://github.com/owen282000/life-dashboard-companion-app
-https://www.pcworld.com/article/3260941/today-only-ad-free-browsing-is-15-for-life.html
-https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/
+https://www.prnewswire.com/news-releases/wewards-walking-mode-named-to-times-best-inventions-of-2026-list-302910316.html
+https://www.qustodio.com/en/blog/abc-model-digital-safety/
 
 ## Background Check
-https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial
+https://thenextweb.com/news/xdc-network-concordium-identity-verification-ai-agents
 
-## Address Lookup
-https://www.socialmediatoday.com/news/snap-reports-on-snap-map-data-for-brands/833065/
-https://www.howtogeek.com/google-maps-has-a-clever-way-to-find-places-without-an-address/
-https://www.slashgear.com/2281639/android-auto-google-maps-missing-speedometer-how-get-back-update/
+## Security & Anti-Abuse
+https://databreaches.net/2026/10/15/vibetech-database-exposes-13-7m-records-including-assortment-of-old-breaches/
+https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/
+https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978/
+
+## OSINT & Open Source Intelligence
+https://github.com/whispr-dev/osint-maxwell-demon-detector
