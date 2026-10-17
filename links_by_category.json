@@ -3,12 +3,21 @@
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [],
+  "People Search": [
+    "https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy/"
+  ],
+  "Address Lookup": [
+    "https://www.androidauthority.com/using-lists-labels-google-maps-3720835/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+    "https://databreaches.net/2026/10/16/kr-nhis-employee-sold-data-victims-uninformed-for-three-months/"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/adce626/arsenalosint"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
