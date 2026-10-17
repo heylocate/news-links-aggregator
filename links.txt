@@ -1,12 +1,2 @@
-## People Search
-https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy/
-
 ## Address Lookup
-https://www.androidauthority.com/using-lists-labels-google-maps-3720835/
-
-## Security & Anti-Abuse
-https://therecord.media/anne-arundel-county-maryland-confirms-data-breach
-https://databreaches.net/2026/10/16/kr-nhis-employee-sold-data-victims-uninformed-for-three-months/
-
-## OSINT & Open Source Intelligence
-https://github.com/adce626/arsenalosint
+https://www.engadget.com/2284032/why-some-places-blurry-google-maps/
