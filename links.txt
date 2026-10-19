@@ -1,2 +1,10 @@
+## Phone Lookup
+https://www.prnewswire.com/news-releases/truecaller-announces-preliminary-numbers-for-the-third-quarter-2026-302912239.html
+https://github.com/0xpaperhead/voicemail-heist
+
 ## Address Lookup
-https://www.androidpolice.com/google-maps-indoor-maps-to-navigate-inside-buildings/
+https://www.bgr.com/2286294/does-google-maps-use-more-data-when-zoom-in/
+
+## OSINT & Open Source Intelligence
+https://github.com/Provereno-Media/OSINT-Tools-Cuba
+https://github.com/Dutchosintguy/X-phising-campaign-monitor

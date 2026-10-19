@@ -1,16 +1,22 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://www.prnewswire.com/news-releases/truecaller-announces-preliminary-numbers-for-the-third-quarter-2026-302912239.html",
+    "https://github.com/0xpaperhead/voicemail-heist"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/google-maps-indoor-maps-to-navigate-inside-buildings/"
+    "https://www.bgr.com/2286294/does-google-maps-use-more-data-when-zoom-in/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Provereno-Media/OSINT-Tools-Cuba",
+    "https://github.com/Dutchosintguy/X-phising-campaign-monitor"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
