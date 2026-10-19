@@ -1,21 +1,33 @@
 {
-  "Phone Lookup": [
-    "https://www.prnewswire.com/news-releases/truecaller-announces-preliminary-numbers-for-the-third-quarter-2026-302912239.html",
-    "https://github.com/0xpaperhead/voicemail-heist"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
-  "Background Check": [],
-  "People Search": [],
+  "Parental Control": [
+    "https://www.qustodio.com/en/blog/alert-resources/"
+  ],
+  "Background Check": [
+    "https://www.techradar.com/pro/zoom-can-now-tell-you-for-sure-that-the-person-youre-speaking-to-isnt-a-deepfake-sam-altmans-world-debuts-id-verification-for-ai-agents"
+  ],
+  "People Search": [
+    "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
+    "https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos"
+  ],
   "Address Lookup": [
-    "https://www.bgr.com/2286294/does-google-maps-use-more-data-when-zoom-in/"
+    "https://www.bgr.com/2288158/which-google-maps-navigation-mode-should-use/",
+    "https://thenextweb.com/news/trump-google-maps-kiss-my-ass-gulf-of-mexico-call",
+    "https://hackernoon.com/google-maps-bookings-have-an-attribution-problem-can-your-data-pipeline-explain-why?source=rss"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
+  "Security & Anti-Abuse": [
+    "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+    "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/",
+    "https://www.techradar.com/pro/security/whopper-of-a-data-breach-sees-burger-king-japan-expose-over-11-million-customer-records",
+    "https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html",
+    "https://www.malwarebytes.com/blog/data-breaches/2026/10/millions-of-california-students-sensitive-data-stolen-in-breach"
+  ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Provereno-Media/OSINT-Tools-Cuba",
-    "https://github.com/Dutchosintguy/X-phising-campaign-monitor"
+    "https://github.com/Osa300-codre/gotham-osint",
+    "https://github.com/mikloshetzer-sketch/Migration-OSINT-Editorial-Private"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
