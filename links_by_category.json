@@ -1,26 +1,28 @@
 {
   "Phone Lookup": [
-    "https://github.com/rawatriya7514-lab/craftcaller"
+    "https://github.com/merry8989-uk/kavach",
+    "https://blog.hiya.com/telefonica-launches-with-hiya-in-spain",
+    "https://github.com/RX3C9/Kashif",
+    "http://www.businesswire.com/news/home/20261020786348/en/Hiya-and-Telef%C3%B3nica-Boost-Caller-Identification-so-Businesses-Are-Instantly-Recognizable-to-Their-Customers/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+    "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+    "https://www.qustodio.com/en/blog/what-is-maxxing/"
+  ],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.bgr.com/2291074/why-you-should-switch-map-quest-google-maps-privacy/",
-    "https://www.howtogeek.com/these-google-maps-mistakes-quietly-drain-your-phone-battery/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://haveibeenpwned.com/Breach/AssuranceRetraite"
+    "https://www.techradar.com/pro/security/millions-of-california-students-have-sensitive-data-stolen-names-ssids-home-addresses-and-more-taken-in-attack-on-nonprofit",
+    "https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/",
+    "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/cipher387/osint_stuff_tool_collection"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data"
-  ]
+  "Uncategorized": []
 }
