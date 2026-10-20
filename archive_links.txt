@@ -5772,3 +5772,9 @@ https://www.malwarebytes.com/blog/data-breaches/2026/10/millions-of-california-s
 https://www.qustodio.com/en/blog/alert-resources/
 https://www.techradar.com/pro/security/whopper-of-a-data-breach-sees-burger-king-japan-expose-over-11-million-customer-records
 https://www.techradar.com/pro/zoom-can-now-tell-you-for-sure-that-the-person-youre-speaking-to-isnt-a-deepfake-sam-altmans-world-debuts-id-verification-for-ai-agents
+https://github.com/cipher387/osint_stuff_tool_collection
+https://github.com/rawatriya7514-lab/craftcaller
+https://haveibeenpwned.com/Breach/AssuranceRetraite
+https://www.bgr.com/2291074/why-you-should-switch-map-quest-google-maps-privacy/
+https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data
+https://www.howtogeek.com/these-google-maps-mistakes-quietly-drain-your-phone-battery/
