@@ -1,21 +1,24 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.androidheadlines.com/2026/10/tiktok-execs-ignored-child-safety-warnings-report.html",
+    "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidpolice.com/telegram-replaces-google-maps-on-road-trips-by-combining-live-location-tracking-with-chat/"
+    "https://thenextweb.com/news/google-aerial-imagery-spying-german-court",
+    "https://appleinsider.com/articles/26/10/21/google-maps-now-lets-you-ask-gemini-for-help-on-the-road-with-carplay",
+    "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
+    "https://www.androidauthority.com/gemini-navigation-google-maps-carplay-3725752/",
+    "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.xda-developers.com/obsidian-launched-safety-scorecards-for-plugins-checking-mine-changed-what-i-keep-installed/",
-    "https://therecord.media/california-warns-all-public-school-students-of-data-breach"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/SOsintOps/Exploratores",
-    "https://github.com/luckydan1mc-arch/osint-brief-site"
+    "https://github.com/KristinaSabitova/whois"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
