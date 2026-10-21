@@ -5788,3 +5788,8 @@ https://www.qustodio.com/en/blog/what-is-maxxing/
 https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/
 https://www.techradar.com/pro/security/millions-of-california-students-have-sensitive-data-stolen-names-ssids-home-addresses-and-more-taken-in-attack-on-nonprofit
 https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings
+https://github.com/SOsintOps/Exploratores
+https://github.com/luckydan1mc-arch/osint-brief-site
+https://therecord.media/california-warns-all-public-school-students-of-data-breach
+https://www.androidpolice.com/telegram-replaces-google-maps-on-road-trips-by-combining-live-location-tracking-with-chat/
+https://www.xda-developers.com/obsidian-launched-safety-scorecards-for-plugins-checking-mine-changed-what-i-keep-installed/
