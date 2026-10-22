@@ -1,25 +1,27 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.androidheadlines.com/2026/10/tiktok-execs-ignored-child-safety-warnings-report.html",
-    "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online"
+  "Phone Lookup": [
+    "https://github.com/rawatriya7514-lab/callercraft",
+    "https://github.com/hometimewindows/icon"
   ],
-  "Background Check": [],
+  "Number / Device Tracking": [
+    "https://github.com/ramhare-code/Tracking-site"
+  ],
+  "Parental Control": [
+    "https://www.pcworld.com/article/3266395/block-ads-on-9-devices-with-lifetime-access-to-adguard-family-for-just-14-97.html",
+    "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement"
+  ],
+  "Background Check": [
+    "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+    "https://www.eff.org/deeplinks/2026/10/effs-state-legislative-agenda-end-alpr-mass-surveillance"
+  ],
   "People Search": [],
   "Address Lookup": [
-    "https://thenextweb.com/news/google-aerial-imagery-spying-german-court",
-    "https://appleinsider.com/articles/26/10/21/google-maps-now-lets-you-ask-gemini-for-help-on-the-road-with-carplay",
-    "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
-    "https://www.androidauthority.com/gemini-navigation-google-maps-carplay-3725752/",
-    "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/"
+    "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/KristinaSabitova/whois"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
