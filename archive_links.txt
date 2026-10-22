@@ -5809,3 +5809,7 @@ https://www.macrumors.com/2026/10/21/anthropic-claude-duet/
 https://www.pcworld.com/article/3266395/block-ads-on-9-devices-with-lifetime-access-to-adguard-family-for-just-14-97.html
 https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement
 https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/
+https://github.com/hari157/PhoneBridge
+https://github.com/ybivashhka/OSINT-Hunter-Telegram-Bot
+https://www.bgr.com/2289997/google-maps-important-tips-drivers-need-to-know/
+https://www.computerworld.com/article/4239067/apple-please-give-family-it-admins-a-pester-button.html
