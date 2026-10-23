@@ -1,22 +1,24 @@
 {
   "Phone Lookup": [
-    "https://github.com/CallerAPI/Caller-ID-Monitoring"
+    "https://github.com/osamarehman/surecaller-server"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.androidauthority.com/samsung-galaxy-s24-s25-one-ui-9-battery-drain-3727166/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://9to5google.com/2026/10/22/gemini-personal-intelligence-maps/"
+    "https://www.androidheadlines.com/2026/10/trump-asked-google-maps-rename-atlantic-pichai-said-no.html"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-    "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-    "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach"
+    "https://www.techradar.com/pro/security/capcom-data-breach-confirmed-around-11-7-million-accounts-thought-to-have-been-affected"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/OTInstaller/otinstaller"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
