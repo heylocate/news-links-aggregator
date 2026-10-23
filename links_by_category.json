@@ -1,22 +1,22 @@
 {
   "Phone Lookup": [
-    "https://github.com/hari157/PhoneBridge"
+    "https://github.com/CallerAPI/Caller-ID-Monitoring"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.computerworld.com/article/4239067/apple-please-give-family-it-admins-a-pester-button.html"
-  ],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.bgr.com/2289997/google-maps-important-tips-drivers-need-to-know/"
+    "https://9to5google.com/2026/10/22/gemini-personal-intelligence-maps/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/ybivashhka/OSINT-Hunter-Telegram-Bot"
+  "Security & Anti-Abuse": [
+    "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+    "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+    "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach"
   ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
