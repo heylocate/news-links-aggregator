@@ -5826,3 +5826,4 @@ https://www.techradar.com/pro/security/capcom-data-breach-confirmed-around-11-7-
 https://github.com/mafk21/OSINT
 https://www.eff.org/deeplinks/2026/10/computer-security-about-get-lot-worse-heres-what-you-can-do
 https://www.howtogeek.com/5-google-maps-features-i-wish-id-discovered-sooner/
+https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/

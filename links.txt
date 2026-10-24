@@ -1,8 +1,2 @@
-## Address Lookup
-https://www.howtogeek.com/5-google-maps-features-i-wish-id-discovered-sooner/
-
 ## Security & Anti-Abuse
-https://www.eff.org/deeplinks/2026/10/computer-security-about-get-lot-worse-heres-what-you-can-do
-
-## OSINT & Open Source Intelligence
-https://github.com/mafk21/OSINT
+https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/
