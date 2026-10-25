@@ -1,2 +1,10 @@
-## Security & Anti-Abuse
-https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/
+## People Search
+https://www.pcworld.com/article/3268659/stop-data-brokers-from-selling-your-info-with-this-95-surfshark-bundle.html
+
+## Address Lookup
+https://www.howtogeek.com/powerful-google-maps-customizations-hidden-settings/
+
+## OSINT & Open Source Intelligence
+https://github.com/Lexus14/OSINT-by-Zhang
+https://github.com/martin-cyber83/OSINT-NOTICIAS
+https://github.com/Ahmad170412/Spyglass-PRO
