@@ -4,7 +4,9 @@
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.xda-developers.com/used-google-maps-for-years-but-these-settings-make-me-wonder-what-else-ive-missed/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],

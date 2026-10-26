@@ -5832,3 +5832,4 @@ https://github.com/Lexus14/OSINT-by-Zhang
 https://github.com/martin-cyber83/OSINT-NOTICIAS
 https://www.howtogeek.com/powerful-google-maps-customizations-hidden-settings/
 https://www.pcworld.com/article/3268659/stop-data-brokers-from-selling-your-info-with-this-95-surfshark-bundle.html
+https://www.xda-developers.com/used-google-maps-for-years-but-these-settings-make-me-wonder-what-else-ive-missed/
