@@ -1,14 +1,29 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/umbrellahwid/UmbrellaSpoofer"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html"
+  ],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover"
+  ],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://databreaches.net/2026/10/27/moldova-issues-warning-about-new-cyberattacks-following-a-data-breach/",
+    "https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/",
+    "https://databreaches.net/2026/10/27/hacker-breached-capcom-id-obtained-data-from-11-million-accounts-and-started-changing-passwords/",
+    "https://databreaches.net/2026/10/27/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
+    "https://www.techradar.com/pro/security/over-525-000-hit-in-massive-university-of-copenhagen-data-breach",
+    "https://haveibeenpwned.com/Breach/AfD"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/gabrielcoghi-rgb/spectre-graph"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

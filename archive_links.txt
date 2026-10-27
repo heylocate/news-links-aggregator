@@ -5835,3 +5835,13 @@ https://www.pcworld.com/article/3268659/stop-data-brokers-from-selling-your-info
 https://www.xda-developers.com/used-google-maps-for-years-but-these-settings-make-me-wonder-what-else-ive-missed/
 https://www.globenewswire.com/news-release/2026/10/26/3388560/0/en/fourteen-foods-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-names-and-social-security-numbers-are-exposed.html
 https://www.howtogeek.com/i-tried-samsungs-driving-report-and-google-maps-is-missing-this/
+https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/
+https://databreaches.net/2026/10/27/hacker-breached-capcom-id-obtained-data-from-11-million-accounts-and-started-changing-passwords/
+https://databreaches.net/2026/10/27/moldova-issues-warning-about-new-cyberattacks-following-a-data-breach/
+https://databreaches.net/2026/10/27/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/
+https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover
+https://github.com/gabrielcoghi-rgb/spectre-graph
+https://github.com/umbrellahwid/UmbrellaSpoofer
+https://haveibeenpwned.com/Breach/AfD
+https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html
+https://www.techradar.com/pro/security/over-525-000-hit-in-massive-university-of-copenhagen-data-breach
