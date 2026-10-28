@@ -1,23 +1,29 @@
 {
   "Phone Lookup": [
-    "https://github.com/tekno0ryder/dumb-caller-id"
+    "https://github.com/LyraBelowElysium/UmbrellaSpoofer-resocket"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.tomsguide.com/phones/android-phones/3-android-auto-apps-that-do-what-google-maps-and-waze-cant"
+    "https://www.mobileworldlive.com/north-america/tiktok-branches-out-into-restaurant-recommendations/",
+    "https://www.androidauthority.com/google-maps-fall-colors-android-auto-3729057/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/10/27/privacy-commissioner-of-canada-to-investigate-data-breach-involving-crime-stoppers/",
-    "https://www.cnet.com/tech/mobile/att-177-million-data-breach-settlement-payouts-checks/",
-    "https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/",
-    "https://databreaches.net/2026/10/27/university-of-copenhagen-data-breach-exposes-data-of-525000-people/"
+    "https://databreaches.net/2026/10/28/jpn-times-car-reporting-%c2%a55-5-billion-loss-has-firms-bracing-for-data-breach-fallout/",
+    "https://databreaches.net/2026/10/28/japanese-internet-giant-gmo-tells-customers-to-shut-down-and-disconnect-pcs-from-the-internet-following-data-breach-and-ransomware-threat/",
+    "https://www.techradar.com/pro/security/japanese-internet-giant-gmo-tells-customers-to-shut-down-and-disconnect-pcs-from-the-internet-following-data-breach-and-ransomware-threat",
+    "https://databreaches.net/2026/10/28/traceability-becomes-the-new-battleground-in-healthcare-data-breach-litigation/",
+    "https://databreaches.net/2026/10/28/court-denies-motions-to-dismiss-in-powerschool-data-breach-litigation/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/ChrisDT207/osint-digital-footprint"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
