@@ -5845,3 +5845,9 @@ https://github.com/umbrellahwid/UmbrellaSpoofer
 https://haveibeenpwned.com/Breach/AfD
 https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html
 https://www.techradar.com/pro/security/over-525-000-hit-in-massive-university-of-copenhagen-data-breach
+https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/
+https://databreaches.net/2026/10/27/privacy-commissioner-of-canada-to-investigate-data-breach-involving-crime-stoppers/
+https://databreaches.net/2026/10/27/university-of-copenhagen-data-breach-exposes-data-of-525000-people/
+https://github.com/tekno0ryder/dumb-caller-id
+https://www.cnet.com/tech/mobile/att-177-million-data-breach-settlement-payouts-checks/
+https://www.tomsguide.com/phones/android-phones/3-android-auto-apps-that-do-what-google-maps-and-waze-cant
