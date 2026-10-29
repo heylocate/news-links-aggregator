@@ -1,22 +1,26 @@
 {
-  "Phone Lookup": [
-    "https://github.com/cosmick07/omega-caller-id-updates",
-    "https://github.com/Voiben/CallGuard"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.eff.org/deeplinks/2026/10/tech-tips-parents-digital-parenting-week"
+  ],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit"
+  ],
   "Address Lookup": [
-    "https://www.xda-developers.com/i-tried-open-source-google-maps-alternatives-and-one-was-an-easy-winner/"
+    "https://www.androidpolice.com/google-maps-to-spot-red-flags-and-avoid-wasted-trips/",
+    "https://9to5google.com/2026/10/29/google-maps-fall-foliage-update/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
-    "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents"
+    "https://blog.talosintelligence.com/ir-trends-q3-2026/",
+    "https://www.techradar.com/pro/security/data-breach-at-sony-isp-subsidiary-exposes-2-5-million-customer-records-as-japan-hit-with-another-major-cyberattack"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/HaydenRyu/korea-security-watch"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
