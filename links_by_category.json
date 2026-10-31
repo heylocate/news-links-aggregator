@@ -1,33 +1,16 @@
 {
   "Phone Lookup": [
-    "http://www.businesswire.com/news/home/20261030991368/en/Hiya-Powers-O2%E2%80%99s-Network-Level-Fraud-Call-Blocking-Expected-to-Stop-3-Million-Scam-Calls-a-Week/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
+    "https://github.com/bhubbard/searchphone"
   ],
-  "Number / Device Tracking": [
-    "https://www.macworld.com/article/3271694/this-23-99-find-my-tracker-fits-in-your-wallet-like-a-credit-card.html"
-  ],
-  "Parental Control": [
-    "https://www.androidauthority.com/google-pixel-family-hub-test-ios-style-3729970/",
-    "https://www.wired.com/story/oh-my-hours-ios-app/",
-    "https://www.tomsguide.com/computing/online-security/bought-a-new-tablet-for-your-kids-heres-how-to-lock-it-down-before-handing-it-over"
-  ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://appleinsider.com/articles/26/10/30/i-rely-on-this-apple-maps-feature-tons-of-people-dont-know-exists",
-    "https://www.androidheadlines.com/2026/10/google-maps-will-now-bring-fall-foliage-to-your-driving-routes.html",
-    "https://www.tomsguide.com/ai/i-used-googles-ask-maps-feature-to-plan-my-halloween-weekend-festivities-7-events-it-recommended-id-actually-attend"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://www.theglobeandmail.com/business/article-bennett-jones-hit-in-data-breach-targeting-bay-street-law-firms/",
-    "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
-    "https://databreaches.net/2026/10/29/extent-of-crime-stoppers-data-breach-unknown-sault-police-chief/",
-    "https://databreaches.net/2026/10/29/florida-education-department-says-data-breach-may-affect-4-9-million-people/"
-  ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/Baron-Dracaena/StratCom"
-  ],
+  "Security & Anti-Abuse": [],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
