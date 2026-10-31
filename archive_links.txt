@@ -5887,3 +5887,6 @@ https://www.tomsguide.com/ai/i-used-googles-ask-maps-feature-to-plan-my-hallowee
 https://www.tomsguide.com/computing/online-security/bought-a-new-tablet-for-your-kids-heres-how-to-lock-it-down-before-handing-it-over
 https://www.wired.com/story/oh-my-hours-ios-app/
 https://github.com/bhubbard/searchphone
+https://github.com/Sebillasxd2/caller-id-drift-monitor
+https://github.com/anajuliabirollo/Laboratorios-de-Pentest
+https://github.com/warewithall2/gage

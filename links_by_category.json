@@ -1,6 +1,7 @@
 {
   "Phone Lookup": [
-    "https://github.com/bhubbard/searchphone"
+    "https://github.com/warewithall2/gage",
+    "https://github.com/Sebillasxd2/caller-id-drift-monitor"
   ],
   "Number / Device Tracking": [],
   "Parental Control": [],
@@ -10,7 +11,9 @@
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/anajuliabirollo/Laboratorios-de-Pentest"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
