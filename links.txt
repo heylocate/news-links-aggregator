@@ -1,9 +1,5 @@
-## Parental Control
-https://ebispace.app/
-https://www.macworld.com/article/3272646/one-ad-blocker-protects-9-devices-for-life-for-just-15.html
-
-## People Search
-https://thenextweb.com/news/gm-smart-driver-data-220m-settlement-attorneys-general
+## Phone Lookup
+https://github.com/THE-PHOENIX-365-LEGEND/SmartDialer
 
 ## OSINT & Open Source Intelligence
-https://github.com/Anandsinghsarkar/Osint
+https://github.com/am5203847-stack/ADEL-OSINT-EMPIRE
