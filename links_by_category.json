@@ -1,18 +1,20 @@
 {
-  "Phone Lookup": [
-    "https://github.com/warewithall2/gage",
-    "https://github.com/Sebillasxd2/caller-id-drift-monitor"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://ebispace.app/",
+    "https://www.macworld.com/article/3272646/one-ad-blocker-protects-9-devices-for-life-for-just-15.html"
+  ],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://thenextweb.com/news/gm-smart-driver-data-220m-settlement-attorneys-general"
+  ],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/anajuliabirollo/Laboratorios-de-Pentest"
+    "https://github.com/Anandsinghsarkar/Osint"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
