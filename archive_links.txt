@@ -5901,3 +5901,9 @@ https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-v
 https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/
 https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/
 https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/
+https://github.com/JavaKhanStudio/Entreprises_Fictives
+https://github.com/osintinvestigator/osint
+https://www.androidauthority.com/google-maps-airport-greetings-3730863/
+https://www.androidauthority.com/t-mobile-sim-swap-attacks-security-report-3730775/
+https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/
+https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers
