@@ -1,5 +1,12 @@
-## Phone Lookup
-https://github.com/THE-PHOENIX-365-LEGEND/SmartDialer
+## Number / Device Tracking
+https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/
 
-## OSINT & Open Source Intelligence
-https://github.com/am5203847-stack/ADEL-OSINT-EMPIRE
+## People Search
+https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/
+
+## Address Lookup
+https://www.androidpolice.com/why-i-ditched-google-maps-for-citymapper/
+https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/
+
+## Security & Anti-Abuse
+https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/
