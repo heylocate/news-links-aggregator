@@ -1,25 +1,22 @@
 {
   "Phone Lookup": [
-    "https://www.androidauthority.com/t-mobile-sim-swap-attacks-security-report-3730775/"
+    "https://www.prnewswire.com/news-releases/return-to-growth-following-a-successful-strategic-reset-302927542.html"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.computerworld.com/article/4243686/does-ai-actually-save-employees-time-data-is-contradictory-2.html"
+  ],
   "Background Check": [],
-  "People Search": [
-    "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers"
-  ],
-  "Address Lookup": [
-    "https://www.androidauthority.com/google-maps-airport-greetings-3730863/"
-  ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/"
+    "https://haveibeenpwned.com/Breach/Harvard",
+    "https://databreaches.net/2026/11/02/hong-kong-privacy-watchdog-investigates-data-leaks-linked-to-major-airlines-and-retailers/",
+    "https://databreaches.net/2026/11/02/kr-hybe-data-breach-exposes-employee-medical-records-financial-details/"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/JavaKhanStudio/Entreprises_Fictives",
-    "https://github.com/osintinvestigator/osint"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
