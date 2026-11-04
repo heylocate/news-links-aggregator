@@ -1,25 +1,23 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.pr.com/press-release/983094"
+  "Phone Lookup": [
+    "https://github.com/dubeychandan996/proweblook-hubspot",
+    "https://blog.hiya.com/which-european-country-has-the-worst-phone-spam-problem"
   ],
-  "Background Check": [],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
+  "Background Check": [
+    "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap"
+  ],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidheadlines.com/2026/11/google-maps-could-soon-welcome-you-when-you-land-in-a-new-city.html",
-    "https://www.androidpolice.com/these-google-maps-features-help-you-spend-less-on-gas/",
-    "https://www.bgr.com/2305838/waze-carplay-glitch-related-to-ios-27/"
+    "https://appleinsider.com/articles/26/11/04/what-google-maps-looks-like-on-both-iphone-duo-displays-after-upgrade"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/11/03/nine-health-systems-affected-by-ai-company-data-breach/",
-    "https://databreaches.net/2026/11/03/jpn-more-companies-seeking-cyber-insurance-following-high-profile-data-breaches/"
+    "https://www.techradar.com/computing/cyber-security/global-data-breaches-jump-13-percent-as-uk-leaks-more-than-double-and-ukraine-rockets-up-the-rankings"
   ],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/DeepikaGG/personal-digital-footprint-report"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
