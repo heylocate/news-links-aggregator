@@ -5942,3 +5942,6 @@ https://www.androidheadlines.com/2026/11/google-maps-iphone-duo-update.html
 https://www.androidpolice.com/i-drove-500-miles-testing-google-maps-against-waze-one-app-won-road/
 https://www.prnewswire.com/news-releases/pivotal-technologies-partners-with-bwell-to-give-healistai-users-a-complete-picture-of-their-own-health-302930625.html
 https://www.techradar.com/pro/security/harvard-university-reveals-data-breach-exposed-851-000-accounts
+https://databreaches.net/2026/11/05/uk-royal-cornwall-hospitals-trust-data-breach-exposed-health-details-of-7715-staff/
+https://github.com/aiyu-ayaan/RideLink
+https://github.com/edwardlthompson/OpenShouter

@@ -1,18 +1,6 @@
 ## Phone Lookup
-https://github.com/HardHunterweb/UmbrellaSpoofer-resocket
-
-## Address Lookup
-https://www.androidpolice.com/i-drove-500-miles-testing-google-maps-against-waze-one-app-won-road/
-https://www.androidheadlines.com/2026/11/google-maps-iphone-duo-update.html
+https://github.com/aiyu-ayaan/RideLink
+https://github.com/edwardlthompson/OpenShouter
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/11/05/korean-court-keeps-coupangs-record-data-breach-fine-in-force-delays-corrective-action-plan-for-30-days/
-https://www.prnewswire.com/news-releases/pivotal-technologies-partners-with-bwell-to-give-healistai-users-a-complete-picture-of-their-own-health-302930625.html
-https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html
-https://www.techradar.com/pro/security/harvard-university-reveals-data-breach-exposed-851-000-accounts
-https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/
-https://databreaches.net/2026/11/04/student-data-breach-affects-up-to-16-icelandic-schools/
-https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident
-
-## OSINT & Open Source Intelligence
-https://github.com/dhruvmalge/OSINT-Python-Tool
+https://databreaches.net/2026/11/05/uk-royal-cornwall-hospitals-trust-data-breach-exposed-health-details-of-7715-staff/
