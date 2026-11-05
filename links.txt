@@ -1,12 +1,18 @@
 ## Phone Lookup
-https://github.com/dubeychandan996/proweblook-hubspot
-https://blog.hiya.com/which-european-country-has-the-worst-phone-spam-problem
-
-## Background Check
-https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap
+https://github.com/HardHunterweb/UmbrellaSpoofer-resocket
 
 ## Address Lookup
-https://appleinsider.com/articles/26/11/04/what-google-maps-looks-like-on-both-iphone-duo-displays-after-upgrade
+https://www.androidpolice.com/i-drove-500-miles-testing-google-maps-against-waze-one-app-won-road/
+https://www.androidheadlines.com/2026/11/google-maps-iphone-duo-update.html
 
 ## Security & Anti-Abuse
-https://www.techradar.com/computing/cyber-security/global-data-breaches-jump-13-percent-as-uk-leaks-more-than-double-and-ukraine-rockets-up-the-rankings
+https://databreaches.net/2026/11/05/korean-court-keeps-coupangs-record-data-breach-fine-in-force-delays-corrective-action-plan-for-30-days/
+https://www.prnewswire.com/news-releases/pivotal-technologies-partners-with-bwell-to-give-healistai-users-a-complete-picture-of-their-own-health-302930625.html
+https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html
+https://www.techradar.com/pro/security/harvard-university-reveals-data-breach-exposed-851-000-accounts
+https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/
+https://databreaches.net/2026/11/04/student-data-breach-affects-up-to-16-icelandic-schools/
+https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident
+
+## OSINT & Open Source Intelligence
+https://github.com/dhruvmalge/OSINT-Python-Tool
