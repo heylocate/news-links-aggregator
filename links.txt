@@ -1,6 +1,8 @@
-## Phone Lookup
-https://github.com/aiyu-ayaan/RideLink
-https://github.com/edwardlthompson/OpenShouter
+## Number / Device Tracking
+https://www.androidauthority.com/google-find-hub-left-behind-reminders-rolling-out-3732383/
 
-## Security & Anti-Abuse
-https://databreaches.net/2026/11/05/uk-royal-cornwall-hospitals-trust-data-breach-exposed-health-details-of-7715-staff/
+## Image Search
+https://www.computerworld.com/article/4229164/google-pics-how-to-level-up-your-visuals-in-docs-and-slides.html
+
+## OSINT & Open Source Intelligence
+https://github.com/yohn-jp/nous-osint
