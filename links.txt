@@ -1,8 +1,19 @@
-## Number / Device Tracking
-https://www.androidauthority.com/google-find-hub-left-behind-reminders-rolling-out-3732383/
+## Parental Control
+https://www.prnewswire.com/news-releases/the-false-choice-between-safety-and-autonomy-bark-offers-a-new-blueprint-for-disability-tech-as-wisconsin-approves-bark-phone-through-iris-302932073.html
 
-## Image Search
-https://www.computerworld.com/article/4229164/google-pics-how-to-level-up-your-visuals-in-docs-and-slides.html
+## People Search
+https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/
+
+## Address Lookup
+https://www.androidpolice.com/switched-from-google-maps-to-waze-regretted-it-almost-immediately/
+
+## Security & Anti-Abuse
+https://therecord.media/digicert-certificate-authority-reports-data-breach
+https://www.techradar.com/pro/security/chainalysis-admits-all-users-affected-in-major-data-breach-names-usernames-password-hashes-and-live-tokens-all-exposed
+https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/
+https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/
+https://databreaches.net/2026/11/06/ni-parents-warned-to-be-on-alert-after-school-data-breach/
+https://databreaches.net/2026/11/06/digicert-data-breach-exposes-customer-information-identity-documents/
 
 ## OSINT & Open Source Intelligence
-https://github.com/yohn-jp/nous-osint
+https://github.com/AtomCrtr/open-intelligence-casebook
