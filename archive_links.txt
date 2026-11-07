@@ -5958,3 +5958,8 @@ https://www.prnewswire.com/news-releases/the-false-choice-between-safety-and-aut
 https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/
 https://www.techradar.com/pro/security/chainalysis-admits-all-users-affected-in-major-data-breach-names-usernames-password-hashes-and-live-tokens-all-exposed
 https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/
+https://github.com/C0de-N1nja/Quarry
+https://github.com/brandon0282/On-Brand-Announcer
+https://github.com/dubeychandan996/proweblook-airtable
+https://github.com/ulaskorhan/nordvakt-osint
+https://www.macworld.com/article/3279031/no-and-5-other-apple-watch-live-rewind-testing-takeaways.html

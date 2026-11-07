@@ -1,30 +1,23 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/dubeychandan996/proweblook-airtable",
+    "https://github.com/brandon0282/On-Brand-Announcer"
+  ],
   "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.prnewswire.com/news-releases/the-false-choice-between-safety-and-autonomy-bark-offers-a-new-blueprint-for-disability-tech-as-wisconsin-approves-bark-phone-through-iris-302932073.html"
-  ],
+  "Parental Control": [],
   "Background Check": [],
-  "People Search": [
-    "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
-  ],
-  "Address Lookup": [
-    "https://www.androidpolice.com/switched-from-google-maps-to-waze-regretted-it-almost-immediately/"
-  ],
+  "People Search": [],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [
-    "https://therecord.media/digicert-certificate-authority-reports-data-breach",
-    "https://www.techradar.com/pro/security/chainalysis-admits-all-users-affected-in-major-data-breach-names-usernames-password-hashes-and-live-tokens-all-exposed",
-    "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-    "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
-    "https://databreaches.net/2026/11/06/ni-parents-warned-to-be-on-alert-after-school-data-breach/",
-    "https://databreaches.net/2026/11/06/digicert-data-breach-exposes-customer-information-identity-documents/"
-  ],
+  "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/AtomCrtr/open-intelligence-casebook"
+    "https://github.com/C0de-N1nja/Quarry",
+    "https://github.com/ulaskorhan/nordvakt-osint"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.macworld.com/article/3279031/no-and-5-other-apple-watch-live-rewind-testing-takeaways.html"
+  ]
 }
