@@ -1,10 +1,8 @@
 ## Phone Lookup
-https://github.com/dubeychandan996/proweblook-airtable
-https://github.com/brandon0282/On-Brand-Announcer
+https://github.com/dubeychandan996/proweblook-zoho
 
-## OSINT & Open Source Intelligence
-https://github.com/C0de-N1nja/Quarry
-https://github.com/ulaskorhan/nordvakt-osint
+## Number / Device Tracking
+https://github.com/JesunAhmadUshno/Track-Location-Using-Phone-Number
 
-## Uncategorized
-https://www.macworld.com/article/3279031/no-and-5-other-apple-watch-live-rewind-testing-takeaways.html
+## People Search
+https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/

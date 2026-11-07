@@ -1,23 +1,21 @@
 {
   "Phone Lookup": [
-    "https://github.com/dubeychandan996/proweblook-airtable",
-    "https://github.com/brandon0282/On-Brand-Announcer"
+    "https://github.com/dubeychandan996/proweblook-zoho"
   ],
-  "Number / Device Tracking": [],
+  "Number / Device Tracking": [
+    "https://github.com/JesunAhmadUshno/Track-Location-Using-Phone-Number"
+  ],
   "Parental Control": [],
   "Background Check": [],
-  "People Search": [],
+  "People Search": [
+    "https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/"
+  ],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/C0de-N1nja/Quarry",
-    "https://github.com/ulaskorhan/nordvakt-osint"
-  ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.macworld.com/article/3279031/no-and-5-other-apple-watch-live-rewind-testing-takeaways.html"
-  ]
+  "Uncategorized": []
 }
