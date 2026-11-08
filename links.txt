@@ -1,8 +1,2 @@
-## Phone Lookup
-https://github.com/dubeychandan996/proweblook-zoho
-
-## Number / Device Tracking
-https://github.com/JesunAhmadUshno/Track-Location-Using-Phone-Number
-
-## People Search
-https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/
+## OSINT & Open Source Intelligence
+https://github.com/anotherhadi/github-recon
