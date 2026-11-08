@@ -1,2 +1,8 @@
-## OSINT & Open Source Intelligence
-https://github.com/anotherhadi/github-recon
+## Phone Lookup
+https://github.com/grimecoder8/callwell
+
+## Security & Anti-Abuse
+https://www.prnewswire.com/news-releases/amplifon-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-social-security-numbers-and-health-records-are-exposed-302932752.html
+
+## Uncategorized
+https://github.com/JRobertGit/zelda-skulltulas
