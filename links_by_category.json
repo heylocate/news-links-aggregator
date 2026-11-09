@@ -1,21 +1,27 @@
 {
-  "Phone Lookup": [
-    "https://github.com/grimecoder8/callwell"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.androidpolice.com/deleted-android-apps-to-take-back-control-of-my-screen-time/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.prnewswire.com/news-releases/amplifon-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-social-security-numbers-and-health-records-are-exposed-302932752.html"
+    "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+    "https://securityboulevard.com/2026/11/how-to-mitigate-enterprise-ai-governance-risks-kovrr-2/",
+    "https://www.techradar.com/pro/security/who-gives-a-crap-data-breach-at-ethical-toilet-paper-company-exposes-customer-information-across-uk-us-and-australia",
+    "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/ChiefGyk3D/Knight-Rider"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": [
-    "https://github.com/JRobertGit/zelda-skulltulas"
+    "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+    "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion"
   ]
 }
