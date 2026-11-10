@@ -1,24 +1,23 @@
 {
   "Phone Lookup": [],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.androidheadlines.com/2026/11/google-digital-wellbeing-weekly-insights-gemini.html"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/11/10/australia-to-introduce-mandatory-reporting-after-openai-hack-to-combat-artificial-intelligence-going-rogue/",
-    "https://databreaches.net/2026/11/10/ca-data-breach-at-the-childrens-foundation/",
-    "https://databreaches.net/2026/11/10/ph-npc-receives-data-breach-reports-from-10-agencies/"
+    "https://www.techradar.com/pro/security/hearing-aid-giant-amplifon-reveals-data-breach-hits-thousands-of-us-customers-social-security-numbers-and-medical-information-stolen"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Rod-Ghost/protocolo-osint-v2",
-    "https://github.com/gs-ai/OSINTai"
+    "https://github.com/Maroibakit/NETWORKWALKS-B084-WK2-FOOTPRINTING-OSINT-NETWORK-SCANNING-PHASES",
+    "https://github.com/drego85/tosint",
+    "https://github.com/Adolanium/hermes-osint-map"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://www.mobileworldlive.com/meta/meta-broadens-reach-of-age-detection-technology/"
-  ]
+  "Uncategorized": []
 }
