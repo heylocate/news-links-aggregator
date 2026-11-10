@@ -1,29 +1,24 @@
 {
-  "Phone Lookup": [
-    "https://blog.hiya.com/leveling-up-uk-scam-defense-how-o2-made-the-move-from-flagging-to-outright-blocking"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [],
-  "Background Check": [
-    "https://www.pr.com/press-release/983996"
-  ],
+  "Background Check": [],
   "People Search": [],
-  "Address Lookup": [
-    "https://www.bgr.com/2296986/google-maps-vs-garmin-drive/",
-    "https://thenextweb.com/news/google-maps-platform-ai-studio-demo-key",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/"
-  ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://therecord.media/amplifon-hearing-aid-company-data-breach",
-    "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
-    "https://www.techradar.com/pro/security/another-huge-data-breach-hits-a-major-japanese-company-iris-ohyama-attack-exposes-info-of-7-7-million-customers"
+    "https://databreaches.net/2026/11/10/australia-to-introduce-mandatory-reporting-after-openai-hack-to-combat-artificial-intelligence-going-rogue/",
+    "https://databreaches.net/2026/11/10/ca-data-breach-at-the-childrens-foundation/",
+    "https://databreaches.net/2026/11/10/ph-npc-receives-data-breach-reports-from-10-agencies/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/Rod-Ghost/protocolo-osint-v2",
+    "https://github.com/gs-ai/OSINTai"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": [
-    "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/"
+    "https://www.mobileworldlive.com/meta/meta-broadens-reach-of-age-detection-technology/"
   ]
 }

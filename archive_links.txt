@@ -5987,3 +5987,9 @@ https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagra
 https://www.pr.com/press-release/983996
 https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/
 https://www.techradar.com/pro/security/another-huge-data-breach-hits-a-major-japanese-company-iris-ohyama-attack-exposes-info-of-7-7-million-customers
+https://databreaches.net/2026/11/10/australia-to-introduce-mandatory-reporting-after-openai-hack-to-combat-artificial-intelligence-going-rogue/
+https://databreaches.net/2026/11/10/ca-data-breach-at-the-childrens-foundation/
+https://databreaches.net/2026/11/10/ph-npc-receives-data-breach-reports-from-10-agencies/
+https://github.com/Rod-Ghost/protocolo-osint-v2
+https://github.com/gs-ai/OSINTai
+https://www.mobileworldlive.com/meta/meta-broadens-reach-of-age-detection-technology/
