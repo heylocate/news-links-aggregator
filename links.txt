@@ -1,11 +1,14 @@
-## Phone Lookup
-https://github.com/YAGNADEEPSINH-4741/iosapp
+## Parental Control
+https://www.pcworld.com/article/3276835/ubiquiti-unifi-express-7-review.html
+
+## Background Check
+https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification
 
 ## Address Lookup
-https://www.androidpolice.com/android-auto-apps-need-google-maps-waze/
+https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/
 
 ## Security & Anti-Abuse
-https://haveibeenpwned.com/Breach/YouHack
+https://databreaches.net/2026/11/11/hundreds-of-dutch-sports-clubs-report-cyberattack-exposing-members-personal-data/
 
 ## OSINT & Open Source Intelligence
-https://github.com/1hiba2/ReconForge-OSINT-Network-Discovery
+https://github.com/cozytvgroyper-source/Osint-App-
