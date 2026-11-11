@@ -5998,3 +5998,7 @@ https://github.com/Maroibakit/NETWORKWALKS-B084-WK2-FOOTPRINTING-OSINT-NETWORK-S
 https://github.com/drego85/tosint
 https://www.androidheadlines.com/2026/11/google-digital-wellbeing-weekly-insights-gemini.html
 https://www.techradar.com/pro/security/hearing-aid-giant-amplifon-reveals-data-breach-hits-thousands-of-us-customers-social-security-numbers-and-medical-information-stolen
+https://github.com/1hiba2/ReconForge-OSINT-Network-Discovery
+https://github.com/YAGNADEEPSINH-4741/iosapp
+https://haveibeenpwned.com/Breach/YouHack
+https://www.androidpolice.com/android-auto-apps-need-google-maps-waze/

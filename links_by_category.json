@@ -1,21 +1,21 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [],
-  "Parental Control": [
-    "https://www.androidheadlines.com/2026/11/google-digital-wellbeing-weekly-insights-gemini.html"
+  "Phone Lookup": [
+    "https://github.com/YAGNADEEPSINH-4741/iosapp"
   ],
+  "Number / Device Tracking": [],
+  "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidpolice.com/android-auto-apps-need-google-maps-waze/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.techradar.com/pro/security/hearing-aid-giant-amplifon-reveals-data-breach-hits-thousands-of-us-customers-social-security-numbers-and-medical-information-stolen"
+    "https://haveibeenpwned.com/Breach/YouHack"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Maroibakit/NETWORKWALKS-B084-WK2-FOOTPRINTING-OSINT-NETWORK-SCANNING-PHASES",
-    "https://github.com/drego85/tosint",
-    "https://github.com/Adolanium/hermes-osint-map"
+    "https://github.com/1hiba2/ReconForge-OSINT-Network-Discovery"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
