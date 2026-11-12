@@ -1,25 +1,29 @@
 {
-  "Phone Lookup": [],
+  "Phone Lookup": [
+    "https://github.com/devnulluk/tildagon-3cx-monitor",
+    "http://www.businesswire.com/news/home/20261112302515/en/Infobip-integrates-with-Hiya-to-strengthen-trust-in-outbound-voice-communications/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D"
+  ],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.pcworld.com/article/3276835/ubiquiti-unifi-express-7-review.html"
+    "https://thenextweb.com/news/prince-harry-lost-screen-memorial-eu-kids-act-infinite-scroll"
   ],
-  "Background Check": [
-    "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification"
-  ],
+  "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+    "https://www.techradar.com/pro/a-third-of-businesses-on-google-maps-have-no-working-website-and-many-of-those-that-do-are-struggling-to-keep-them-up-to-date"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/11/11/hundreds-of-dutch-sports-clubs-report-cyberattack-exposing-members-personal-data/"
+    "https://databreaches.net/2026/11/12/jpn-muji-operator-apologizes-for-data-breach/",
+    "https://www.pr.com/press-release/983937"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/cozytvgroyper-source/Osint-App-"
+    "https://github.com/hackerstchad/sicada3301"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": []
+  "Uncategorized": [
+    "https://www.cnet.com/videos/nvidia-ceo-spy-investigation-instagram-teen-accounts-go-global-and-goodbye-cybertruck-tech-today/"
+  ]
 }
