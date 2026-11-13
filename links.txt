@@ -1,19 +1,18 @@
-## Phone Lookup
-https://github.com/devnulluk/tildagon-3cx-monitor
-http://www.businesswire.com/news/home/20261112302515/en/Infobip-integrates-with-Hiya-to-strengthen-trust-in-outbound-voice-communications/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-
 ## Parental Control
-https://thenextweb.com/news/prince-harry-lost-screen-memorial-eu-kids-act-infinite-scroll
+https://appleinsider.com/inside/ios-27/tips/give-your-child-more-freedom-with-the-right-iphone-and-ipad-guardrails
+https://www.techradar.com/vpn/vpn-privacy-security/is-mark-zuckerbergs-cute-new-ai-assistant-a-surveillance-trap-why-child-safety-experts-are-sounding-the-alarm-over-meta-muse
 
 ## Address Lookup
-https://www.techradar.com/pro/a-third-of-businesses-on-google-maps-have-no-working-website-and-many-of-those-that-do-are-struggling-to-keep-them-up-to-date
+https://www.howtogeek.com/waze-features-make-me-want-to-switch-to-google-maps/
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/11/12/jpn-muji-operator-apologizes-for-data-breach/
-https://www.pr.com/press-release/983937
+https://databreaches.net/2026/11/12/ransomware-without-data-theft-can-still-trigger-mandatory-breach-reporting-under-indias-dpdp-law-k7-cybersecurity/
+https://www.techradar.com/vpn/vpn-services/beyond-data-breaches-nordvpns-new-tool-promises-to-help-you-shrink-your-full-digital-footprint
+https://databreaches.net/2026/11/12/hong-kong-sogo-data-breach-puts-personal-information-of-820000-members-at-risk/
+https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373
+https://www.techradar.com/pro/security/shipping-giant-maersk-confirms-data-breach-as-hackers-demand-usd5-million-ransom
 
 ## OSINT & Open Source Intelligence
-https://github.com/hackerstchad/sicada3301
-
-## Uncategorized
-https://www.cnet.com/videos/nvidia-ceo-spy-investigation-instagram-teen-accounts-go-global-and-goodbye-cybertruck-tech-today/
+https://github.com/CityGrubWedge/amber-osint-web-archive
+https://github.com/philip-ajik/NETWORK-WALKS-W2-PM3-Footprinting-with-Maltego
+https://github.com/Hunterforemedy/aka-osint-username-search
