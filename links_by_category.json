@@ -5,13 +5,18 @@
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.androidauthority.com/vela-maps-vs-google-maps-android-3733791/",
-    "https://www.androidpolice.com/i-left-google-maps-for-an-ad-free-open-source-navigation-app-and-i-couldnt-be-happier/"
+    "https://www.engadget.com/2311447/google-maps-circled-z-meaning/"
   ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [],
+  "Security & Anti-Abuse": [
+    "https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/",
+    "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
+    "https://securityboulevard.com/2026/11/tsmc-confirms-employee-data-breach/"
+  ],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/frtnyt/ubeydeosint"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

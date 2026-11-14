@@ -6037,3 +6037,8 @@ https://www.howtogeek.com/annoying-google-maps-features-you-can-turn-off/
 https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/
 https://www.androidauthority.com/vela-maps-vs-google-maps-android-3733791/
 https://www.androidpolice.com/i-left-google-maps-for-an-ad-free-open-source-navigation-app-and-i-couldnt-be-happier/
+https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/
+https://github.com/frtnyt/ubeydeosint
+https://securityboulevard.com/2026/11/tsmc-confirms-employee-data-breach/
+https://www.engadget.com/2311447/google-maps-circled-z-meaning/
+https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/
