@@ -1,18 +1,3 @@
-## Phone Lookup
-https://github.com/namrick95/cxcloud_caller_id
-https://www.androidheadlines.com/2026/11/one-ui-9-5-may-add-a-dashboard-for-spam-calls-your-galaxy-already-stopped.html
-
-## People Search
-https://securityboulevard.com/2026/11/the-most-dangerous-search-this-month-gta-6-download/
-
 ## Address Lookup
-https://www.howtogeek.com/annoying-google-maps-features-you-can-turn-off/
-
-## Security & Anti-Abuse
-https://therecord.media/city-of-osaka-japan-email-data-breach
-https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/
-https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
-https://databreaches.net/2026/11/13/over-144000-norwegian-and-wideroe-passengers-affected-by-data-breach/
-
-## OSINT & Open Source Intelligence
-https://github.com/datamathcode/auto-osint
+https://www.androidauthority.com/vela-maps-vs-google-maps-android-3733791/
+https://www.androidpolice.com/i-left-google-maps-for-an-ad-free-open-source-navigation-app-and-i-couldnt-be-happier/
