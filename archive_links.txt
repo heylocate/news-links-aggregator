@@ -6045,3 +6045,5 @@ https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-part
 https://github.com/KidusAdu/Footprinting-and-Reconnaissance-TheHarvester
 https://www.prnewswire.com/news-releases/ezaccessmd-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-patient-data-is-exposed-302939591.html
 https://www.prnewswire.com/news-releases/uber-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-driver-data-is-exposed-302939593.html
+https://github.com/luke-mckeever/ARACHNE
+https://gizmodo.com/the-terms-of-cybercab-ownership-dont-add-up-musk-admits-2000840094
