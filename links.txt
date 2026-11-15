@@ -1,10 +1,6 @@
-## Address Lookup
-https://www.engadget.com/2311447/google-maps-circled-z-meaning/
-
 ## Security & Anti-Abuse
-https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/
-https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/
-https://securityboulevard.com/2026/11/tsmc-confirms-employee-data-breach/
+https://www.prnewswire.com/news-releases/uber-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-driver-data-is-exposed-302939593.html
+https://www.prnewswire.com/news-releases/ezaccessmd-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-patient-data-is-exposed-302939591.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/frtnyt/ubeydeosint
+https://github.com/KidusAdu/Footprinting-and-Reconnaissance-TheHarvester
