@@ -1,18 +1,21 @@
 {
-  "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://gizmodo.com/the-terms-of-cybercab-ownership-dont-add-up-musk-admits-2000840094"
+  "Phone Lookup": [
+    "https://github.com/disisto/caller-id-check"
   ],
+  "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
-  "Security & Anti-Abuse": [],
-  "OSINT & Open Source Intelligence": [
-    "https://github.com/luke-mckeever/ARACHNE"
+  "Security & Anti-Abuse": [
+    "https://databreaches.net/2026/11/16/five-boston-u-alumni-sue-university-over-reported-data-breach/",
+    "https://www.securityweek.com/uber-data-breach-impacts-150000-people/"
   ],
+  "OSINT & Open Source Intelligence": [],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []

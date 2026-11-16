@@ -6047,3 +6047,7 @@ https://www.prnewswire.com/news-releases/ezaccessmd-data-breach-investigation-ed
 https://www.prnewswire.com/news-releases/uber-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-driver-data-is-exposed-302939593.html
 https://github.com/luke-mckeever/ARACHNE
 https://gizmodo.com/the-terms-of-cybercab-ownership-dont-add-up-musk-admits-2000840094
+https://databreaches.net/2026/11/16/five-boston-u-alumni-sue-university-over-reported-data-breach/
+https://github.com/disisto/caller-id-check
+https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/
+https://www.securityweek.com/uber-data-breach-impacts-150000-people/
