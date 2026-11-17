@@ -1,21 +1,36 @@
 {
   "Phone Lookup": [
-    "https://github.com/disisto/caller-id-check"
+    "https://github.com/antmarach/GoldenUpdatesCallerID"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://hackernoon.com/how-i-built-an-iphone-app-that-unlocks-screen-time-with-exercise?source=rss",
+    "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/"
+    "https://www.mobileworldlive.com/google/google-maps-taps-agentic-ai-for-trip-planning/",
+    "https://www.androidpolice.com/tiny-google-maps-change-staggeringly-frustrating-cycling/",
+    "https://www.bgr.com/2318077/new-google-maps-features-make-holiday-travel-easier/",
+    "https://www.androidcentral.com/apps-software/google-maps/google-maps-wants-to-be-your-one-and-only-trip-planner-this-holiday-season",
+    "https://www.androidauthority.com/google-maps-ask-maps-update-3735628/",
+    "https://www.digitaltrends.com/phones/google-maps-can-now-organize-multi-day-trips-and-call-businesses-to-check-appointments/",
+    "https://www.zdnet.com/tech/google-ask-maps-new-features-holiday-travel/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://databreaches.net/2026/11/16/five-boston-u-alumni-sue-university-over-reported-data-breach/",
-    "https://www.securityweek.com/uber-data-breach-impacts-150000-people/"
+    "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
+    "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "https://research.checkpoint.com/2026/16th-november-threat-intelligence-report/"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/sunnykumar567065-netizen/zad-osint-otp-panel",
+    "https://github.com/Martun1/reconscope",
+    "https://github.com/blue44elephant/PUBLIC-PROFILE-OVERVIEW",
+    "https://github.com/Kamran-SU-134/Web-Reconnaissance-OSINT"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
