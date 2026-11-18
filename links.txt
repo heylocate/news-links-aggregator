@@ -1,12 +1,13 @@
 ## Phone Lookup
-https://github.com/mauratobing/HiyaAI
-https://github.com/jeshiomurmu/OpenCaller
+https://github.com/asmitsharma-alt/caller
 
-## Parental Control
-https://www.androidpolice.com/stopped-using-my-galaxy-watch-like-smartphone-and-everything-improved/
-https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/
+## Number / Device Tracking
+https://www.androidauthority.com/samsung-one-ui-9-5-lost-phone-recovery-imei-3736790/
+https://www.androidauthority.com/life360-tile-4-pack-deal-3736736/
+
+## Background Check
+https://www.eff.org/deeplinks/2026/11/surveillance-isnt-safety-comic-about-organizing-against-surveillance
 
 ## Security & Anti-Abuse
-https://www.prnewswire.com/news-releases/macpaw-brings-moonlock-to-iphone-expanding-scam-detection-and-everyday-security-to-mobile-302942718.html
-https://www.macrumors.com/2026/11/18/macpaw-moonlock-cybersecurity-app-iphone/
-https://securityboulevard.com/2026/11/shadow-ai-is-shipped-to-you-one-release-note-at-a-time/
+https://databreaches.net/2026/11/18/il-wilmington-school-district-209u-reports-ransomware-attack-and-possible-data-breach/
+https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/
