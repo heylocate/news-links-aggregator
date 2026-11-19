@@ -1,13 +1,9 @@
 ## Phone Lookup
-https://github.com/asmitsharma-alt/caller
+https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence
+https://techreport.com/news/software/scattered-spider-sim-swap-scam-anatomy/
 
-## Number / Device Tracking
-https://www.androidauthority.com/samsung-one-ui-9-5-lost-phone-recovery-imei-3736790/
-https://www.androidauthority.com/life360-tile-4-pack-deal-3736736/
+## Address Lookup
+https://www.howtogeek.com/4-google-maps-features-that-make-holiday-trips-easier/
 
-## Background Check
-https://www.eff.org/deeplinks/2026/11/surveillance-isnt-safety-comic-about-organizing-against-surveillance
-
-## Security & Anti-Abuse
-https://databreaches.net/2026/11/18/il-wilmington-school-district-209u-reports-ransomware-attack-and-possible-data-breach/
-https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/
+## OSINT & Open Source Intelligence
+https://github.com/charbelochoa/PAVAROTTI
