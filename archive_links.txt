@@ -6091,3 +6091,7 @@ https://github.com/charbelochoa/PAVAROTTI
 https://techreport.com/news/software/scattered-spider-sim-swap-scam-anatomy/
 https://www.howtogeek.com/4-google-maps-features-that-make-holiday-trips-easier/
 https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence
+https://blog.hiya.com/independent-benchmark-hiya-is-the-fastest-production-ready-deepfake-detector
+https://github.com/GagnDeep/dialbubble
+https://telnyx.com/release-notes/mission-control-sip-updates
+https://www.cnet.com/tech/services-and-software/chase-third-party-data-breach/
