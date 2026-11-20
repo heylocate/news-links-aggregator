@@ -1,24 +1,25 @@
 {
-  "Phone Lookup": [
-    "https://github.com/Cyril4Awad/Delivery-Orders"
-  ],
+  "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.pcworld.com/article/3288755/block-ads-for-life-on-every-phone-and-laptop-in-the-house-for-14-97.html"
+    "https://9to5google.com/2026/11/20/the-worlds-best-kids-smartwatches-are-up-to-64-off-ahead-of-black-friday/",
+    "https://www.pcworld.com/article/3277781/asus-zenwifi-bn12-review.html"
   ],
-  "Background Check": [],
+  "Background Check": [
+    "https://haveibeenpwned.com/Breach/TooLost"
+  ],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.xda-developers.com/i-ditched-google-maps-for-organic-maps-on-android-auto-and-offline-navigation-never-let-me-down/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://github.com/whogothacked/mcp",
-    "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
-    "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
-    "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
+    "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+    "https://www.androidheadlines.com/2026/11/samsung-confirms-data-breach-as-hackers-dump-220mb-of-data.html"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/1287361055-max/awesome-osint-zh"
+    "https://github.com/CryptonDevAlex/neuro-spider-crawler"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
