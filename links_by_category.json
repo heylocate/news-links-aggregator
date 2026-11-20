@@ -1,20 +1,25 @@
 {
   "Phone Lookup": [
-    "https://blog.hiya.com/independent-benchmark-hiya-is-the-fastest-production-ready-deepfake-detector",
-    "https://github.com/GagnDeep/dialbubble",
-    "https://telnyx.com/release-notes/mission-control-sip-updates"
+    "https://github.com/Cyril4Awad/Delivery-Orders"
   ],
   "Number / Device Tracking": [],
-  "Parental Control": [],
+  "Parental Control": [
+    "https://www.pcworld.com/article/3288755/block-ads-for-life-on-every-phone-and-laptop-in-the-house-for-14-97.html"
+  ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.cnet.com/tech/services-and-software/chase-third-party-data-breach/"
+    "https://github.com/whogothacked/mcp",
+    "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+    "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+    "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/1287361055-max/awesome-osint-zh"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
   "Uncategorized": []
