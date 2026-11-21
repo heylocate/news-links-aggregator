@@ -1,17 +1,18 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.macworld.com/article/3291222/get-three-rechargeable-wallet-trackers-that-work-with-find-my-for-69-97.html"
-  ],
+  "Number / Device Tracking": [],
   "Parental Control": [],
   "Background Check": [],
   "People Search": [],
-  "Address Lookup": [],
+  "Address Lookup": [
+    "https://www.androidpolice.com/back-up-google-maps-timeline-location-history/"
+  ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [],
   "OSINT & Open Source Intelligence": [
-    "https://github.com/Feras52/Network-Threat-Detection_Incident-Response"
+    "https://github.com/splxcy/OsintX",
+    "https://github.com/metacog-osint/cordon"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
