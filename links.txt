@@ -1,16 +1,5 @@
-## Parental Control
-https://9to5google.com/2026/11/20/the-worlds-best-kids-smartwatches-are-up-to-64-off-ahead-of-black-friday/
-https://www.pcworld.com/article/3277781/asus-zenwifi-bn12-review.html
-
-## Background Check
-https://haveibeenpwned.com/Breach/TooLost
-
-## Address Lookup
-https://www.xda-developers.com/i-ditched-google-maps-for-organic-maps-on-android-auto-and-offline-navigation-never-let-me-down/
-
-## Security & Anti-Abuse
-https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/
-https://www.androidheadlines.com/2026/11/samsung-confirms-data-breach-as-hackers-dump-220mb-of-data.html
+## Number / Device Tracking
+https://www.macworld.com/article/3291222/get-three-rechargeable-wallet-trackers-that-work-with-find-my-for-69-97.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/CryptonDevAlex/neuro-spider-crawler
+https://github.com/Feras52/Network-Threat-Detection_Incident-Response

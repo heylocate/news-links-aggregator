@@ -6109,3 +6109,5 @@ https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/
 https://www.androidheadlines.com/2026/11/samsung-confirms-data-breach-as-hackers-dump-220mb-of-data.html
 https://www.pcworld.com/article/3277781/asus-zenwifi-bn12-review.html
 https://www.xda-developers.com/i-ditched-google-maps-for-organic-maps-on-android-auto-and-offline-navigation-never-let-me-down/
+https://github.com/Feras52/Network-Threat-Detection_Incident-Response
+https://www.macworld.com/article/3291222/get-three-rechargeable-wallet-trackers-that-work-with-find-my-for-69-97.html
