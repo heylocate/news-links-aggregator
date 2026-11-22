@@ -1,8 +1,11 @@
-## Parental Control
-https://www.digitaltrends.com/cool-tech/screen-time-teenage-brain-structure-study/
+## People Search
+https://appleinsider.com/articles/26/11/22/googles-ai-search-monetization-failure-is-costing-apple-revenue
 
 ## Address Lookup
-https://www.androidpolice.com/reduce-google-maps-battery-drain-with-these-tweaks/
+https://www.androidpolice.com/let-google-maps-gemini-chatgpt-plan-weekend-trip-trust-maps-least/
+
+## Security & Anti-Abuse
+https://databreaches.net/2026/11/22/dialing-for-data-inside-the-coms-high-profile-heists/
 
 ## OSINT & Open Source Intelligence
-https://github.com/1ire9/507-OSINT
+https://github.com/NC25077/BahrainDeals-Intel
