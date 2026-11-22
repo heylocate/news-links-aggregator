@@ -1,6 +1,8 @@
+## Parental Control
+https://www.digitaltrends.com/cool-tech/screen-time-teenage-brain-structure-study/
+
 ## Address Lookup
-https://www.androidpolice.com/back-up-google-maps-timeline-location-history/
+https://www.androidpolice.com/reduce-google-maps-battery-drain-with-these-tweaks/
 
 ## OSINT & Open Source Intelligence
-https://github.com/splxcy/OsintX
-https://github.com/metacog-osint/cordon
+https://github.com/1ire9/507-OSINT

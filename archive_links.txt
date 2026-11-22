@@ -6114,3 +6114,6 @@ https://www.macworld.com/article/3291222/get-three-rechargeable-wallet-trackers-
 https://github.com/metacog-osint/cordon
 https://github.com/splxcy/OsintX
 https://www.androidpolice.com/back-up-google-maps-timeline-location-history/
+https://github.com/1ire9/507-OSINT
+https://www.androidpolice.com/reduce-google-maps-battery-drain-with-these-tweaks/
+https://www.digitaltrends.com/cool-tech/screen-time-teenage-brain-structure-study/
