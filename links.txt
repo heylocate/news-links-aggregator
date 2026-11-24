@@ -1,23 +1,14 @@
 ## Phone Lookup
-https://www.slashgear.com/2320177/ways-spam-callers-get-your-phone-number/
-https://github.com/appdevmanwill/NTK-CallShield
-https://github.com/barbarosaffan/darlama-feeds
-https://github.com/redbullisland/ReverseAPI
+https://github.com/ntkgroupofcompanies/NTK-CallShield
 
-## Parental Control
-https://www.socialmediatoday.com/news/pinterest-simplifies-parental-controls/875554/
+## Background Check
+https://therecord.media/idscan-data-breach-warning-congressional-letter
 
 ## Address Lookup
-https://www.androidpolice.com/google-maps-bookmarks-into-full-itineraries-in-seconds/
-https://www.androidpolice.com/motorcycle-mode-spotted-in-android-autos-google-maps/
+https://www.androidauthority.com/android-auto-google-maps-black-screen-3739042/
+https://9to5google.com/2026/11/24/google-maps-new-colors-high-visibility/
+https://www.engadget.com/2326681/google-maps-dark-mode-is-getting-even-darker/
 
 ## Security & Anti-Abuse
-https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/
-https://www.pcworld.com/article/3294813/our-favorite-cheap-vpn-is-88-percent-off-for-black-friday-includes-antivirus.html
-https://databreaches.net/2026/11/24/hk-gleneagles-hospital-suspends-app-after-data-breach/
-https://databreaches.net/2026/11/24/state-shuts-down-mycolorado-app-after-data-breach-up-to-150000-people-may-be-affected/
-https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html
-https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/
-
-## OSINT & Open Source Intelligence
-https://github.com/Venky7514/Stalker-Search
+https://databreaches.net/2026/11/24/gingko-bioworks-holdings-issued-a-statement-on-october-8-about-a-data-breach-getting-an-update-from-them-has-been-difficult/
+https://www.techradar.com/pro/security/south-korean-power-giant-confirms-data-breach-kepco-says-incident-affected-1-5-million-people
