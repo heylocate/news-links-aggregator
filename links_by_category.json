@@ -1,31 +1,24 @@
 {
   "Phone Lookup": [],
-  "Number / Device Tracking": [
-    "https://www.digitaltrends.com/phones/kodaks-slidetag-puts-your-photos-on-a-keychain-and-it-can-help-you-find-your-stuff-too/"
-  ],
+  "Number / Device Tracking": [],
   "Parental Control": [
-    "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-transparency-and-parental-controls/875424/"
+    "https://thenextweb.com/news/child-safety-groups-amazon-ebay-ai-toys"
   ],
   "Background Check": [],
   "People Search": [],
   "Address Lookup": [
-    "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
-    "https://www.androidpolice.com/why-google-maps-is-my-social-planner-now-not-my-navigator/"
+    "https://www.androidauthority.com/android-auto-motorcycle-mode-3738531/"
   ],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684",
-    "https://databreaches.net/2026/11/23/samsung-securities-hacked-names-addresses-and-account-details-of-thousands-of-customers-exposed-online/",
-    "https://www.androidauthority.com/google-messages-safety-check-apk-teardown-3738329/",
-    "https://www.techradar.com/pro/security/tower-records-is-the-latest-major-japanese-firm-to-be-hit-with-a-data-breach",
-    "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/",
-    "https://haveibeenpwned.com/Breach/Bromcom"
+    "https://therecord.media/fbi-cyberattack-data-breach",
+    "https://www.techradar.com/pro/security/nvidia-confirms-it-is-investigating-possible-third-party-data-breach-says-it-will-continue-to-monitor-the-situation"
   ],
-  "OSINT & Open Source Intelligence": [],
+  "OSINT & Open Source Intelligence": [
+    "https://github.com/khikmadari/tfael-omni-oss"
+  ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
-  "Uncategorized": [
-    "https://9to5google.com/2026/11/23/kodak-slidetag-android-iphone-e-ink-tracker/"
-  ]
+  "Uncategorized": []
 }
