@@ -1,14 +1,20 @@
-## Phone Lookup
-https://github.com/ntkgroupofcompanies/NTK-CallShield
+## Parental Control
+https://www.digitaltrends.com/cool-tech/child-safety-groups-across-the-world-are-begging-amazon-to-remove-ai-toys-for-kids/
+https://www.qustodio.com/en/blog/screen-free-holiday-activities/
 
 ## Background Check
-https://therecord.media/idscan-data-breach-warning-congressional-letter
+https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/
 
 ## Address Lookup
-https://www.androidauthority.com/android-auto-google-maps-black-screen-3739042/
-https://9to5google.com/2026/11/24/google-maps-new-colors-high-visibility/
-https://www.engadget.com/2326681/google-maps-dark-mode-is-getting-even-darker/
+https://www.androidpolice.com/gemini-prompts-google-maps-useful/
+https://9to5google.com/2026/11/25/google-maps-android-auto-motorcycle-navigation-routes/
 
 ## Security & Anti-Abuse
-https://databreaches.net/2026/11/24/gingko-bioworks-holdings-issued-a-statement-on-october-8-about-a-data-breach-getting-an-update-from-them-has-been-difficult/
-https://www.techradar.com/pro/security/south-korean-power-giant-confirms-data-breach-kepco-says-incident-affected-1-5-million-people
+https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/
+https://www.techradar.com/pro/security/massive-data-breach-exposes-2-billion-credentials-email-addresses-login-names-passwords-and-more-all-leaked-online-in-major-database-breach
+https://www.techradar.com/pro/security/mcdonalds-japan-hit-by-data-breach-customer-purchase-and-location-data-leaked-in-latest-major-incident-in-the-country
+https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html
+
+## OSINT & Open Source Intelligence
+https://github.com/hc2wnw54ny-cpu/Fast-osint-
+https://github.com/Arturro43/worldwatch
