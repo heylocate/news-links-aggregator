@@ -1,20 +1,18 @@
-## Parental Control
-https://www.digitaltrends.com/cool-tech/child-safety-groups-across-the-world-are-begging-amazon-to-remove-ai-toys-for-kids/
-https://www.qustodio.com/en/blog/screen-free-holiday-activities/
-
 ## Background Check
-https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/
+http://www.businesswire.com/news/home/20261125146273/en/BTS-and-Veridas-Partner-to-Strengthen-Digital-Identity-and-Fraud-Prevention/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
+
+## People Search
+https://hackernoon.com/people-now-google-their-ai-tools-what-24-months-of-us-search-data-shows?source=rss
 
 ## Address Lookup
-https://www.androidpolice.com/gemini-prompts-google-maps-useful/
-https://9to5google.com/2026/11/25/google-maps-android-auto-motorcycle-navigation-routes/
+https://www.androidheadlines.com/2026/11/google-maps-darker-high-visibility-night-mode.html
 
 ## Security & Anti-Abuse
-https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/
-https://www.techradar.com/pro/security/massive-data-breach-exposes-2-billion-credentials-email-addresses-login-names-passwords-and-more-all-leaked-online-in-major-database-breach
-https://www.techradar.com/pro/security/mcdonalds-japan-hit-by-data-breach-customer-purchase-and-location-data-leaked-in-latest-major-incident-in-the-country
-https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html
+https://www.pcworld.com/article/3297838/1passwords-hack-feels-a-little-too-familiar-for-comfort.html
+https://appleinsider.com/articles/26/11/25/what-to-watch-for-after-the-new-1password-data-breach
+https://www.androidheadlines.com/2026/11/todoist-data-breach-6-percent-longtime-users.html
 
 ## OSINT & Open Source Intelligence
-https://github.com/hc2wnw54ny-cpu/Fast-osint-
-https://github.com/Arturro43/worldwatch
+https://github.com/oculonlive/oculon
+https://github.com/pg-thirion/OSINT-Hunter
+https://github.com/Tiffdaleyo/border-watch-osint
