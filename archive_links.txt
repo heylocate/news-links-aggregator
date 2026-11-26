@@ -6193,3 +6193,7 @@ https://www.techradar.com/pro/security/1password-admits-major-data-breach-top-pa
 https://www.techspot.com/news/114711-1password-confirms-data-breach-after-hacker-compromises-employee.html
 https://www.theverge.com/news/1043078/x-parental-controls-features
 https://www.trustedreviews.com/reviews/amazon-echo-dot-kids-6th-generation
+https://github.com/SSkullls/SaqrEye
+https://hackernoon.com/attorneysorg-unveils-redesigned-legal-directory-built-for-the-ai-search-era?source=rss
+https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/
+https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/

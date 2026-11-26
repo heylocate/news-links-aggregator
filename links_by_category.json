@@ -2,31 +2,20 @@
   "Phone Lookup": [],
   "Number / Device Tracking": [],
   "Parental Control": [
-    "https://thenextweb.com/news/x-parental-controls-teens-13-17",
-    "https://www.trustedreviews.com/reviews/amazon-echo-dot-kids-6th-generation",
-    "https://www.digitaltrends.com/social-media/x-parental-controls-teen-safety/",
-    "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/",
-    "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-    "https://www.theverge.com/news/1043078/x-parental-controls-features",
-    "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/",
-    "https://thenextweb.com/news/apple-removes-minimax-talkie-app-store-child-safety",
-    "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/"
+    "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
   ],
   "Background Check": [],
-  "People Search": [],
-  "Address Lookup": [
-    "https://www.androidauthority.com/android-auto-details-page-icons-app-lock-apk-teardown-3739686/"
+  "People Search": [
+    "https://hackernoon.com/attorneysorg-unveils-redesigned-legal-directory-built-for-the-ai-search-era?source=rss"
   ],
+  "Address Lookup": [],
   "Image Search": [],
   "Email Lookup": [],
   "Security & Anti-Abuse": [
-    "https://www.techradar.com/pro/security/1password-admits-major-data-breach-top-password-manager-says-customer-details-leaked-but-passwords-should-be-safe",
-    "https://databreaches.net/2026/11/26/australias-flight-centre-data-breach-exposes-customer-records-and-passport-details/",
-    "https://www.techspot.com/news/114711-1password-confirms-data-breach-after-hacker-compromises-employee.html",
-    "https://www.androidcentral.com/apps-software/1password-confirms-backend-data-breach-heres-what-hackers-actually-stole"
+    "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/"
   ],
   "OSINT & Open Source Intelligence": [
-    "https://securityboulevard.com/2026/11/grokint-2-grok-bot-analysis-of-x-followers/"
+    "https://github.com/SSkullls/SaqrEye"
   ],
   "Number Utilities & International": [],
   "Monitoring / Spy Apps": [],
