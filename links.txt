@@ -1,18 +1,22 @@
-## Background Check
-http://www.businesswire.com/news/home/20261125146273/en/BTS-and-Veridas-Partner-to-Strengthen-Digital-Identity-and-Fraud-Prevention/?feedref=JjAwJuNHiystnCoBq_hl-cgirDCILqEKr_G6FnCB4juIlGA7NBCjGPFNaaihzP-l7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkS8kO5_1Q98wBQ99OUsd6C6Q%3D%3D
-
-## People Search
-https://hackernoon.com/people-now-google-their-ai-tools-what-24-months-of-us-search-data-shows?source=rss
+## Parental Control
+https://thenextweb.com/news/x-parental-controls-teens-13-17
+https://www.trustedreviews.com/reviews/amazon-echo-dot-kids-6th-generation
+https://www.digitaltrends.com/social-media/x-parental-controls-teen-safety/
+https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/
+https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html
+https://www.theverge.com/news/1043078/x-parental-controls-features
+https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/
+https://thenextweb.com/news/apple-removes-minimax-talkie-app-store-child-safety
+https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/
 
 ## Address Lookup
-https://www.androidheadlines.com/2026/11/google-maps-darker-high-visibility-night-mode.html
+https://www.androidauthority.com/android-auto-details-page-icons-app-lock-apk-teardown-3739686/
 
 ## Security & Anti-Abuse
-https://www.pcworld.com/article/3297838/1passwords-hack-feels-a-little-too-familiar-for-comfort.html
-https://appleinsider.com/articles/26/11/25/what-to-watch-for-after-the-new-1password-data-breach
-https://www.androidheadlines.com/2026/11/todoist-data-breach-6-percent-longtime-users.html
+https://www.techradar.com/pro/security/1password-admits-major-data-breach-top-password-manager-says-customer-details-leaked-but-passwords-should-be-safe
+https://databreaches.net/2026/11/26/australias-flight-centre-data-breach-exposes-customer-records-and-passport-details/
+https://www.techspot.com/news/114711-1password-confirms-data-breach-after-hacker-compromises-employee.html
+https://www.androidcentral.com/apps-software/1password-confirms-backend-data-breach-heres-what-hackers-actually-stole
 
 ## OSINT & Open Source Intelligence
-https://github.com/oculonlive/oculon
-https://github.com/pg-thirion/OSINT-Hunter
-https://github.com/Tiffdaleyo/border-watch-osint
+https://securityboulevard.com/2026/11/grokint-2-grok-bot-analysis-of-x-followers/
