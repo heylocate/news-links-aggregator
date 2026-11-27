@@ -6206,3 +6206,5 @@ https://www.androidheadlines.com/2026/11/x-finally-introduces-parental-controls-
 https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/
 https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/
 https://www.techspot.com/news/114725-fake-roblox-cheats-delivering-password-stealing-malware-family.html
+https://securityboulevard.com/2026/11/data-breach-fines-are-small-slow-and-under-appeal/
+https://www.androidpolice.com/replicating-googles-safety-check-on-other-android-phones-for-free/
